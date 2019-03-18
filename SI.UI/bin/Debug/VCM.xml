@@ -11,6 +11,19 @@ VCM
  Calcula el costo de los servicios
  </summary>
 	<remarks></remarks>
+</member><member name="P:My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
 </member><member name="P:CUTextbox.VCM_TipoIngreso">
 	<summary>Set or Gets TextBox Input Types as TIPO_CONFIGURACION</summary>
 </member><member name="P:CUTextbox.VCM_ColorRecibirFoco">
@@ -39,19 +52,6 @@ VCM
 	<summary>Set or Get controls validation status</summary>
 </member><member name="P:CUTextbox.VCM_EnterFocus">
 	<summary>Set or Get controls validation status</summary>
-</member><member name="P:My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
 </member><member name="P:My.Resources.Resource_ES.ResourceManager">
 	<summary>
   Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.

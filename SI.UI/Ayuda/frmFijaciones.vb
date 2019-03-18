@@ -457,7 +457,7 @@ Public Class frmFijaciones
         'oBC_TB_FJ_FIJACIONRO.oBETB_FJ_FIJACION.CANTIDAD = dgvPagables.Rows(nRowSelected).Cells("contenido").Value
         'txtAjusteMaximo.Text = oBC_TB_FJ_FIJACIONRO.Leer_FJ_AJUSTE_ESCALA
 
-        If (pBEUsuario.tablaDetId = "0000000002") Or (pBEUsuario.tablaDetId = "0000000076") Then
+        If (pBEUsuario.tablaDetId = "0000000002") Or (pBEUsuario.tablaDetId = "0000000076") Or (pBEUsuario.tablaDetId = "0000000008") Then
             GroupBox4.Visible = True
             cbxOperacionLinea.Visible = True
             Label1.Visible = True

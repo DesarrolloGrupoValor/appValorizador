@@ -155,3 +155,11 @@ D:\ENPROYEC\VALORIZADOR\SI.BE\obj\Debug\SI.BE.vbproj.GenerateResource.Cache
 D:\ENPROYEC\VALORIZADOR\SI.BE\obj\Debug\SI.BE.dll
 D:\ENPROYEC\VALORIZADOR\SI.BE\obj\Debug\SI.BE.xml
 D:\ENPROYEC\VALORIZADOR\SI.BE\obj\Debug\SI.BE.pdb
+D:\GITHUB\appValorizador\SI.BE\bin\Debug\SI.BE.dll
+D:\GITHUB\appValorizador\SI.BE\bin\Debug\SI.BE.pdb
+D:\GITHUB\appValorizador\SI.BE\bin\Debug\SI.BE.xml
+D:\GITHUB\appValorizador\SI.BE\obj\Debug\Resources.resources
+D:\GITHUB\appValorizador\SI.BE\obj\Debug\SI.BE.vbproj.GenerateResource.Cache
+D:\GITHUB\appValorizador\SI.BE\obj\Debug\SI.BE.dll
+D:\GITHUB\appValorizador\SI.BE\obj\Debug\SI.BE.xml
+D:\GITHUB\appValorizador\SI.BE\obj\Debug\SI.BE.pdb

@@ -155,3 +155,11 @@ D:\ENPROYEC\VALORIZADOR\SI.UT\obj\Debug\SI.UT.vbproj.GenerateResource.Cache
 D:\ENPROYEC\VALORIZADOR\SI.UT\obj\Debug\SI.UT.dll
 D:\ENPROYEC\VALORIZADOR\SI.UT\obj\Debug\SI.UT.xml
 D:\ENPROYEC\VALORIZADOR\SI.UT\obj\Debug\SI.UT.pdb
+D:\GITHUB\appValorizador\SI.UT\bin\Debug\SI.UT.dll
+D:\GITHUB\appValorizador\SI.UT\bin\Debug\SI.UT.pdb
+D:\GITHUB\appValorizador\SI.UT\bin\Debug\SI.UT.xml
+D:\GITHUB\appValorizador\SI.UT\obj\Debug\Resources.resources
+D:\GITHUB\appValorizador\SI.UT\obj\Debug\SI.UT.vbproj.GenerateResource.Cache
+D:\GITHUB\appValorizador\SI.UT\obj\Debug\SI.UT.dll
+D:\GITHUB\appValorizador\SI.UT\obj\Debug\SI.UT.xml
+D:\GITHUB\appValorizador\SI.UT\obj\Debug\SI.UT.pdb
