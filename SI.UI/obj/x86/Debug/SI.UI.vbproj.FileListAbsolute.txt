@@ -1,0 +1,1935 @@
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\VCM.exe.config
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\frmAyuda.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\frmDescuentos.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\frmIntermedia.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\browser.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\buscar.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\configasientos.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\configuracion.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\contratos.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\copiarcontrato.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\editcontrato.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\editlote.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\frmTabla.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\liquidacion.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Login.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\lotes.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\MDIParent.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Resources.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\nuevocontrato.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\plancuentas.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\ComposicionVentas.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\ComposicionVentasNivel.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Comercial_Resultado.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\ComposicionComercial.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\ComposicionContable.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\ComposicionMezcla.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Coberturas.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\CompraVenta.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\CompraMezcla.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Estimaciones.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\CuadreTMH.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Desempeño.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\ReporteLista.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Exposicion.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Mezcla.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Resource_ES.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Visor.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\VCM.exe.licenses
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\VCM.exe
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\VCM.pdb
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\VCM.xml
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\SI.BC.dll
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\SI.BE.dll
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\SI.UT.dll
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\SI.DB.dll
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\SI.BC.pdb
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\SI.BC.xml
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\SI.BE.pdb
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\SI.BE.xml
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\SI.UT.pdb
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\SI.UT.xml
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\SI.DB.pdb
+F:\Informations\VCM\10.09.2012\SI.UI\bin\Debug\SI.DB.xml
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\VCM.exe
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\VCM.xml
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\VCM.pdb
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Vinculada.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\Movimiento.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\calcularLote.resources
+F:\Informations\VCM\10.09.2012\SI.UI\obj\x86\Debug\mensajeError.resources
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\VCM.exe
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\VCM.pdb
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\SI.BE.dll
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\SI.DB.dll
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\SI.BC.pdb
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\SI.BE.pdb
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\SI.UT.pdb
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\SI.DB.pdb
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\SI.BC.dll
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\SI.UT.dll
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\SI.BC.xml
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\SI.BE.xml
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\SI.UT.xml
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\SI.DB.xml
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\frmAdelanto.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\frmAyuda.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\frmDescuentos.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\frmIntermedia.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\browser.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\buscar.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\calcularLote.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\configasientos.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\configuracion.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\contratos.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\copiarcontrato.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\editcontrato.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\editlote.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\frmTabla.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\liquidacion.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Login.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\lotes.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\MDIParent.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\mensajeError.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Resources.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\nuevocontrato.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\plancuentas.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\ComposicionVentas.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\ComposicionVentasNivel.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Comercial_Resultado.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\ComposicionComercial.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\ComposicionContable.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\ComposicionMezcla.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Coberturas.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\CompraVenta.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\CompraMezcla.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Movimiento.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Vinculada.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Estimaciones.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\CuadreTMH.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Desempeño.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\ReporteLista.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Exposicion.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Mezcla.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Resource_ES.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\Visor.resources
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\VCM.exe.licenses
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\VCM.exe
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\VCM.xml
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\VCM.pdb
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\VCM.exe.config
+F:\Informations\VCM\15.11.2012\SI.UI\bin\Debug\VCM.xml
+F:\Informations\VCM\15.11.2012\SI.UI\obj\x86\Debug\frmDeposito.resources
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\VCM.exe.config
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\VCM.exe
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\VCM.pdb
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\VCM.xml
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\itextsharp.dll
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\SI.BC.dll
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\SI.BE.dll
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\SI.UT.dll
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\SI.DB.dll
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\SI.BC.pdb
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\SI.BC.xml
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\SI.BE.pdb
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\SI.BE.xml
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\SI.UT.pdb
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\SI.UT.xml
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\SI.DB.pdb
+F:\Informations\VCM\30.11.2012\SI.UI\bin\Debug\SI.DB.xml
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmFactura.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Adelanto.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmAyuda.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmIntermedia.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\browser.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\buscar.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\calcularLote.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\configasientos.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\configuracion.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\contratos.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\copiarcontrato.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmDeposito.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\editcontrato.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\editlote.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmTabla.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\liquidacion.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Login.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\lotes.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\MDIParent.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\mensajeError.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Resources.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\nuevocontrato.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\plancuentas.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\ComposicionVentas.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\ComposicionVentasNivel.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Comercial_Resultado.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\ComposicionComercial.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\ComposicionContable.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\ComposicionMezcla.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Coberturas.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\CompraVenta.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\CompraMezcla.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\ExtraccionVCM.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Movimiento.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Vinculada.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Estimaciones.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\CuadreTMH.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Desempeño.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\ReporteLista.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Exposicion.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Mezcla.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Resource_ES.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\Visor.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\VCM.exe.licenses
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\VCM.exe
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\VCM.xml
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\VCM.pdb
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\GenerarQPs.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+F:\Informations\VCM\30.11.2012\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\VCM.exe.config
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\VCM.exe
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\VCM.xml
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\VCM.pdb
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\VCM.exe
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\VCM.pdb
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\VCM.xml
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\itextsharp.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\SI.BC.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\SI.BE.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\SI.UT.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\SI.DB.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\SI.BC.pdb
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\SI.BC.xml
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\SI.BE.pdb
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\SI.BE.xml
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\SI.UT.pdb
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\SI.UT.xml
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\SI.DB.pdb
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\SI.DB.xml
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmFactura.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Adelanto.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmAyuda.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmIntermedia.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\browser.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\buscar.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\calcularLote.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\GenerarQPs.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\configasientos.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\configuracion.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\contratos.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\copiarcontrato.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmDeposito.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\editcontrato.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\editlote.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmTabla.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\liquidacion.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Login.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\lotes.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\MDIParent.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\mensajeError.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Resources.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\nuevocontrato.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\plancuentas.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\ComposicionVentas.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\ComposicionVentasNivel.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Comercial_Resultado.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\ComposicionComercial.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\ComposicionContable.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\ComposicionMezcla.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Coberturas.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\CompraVenta.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\CompraMezcla.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\ExtraccionVCM.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Movimiento.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Vinculada.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Estimaciones.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\CuadreTMH.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Desempeño.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\ReporteLista.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Exposicion.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Mezcla.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Resource_ES.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Visor.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\VCM.exe.licenses
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmDocumentos.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\bin\Debug\ExcelLibrary.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\frmFijaciones.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\VCM.exe.config
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\VCM.exe
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\VCM.pdb
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\VCM.xml
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\ExcelLibrary.dll
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\itextsharp.dll
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\SI.BC.dll
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\SI.BE.dll
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\SI.UT.dll
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\SI.DB.dll
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\SI.BC.pdb
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\SI.BC.xml
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\SI.BE.pdb
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\SI.BE.xml
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\SI.UT.pdb
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\SI.UT.xml
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\SI.DB.pdb
+F:\Informations\VCM\02_VCM\SI.UI\bin\Debug\SI.DB.xml
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\SI.UI.vbprojResolveAssemblyReference.cache
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmDocumentos.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmFijaciones.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmFactura.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Adelanto.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmAyuda.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmIntermedia.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\browser.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\buscar.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\calcularLote.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\provisionarVentas.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\editlote.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\GenerarQPs.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\configasientos.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\configuracion.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\contratos.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\copiarcontrato.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmDeposito.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\editcontrato.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmTabla.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\liquidacion.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Login.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\lotes.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\MDIParent.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\mensajeError.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Resources.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\nuevocontrato.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\plancuentas.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Coberturas.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Movimiento.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\ExtraccionVCM.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Vinculada.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Estimaciones.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\CuadreTMH.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Desempeño.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\ReporteLista.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Exposicion.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Mezcla.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Resource_ES.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Visor.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\SI.UI.vbproj.GenerateResource.Cache
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\VCM.exe.licenses
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\VCM.exe
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\VCM.xml
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\VCM.pdb
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+F:\Informations\VCM\02_VCM\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\VCM.exe.config
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\VCM.exe
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\VCM.pdb
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\VCM.xml
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\ExcelLibrary.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\itextsharp.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\SI.BC.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\SI.BE.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\SI.UT.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\SI.DB.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\SI.BC.pdb
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\SI.BC.xml
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\SI.BE.pdb
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\SI.BE.xml
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\SI.UT.pdb
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\SI.UT.xml
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\SI.DB.pdb
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\bin\Debug\SI.DB.xml
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmDocumentos.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmFijaciones.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmFactura.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Adelanto.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmAyuda.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmIntermedia.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\browser.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\buscar.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\calcularLote.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\provisionarVentas.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\editlote.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\GenerarQPs.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\configasientos.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\configuracion.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\contratos.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\copiarcontrato.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmDeposito.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\editcontrato.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmTabla.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\liquidacion.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Login.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\lotes.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\MDIParent.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\mensajeError.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Resources.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\nuevocontrato.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\plancuentas.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Coberturas.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Movimiento.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\ExtraccionVCM.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Vinculada.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Estimaciones.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\CuadreTMH.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Desempeño.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\ReporteLista.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Exposicion.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Mezcla.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Resource_ES.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\Visor.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\VCM.exe.licenses
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\VCM.exe
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\VCM.xml
+C:\Users\bapaza\Desktop\02_VCM\SI.UI\obj\x86\Debug\VCM.pdb
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\VCM.exe.config
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\VCM.exe
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\VCM.pdb
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\VCM.xml
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\ExcelLibrary.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\itextsharp.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\SI.BC.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\SI.BE.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\SI.UT.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\SI.DB.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\SI.BC.pdb
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\SI.BC.xml
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\SI.BE.pdb
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\SI.BE.xml
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\SI.UT.pdb
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\SI.UT.xml
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\SI.DB.pdb
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\bin\Debug\SI.DB.xml
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmDocumentos.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmFijaciones.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmFactura.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Adelanto.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmAyuda.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmIntermedia.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\browser.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\buscar.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\calcularLote.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\provisionarVentas.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\editlote.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\GenerarQPs.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\configasientos.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\configuracion.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\contratos.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\copiarcontrato.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmDeposito.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\editcontrato.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmTabla.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\liquidacion.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Login.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\lotes.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\MDIParent.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\mensajeError.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Resources.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\nuevocontrato.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\plancuentas.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Coberturas.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Movimiento.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\ExtraccionVCM.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Vinculada.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Estimaciones.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\CuadreTMH.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Desempeño.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\ReporteLista.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Exposicion.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Mezcla.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Resource_ES.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\Visor.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\VCM.exe.licenses
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\VCM.exe
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\VCM.xml
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UI\obj\x86\Debug\VCM.pdb
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\VCM.exe.config
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\VCM.exe
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\VCM.xml
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\VCM.pdb
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\VCM.exe
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\VCM.pdb
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\VCM.xml
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\ExcelLibrary.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\itextsharp.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\SI.BC.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\SI.BE.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\SI.UT.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\SI.DB.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\SI.BC.pdb
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\SI.BC.xml
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\SI.BE.pdb
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\SI.BE.xml
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\SI.UT.pdb
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\SI.UT.xml
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\SI.DB.pdb
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\bin\Debug\SI.DB.xml
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmDocumentos.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmFijaciones.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmFactura.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Adelanto.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmAyuda.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmIntermedia.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\browser.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\buscar.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\calcularLote.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\provisionarVentas.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\editlote.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\GenerarQPs.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\configasientos.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\configuracion.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\contratos.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\copiarcontrato.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmDeposito.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\editcontrato.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmTabla.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\liquidacion.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Login.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\lotes.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\MDIParent.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\mensajeError.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Resources.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\nuevocontrato.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\plancuentas.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Coberturas.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Movimiento.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\ExtraccionVCM.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Vinculada.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Estimaciones.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\CuadreTMH.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Desempeño.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\ReporteLista.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Exposicion.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Mezcla.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Resource_ES.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\Visor.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UI\obj\x86\Debug\VCM.exe.licenses
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\VCM.exe.config
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\VCM.exe
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\VCM.pdb
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\VCM.xml
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\ExcelLibrary.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\itextsharp.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\SI.BC.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\SI.BE.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\SI.UT.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\SI.DB.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\SI.BC.pdb
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\SI.BC.xml
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\SI.BE.pdb
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\SI.BE.xml
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\SI.UT.pdb
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\SI.UT.xml
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\SI.DB.pdb
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\SI.DB.xml
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmDocumentos.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmFijaciones.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmFactura.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Adelanto.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmAyuda.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmIntermedia.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\browser.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\buscar.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\calcularLote.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\provisionarVentas.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\editlote.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\GenerarQPs.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\configasientos.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\configuracion.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\contratos.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\copiarcontrato.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmDeposito.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\editcontrato.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmTabla.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\liquidacion.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Login.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\lotes.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\MDIParent.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\mensajeError.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Resources.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\nuevocontrato.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\plancuentas.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Coberturas.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Movimiento.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\ExtraccionVCM.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Vinculada.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Estimaciones.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\CuadreTMH.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Desempeño.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\ReporteLista.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Exposicion.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Mezcla.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Resource_ES.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\Visor.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\VCM.exe.licenses
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\VCM.exe
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\VCM.xml
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\VCM.pdb
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\SI.UI.vbprojResolveAssemblyReference.cache
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmDocumentos.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmFijaciones.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmFactura.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Adelanto.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmAyuda.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmIntermedia.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\browser.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\buscar.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\calcularLote.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\provisionarVentas.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\editlote.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\GenerarQPs.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\configasientos.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\configuracion.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\contratos.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\copiarcontrato.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmDeposito.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\editcontrato.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmTabla.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\liquidacion.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Login.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\lotes.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\MDIParent.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\mensajeError.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Resources.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\nuevocontrato.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\plancuentas.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Coberturas.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Movimiento.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\ExtraccionVCM.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Vinculada.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Estimaciones.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\CuadreTMH.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Desempeño.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\ReporteLista.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Exposicion.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Mezcla.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Resource_ES.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\Visor.resources
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\SI.UI.vbproj.GenerateResource.Cache
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\VCM.exe.licenses
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\VCM.exe
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\VCM.xml
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\obj\x86\Debug\VCM.pdb
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\VCM.exe.config
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\VCM.exe
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\VCM.pdb
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\VCM.xml
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\ExcelLibrary.dll
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\itextsharp.dll
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\SI.BC.dll
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\SI.BE.dll
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\SI.UT.dll
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\SI.DB.dll
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\SI.BC.pdb
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\SI.BC.xml
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\SI.BE.pdb
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\SI.BE.xml
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\SI.UT.pdb
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\SI.UT.xml
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\SI.DB.pdb
+D:\_LMiyahira\2015\FUENTES\Actual\SI.UI\bin\Debug\SI.DB.xml
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\VCM.exe.config
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\VCM.exe
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\VCM.xml
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\VCM.pdb
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\VCM.exe
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\VCM.pdb
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\VCM.xml
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\ExcelLibrary.dll
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\itextsharp.dll
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\SI.BC.dll
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\SI.BE.dll
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\SI.UT.dll
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\SI.DB.dll
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\SI.BC.pdb
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\SI.BC.xml
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\SI.BE.pdb
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\SI.BE.xml
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\SI.UT.pdb
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\SI.UT.xml
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\SI.DB.pdb
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\bin\Debug\SI.DB.xml
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\SI.UI.vbprojResolveAssemblyReference.cache
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmDocumentos.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmFijaciones.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmFactura.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Adelanto.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmAyuda.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmIntermedia.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\browser.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\buscar.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\calcularLote.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\provisionarVentas.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\editlote.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\GenerarQPs.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\configasientos.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\configuracion.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\contratos.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\copiarcontrato.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmDeposito.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\editcontrato.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmTabla.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\liquidacion.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Login.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\lotes.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\MDIParent.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\mensajeError.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Resources.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\nuevocontrato.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\plancuentas.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Coberturas.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Movimiento.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\ExtraccionVCM.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Vinculada.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Estimaciones.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\CuadreTMH.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Desempeño.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\ReporteLista.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Exposicion.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Mezcla.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Resource_ES.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\Visor.resources
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\SI.UI.vbproj.GenerateResource.Cache
+D:\_LMiyahira\2015\Indicadores\Actual\SI.UI\obj\x86\Debug\VCM.exe.licenses
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\VCM.exe.config
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\VCM.exe
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\VCM.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\VCM.pdb
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\VCM.pdb
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\VCM.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\ExcelLibrary.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\itextsharp.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\SI.BC.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\SI.BE.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\SI.UT.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\SI.DB.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\SI.BC.pdb
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\SI.BC.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\SI.BE.pdb
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\SI.BE.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\SI.UT.pdb
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\SI.UT.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\SI.DB.pdb
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\SI.DB.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmDocumentos.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmFijaciones.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmFactura.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Adelanto.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmAyuda.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmIntermedia.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\browser.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\buscar.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\calcularLote.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\provisionarVentas.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\editlote.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\GenerarQPs.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\configasientos.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\configuracion.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\contratos.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\copiarcontrato.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmDeposito.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\editcontrato.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmTabla.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\liquidacion.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Login.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\lotes.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\MDIParent.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\mensajeError.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Resources.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\nuevocontrato.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\plancuentas.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Coberturas.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Movimiento.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Vinculada.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Estimaciones.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\CuadreTMH.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Desempeño.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\ReporteLista.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Exposicion.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Mezcla.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Resource_ES.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\Visor.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\VCM.exe.licenses
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\VCM.exe.config
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\VCM.exe
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\VCM.xml
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\VCM.pdb
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\VCM.exe
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\VCM.pdb
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\VCM.xml
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\ExcelLibrary.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\itextsharp.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\SI.BC.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\SI.BE.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\SI.UT.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\SI.DB.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\SI.BC.pdb
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\SI.BC.xml
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\SI.BE.pdb
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\SI.BE.xml
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\SI.UT.pdb
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\SI.UT.xml
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\SI.DB.pdb
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\bin\Debug\SI.DB.xml
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\SI.UI.vbprojResolveAssemblyReference.cache
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmDocumentos.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmFijaciones.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmFactura.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Adelanto.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmAyuda.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmIntermedia.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\browser.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\buscar.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\calcularLote.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\provisionarVentas.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\editlote.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\GenerarQPs.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\configasientos.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\configuracion.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\contratos.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\copiarcontrato.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmDeposito.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\editcontrato.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmTabla.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\liquidacion.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Login.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\lotes.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\MDIParent.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\mensajeError.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Resources.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\nuevocontrato.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\plancuentas.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Coberturas.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Movimiento.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\ExtraccionVCM.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Vinculada.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Estimaciones.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\CuadreTMH.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Desempeño.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\ReporteLista.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Exposicion.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Mezcla.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Resource_ES.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\Visor.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\SI.UI.vbproj.GenerateResource.Cache
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UI\obj\x86\Debug\VCM.exe.licenses
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\frmMatrizAsientos.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\RibbonForm1.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\C1.C1Excel.4.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\LiquidacionesLote.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\ExtraccionVcm.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\MatrizMezcla.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\C1.C1Excel.4.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vcm2\SI.UI\bin\Debug\VCM.exe.config
+C:\vcm2\SI.UI\bin\Debug\VCM.pdb
+C:\vcm2\SI.UI\bin\Debug\VCM.xml
+C:\vcm2\SI.UI\bin\Debug\C1.C1Excel.4.dll
+C:\vcm2\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+C:\vcm2\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+C:\vcm2\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+C:\vcm2\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\vcm2\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+C:\vcm2\SI.UI\bin\Debug\ExcelLibrary.dll
+C:\vcm2\SI.UI\bin\Debug\itextsharp.dll
+C:\vcm2\SI.UI\bin\Debug\SI.BC.dll
+C:\vcm2\SI.UI\bin\Debug\SI.BE.dll
+C:\vcm2\SI.UI\bin\Debug\SI.UT.dll
+C:\vcm2\SI.UI\bin\Debug\SI.DB.dll
+C:\vcm2\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\vcm2\SI.UI\bin\Debug\SI.BC.pdb
+C:\vcm2\SI.UI\bin\Debug\SI.BC.xml
+C:\vcm2\SI.UI\bin\Debug\SI.BE.pdb
+C:\vcm2\SI.UI\bin\Debug\SI.BE.xml
+C:\vcm2\SI.UI\bin\Debug\SI.UT.pdb
+C:\vcm2\SI.UI\bin\Debug\SI.UT.xml
+C:\vcm2\SI.UI\bin\Debug\C1.C1Excel.4.xml
+C:\vcm2\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+C:\vcm2\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+C:\vcm2\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+C:\vcm2\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\vcm2\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+C:\vcm2\SI.UI\bin\Debug\SI.DB.pdb
+C:\vcm2\SI.UI\bin\Debug\SI.DB.xml
+C:\vcm2\SI.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vcm2\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\vcm2\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+C:\vcm2\SI.UI\obj\x86\Debug\frmDocumentos.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmFijaciones.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+C:\vcm2\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmFactura.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Adelanto.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmAyuda.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmIntermedia.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+C:\vcm2\SI.UI\obj\x86\Debug\browser.resources
+C:\vcm2\SI.UI\obj\x86\Debug\buscar.resources
+C:\vcm2\SI.UI\obj\x86\Debug\calcularLote.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmMatrizAsientos.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+C:\vcm2\SI.UI\obj\x86\Debug\provisionarVentas.resources
+C:\vcm2\SI.UI\obj\x86\Debug\editlote.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+C:\vcm2\SI.UI\obj\x86\Debug\GenerarQPs.resources
+C:\vcm2\SI.UI\obj\x86\Debug\configasientos.resources
+C:\vcm2\SI.UI\obj\x86\Debug\configuracion.resources
+C:\vcm2\SI.UI\obj\x86\Debug\contratos.resources
+C:\vcm2\SI.UI\obj\x86\Debug\copiarcontrato.resources
+C:\vcm2\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmDeposito.resources
+C:\vcm2\SI.UI\obj\x86\Debug\editcontrato.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmTabla.resources
+C:\vcm2\SI.UI\obj\x86\Debug\liquidacion.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Login.resources
+C:\vcm2\SI.UI\obj\x86\Debug\lotes.resources
+C:\vcm2\SI.UI\obj\x86\Debug\MDIParent.resources
+C:\vcm2\SI.UI\obj\x86\Debug\mensajeError.resources
+C:\vcm2\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Resources.resources
+C:\vcm2\SI.UI\obj\x86\Debug\nuevocontrato.resources
+C:\vcm2\SI.UI\obj\x86\Debug\plancuentas.resources
+C:\vcm2\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Coberturas.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+C:\vcm2\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+C:\vcm2\SI.UI\obj\x86\Debug\ExtraccionVcm.resources
+C:\vcm2\SI.UI\obj\x86\Debug\LiquidacionesLote.resources
+C:\vcm2\SI.UI\obj\x86\Debug\MatrizMezcla.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Movimiento.resources
+C:\vcm2\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Vinculada.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Estimaciones.resources
+C:\vcm2\SI.UI\obj\x86\Debug\CuadreTMH.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Desempeño.resources
+C:\vcm2\SI.UI\obj\x86\Debug\ReporteLista.resources
+C:\vcm2\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Exposicion.resources
+C:\vcm2\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Mezcla.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Resource_ES.resources
+C:\vcm2\SI.UI\obj\x86\Debug\RibbonForm1.resources
+C:\vcm2\SI.UI\obj\x86\Debug\Visor.resources
+C:\vcm2\SI.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vcm2\SI.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vcm2\SI.UI\obj\x86\Debug\VCM.exe.licenses
+C:\vcm2\SI.UI\obj\x86\Debug\VCM.exe
+C:\vcm2\SI.UI\obj\x86\Debug\VCM.xml
+C:\vcm2\SI.UI\obj\x86\Debug\VCM.pdb
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\VCM.exe.config
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\VCM.exe
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\VCM.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\VCM.pdb
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\VCM.pdb
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\VCM.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\C1.C1Excel.4.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\ExcelLibrary.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\itextsharp.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\SI.BC.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\SI.BE.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\SI.UT.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\SI.DB.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\SI.BC.pdb
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\SI.BC.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\SI.BE.pdb
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\SI.BE.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\SI.UT.pdb
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\SI.UT.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\C1.C1Excel.4.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\SI.DB.pdb
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\bin\Debug\SI.DB.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\SI.UI.vbprojResolveAssemblyReference.cache
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmDocumentos.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmFijaciones.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmFactura.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Adelanto.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmAyuda.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmIntermedia.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\browser.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\buscar.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\calcularLote.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmMatrizAsientos.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\provisionarVentas.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\editlote.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\GenerarQPs.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\configasientos.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\configuracion.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\contratos.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\copiarcontrato.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmDeposito.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\editcontrato.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmTabla.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\liquidacion.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Login.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\lotes.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\MDIParent.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\mensajeError.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Resources.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\nuevocontrato.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\plancuentas.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Coberturas.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\ExtraccionVcm.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\LiquidacionesLote.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\MatrizMezcla.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Movimiento.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Vinculada.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Estimaciones.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\CuadreTMH.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Desempeño.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\ReporteLista.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Exposicion.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Mezcla.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Resource_ES.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\RibbonForm1.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\Visor.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\SI.UI.vbproj.GenerateResource.Cache
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\VCM.exe.licenses
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\EstadisticaVenta.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\frmValidarSaldoFinal.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\ReporteCompraVenta.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UI\obj\x86\Debug\ReporteReparticionUtilidad.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\VCM.exe.config
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\VCM.pdb
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\VCM.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\C1.C1Excel.4.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\ExcelLibrary.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\itextsharp.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\SI.BC.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\SI.BE.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\SI.UT.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\SI.DB.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\SI.BC.pdb
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\SI.BC.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\SI.BE.pdb
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\SI.BE.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\SI.UT.pdb
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\SI.UT.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\C1.C1Excel.4.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\SI.DB.pdb
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\bin\Debug\SI.DB.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\SI.UI.vbprojResolveAssemblyReference.cache
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmDocumentos.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmFijaciones.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmFactura.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Adelanto.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmAyuda.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmIntermedia.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\browser.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\buscar.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\calcularLote.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\FrmMatrizAsientos.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\provisionarVentas.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\editlote.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\GenerarQPs.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\configasientos.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\configuracion.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\contratos.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\copiarcontrato.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmDeposito.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\editcontrato.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmTabla.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\liquidacion.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Login.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\lotes.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\MDIParent.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\mensajeError.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Resources.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\nuevocontrato.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\plancuentas.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Coberturas.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\ReporteReparticionUtilidad.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\ReporteCompraVenta.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\EstadisticaVenta.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\ExtraccionVcm.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmValidarSaldoFinal.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\LiquidacionesLote.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\MatrizMezcla.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Movimiento.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Vinculada.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Estimaciones.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\CuadreTMH.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Desempeño.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\ReporteLista.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Exposicion.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Mezcla.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Resource_ES.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\RibbonForm1.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Visor.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\SI.UI.vbproj.GenerateResource.Cache
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\VCM.exe.licenses
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\VCM.exe
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\VCM.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\VCM.pdb
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\VCM.exe.config
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\VCM.pdb
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\VCM.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\C1.C1Excel.4.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\ExcelLibrary.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\itextsharp.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\SI.BC.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\SI.BE.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\SI.UT.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\SI.DB.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\SI.BC.pdb
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\SI.BC.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\SI.BE.pdb
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\SI.BE.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\SI.UT.pdb
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\SI.UT.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\C1.C1Excel.4.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\SI.DB.pdb
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\bin\Debug\SI.DB.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\SI.UI.vbprojResolveAssemblyReference.cache
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmDocumentos.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmFijaciones.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmFactura.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Adelanto.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmAyuda.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmIntermedia.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\browser.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\buscar.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\calcularLote.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\FrmMatrizAsientos.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\provisionarVentas.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\editlote.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\GenerarQPs.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\configasientos.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\configuracion.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\contratos.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\copiarcontrato.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmDeposito.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\editcontrato.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmTabla.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\liquidacion.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Login.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\lotes.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\MDIParent.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\mensajeError.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Resources.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\nuevocontrato.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\plancuentas.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Coberturas.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\ReporteReparticionUtilidad.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\ReporteCompraVenta.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\EstadisticaVenta.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\ExtraccionVcm.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmValidarSaldoFinal.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\LiquidacionesLote.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\MatrizMezcla.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Movimiento.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Vinculada.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Estimaciones.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\CuadreTMH.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Desempeño.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\ReporteLista.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Exposicion.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Mezcla.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Resource_ES.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\RibbonForm1.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\Visor.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\SI.UI.vbproj.GenerateResource.Cache
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\VCM.exe.licenses
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\VCM.exe
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\VCM.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UI\obj\x86\Debug\VCM.pdb
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\VCM.exe.config
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\VCM.pdb
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\VCM.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\C1.C1Excel.4.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\ExcelLibrary.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\itextsharp.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\SI.BC.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\SI.BE.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\SI.UT.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\SI.DB.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\SI.BC.pdb
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\SI.BC.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\SI.BE.pdb
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\SI.BE.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\SI.UT.pdb
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\SI.UT.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\C1.C1Excel.4.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\SI.DB.pdb
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\bin\Debug\SI.DB.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\SI.UI.vbprojResolveAssemblyReference.cache
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmDocumentos.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmFijaciones.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmFactura.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Adelanto.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmAyuda.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmIntermedia.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\browser.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\buscar.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\calcularLote.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\FrmMatrizAsientos.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\provisionarVentas.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\editlote.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\GenerarQPs.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\configasientos.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\configuracion.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\contratos.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\copiarcontrato.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmDeposito.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\editcontrato.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmTabla.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\liquidacion.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Login.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\lotes.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\MDIParent.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\mensajeError.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Resources.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\nuevocontrato.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\plancuentas.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Coberturas.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\ReporteReparticionUtilidad.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\ReporteCompraVenta.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\EstadisticaVenta.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\ExtraccionVcm.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmValidarSaldoFinal.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\LiquidacionesLote.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\MatrizMezcla.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Movimiento.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Vinculada.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Estimaciones.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\CuadreTMH.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Desempeño.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\ReporteLista.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Exposicion.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Mezcla.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Resource_ES.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\RibbonForm1.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\Visor.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\SI.UI.vbproj.GenerateResource.Cache
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\VCM.exe.licenses
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\VCM.exe
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\VCM.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UI\obj\x86\Debug\VCM.pdb
+E:\SISTEMAS\Valorizador\FUENTE\SI.UI\obj\x86\Debug\Consulta_Liquidaciones.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\VCM.exe.config
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\VCM.pdb
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\VCM.xml
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\C1.C1Excel.4.dll
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.dll
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\C1.Win.C1Input.4.dll
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\C1.Win.C1List.4.dll
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\ExcelLibrary.dll
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\itextsharp.dll
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\SI.BC.dll
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\SI.BE.dll
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\SI.UT.dll
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\SI.DB.dll
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\SI.BC.pdb
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\SI.BC.xml
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\SI.BE.pdb
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\SI.BE.xml
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\SI.UT.pdb
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\SI.UT.xml
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\C1.C1Excel.4.xml
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\C1.Win.C1FlexGrid.4.xml
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\C1.Win.C1Input.4.xml
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\C1.Win.C1List.4.xml
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\SI.DB.pdb
+D:\ENPROYEC\VALORIZADOR\SI.UI\bin\Debug\SI.DB.xml
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\SI.UI.vbprojResolveAssemblyReference.cache
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\SI.UI.vbproj.ResolveComReference.cache
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmDocumentos.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmFijaciones.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Financiando_Preliq_pdf.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\_frmDocumentos.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmFactura.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Adelanto.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmAyuda.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmGenerarPDF.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmIntermedia.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmLiquidacion.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmListaDocumentos.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\browser.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\buscar.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\calcularLote.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\FrmMatrizAsientos.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmPeriodoContable.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmVerificarVsConcar.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\provisionarVentas.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\editlote.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmPreciosDiarios.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmExecObjectsSQL.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmVinculadasComprasPendientes.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\GenerarQPs.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\configasientos.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\configuracion.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\contratos.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\copiarcontrato.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\aplicarAdelanto.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmRumasPendientesVincular.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmGestionComercial.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmLotesValorizadosVariacion.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmDeposito.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\editcontrato.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmcontabilidad.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmLotesValorizadosLog.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmTabla.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\liquidacion.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Login.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\lotes.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\MDIParent.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\mensajeError.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\ModLiquidacion.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Resources.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\nuevocontrato.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\plancuentas.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Coberturas.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\ConsultaValorizador.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Comercial_Kardex.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Comercial_Composicion.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Consulta_Liquidaciones.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Contable_Kardex.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\ReporteReparticionUtilidad.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\ReporteCompraVenta.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\DocumentosVenta.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\EstadisticaVenta.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\ExtraccionVcm.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmValidarSaldoFinal.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\LiquidacionesLote.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\MatrizMezcla.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Movimiento.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\frmRumasPendientes.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Movimiento_OLD.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Vinculada.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Estimaciones.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\CuadreTMH.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Desempeño.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\ReporteLista.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\DesempenhoProveedor.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Exposicion.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\ExtraccionBd.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Mezcla.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Resource_ES.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\RibbonForm1.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\Visor.resources
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\SI.UI.vbproj.GenerateResource.Cache
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\VCM.exe.licenses
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\VCM.exe
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\VCM.xml
+D:\ENPROYEC\VALORIZADOR\SI.UI\obj\x86\Debug\VCM.pdb

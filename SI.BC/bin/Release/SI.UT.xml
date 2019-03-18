@@ -1,0 +1,269 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SI.UT
+</name>
+</assembly>
+<members>
+<member name="T:SI.UT.clsUT_Dominio">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los dominios
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_AJUSTES">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Ajustes"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.ALMACEN">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Almacen"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.ANALISIS">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Analisis"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_CALCULOS">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Calculos"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_CLASES">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Clases"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_CONTABLE">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla Contable"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.CONTABLE__COMPRA">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Contable  Compra"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.CONTABLE__IMPUESTO">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Contable  Impuesto"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.CONTABLE_MERCADERIA">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Contable Mercaderia"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.CONTABLE__PASIVO">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Contable  Pasivo"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.CONTABLE__SERVICIO">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Contable  Servicio"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.CONTABLE__VARIACION">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Contable  Variacion"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_CONTACTOS">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Contactos"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_COSTOS">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla Costos"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TIPO_DE_DEDUCCION">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tipo de Deduccion"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_DEPOSITO">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Deposito"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.DIARIO">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Diario"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_DOCUMENTOS">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Documentos"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_EMPRESA">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Empresa"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_ESTADOS">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Estados"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_INCOTERM">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Incoterm"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.LABORATORIO">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Laboratorio"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.MERCADO">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Mercado"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.METAL">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Metal"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_MONEDAS">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Monedas"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_MOVIMIENTOS">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Movimientos"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_PRODUCTOS">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Productos"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TIPO_DE_AJUSTE_DE_QP">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tipo de Ajuste de QP"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TIPO_DE_PERIODO_DE_COTIZACION">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tipo de Periodo de Cotizacion"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_SERVICIOS">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Servicios"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA_DE_SOCIO">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla de Socio"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TABLA">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Tabla"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TIPOCONTRATO">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "TipoContrato"
+Fecha Modificacion:
+</summary>
+</member><member name="T:SI.UT.TRADER">
+	<summary>
+Escrito por: Martin Huaman
+Fecha Creacion: Mar 22 2011 12:06PM
+Proposito: Contiene los parametros del dominio "Trader"
+Fecha Modificacion:
+</summary>
+</member><member name="P:My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

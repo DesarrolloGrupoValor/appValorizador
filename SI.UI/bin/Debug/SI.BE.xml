@@ -1,0 +1,2267 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SI.BE
+</name>
+</assembly>
+<members>
+<member name="F:SI.BE.clsBE_General.mintItem">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_General.Descripcion_Retorna">
+	<summary>
+ Propiedades de la entidad.
+ </summary>
+</member><member name="T:SI.BE.clsBE_General">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 07/11/2007 03:45:36 p.m.
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_General_resultado.mintItem">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_General_resultado.Codigo_Retorna">
+	<summary>
+ Propiedades de la entidad.
+ </summary>
+</member><member name="F:SI.BE.clsBE_LiquidacionServicio.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.contratoLoteId">
+	<summary>
+ Get or Sets the contratoLoteId in LiquidacionServicio.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.liquidacionId">
+	<summary>
+ Get or Sets the liquidacionId in LiquidacionServicio.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.importe">
+	<summary>
+ Get or Sets the importe in LiquidacionServicio.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in LiquidacionServicio.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.uc">
+	<summary>
+ Get or Sets the uc in LiquidacionServicio.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.fc">
+	<summary>
+ Get or Sets the fc in LiquidacionServicio.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.um">
+	<summary>
+ Get or Sets the um in LiquidacionServicio.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.fm">
+	<summary>
+ Get or Sets the fm in LiquidacionServicio.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.codigoServicio">
+	<summary>
+ Get or Sets the codigoServicio in LiquidacionServicio.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.descri">
+	<summary>
+ Get or Sets the descri in LiquidacionServicio.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.liquidacionServicioId">
+	<summary>
+ Get or Sets the liquidacionServicioId in LiquidacionServicio.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.nro">
+	<summary>
+ Get or Sets the nro in LiquidacionServicio.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.codigoCalculoServicio">
+	<summary>
+ Get or Sets the codigoCalculoServicio in LiquidacionServicio.
+ </summary>
+</member><member name="F:SI.BE.clsBE_LiquidacionServicio.mBE_tbLiquidacion">
+	<summary>
+ Get Collection of tbLiquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionServicio.tbLiquidacion">
+	<summary>
+ Gets or sets the tbLiquidacion of this LiquidacionServicio
+ </summary>
+</member><member name="T:SI.BE.clsBE_LiquidacionServicio">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:56:22 a.m.
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.BE.clsBE_Rol_Usuario">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 18/04/2011 14:12:56
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_TB_FJ_FIJACION.tbLiquidacion">
+	<summary>
+ Gets or sets the tbLiquidacion of this ValorizadorPagable
+ </summary>
+</member><member name="T:SI.BE.clsBE_TB_FJ_FIJACION">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:51:18 a.m.
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_FINANCIANDO_CLI.tbLiquidacion">
+	<summary>
+ Gets or sets the tbLiquidacion of this ValorizadorPagable
+ </summary>
+</member><member name="T:SI.BE.clsBE_FINANCIANDO_CLI">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:51:18 a.m.
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_ContratoLote.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_ContratoLote.contratoLoteId">
+	<summary>
+ Get or Sets the contratoLoteId in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.codigoTabla">
+	<summary>
+ Get or Sets the codigoTabla in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.codigoMovimiento">
+	<summary>
+ Get or Sets the codigoMovimiento in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.contrato">
+	<summary>
+ Get or Sets the contrato in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.codigoEmpresa">
+	<summary>
+ Get or Sets the codigoEmpresa in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.codigoSocio">
+	<summary>
+ Get or Sets the codigoSocio in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.lote">
+	<summary>
+ Get or Sets the lote in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.codigoClase">
+	<summary>
+ Get or Sets the codigoClase in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.codigoProducto">
+	<summary>
+ Get or Sets the codigoProducto in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.cuota">
+	<summary>
+ Get or Sets the cuota in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.direccion">
+	<summary>
+ Get or Sets the direccion in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.uc">
+	<summary>
+ Get or Sets the uc in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.fc">
+	<summary>
+ Get or Sets the fc in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.um">
+	<summary>
+ Get or Sets the um in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.fm">
+	<summary>
+ Get or Sets the fm in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.tmAnualMinimo">
+	<summary>
+ Get or Sets the tmAnualMinimo in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.tmAnualMaximo">
+	<summary>
+ Get or Sets the tmAnualMaximo in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.tmMensualMinimo">
+	<summary>
+ Get or Sets the tmMensualMinimo in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.tmMensualMaximo">
+	<summary>
+ Get or Sets the tmMensualMaximo in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.adenda">
+	<summary>
+ Get or Sets the adenda in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.calidad">
+	<summary>
+ Get or Sets the calidad in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.VigenciaInicio">
+	<summary>
+ Get or Sets the VigenciaInicio in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.VigenciaFin">
+	<summary>
+ Get or Sets the VigenciaFin in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.procedencia">
+	<summary>
+ Get or Sets the procedencia in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.comentarios">
+	<summary>
+ Get or Sets the comentarios in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.codigoModo">
+	<summary>
+ Get or Sets the codigoModo in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.codigoCalidad">
+	<summary>
+ Get or Sets the codigoModo in ContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ContratoLote.loteNuevo">
+	<summary>
+ Get or Sets the loteNuevo in ContratoLote.
+ </summary>
+</member><member name="T:SI.BE.clsBE_ContratoLote">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 18/04/2011 14:12:22
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_TablaDet.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_TablaDet.tablaId">
+	<summary>
+ Get or Sets the tablaId in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.tablaDetId">
+	<summary>
+ Get or Sets the tablaDetId in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.descri">
+	<summary>
+ Get or Sets the descri in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo0">
+	<summary>
+ Get or Sets the campo0 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo1">
+	<summary>
+ Get or Sets the campo1 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo2">
+	<summary>
+ Get or Sets the campo2 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo3">
+	<summary>
+ Get or Sets the campo3 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo4">
+	<summary>
+ Get or Sets the campo4 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo5">
+	<summary>
+ Get or Sets the campo5 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo6">
+	<summary>
+ Get or Sets the campo6 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo7">
+	<summary>
+ Get or Sets the campo7 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo8">
+	<summary>
+ Get or Sets the campo8 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo9">
+	<summary>
+ Get or Sets the campo9 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.uc">
+	<summary>
+ Get or Sets the uc in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.fc">
+	<summary>
+ Get or Sets the fc in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.um">
+	<summary>
+ Get or Sets the um in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.fm">
+	<summary>
+ Get or Sets the fm in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.codigoVisible">
+	<summary>
+ Get or Sets the codigoVisible in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo10">
+	<summary>
+ Get or Sets the campo10 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo11">
+	<summary>
+ Get or Sets the campo11 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo12">
+	<summary>
+ Get or Sets the campo12 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo13">
+	<summary>
+ Get or Sets the campo13 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo14">
+	<summary>
+ Get or Sets the campo14 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo15">
+	<summary>
+ Get or Sets the campo15 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo16">
+	<summary>
+ Get or Sets the campo16 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo17">
+	<summary>
+ Get or Sets the campo17 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo18">
+	<summary>
+ Get or Sets the campo18 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo19">
+	<summary>
+ Get or Sets the campo19 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo20">
+	<summary>
+ Get or Sets the campo20 in TablaDet.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo21">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo22">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo23">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo24">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo25">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo26">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo27">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo28">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo29">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo30">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo31">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo32">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo33">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo34">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo35">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo36">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo37">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo38">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo39">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo40">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo41">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo42">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo43">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo44">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo45">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo46">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo47">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo48">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo49">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo50">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.campo51">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="F:SI.BE.clsBE_TablaDet.mBE_tbTabla">
+	<summary>
+ Get Collection of tbTabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TablaDet.valorPP">
+	<summary>
+ Gets or sets the tbTabla of this TablaDet
+ </summary>
+</member><member name="T:SI.BE.clsBE_TablaDet">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 08:25:53 a.m.
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_FINANCIANDO_PRELIQ.Item">
+	<summary>
+ Get or Sets the ITEM in FINANCIANDO_PRELIQ.
+ </summary>
+</member><member name="P:SI.BE.clsBE_FINANCIANDO_PRELIQ.NUM_COMPR_LIQ">
+	<summary>
+ Get or Sets the NUM_COMPR_LIQ in FINANCIANDO_PRELIQ.
+ </summary>
+</member><member name="P:SI.BE.clsBE_FINANCIANDO_PRELIQ.MONTO_TOTAL_LIQ">
+	<summary>
+ Get or Sets the MONTO_TOTAL_LIQ in FINANCIANDO_PRELIQ.
+ </summary>
+</member><member name="T:SI.BE.clsBE_FINANCIANDO_PRELIQ">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="P:SI.BE.clsBE_TB_DIG_INDICE.IDITEM">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SI.BE.clsBE_TB_DIG_INDICE">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_ValorizadorPagable.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.codigoElemento">
+	<summary>
+ Get or Sets the codigoElemento in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.pagable">
+	<summary>
+ Get or Sets the pagable in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.deduccion">
+	<summary>
+ Get or Sets the deduccion in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.refinacion">
+	<summary>
+ Get or Sets the refinacion in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.proteccion">
+	<summary>
+ Get or Sets the proteccion in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.codigoMercado">
+	<summary>
+ Get or Sets the codigoMercado in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.qpInicio">
+	<summary>
+ Get or Sets the qpInicio in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.qpFinal">
+	<summary>
+ Get or Sets the qpFinal in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.leyPagable">
+	<summary>
+ Get or Sets the leyPagable in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.precio">
+	<summary>
+ Get or Sets the precio in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.uc">
+	<summary>
+ Get or Sets the uc in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.fc">
+	<summary>
+ Get or Sets the fc in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.um">
+	<summary>
+ Get or Sets the um in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.fm">
+	<summary>
+ Get or Sets the fm in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.liquidacionPagable">
+	<summary>
+ Get or Sets the liquidacionPagable in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.codigoDeduccion">
+	<summary>
+ Get or Sets the codigoDeduccion in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.calculoPagable">
+	<summary>
+ Get or Sets the calculoPagable in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.codigoQp">
+	<summary>
+ Get or Sets the codigoQp in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.codigoQpAjuste">
+	<summary>
+ Get or Sets the qpAjuste in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.contratoLoteId">
+	<summary>
+ Get or Sets the contratoLoteId in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.liquidacionId">
+	<summary>
+ Get or Sets the liquidacionId in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.leymin">
+	<summary>
+ Get or Sets the leymin in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.leymax">
+	<summary>
+ Get or Sets the leymax in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.preciounitario">
+	<summary>
+ Get or Sets the preciounitario in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.contenidoPagable">
+	<summary>
+ Get or Sets the codntenidoPagable in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.finLey">
+	<summary>
+ Get Collection of tbLiquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.finPrecio">
+	<summary>
+ Get Collection of tbLiquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.protCont">
+	<summary>
+ Get Collection of tbLiquidacion.
+ </summary>
+</member><member name="F:SI.BE.clsBE_ValorizadorPagable.mBE_tbLiquidacion">
+	<summary>
+ Get or Sets the ProteccionPagable in ValorizadorPagable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPagable.tbLiquidacion">
+	<summary>
+ Gets or sets the tbLiquidacion of this ValorizadorPagable
+ </summary>
+</member><member name="T:SI.BE.clsBE_ValorizadorPagable">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:51:18 a.m.
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.BE.clsBE_TB_RECLASIFICA">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_ANEXOS_BANCO.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SI.BE.clsBE_ANEXOS_BANCO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_AsientoContable.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_AsientoContable.contabilidadId">
+	<summary>
+ Get or Sets the contabilidadId in AsientoContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.asientoId">
+	<summary>
+ Get or Sets the asientoId in AsientoContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.codigoContable">
+	<summary>
+ Get or Sets the codigoContable in AsientoContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.codigoCosto">
+	<summary>
+ Get or Sets the codigoCosto in AsientoContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.debeSol">
+	<summary>
+ Get or Sets the debeSol in AsientoContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.haberSol">
+	<summary>
+ Get or Sets the haberSol in AsientoContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.debeUsd">
+	<summary>
+ Get or Sets the debeUsd in AsientoContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.haberUsd">
+	<summary>
+ Get or Sets the haberUsd in AsientoContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.descri">
+	<summary>
+ Get or Sets the descri in AsientoContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in AsientoContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.uc">
+	<summary>
+ Get or Sets the uc in AsientoContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.fc">
+	<summary>
+ Get or Sets the fc in AsientoContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.um">
+	<summary>
+ Get or Sets the um in AsientoContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.fm">
+	<summary>
+ Get or Sets the fm in AsientoContable.
+ </summary>
+</member><member name="F:SI.BE.clsBE_AsientoContable.mBE_tbContabilidad">
+	<summary>
+ Get Collection of tbContabilidad.
+ </summary>
+</member><member name="P:SI.BE.clsBE_AsientoContable.tbContabilidad">
+	<summary>
+ Gets or sets the tbContabilidad of this AsientoContable
+ </summary>
+</member><member name="T:SI.BE.clsBE_AsientoContable">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:38:09
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_LiquidacionDscto.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.codigoDscto">
+	<summary>
+ Get or Sets the codigoDscto in LiquidacionDscto.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.importe">
+	<summary>
+ Get or Sets the importe in LiquidacionDscto.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.descri">
+	<summary>
+ Get or Sets the descri in LiquidacionDscto.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.cartaInstruccion">
+	<summary>
+ Get or Sets the cartaInstruccion in LiquidacionDscto.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.observa">
+	<summary>
+ Get or Sets the observa in LiquidacionDscto.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in LiquidacionDscto.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.uc">
+	<summary>
+ Get or Sets the uc in LiquidacionDscto.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.fc">
+	<summary>
+ Get or Sets the fc in LiquidacionDscto.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.um">
+	<summary>
+ Get or Sets the um in LiquidacionDscto.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.fm">
+	<summary>
+ Get or Sets the fm in LiquidacionDscto.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.contratoLoteId">
+	<summary>
+ Get or Sets the contratoLoteId in LiquidacionDscto.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.liquidacionId">
+	<summary>
+ Get or Sets the liquidacionId in LiquidacionDscto.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.liquidacionDsctoId">
+	<summary>
+ Get or Sets the liquidacionDsctoId in LiquidacionDscto.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.nro">
+	<summary>
+ Get or Sets the nro in LiquidacionDscto.
+ </summary>
+</member><member name="F:SI.BE.clsBE_LiquidacionDscto.mBE_tbLiquidacion">
+	<summary>
+ Get Collection of tbLiquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionDscto.tbLiquidacion">
+	<summary>
+ Gets or sets the tbLiquidacion of this LiquidacionDscto
+ </summary>
+</member><member name="T:SI.BE.clsBE_LiquidacionDscto">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:06:17 a.m.
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_AuditoriaC.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SI.BE.clsBE_AuditoriaC">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_PUB_REPRESENTANTE.IDPERSONA">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SI.BE.clsBE_PUB_REPRESENTANTE">
+	<summary>
+ Escrito por: Carlos Julca Acosta
+ Fecha Creacion: 17/08/2016 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_TB_FJ_APLICACION.tbLiquidacion">
+	<summary>
+ Gets or sets the tbLiquidacion of this ValorizadorPagable
+ </summary>
+</member><member name="T:SI.BE.clsBE_TB_FJ_APLICACION">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:51:18 a.m.
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_AuditoriaD.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SI.BE.clsBE_AuditoriaD">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_ProfitLossLote.contratoloteId">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SI.BE.clsBE_ProfitLossLote.mBE_tbProfitLoss">
+	<summary>
+ Get Collection of tbContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ProfitLossLote.tbProfitLoss">
+	<summary>
+ Gets or sets the tbContratoLote of this Liquidacion
+ </summary>
+</member><member name="T:SI.BE.clsBE_ProfitLossLote">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 18/04/2011 14:12:56
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_SaldoFinal.calidad">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SI.BE.clsBE_SaldoFinal">
+	<summary>
+ Escrito por: Lissete Miyahira
+ Fecha Creacion: 29/11/2017
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_LiquidacionTm.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.contratoLoteId">
+	<summary>
+ Get or Sets the contratoLoteId in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.liquidacionId">
+	<summary>
+ Get or Sets the liquidacionId in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.liquidacionTmId">
+	<summary>
+ Get or Sets the liquidacionTmId in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.tmh">
+	<summary>
+ Get or Sets the tmh in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.h2o">
+	<summary>
+ Get or Sets the h2o in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.tms">
+	<summary>
+ Get or Sets the tms in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.tmsn">
+	<summary>
+ Get or Sets the tmsn in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.codigoAnalisis">
+	<summary>
+ Get or Sets the codigoAnalisis in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.codigoLaboratorio">
+	<summary>
+ Get or Sets the codigoLaboratorio in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.valorLiquidacion">
+	<summary>
+ Get or Sets the valorLiquidacion in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.uc">
+	<summary>
+ Get or Sets the uc in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.fc">
+	<summary>
+ Get or Sets the fc in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.um">
+	<summary>
+ Get or Sets the um in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.fm">
+	<summary>
+ Get or Sets the fm in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.PagCu">
+	<summary>
+ Get or Sets the PagCu in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.PagZn">
+	<summary>
+ Get or Sets the PagZn in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.PagPb">
+	<summary>
+ Get or Sets the PagPb in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.PagAg">
+	<summary>
+ Get or Sets the PagAg in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.PagAu">
+	<summary>
+ Get or Sets the PagAu in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.PenAs">
+	<summary>
+ Get or Sets the PenAs in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.PenSb">
+	<summary>
+ Get or Sets the PenSb in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.PenBi">
+	<summary>
+ Get or Sets the PenBi in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.PenZn">
+	<summary>
+ Get or Sets the PenZn in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.PenPb">
+	<summary>
+ Get or Sets the PenPb in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.PenHg">
+	<summary>
+ Get or Sets the PenHg in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.PenSiO2">
+	<summary>
+ Get or Sets the PenSiO2 in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.Pen1">
+	<summary>
+ Get or Sets the Pen1 in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.Pen2">
+	<summary>
+ Get or Sets the Pen2 in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.Pen3">
+	<summary>
+ Get or Sets the Pen3 in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.codigoLote">
+	<summary>
+ Get or Sets the codigoLote in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.fecha_ingreso">
+	<summary>
+ Get or Sets the fecha_ingreso in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.ticket">
+	<summary>
+ Get or Sets the ticket in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.guia">
+	<summary>
+ Get or Sets the guia in LiquidacionTm.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.idtablaint">
+	<summary>
+ Get Collection of tbLiquidacion.
+ </summary>
+</member><member name="F:SI.BE.clsBE_LiquidacionTm.mBE_tbLiquidacion">
+	<summary>
+ Get Collection of tbLiquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTm.tbLiquidacion">
+	<summary>
+ Gets or sets the tbLiquidacion of this LiquidacionTm
+ </summary>
+</member><member name="T:SI.BE.clsBE_LiquidacionTm">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 10:52:51 a.m.
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_Tabla.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_Tabla.tablaId">
+	<summary>
+ Get or Sets the tablaId in Tabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Tabla.descri">
+	<summary>
+ Get or Sets the descri in Tabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Tabla.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in Tabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Tabla.uc">
+	<summary>
+ Get or Sets the uc in Tabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Tabla.fc">
+	<summary>
+ Get or Sets the fc in Tabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Tabla.um">
+	<summary>
+ Get or Sets the um in Tabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Tabla.fm">
+	<summary>
+ Get or Sets the fm in Tabla.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Tabla.codigoVisible">
+	<summary>
+ Get or Sets the codigoVisible in Tabla.
+ </summary>
+</member><member name="T:SI.BE.clsBE_Tabla">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.BE.clsBE_TB_CIERRE_DOC">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_GestionComercial.nGestionComercialId">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SI.BE.clsBE_GestionComercial">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 18/04/2011 14:12:56
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_LogisticaMovimiento.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.ID">
+	<summary>
+ Get or Sets the ID in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.TMH">
+	<summary>
+ Get or Sets the TMH in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.ContratoLoteId">
+	<summary>
+ Get or Sets the ContratoLoteId in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.ESTADO">
+	<summary>
+ Get or Sets the ESTADO in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LiquidacionId">
+	<summary>
+ Get or Sets the LiquidacionId in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LiquidacionTmId">
+	<summary>
+ Get or Sets the LiquidacionTmId in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.ContratoLoteSuceroaId">
+	<summary>
+ Get or Sets the ContratoLoteSuceroaId in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.EstadoVCM">
+	<summary>
+ Get or Sets the EstadoVCM in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.EMPRESA">
+	<summary>
+ Get or Sets the EMPRESA in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.COD_DEPOSITO">
+	<summary>
+ Get or Sets the COD_DEPOSITO in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.COD_LOTE">
+	<summary>
+ Get or Sets the COD_LOTE in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.NRO_DOCUMENTO">
+	<summary>
+ Get or Sets the NRO_DOCUMENTO in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.TIPO_MOV">
+	<summary>
+ Get or Sets the TIPO_MOV in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.N_ITEM">
+	<summary>
+ Get or Sets the N_ITEM in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.EMPRESA_ORIGEN">
+	<summary>
+ Get or Sets the EMPRESA_ORIGEN in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.DEPOSITO_ORIGEN">
+	<summary>
+ Get or Sets the DEPOSITO_ORIGEN in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LOTE_ORIGEN">
+	<summary>
+ Get or Sets the LOTE_ORIGEN in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.EMPRESA_DESTINO">
+	<summary>
+ Get or Sets the EMPRESA_DESTINO in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.DEPOSITO_DESTINO">
+	<summary>
+ Get or Sets the DEPOSITO_DESTINO in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LOTE_DESTINO">
+	<summary>
+ Get or Sets the LOTE_DESTINO in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.PERIODO">
+	<summary>
+ Get or Sets the PERIODO in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.NUM_CONTRATO">
+	<summary>
+ Get or Sets the NUM_CONTRATO in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.FECHA_APERTURA">
+	<summary>
+ Get or Sets the FECHA_APERTURA in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.ELEMENTO_MINERAL">
+	<summary>
+ Get or Sets the ELEMENTO_MINERAL in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.TIPO_MINERAL">
+	<summary>
+ Get or Sets the TIPO_MINERAL in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.EMP_PROV_CLIENTE">
+	<summary>
+ Get or Sets the EMP_PROV_CLIENTE in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.TMH_SLC">
+	<summary>
+ Get or Sets the TMH_SLC in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.ESTADO_SLC">
+	<summary>
+ Get or Sets the ESTADO_SLC in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.IND_GUIA_PROVFIN">
+	<summary>
+ Get or Sets the IND_GUIA_PROVFIN in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.IND_ASIGNA_PART">
+	<summary>
+ Get or Sets the IND_ASIGNA_PART in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.IND_ASIGNA_VCL">
+	<summary>
+ Get or Sets the IND_ASIGNA_VCL in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.IND_ASIGNA_BLEND">
+	<summary>
+ Get or Sets the IND_ASIGNA_BLEND in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.IND_ASIGNA_DESP">
+	<summary>
+ Get or Sets the IND_ASIGNA_DESP in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.IND_ASIGNA_LOTE">
+	<summary>
+ Get or Sets the IND_ASIGNA_LOTE in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.TICKET">
+	<summary>
+ Get or Sets the TICKET in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.NRO_MUESTRA">
+	<summary>
+ Get or Sets the NRO_MUESTRA in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.H2O">
+	<summary>
+ Get or Sets the H2O in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_CU">
+	<summary>
+ Get or Sets the LEY_CU in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_AG">
+	<summary>
+ Get or Sets the LEY_AG in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_AU">
+	<summary>
+ Get or Sets the LEY_AU in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_PB">
+	<summary>
+ Get or Sets the LEY_PB in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_ZN">
+	<summary>
+ Get or Sets the LEY_ZN in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_SN">
+	<summary>
+ Get or Sets the LEY_SN in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_AS">
+	<summary>
+ Get or Sets the LEY_AS in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_SB">
+	<summary>
+ Get or Sets the LEY_SB in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_BI">
+	<summary>
+ Get or Sets the LEY_BI in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_HG">
+	<summary>
+ Get or Sets the LEY_HG in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_SIO2">
+	<summary>
+ Get or Sets the LEY_SIO2 in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_AS_SB">
+	<summary>
+ Get or Sets the LEY_AS_SB in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_ZN_PB">
+	<summary>
+ Get or Sets the LEY_ZN_PB in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_AUNW">
+	<summary>
+ Get or Sets the LEY_AUNW in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_CUTOT">
+	<summary>
+ Get or Sets the LEY_CUTOT in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_CUSOL">
+	<summary>
+ Get or Sets the LEY_CUSOL in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_CNNa">
+	<summary>
+ Get or Sets the LEY_CNNa in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_CAL">
+	<summary>
+ Get or Sets the LEY_CAL in LogisticaMovimiento.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LogisticaMovimiento.LEY_SOD">
+	<summary>
+ Get or Sets the LEY_SOD in LogisticaMovimiento.
+ </summary>
+</member><member name="T:SI.BE.clsBE_LogisticaMovimiento">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 25/02/2011 10:15:55
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_Periodo.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_Periodo.periodoId">
+	<summary>
+ Get or Sets the periodoId in Periodo.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Periodo.periodo">
+	<summary>
+ Get or Sets the periodo in Periodo.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Periodo.codigoCerrado">
+	<summary>
+ Get or Sets the codigoCerrado in Periodo.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Periodo.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in Periodo.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Periodo.uc">
+	<summary>
+ Get or Sets the uc in Periodo.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Periodo.fc">
+	<summary>
+ Get or Sets the fc in Periodo.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Periodo.um">
+	<summary>
+ Get or Sets the um in Periodo.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Periodo.fm">
+	<summary>
+ Get or Sets the fm in Periodo.
+ </summary>
+</member><member name="T:SI.BE.clsBE_Periodo">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:33
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_COM_DEPOSITOS.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_COM_DEPOSITOS.COD_DEPOSITO">
+	<summary>
+ Get or Sets the COD_DEPOSITO in COM_DEPOSITOS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_COM_DEPOSITOS.NOM_DEPOSITO">
+	<summary>
+ Get or Sets the NOM_DEPOSITO in COM_DEPOSITOS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_COM_DEPOSITOS.EMPRESA">
+	<summary>
+ Get or Sets the EMPRESA in COM_DEPOSITOS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_COM_DEPOSITOS.LOCALIDAD">
+	<summary>
+ Get or Sets the LOCALIDAD in COM_DEPOSITOS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_COM_DEPOSITOS.DIRECCION">
+	<summary>
+ Get or Sets the DIRECCION in COM_DEPOSITOS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_COM_DEPOSITOS.DESC_ABREV_DEP">
+	<summary>
+ Get or Sets the DESC_ABREV_DEP in COM_DEPOSITOS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_COM_DEPOSITOS.FECHA_REG_DEP">
+	<summary>
+ Get or Sets the FECHA_REG_DEP in COM_DEPOSITOS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_COM_DEPOSITOS.ID_LOCALIDAD">
+	<summary>
+ Get or Sets the ID_LOCALIDAD in COM_DEPOSITOS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_COM_DEPOSITOS.DES_LOCALIDAD">
+	<summary>
+ Get or Sets the DES_LOCALIDAD in COM_DEPOSITOS.
+ </summary>
+</member><member name="T:SI.BE.clsBE_COM_DEPOSITOS">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_PUB_PERSONAS.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_PUB_PERSONAS.IDPERSONA">
+	<summary>
+ Get or Sets the COD_DEPOSITO in PUB_PERSONAS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_PUB_PERSONAS.RAZON_SOCIAL">
+	<summary>
+ Get or Sets the NOM_DEPOSITO in PUB_PERSONAS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_PUB_PERSONAS.DIRECCION">
+	<summary>
+ Get or Sets the LOCALIDAD in PUB_PERSONAS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_PUB_PERSONAS.CONTACTO">
+	<summary>
+ Get or Sets the DIRECCION in PUB_PERSONAS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_PUB_PERSONAS.CELULAR1">
+	<summary>
+ Get or Sets the DESC_ABREV_DEP in PUB_PERSONAS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_PUB_PERSONAS.CORREO">
+	<summary>
+ Get or Sets the FECHA_REG_DEP in PUB_PERSONAS.
+ </summary>
+</member><member name="T:SI.BE.clsBE_PUB_PERSONAS">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.BE.clsBE_t_financiando_seleccion">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_Precio_Diario.IdPrecioDiario">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SI.BE.clsBE_Precio_Diario.mBE_tbPrecio_Diario">
+	<summary>
+ Get Collection of tbContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Precio_Diario.tbPrecio_Diario">
+	<summary>
+ Gets or sets the tbContratoLote of this Liquidacion
+ </summary>
+</member><member name="T:SI.BE.clsBE_Precio_Diario">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 18/04/2011 14:12:56
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_ReporteCompraVenta.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SI.BE.clsBE_ReporteCompraVenta">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 18/04/2011 14:12:22
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_ValorizadorPenalizable.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.codigoElemento">
+	<summary>
+ Get or Sets the codigoElemento in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.minimo">
+	<summary>
+ Get or Sets the minimo in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.indLey">
+	<summary>
+ Get or Sets the unidadPenalizable in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.unidadPenalizable">
+	<summary>
+ Get Collection of tbLiquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.penalidad">
+	<summary>
+ Get or Sets the penalidad in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.leyPenalizable">
+	<summary>
+ Get or Sets the leyPenalizable in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.calculoPenalizable">
+	<summary>
+ Get or Sets the calculoPenalizable in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.uc">
+	<summary>
+ Get or Sets the uc in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.fc">
+	<summary>
+ Get or Sets the fc in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.um">
+	<summary>
+ Get or Sets the um in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.fm">
+	<summary>
+ Get or Sets the fm in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.liquidacionPenalizableId">
+	<summary>
+ Get or Sets the liquidacionPenalizableId in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.maximo">
+	<summary>
+ Get or Sets the maximo in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.contratoLoteId">
+	<summary>
+ Get or Sets the contratoLoteId in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.liquidacionId">
+	<summary>
+ Get or Sets the liquidacionId in ValorizadorPenalizable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.preciounitario">
+	<summary>
+ Get or Sets the preciounitario in ValorizadorPenalizable.
+ </summary>
+</member><member name="F:SI.BE.clsBE_ValorizadorPenalizable.mBE_tbLiquidacion">
+	<summary>
+ Get Collection of tbLiquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ValorizadorPenalizable.tbLiquidacion">
+	<summary>
+ Gets or sets the tbLiquidacion of this ValorizadorPenalizable
+ </summary>
+</member><member name="T:SI.BE.clsBE_ValorizadorPenalizable">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:51:02 a.m.
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_COM_LOTE_MUESTRASLAB.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_COM_LOTE_MUESTRASLAB.COD_LOTE">
+	<summary>
+ Get or Sets the COD_DEPOSITO in PUB_PERSONAS.
+ </summary>
+</member><member name="P:SI.BE.clsBE_COM_LOTE_MUESTRASLAB.NRO_GUIA">
+	<summary>
+ Get or Sets the NOM_DEPOSITO in PUB_PERSONAS.
+ </summary>
+</member><member name="T:SI.BE.clsBE_COM_LOTE_MUESTRASLAB">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_Liquidacion.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_Liquidacion.contratoLoteId">
+	<summary>
+ Get or Sets the contratoLoteId in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.liquidacionId">
+	<summary>
+ Get or Sets the liquidacionId in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.base1">
+	<summary>
+ Get or Sets the base1 in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.escaladorMas1">
+	<summary>
+ Get or Sets the escaladorMas1 in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.escaladorMenos1">
+	<summary>
+ Get or Sets the escaladorMenos1 in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.base2">
+	<summary>
+ Get or Sets the base2 in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.escaladorMas2">
+	<summary>
+ Get or Sets the escaladorMas2 in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.escaladorMenos2">
+	<summary>
+ Get or Sets the escaladorMenos2 in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.pp">
+	<summary>
+ Get or Sets the pp in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.basepp">
+	<summary>
+ Get or Sets the basepp in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.porcentajeMerma">
+	<summary>
+ Get or Sets the porcentajeMerma in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.porcentajePago">
+	<summary>
+ Get or Sets the porcentajePago in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoTMSN">
+	<summary>
+ Get or Sets the calculoTMSN in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoPagable">
+	<summary>
+ Get or Sets the calculoPagable in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoMaquila">
+	<summary>
+ Get or Sets the calculoMaquila in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoRefinacion">
+	<summary>
+ Get or Sets the calculoRefinacion in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoPenalizable">
+	<summary>
+ Get or Sets the calculoPenalizable in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoServicio">
+	<summary>
+ Get or Sets the calculoServicio in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoPrecioTMSN">
+	<summary>
+ Get or Sets the calculoPrecioTMSN in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoCargoAjuste">
+	<summary>
+ Get or Sets the calculoCargoAjuste in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoPrecioUnitario">
+	<summary>
+ Get or Sets the calculoPrecioUnitario in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.valorVenta">
+	<summary>
+ Get or Sets the valorVenta in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.valorIgv">
+	<summary>
+ Get or Sets the valorIgv in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.valorTotal">
+	<summary>
+ Get or Sets the valorTotal in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.totalPorPagar">
+	<summary>
+ Get or Sets the totalPorPagar in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.totalDscto">
+	<summary>
+ Get or Sets the totalDscto in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.totalNetoxPagar">
+	<summary>
+ Get or Sets the totalNetoxPagar in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.codigoCalculo">
+	<summary>
+ Get or Sets the codigoCalculo in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.periodo">
+	<summary>
+ Get or Sets the periodo in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.codigoDocumento">
+	<summary>
+ Get or Sets the codigoDocumento in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.fechaDocumento">
+	<summary>
+ Get or Sets the fechaDocumento in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.numeroDocumento">
+	<summary>
+ Get or Sets the numeroDocumento in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.uc">
+	<summary>
+ Get or Sets the uc in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.fc">
+	<summary>
+ Get or Sets the fc in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.um">
+	<summary>
+ Get or Sets the um in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.fm">
+	<summary>
+ Get or Sets the fm in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.numeroCalculo">
+	<summary>
+ Get or Sets the numeroCalculo in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoTmh">
+	<summary>
+ Get or Sets the calculoTmh in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoH2o">
+	<summary>
+ Get or Sets the calculoH2o in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoTms">
+	<summary>
+ Get or Sets the calculoTms in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoMerma">
+	<summary>
+ Get or Sets the calculoMerma in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.maquila">
+	<summary>
+ Get or Sets the maquila in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.tasaInteres">
+	<summary>
+ Get or Sets the tasaInteres in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.tasaMoratoria">
+	<summary>
+ Get or Sets the tasaMoratoria in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.tasaTiempo">
+	<summary>
+ Get or Sets the tasaTiempo in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.codigoTasa">
+	<summary>
+ Get or Sets the codigoTasa in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.codigoIncoterm">
+	<summary>
+ Get or Sets the codigoIncoterm in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.codigoDeposito">
+	<summary>
+ Get or Sets the codigoDeposito in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.calculoPp">
+	<summary>
+ Get or Sets the calculoPp in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.cargoAjuste">
+	<summary>
+ Get or Sets the cargoAjuste in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.fechaRegistro">
+	<summary>
+ Get or Sets the fechaRegistro in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.codigoTrader">
+	<summary>
+ Get or Sets the codigoTrader in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.codigoAdministrador">
+	<summary>
+ Get or Sets the codigoAdministrador in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.codigoUsuario">
+	<summary>
+ Get or Sets the codigoUsuario in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.status">
+	<summary>
+ Get or Sets the status in Liquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.control">
+	<summary>
+ Get or Sets the control in Liquidacion.
+ </summary>
+</member><member name="F:SI.BE.clsBE_Liquidacion.mBE_tbContratoLote">
+	<summary>
+ Get Collection of tbContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Liquidacion.tbContratoLote">
+	<summary>
+ Gets or sets the tbContratoLote of this Liquidacion
+ </summary>
+</member><member name="T:SI.BE.clsBE_Liquidacion">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 18/04/2011 14:12:56
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_LiquidacionTotal.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.contratoLoteId">
+	<summary>
+ Get or Sets the contratoLoteId in LiquidacionTotal.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.liquidacionId">
+	<summary>
+ Get or Sets the liquidacionId in LiquidacionTotal.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.importe">
+	<summary>
+ Get or Sets the importe in LiquidacionTotal.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in LiquidacionTotal.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.uc">
+	<summary>
+ Get or Sets the uc in LiquidacionTotal.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.fc">
+	<summary>
+ Get or Sets the fc in LiquidacionTotal.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.um">
+	<summary>
+ Get or Sets the um in LiquidacionTotal.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.fm">
+	<summary>
+ Get or Sets the fm in LiquidacionTotal.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.codigoTotal">
+	<summary>
+ Get or Sets the codigoTotal in LiquidacionTotal.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.descri">
+	<summary>
+ Get or Sets the descri in LiquidacionTotal.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.liquidacionTotalId">
+	<summary>
+ Get or Sets the liquidacionTotalId in LiquidacionTotal.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.nro">
+	<summary>
+ Get or Sets the nro in LiquidacionTotal.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.codigoCalculoTotal">
+	<summary>
+ Get or Sets the codigoCalculoTotal in LiquidacionTotal.
+ </summary>
+</member><member name="F:SI.BE.clsBE_LiquidacionTotal.mBE_tbLiquidacion">
+	<summary>
+ Get Collection of tbLiquidacion.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionTotal.tbLiquidacion">
+	<summary>
+ Gets or sets the tbLiquidacion of this LiquidacionTotal
+ </summary>
+</member><member name="T:SI.BE.clsBE_LiquidacionTotal">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:56:22 a.m.
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_TB_DESCUENTOS_LIQ.tbLiquidacion">
+	<summary>
+ Gets or sets the tbLiquidacion of this ValorizadorPagable
+ </summary>
+</member><member name="T:SI.BE.clsBE_TB_DESCUENTOS_LIQ">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:51:18 a.m.
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionEstado.liquidacionEstadoId">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SI.BE.clsBE_LiquidacionEstado.mBE_tbLiquidacionEstado">
+	<summary>
+ Get Collection of tbContratoLote.
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionEstado.tbContratoLote">
+	<summary>
+ Gets or sets the tbContratoLote of this Liquidacion
+ </summary>
+</member><member name="T:SI.BE.clsBE_LiquidacionEstado">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 18/04/2011 14:12:56
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_Contabilidad.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_Contabilidad.contabilidadId">
+	<summary>
+ Get or Sets the contabilidadId in Contabilidad.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Contabilidad.periodo">
+	<summary>
+ Get or Sets the periodo in Contabilidad.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Contabilidad.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in Contabilidad.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Contabilidad.uc">
+	<summary>
+ Get or Sets the uc in Contabilidad.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Contabilidad.fc">
+	<summary>
+ Get or Sets the fc in Contabilidad.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Contabilidad.um">
+	<summary>
+ Get or Sets the um in Contabilidad.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Contabilidad.fm">
+	<summary>
+ Get or Sets the fm in Contabilidad.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Contabilidad.codigoDiario">
+	<summary>
+ Get or Sets the codigoDiario in Contabilidad.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Contabilidad.codigoTransferido">
+	<summary>
+ Get or Sets the codigoTransferido in Contabilidad.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Contabilidad.codigoEmpresa">
+	<summary>
+ Get or Sets the codigoEmpresa in Contabilidad.
+ </summary>
+</member><member name="P:SI.BE.clsBE_Contabilidad.fecha">
+	<summary>
+ Get or Sets the fecha in Contabilidad.
+ </summary>
+</member><member name="T:SI.BE.clsBE_Contabilidad">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:38:33
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.BE.clsBE_TB_TABLAS_GEN">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_ConfiguracionContable.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.configuracionId">
+	<summary>
+ Get or Sets the configuracionId in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.codigoContableMercaderia">
+	<summary>
+ Get or Sets the codigoContableMercaderia in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.codigoContableServicio">
+	<summary>
+ Get or Sets the codigoContableServicio in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.codigoContableVariacion">
+	<summary>
+ Get or Sets the codigoContableVariacion in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.codigoContableCompra">
+	<summary>
+ Get or Sets the codigoContableCompra in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.codigoContableImpuesto">
+	<summary>
+ Get or Sets the codigoContableImpuesto in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.codigoContablePasivo">
+	<summary>
+ Get or Sets the codigoContablePasivo in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.codigoCosto">
+	<summary>
+ Get or Sets the codigoCosto in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.codigoEstado">
+	<summary>
+ Get or Sets the codigoEstado in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.uc">
+	<summary>
+ Get or Sets the uc in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.fc">
+	<summary>
+ Get or Sets the fc in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.um">
+	<summary>
+ Get or Sets the um in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.fm">
+	<summary>
+ Get or Sets the fm in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.codigoMovimiento">
+	<summary>
+ Get or Sets the codigoMovimiento in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.codigoProducto">
+	<summary>
+ Get or Sets the codigoProducto in ConfiguracionContable.
+ </summary>
+</member><member name="P:SI.BE.clsBE_ConfiguracionContable.codigoClase">
+	<summary>
+ Get or Sets the codigoClase in ConfiguracionContable.
+ </summary>
+</member><member name="T:SI.BE.clsBE_ConfiguracionContable">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:38:22
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionEstadoDetalle.liquidacionEstadoId">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SI.BE.clsBE_LiquidacionEstadoDetalle">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 18/04/2011 14:12:56
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:SI.BE.clsBE_TB_LOCALIDAD.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SI.BE.clsBE_TB_LOCALIDAD.ID_LOCALIDAD">
+	<summary>
+ Get or Sets the COD_DEPOSITO in TB_LOCALIDAD.
+ </summary>
+</member><member name="P:SI.BE.clsBE_TB_LOCALIDAD.DES_LOCALIDAD">
+	<summary>
+ Get or Sets the NOM_DEPOSITO in TB_LOCALIDAD.
+ </summary>
+</member><member name="T:SI.BE.clsBE_TB_LOCALIDAD">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_LiquidacionAdjunto.liquidacionEstadoId">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SI.BE.clsBE_LiquidacionAdjunto">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 18/04/2011 14:12:56
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_LoteValorizados.contratoLoteId">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SI.BE.clsBE_LoteValorizados">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 18/04/2011 14:12:56
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="F:clsBE_TB_SERIE_DOC.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SI.BE.clsBE_TB_BENEFICIARIO_CCHICA.Item">
+	<summary>
+ Miembros privados de la entidad.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SI.BE.clsBE_TB_BENEFICIARIO_CCHICA">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:44
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:SI.BE.clsBE_TB_PROVIPREV.tbLiquidacion">
+	<summary>
+ Gets or sets the tbLiquidacion of this ValorizadorPagable
+ </summary>
+</member><member name="T:SI.BE.clsBE_TB_PROVIPREV">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:51:18 a.m.
+ Proposito: 
+ Fecha Modificacion:
+ </summary>
+</member>
+</members>
+</doc>
