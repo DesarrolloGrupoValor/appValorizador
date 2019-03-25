@@ -356,9 +356,6 @@ Public Class frmFijaciones
 
 #End Region
 
-    Private Sub dgvFJ_FIJACION_Click(sender As Object, e As System.EventArgs) Handles dgvFJ_FIJACION.Click
-
-    End Sub
 
 
     ''Private Sub dgvFinanciamiento_CellValueChanged(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dgvFJ_FIJACION.CellValueChanged
@@ -377,55 +374,9 @@ Public Class frmFijaciones
 
 
     Sub dgvFJ_FIJACION_CurrentCellDirtyStateChanged(ByVal sender As Object, ByVal e As EventArgs) Handles dgvFJ_FIJACION.CurrentCellDirtyStateChanged
-        'Dim dAplicar As Decimal
 
         If dgvFJ_FIJACION.IsCurrentCellDirty Then
-
-            'dAplicar = dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value
-
-            'dgvFJ_FIJACION.CommitEdit(DataGridViewDataErrorContexts.Commit)
-
-
-            ''Dim dTotalAplica As Decimal = 0
-            '' ''For i = 0 To dgvFJ_FIJACION.RowCount - 1
-            '' ''    dTotalAplica += dgvFJ_FIJACION.Item("FIJA_APLICA", i).Value
-            '' ''Next
-            '' ''dTotalAplica += dCantidadTotal
-
-
-            ' ''dgvPagables.Rows(nRowSelected).Cells("contenido_disponible").Value + txtAjusteMaximo.Text 
-            ' ''dTotalAplica = dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value 'dCantidadTotal + dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value
-
-
-            ''For i = 0 To dgvFJ_FIJACION.Rows.Count - 1
-            ''    dTotalAplica += dgvFJ_FIJACION.Rows(i).Cells("FIJA_APLICAR").Value
-
-            ''    If i = dgvFJ_FIJACION.CurrentRow.Index Then
-
-            ''        If dgvFJ_FIJACION.Rows(i).Cells("FIJA_CANTIDAD").Value + dgvFJ_FIJACION.Rows(i).Cells("FIJA_AJUSTE_MAXIMO").Value < dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value Then
-            ''            MsgBox("El contenido ingresado es mayor disponible.", MsgBoxStyle.OkOnly, "Valorizador de Minerales")
-            ''            Exit Sub
-            ''        End If
-
-            ''    End If
-
-
-            ''Next
-
-
-            ''If dgvPagables.Rows(nRowSelectedPagable).Cells("contenido_disponible").Value < dTotalAplica Then
-            ''    'If txtFinasLote.Text < dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value Then
-            ''    dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value = 0
-            ''    MsgBox("El contenido ingresado es mayor al permitido para el lote.", MsgBoxStyle.OkOnly, "Valorizador de Minerales")
-            ''Else
-            ''    txtFinasPorAplicar.Text = dTotalAplica
-            ''    txtFinasDisponibles.Text = txtFinasLote.Text - dTotalAplica
-
-            ''    dgvPagables.Rows(nRowSelectedPagable).Cells("contenido_aplicado").Value = dgvPagables.Rows(nRowSelectedPagable).Cells("contenido_aplicado").Value + dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value
-            ''End If
-
-
-
+            dgvFJ_FIJACION.CommitEdit(DataGridViewDataErrorContexts.Commit)
         End If
     End Sub
 
@@ -704,6 +655,50 @@ Public Class frmFijaciones
 
     Private Sub dgvFJ_FIJACION_CellValueChanged(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dgvFJ_FIJACION.CellValueChanged
 
+        If dgvFJ_FIJACION.Columns(e.ColumnIndex).Name = "FIJA_cbxAPLICAR" Then
+            Dim valorFijacion, valorFijado As Double
+
+            'INCREMENTO EL VALOR DISPONIBLE AL DESMARCAR
+            If (dgvFJ_FIJACION.CurrentRow.Cells("FIJA_cbxAPLICAR").Value = False) Then
+                valorDisponible = valorDisponible + dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value
+                dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value = 0
+
+                'valorDisponible = valorDisponible + dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value
+                'dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value = 0
+            Else
+                If (valorFijadoTotal = 0) Then
+                    valorDisponible = dgvPagables.CurrentRow.Cells("contenido_disponible").Value
+                    'valorDisponible = dgvPagables.Rows(e.RowIndex).Cells("contenido_disponible").Value
+                End If
+
+                'valorFijacion = dgvFJ_FIJACION.Rows(indicePagable).Cells("FIJA_CANTIDAD").Value
+                valorFijacion = dgvFJ_FIJACION.CurrentRow.Cells("FIJA_CANTIDAD").Value
+
+                If (valorDisponible > valorFijacion) Then
+                    dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value = valorFijacion
+                End If
+
+                If (valorDisponible <= valorFijacion) Then
+                    dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value = valorDisponible
+                    'dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value = valorDisponible
+                End If
+
+
+                For i = 0 To dgvFJ_APLICACION.Rows.Count - 1
+                    valorFijado = dgvFJ_APLICACION.Rows(i).Cells("APLI_CANTIDAD").Value
+                    valorFijadoTotal = valorFijadoTotal + valorFijado
+                Next
+
+                'valorFijado = dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value
+                'valorFijadoTotal = valorFijadoTotal + valorFijado
+
+                If (valorDisponible > valorFijado) Then
+                    valorDisponible = valorDisponible - valorFijado
+                End If
+
+            End If
+        End If
+
 
         If dgvPagables.Rows.Count > 0 Then
             If dgvPagables.Columns(e.ColumnIndex).Name = "FIJA_CANTIDAD" Then
@@ -780,7 +775,6 @@ Public Class frmFijaciones
             valor_aFijo = row.Cells("contenido_disponible").Value
             'flagFijado = row.Cells("finprecio").Value
 
-
             If (IsDBNull(row.Cells("finprecio").Value)) Then
                 flagFijado = 0
             Else
@@ -850,17 +844,11 @@ Public Class frmFijaciones
         'Label4.Text = dgvPagables.CurrentRow.Cells("contenido_disponible").Value
     End Sub
 
-    Private Sub dgvFJ_FIJACION_CellLeave(sender As System.Object, e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dgvFJ_FIJACION.CellLeave
-        'Label4.Text = dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value
-    End Sub
 
     Private Sub tsMenu_ItemClicked(sender As System.Object, e As System.Windows.Forms.ToolStripItemClickedEventArgs) Handles tsMenu.ItemClicked
 
     End Sub
 
-    Private Sub dgvFJ_FIJACION_CellContentClick(sender As System.Object, e As System.Windows.Forms.DataGridViewCellEventArgs)
-
-    End Sub
 
     Private Sub dgvFJ_FIJACION_CellValidating(sender As System.Object, e As System.Windows.Forms.DataGridViewCellValidatingEventArgs) Handles dgvFJ_FIJACION.CellValidating
         'If (e.ColumnIndex = 1) Then
@@ -881,55 +869,53 @@ Public Class frmFijaciones
 
     End Sub
 
-    Private Sub dgvPagables_CellContentClick(sender As System.Object, e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dgvPagables.CellContentClick
-
-
-    End Sub
 
     Private Sub dgvFJ_FIJACION_CellContentClick_1(sender As System.Object, e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dgvFJ_FIJACION.CellContentClick
 
+        'If dgvFJ_FIJACION.Columns(e.ColumnIndex).Name = "FIJA_cbxAPLICAR" Then
+        '    Dim valorFijacion, valorFijado As Double
 
-        If dgvFJ_FIJACION.Columns(e.ColumnIndex).Name = "FIJA_cbxAPLICAR" Then
-            Dim valorFijacion, valorFijado As Double
+        '    If (dgvFJ_FIJACION.CurrentRow.Cells("FIJA_cbxAPLICAR").Value = False) Then
+        '        dgvFJ_FIJACION.CurrentRow.Cells("FIJA_cbxAPLICAR").Value = True
+        '    Else
+        '        dgvFJ_FIJACION.CurrentRow.Cells("FIJA_cbxAPLICAR").Value = False
+        '    End If
 
-            If (dgvFJ_FIJACION.CurrentRow.Cells("FIJA_cbxAPLICAR").Value = False) Then
-                dgvFJ_FIJACION.CurrentRow.Cells("FIJA_cbxAPLICAR").Value = True
-            Else
-                dgvFJ_FIJACION.CurrentRow.Cells("FIJA_cbxAPLICAR").Value = False
-            End If
+        '    'INCREMENTO EL VALOR DISPONIBLE AL DESMARCAR
+        '    If (dgvFJ_FIJACION.CurrentRow.Cells("FIJA_cbxAPLICAR").Value = False) Then
+        '        valorDisponible = valorDisponible + dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value
+        '        dgvFJ_FIJACION.CurrentRow.Cells("FIJA_APLICAR").Value = 0
 
-            ''INCREMENTO EL VALOR DISPONIBLE AL DESMARCAR
-            If (dgvFJ_FIJACION.CurrentRow.Cells("FIJA_cbxAPLICAR").Value = False) Then
-                valorDisponible = valorDisponible + dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value
-                dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value = 0
-            Else
-                If (valorFijadoTotal = 0) Then
-                    valorDisponible = dgvPagables.CurrentRow.Cells("contenido_disponible").Value
-                End If
+        '        'valorDisponible = valorDisponible + dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value
+        '        'dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value = 0
+        '    Else
+        '        If (valorFijadoTotal = 0) Then
+        '            valorDisponible = dgvPagables.CurrentRow.Cells("contenido_disponible").Value
+        '            'valorDisponible = dgvPagables.Rows(e.RowIndex).Cells("contenido_disponible").Value
+        '        End If
 
-                valorFijacion = dgvFJ_FIJACION.CurrentRow.Cells("FIJA_CANTIDAD").Value
+        '        'valorFijacion = dgvFJ_FIJACION.Rows(indicePagable).Cells("FIJA_CANTIDAD").Value
+        '        valorFijacion = dgvFJ_FIJACION.CurrentRow.Cells("FIJA_CANTIDAD").Value
 
-                If (valorDisponible > valorFijacion) Then
-                    dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value = valorFijacion
-                End If
+        '        If (valorDisponible > valorFijacion) Then
+        '            dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value = valorFijacion
+        '        End If
 
-                If (valorDisponible <= valorFijacion) Then
-                    dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value = valorDisponible
-                End If
+        '        If (valorDisponible <= valorFijacion) Then
+        '            dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value = valorDisponible
+        '        End If
 
 
-                For i = 0 To dgvFJ_APLICACION.Rows.Count - 1
-                    valorFijado = dgvFJ_APLICACION.Rows(i).Cells("APLI_CANTIDAD").Value
-                    '  MessageBox.Show(valorFijado.ToString)
+        '        For i = 0 To dgvFJ_APLICACION.Rows.Count - 1
+        '            valorFijado = dgvFJ_APLICACION.Rows(i).Cells("APLI_CANTIDAD").Value
+        '            valorFijadoTotal = valorFijadoTotal + valorFijado
+        '        Next
 
-                    valorFijadoTotal = valorFijadoTotal + valorFijado
-                Next
-
-                'valorFijado = dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value
-                'valorFijadoTotal = valorFijadoTotal + valorFijado
-                valorDisponible = valorDisponible - valorFijado
-            End If
-        End If
+        '        'valorFijado = dgvFJ_FIJACION.Rows(e.RowIndex).Cells("FIJA_APLICAR").Value
+        '        'valorFijadoTotal = valorFijadoTotal + valorFijado
+        '        valorDisponible = valorDisponible - valorFijado
+        '    End If
+        'End If
 
     End Sub
 
@@ -940,4 +926,6 @@ Public Class frmFijaciones
     Private Sub gpopagable_Enter(sender As System.Object, e As System.EventArgs) Handles gpopagable.Enter
 
     End Sub
+
+
 End Class
