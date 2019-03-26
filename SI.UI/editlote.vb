@@ -5936,4 +5936,57 @@ Public Class editlote
     Private Sub TabPage5_Click(sender As System.Object, e As System.EventArgs) Handles TabPage5.Click
 
     End Sub
+
+    Private Sub tsEditarRumaFicticia_Click(sender As System.Object, e As System.EventArgs) Handles tsEditarRumaFicticia.Click
+
+        Dim oFactura As New frmFactura
+        oFactura.txtMerma.Text = nupdMerma.Value
+        oFactura.pdtLiquidacion = dtLiquidacionTM
+
+        oFactura.txtTMHActual.Text = txtTMH.Text
+        oFactura.txtH2OActual.Text = txtH20.Text
+        oFactura.txtTMSActual.Text = txtTMS.Text
+        oFactura.txtMermaActual.Text = nupdMerma.Value
+        oFactura.txtTMNSActual.Text = txtTMSN.Text
+
+        oFactura.txtMermaCalculado.Text = nupdMerma.Value
+
+        '"TMH,H2O,PagCu,PagZn,PagPb,PagAg,PagAu,PenAs,PenSb,PenBi,PenZn,PenPb,PenHg,PenSiO2")
+
+        oFactura.txtCUActual.Text = dgvLiquidacionTMTotal.Item("dgtxtCU", 0).Value
+        oFactura.txtAUActual.Text = dgvLiquidacionTMTotal.Item("dgtxtAUoz", 0).Value
+        oFactura.txtAGActual.Text = dgvLiquidacionTMTotal.Item("dgtxtAGoz", 0).Value
+        oFactura.txtZNActual.Text = dgvLiquidacionTMTotal.Item("dgtxtZN", 0).Value
+        oFactura.txtPBActual.Text = dgvLiquidacionTMTotal.Item("dgtxtPB", 0).Value
+
+        oFactura.txtASActual.Text = dgvLiquidacionTMTotal.Item("dgtxtAS", 0).Value
+        oFactura.txtSBActual.Text = dgvLiquidacionTMTotal.Item("dgtxtSB", 0).Value
+        oFactura.txtBIActual.Text = dgvLiquidacionTMTotal.Item("dgtxtBI", 0).Value
+        oFactura.txtSIO2.Text = dgvLiquidacionTMTotal.Item("dgtxtSIO2", 0).Value
+        oFactura.txtHGActual.Text = dgvLiquidacionTMTotal.Item("dgtxtHG", 0).Value
+
+        oFactura.txtClActual.Text = dgvLiquidacionTMTotal.Item("PenClTot", 0).Value
+        oFactura.txtCdActual.Text = dgvLiquidacionTMTotal.Item("PenCdTot", 0).Value
+        oFactura.txtFActual.Text = dgvLiquidacionTMTotal.Item("PenFTot", 0).Value
+        oFactura.txtSActual.Text = dgvLiquidacionTMTotal.Item("PenSTot", 0).Value
+        oFactura.txtFeActual.Text = dgvLiquidacionTMTotal.Item("PenFeTot", 0).Value
+        oFactura.txtAl203Actual.Text = dgvLiquidacionTMTotal.Item("PenAl203Tot", 0).Value
+        oFactura.txtCoActual.Text = dgvLiquidacionTMTotal.Item("PenCoTot", 0).Value
+        oFactura.txtMoActual.Text = dgvLiquidacionTMTotal.Item("PenMoTot", 0).Value
+        oFactura.txtPActual.Text = dgvLiquidacionTMTotal.Item("PenPTot", 0).Value
+
+        oFactura.ShowDialog()
+
+        If oFactura.pAsociar Then
+            dvwLiquidacionTM = New DataView(dtLiquidacionTM)
+            dgvLiquidacionTM.AutoGenerateColumns = False
+            dgvLiquidacionTM.DataSource = dvwLiquidacionTM
+
+            ResumenGeneral()
+            tsbGuardar_Click(Nothing, Nothing)
+
+        End If
+
+        oFactura.Close()
+    End Sub
 End Class
