@@ -28,6 +28,7 @@ Public Class Comercial_Composicion
                     Me.Text = "Composición de Mezclas"
 
                 Case "Composicion_Venta"
+                    cboPeriodo2.Visible = True
                     lblTitulo.Text = "Composición de Vinculadas / Ventas"
                     Me.Text = "Composición de Vinculadas / Ventas"
 
@@ -124,6 +125,19 @@ Public Class Comercial_Composicion
                 'tipoReporte = "Entregas_x_ Proveedor"
 
                 parameters = {rpPeriodo, rpPeriodo2}
+
+            ElseIf tipoReporte = "Composicion_Venta" Then
+                Dim rpPeriodo As New ReportParameter()
+                rpPeriodo.Name = "PERIODO"
+                rpPeriodo.Values.Add(periodo)
+
+                Dim rpPeriodo2 As New ReportParameter()
+                rpPeriodo2.Name = "PERIODO_DESTINO"
+                rpPeriodo2.Values.Add(cboPeriodo2.SelectedValue)
+
+                'Set the report parameters for the report
+                parameters = {rpUsuario, rpPeriodo, rpPeriodo2}
+
             Else
                 Dim rpPeriodo As New ReportParameter()
                 rpPeriodo.Name = "PERIODO"
