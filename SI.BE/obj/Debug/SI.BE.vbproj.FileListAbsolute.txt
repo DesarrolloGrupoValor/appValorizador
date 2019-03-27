@@ -146,7 +146,6 @@ D:\ENPROYEC\VALORIZADOR - NEW\SI.BE\obj\Debug\SI.BE.vbproj.GenerateResource.Cach
 D:\ENPROYEC\VALORIZADOR - NEW\SI.BE\obj\Debug\SI.BE.dll
 D:\ENPROYEC\VALORIZADOR - NEW\SI.BE\obj\Debug\SI.BE.xml
 D:\ENPROYEC\VALORIZADOR - NEW\SI.BE\obj\Debug\SI.BE.pdb
-E:\SISTEMAS\Valorizador\FUENTE\SI.BE\obj\Debug\SI.BE.vbprojResolveAssemblyReference.cache
 D:\ENPROYEC\VALORIZADOR\SI.BE\bin\Debug\SI.BE.dll
 D:\ENPROYEC\VALORIZADOR\SI.BE\bin\Debug\SI.BE.pdb
 D:\ENPROYEC\VALORIZADOR\SI.BE\bin\Debug\SI.BE.xml

@@ -146,7 +146,6 @@ D:\ENPROYEC\VALORIZADOR - NEW\SI.UT\obj\Debug\SI.UT.vbproj.GenerateResource.Cach
 D:\ENPROYEC\VALORIZADOR - NEW\SI.UT\obj\Debug\SI.UT.dll
 D:\ENPROYEC\VALORIZADOR - NEW\SI.UT\obj\Debug\SI.UT.xml
 D:\ENPROYEC\VALORIZADOR - NEW\SI.UT\obj\Debug\SI.UT.pdb
-E:\SISTEMAS\Valorizador\FUENTE\SI.UT\obj\Debug\SI.UT.vbprojResolveAssemblyReference.cache
 D:\ENPROYEC\VALORIZADOR\SI.UT\bin\Debug\SI.UT.dll
 D:\ENPROYEC\VALORIZADOR\SI.UT\bin\Debug\SI.UT.pdb
 D:\ENPROYEC\VALORIZADOR\SI.UT\bin\Debug\SI.UT.xml
