@@ -1286,6 +1286,55 @@ Namespace SI.DB
 
         End Function
 
+        Public Function LeerListaToDSComposicionVentaSab() As DataSet
+            Dim oDSContratoLote As New DataSet
+
+            'Dim prmParameter(2) As SqlParameter
+            'prmParameter(0) = New SqlParameter("@PERIODO", SqlDbType.VarChar, 6)
+            'prmParameter(0).Value = "201801"
+            'prmParameter(1) = New SqlParameter("@TIPO_CONTABLE", SqlDbType.VarChar, 1)
+            'prmParameter(1).Value = " "
+            'prmParameter(2) = New SqlParameter("@PERIODO_DESTINO", SqlDbType.VarChar, 6)
+            'prmParameter(2).Value = "201801"
+
+            Try
+
+                Dim cnx As New SqlConnection(CadenaConexion)
+                Dim cmd As New SqlCommand()
+                Dim da As New SqlDataAdapter()
+
+                cmd.Connection = cnx
+                cmd.CommandText = "up_RPT_Composicion_Venta"
+                cmd.Parameters.Add("@PERIODO", "201801")
+                cmd.Parameters.Add("@TIPO_CONTABLE", "")
+                cmd.Parameters.Add("@PERIODO_DESTINO", "201801")
+
+                cmd.CommandType = Data.CommandType.StoredProcedure
+                cmd.CommandTimeout = 30000
+
+                da.SelectCommand = cmd
+
+                da.Fill(oDSContratoLote)
+
+
+
+                'Using oDSContratoLote
+                '    oDSContratoLote = SqlHelper.ExecuteDataset(CadenaConexion, CommandType.StoredProcedure, "up_RPT_Composicion_Venta", prmParameter)
+                '    If Not oDSContratoLote Is Nothing Then
+                '        If oDSContratoLote.Tables.Count > 0 Then
+                '            If oDSContratoLote.Tables(0).Rows.Count > 0 Then
+                '                Return oDSContratoLote
+                '            End If
+                '        End If
+                '    End If
+                'End Using
+            Catch ex As Exception
+                Throw ex
+
+            End Try
+            Return oDSContratoLote
+
+        End Function
 
         Protected Overrides Sub Finalize()
             MyBase.Finalize()

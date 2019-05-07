@@ -343,6 +343,15 @@ Namespace SI.BC
             End Try
         End Function
 
+        Public Function LeerListaToDSComposicionVentaSab() As DataSet
+            Try
+                oDSContratoLote = oDBContratoLoteRO.LeerListaToDSComposicionVentaSab()
+                Return oDSContratoLote
+            Catch ex As Exception
+                Throw ex
+            End Try
+        End Function
+
     End Class
 End Namespace
 

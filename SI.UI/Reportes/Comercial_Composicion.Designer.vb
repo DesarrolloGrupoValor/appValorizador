@@ -25,8 +25,13 @@ Partial Class Comercial_Composicion
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Comercial_Composicion))
         Me.SaveFileDialog1 = New System.Windows.Forms.SaveFileDialog()
         Me.gpoContratos = New CUGroupBox()
+        Me.GroupBox3 = New System.Windows.Forms.GroupBox()
+        Me.Rb_Amb = New System.Windows.Forms.RadioButton()
+        Me.Rb_Ter = New System.Windows.Forms.RadioButton()
+        Me.Rb_Vin = New System.Windows.Forms.RadioButton()
         Me.CbSabana = New System.Windows.Forms.CheckBox()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.fxgrdComposicionVCM = New C1FlexDataTree()
         Me.rptReportViewer = New Microsoft.Reporting.WinForms.ReportViewer()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
         Me.WebBrowser1 = New System.Windows.Forms.WebBrowser()
@@ -44,7 +49,9 @@ Partial Class Comercial_Composicion
         Me.CuGroupBox1 = New CUGroupBox()
         Me.fxgrdExtraccionBd = New C1.Win.C1FlexGrid.C1FlexGrid()
         Me.gpoContratos.SuspendLayout()
+        Me.GroupBox3.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
+        CType(Me.fxgrdComposicionVCM, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox2.SuspendLayout()
         Me.CuGroupBox2.SuspendLayout()
         Me.tsMantenimiento.SuspendLayout()
@@ -62,6 +69,7 @@ Partial Class Comercial_Composicion
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.gpoContratos.BackColor = System.Drawing.Color.LemonChiffon
         Me.gpoContratos.BorderColor = System.Drawing.Color.Black
+        Me.gpoContratos.Controls.Add(Me.GroupBox3)
         Me.gpoContratos.Controls.Add(Me.CbSabana)
         Me.gpoContratos.Controls.Add(Me.GroupBox1)
         Me.gpoContratos.Controls.Add(Me.GroupBox2)
@@ -77,10 +85,54 @@ Partial Class Comercial_Composicion
         Me.gpoContratos.TabIndex = 16
         Me.gpoContratos.TabStop = False
         '
+        'GroupBox3
+        '
+        Me.GroupBox3.Controls.Add(Me.Rb_Amb)
+        Me.GroupBox3.Controls.Add(Me.Rb_Ter)
+        Me.GroupBox3.Controls.Add(Me.Rb_Vin)
+        Me.GroupBox3.Location = New System.Drawing.Point(561, 86)
+        Me.GroupBox3.Name = "GroupBox3"
+        Me.GroupBox3.Size = New System.Drawing.Size(268, 36)
+        Me.GroupBox3.TabIndex = 27
+        Me.GroupBox3.TabStop = False
+        Me.GroupBox3.Text = "Filtrar Por"
+        '
+        'Rb_Amb
+        '
+        Me.Rb_Amb.AutoSize = True
+        Me.Rb_Amb.Checked = True
+        Me.Rb_Amb.Location = New System.Drawing.Point(179, 14)
+        Me.Rb_Amb.Name = "Rb_Amb"
+        Me.Rb_Amb.Size = New System.Drawing.Size(57, 17)
+        Me.Rb_Amb.TabIndex = 2
+        Me.Rb_Amb.TabStop = True
+        Me.Rb_Amb.Text = "Ambos"
+        Me.Rb_Amb.UseVisualStyleBackColor = True
+        '
+        'Rb_Ter
+        '
+        Me.Rb_Ter.AutoSize = True
+        Me.Rb_Ter.Location = New System.Drawing.Point(106, 15)
+        Me.Rb_Ter.Name = "Rb_Ter"
+        Me.Rb_Ter.Size = New System.Drawing.Size(67, 17)
+        Me.Rb_Ter.TabIndex = 1
+        Me.Rb_Ter.Text = "Terceros"
+        Me.Rb_Ter.UseVisualStyleBackColor = True
+        '
+        'Rb_Vin
+        '
+        Me.Rb_Vin.AutoSize = True
+        Me.Rb_Vin.Location = New System.Drawing.Point(23, 15)
+        Me.Rb_Vin.Name = "Rb_Vin"
+        Me.Rb_Vin.Size = New System.Drawing.Size(77, 17)
+        Me.Rb_Vin.TabIndex = 0
+        Me.Rb_Vin.Text = "Vinculadas"
+        Me.Rb_Vin.UseVisualStyleBackColor = True
+        '
         'CbSabana
         '
         Me.CbSabana.AutoSize = True
-        Me.CbSabana.Location = New System.Drawing.Point(654, 94)
+        Me.CbSabana.Location = New System.Drawing.Point(861, 99)
         Me.CbSabana.Name = "CbSabana"
         Me.CbSabana.Size = New System.Drawing.Size(87, 17)
         Me.CbSabana.TabIndex = 26
@@ -93,12 +145,23 @@ Partial Class Comercial_Composicion
         Me.GroupBox1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox1.Controls.Add(Me.fxgrdComposicionVCM)
         Me.GroupBox1.Controls.Add(Me.rptReportViewer)
         Me.GroupBox1.Location = New System.Drawing.Point(206, 118)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Size = New System.Drawing.Size(857, 324)
         Me.GroupBox1.TabIndex = 25
         Me.GroupBox1.TabStop = False
+        '
+        'fxgrdComposicionVCM
+        '
+        Me.fxgrdComposicionVCM.ColumnInfo = "10,1,0,0,0,95,Columns:0{Width:38;Style:""ImageAlign:RightCenter;"";}" & Global.Microsoft.VisualBasic.ChrW(9)
+        Me.fxgrdComposicionVCM.DrawMode = C1.Win.C1FlexGrid.DrawModeEnum.OwnerDraw
+        Me.fxgrdComposicionVCM.Location = New System.Drawing.Point(6, 33)
+        Me.fxgrdComposicionVCM.Name = "fxgrdComposicionVCM"
+        Me.fxgrdComposicionVCM.Rows.DefaultSize = 19
+        Me.fxgrdComposicionVCM.Size = New System.Drawing.Size(845, 285)
+        Me.fxgrdComposicionVCM.TabIndex = 1
         '
         'rptReportViewer
         '
@@ -267,7 +330,10 @@ Partial Class Comercial_Composicion
         Me.Text = "Comercial_Resultado"
         Me.gpoContratos.ResumeLayout(False)
         Me.gpoContratos.PerformLayout()
+        Me.GroupBox3.ResumeLayout(False)
+        Me.GroupBox3.PerformLayout()
         Me.GroupBox1.ResumeLayout(False)
+        CType(Me.fxgrdComposicionVCM, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox2.ResumeLayout(False)
         Me.CuGroupBox2.ResumeLayout(False)
         Me.CuGroupBox2.PerformLayout()
@@ -298,4 +364,9 @@ Partial Class Comercial_Composicion
     Friend WithEvents tsbConsular As System.Windows.Forms.ToolStripButton
     Friend WithEvents cboPeriodo2 As System.Windows.Forms.ComboBox
     Friend WithEvents CbSabana As System.Windows.Forms.CheckBox
+    Friend WithEvents fxgrdComposicionVCM As C1FlexDataTree
+    Friend WithEvents GroupBox3 As System.Windows.Forms.GroupBox
+    Friend WithEvents Rb_Amb As System.Windows.Forms.RadioButton
+    Friend WithEvents Rb_Ter As System.Windows.Forms.RadioButton
+    Friend WithEvents Rb_Vin As System.Windows.Forms.RadioButton
 End Class

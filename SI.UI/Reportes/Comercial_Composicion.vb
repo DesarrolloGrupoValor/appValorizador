@@ -15,11 +15,19 @@ Public Class Comercial_Composicion
     Public tipoReporte As String = ""
     Dim dvwRegistros As DataView
 
+
     Private Sub Comercial_Composicion_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Me.WindowState = FormWindowState.Maximized
+        fxgrdComposicionVCM.Visible = False
+
         Try
 
             cboPeriodo2.Visible = False
+            GroupBox3.Visible = False
+            Rb_Vin.Visible = False
+            Rb_Ter.Visible = False
+            Rb_Amb.Visible = False
+
 
             Select Case tipoReporte
 
@@ -32,9 +40,12 @@ Public Class Comercial_Composicion
                     lblTitulo.Text = "Composición de Vinculadas / Ventas"
                     Me.Text = "Composición de Vinculadas / Ventas"
 
+                    CbSabana.Visible = True
+
                 Case "Resumen_Comercial"
                     lblTitulo.Text = "Reporte: Resumen Comercial"
                     Me.Text = "Resumen Comercial"
+
 
                 Case "Indicadores_Resumen"
                     lblTitulo.Text = "Reporte: Indicadores Resumen"
@@ -56,6 +67,11 @@ Public Class Comercial_Composicion
 
                     cboPeriodo2.Visible = True
                     CbSabana.Visible = True
+                    GroupBox3.Visible = True
+                    Rb_Vin.Visible = True
+                    Rb_Ter.Visible = True
+                    Rb_Amb.Visible = True
+
 
                 Case "Entregas_x_Proveedor"
 
@@ -79,6 +95,10 @@ Public Class Comercial_Composicion
 
     Private Sub ObtenerRegistros(ByVal periodo As String)
         Try
+
+            Dim dsregistros As New DataSet
+            Dim oContratoRO As New clsBC_ContratoLoteRO
+
             Dim rpUsuario As New ReportParameter()
             rpUsuario.Name = "USUARIO"
             rpUsuario.Values.Add(pBEUsuario.descri)
@@ -105,6 +125,10 @@ Public Class Comercial_Composicion
                 rpPeriodo2.Name = "PERIODO_DESTINO"
                 rpPeriodo2.Values.Add(cboPeriodo2.SelectedValue)
 
+                Dim rpTipoProv As New ReportParameter()
+                rpTipoProv.Name = "TIPOPROV"
+                rpTipoProv.Values.Add(IIf(Rb_Vin.Checked, "V", IIf(Rb_Ter.Checked, "T", IIf(Rb_Amb.Checked, "A", ""))))
+
                 If CbSabana.Checked Then
                     tipoReporte = "CostoVentaSegSab"
                 Else
@@ -112,7 +136,7 @@ Public Class Comercial_Composicion
                 End If
 
                 'Set the report parameters for the report
-                parameters = {rpPeriodo, rpPeriodo2}
+                parameters = {rpPeriodo, rpPeriodo2, rpTipoProv}
             ElseIf tipoReporte = "Entregas_x_Proveedor" Then
                 Dim rpPeriodo As New ReportParameter()
                 rpPeriodo.Name = "PERIODO"
@@ -128,12 +152,27 @@ Public Class Comercial_Composicion
 
             ElseIf tipoReporte = "Composicion_Venta" Then
                 Dim rpPeriodo As New ReportParameter()
+
                 rpPeriodo.Name = "PERIODO"
                 rpPeriodo.Values.Add(periodo)
 
                 Dim rpPeriodo2 As New ReportParameter()
                 rpPeriodo2.Name = "PERIODO_DESTINO"
                 rpPeriodo2.Values.Add(cboPeriodo2.SelectedValue)
+
+                If CbSabana.Checked Then
+
+                    tipoReporte = "Composicion_VentaSab"
+                    fxgrdComposicionVCM.Visible = True
+                    rptReportViewer.Visible = False
+
+                    dsregistros = oContratoRO.LeerListaToDSComposicionVentaSab
+                    dvwRegistros = New DataView(dsregistros.Tables(0))
+
+                    fxgrdComposicionVCM.DataSource = dvwRegistros
+                Else
+                    tipoReporte = "Composicion_Venta"
+                End If
 
                 'Set the report parameters for the report
                 parameters = {rpUsuario, rpPeriodo, rpPeriodo2}
@@ -150,9 +189,10 @@ Public Class Comercial_Composicion
             End If
 
 
-            Dim oProcedimientos As New clsProcedimientos
-            oProcedimientos.ConfigurationReporting(tipoReporte, rptReportViewer, parameters)
-
+            If Not (tipoReporte = "Composicion_VentaSab" And CbSabana.Checked) Then
+                Dim oProcedimientos As New clsProcedimientos
+                oProcedimientos.ConfigurationReporting(tipoReporte, rptReportViewer, parameters)
+            End If
         Catch ex As Exception
             oMensajeError.txtMensaje.Text = ex.ToString()
             oMensajeError.ShowDialog()
