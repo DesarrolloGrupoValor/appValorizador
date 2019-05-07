@@ -6,34 +6,11 @@ VCM
 </name>
 </assembly>
 <members>
-<member name="P:CUTextbox.VCM_TipoIngreso">
-	<summary>Set or Gets TextBox Input Types as TIPO_CONFIGURACION</summary>
-</member><member name="P:CUTextbox.VCM_ColorRecibirFoco">
-	<summary>Set or Get the color of the control when it receives focus</summary>
-</member><member name="P:CUTextbox.VCM_ColorPerderFoco">
-	<summary>Set or Get the color of the control when it lost focus</summary>
-</member><member name="P:CUTextbox.VCM_CustomInputTypeString">
-	<summary>Set or Get custom control's Custom Input Type string format</summary>
-</member><member name="P:CUTextbox.VCM_CustomOmmitString">
-	<summary>Set or Get custom control's Custom Input Type string format</summary>
-</member><member name="P:CUTextbox.AutoFormat">
-	<summary>Set or Get control Auto Format Style</summary>
-</member><member name="P:CUTextbox.MandatoryField">
-	<summary>Set or Get controls mandatory status</summary>
-</member><member name="P:CUTextbox.MandatoryColor">
-	<summary>Set or Get the color of the control when the mandatory field is empty</summary>
-</member><member name="P:CUTextbox.VCM_NumeroPrecision">
-	<summary>Set or Get Number of decimal places</summary>
-</member><member name="P:CUTextbox.VCM_RegularExpression">
-	<summary>Set or Get Regular Expression for Custom Validation</summary>
-</member><member name="P:CUTextbox.VCM_RegularExpressionErrorMessage">
-	<summary>Set or Get Regular Expression Validation Custom Error Message</summary>
-</member><member name="P:CUTextbox.VCM_ShowMessage">
-	<summary>Set or Get automatic validation error display status</summary>
-</member><member name="P:CUTextbox.VCM_IsValidated">
-	<summary>Set or Get controls validation status</summary>
-</member><member name="P:CUTextbox.VCM_EnterFocus">
-	<summary>Set or Get controls validation status</summary>
+<member name="M:editlote.costoServicio">
+	<summary>
+ Calcula el costo de los servicios
+ </summary>
+	<remarks></remarks>
 </member><member name="P:My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
@@ -115,6 +92,34 @@ VCM
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
+</member><member name="P:CUTextbox.VCM_TipoIngreso">
+	<summary>Set or Gets TextBox Input Types as TIPO_CONFIGURACION</summary>
+</member><member name="P:CUTextbox.VCM_ColorRecibirFoco">
+	<summary>Set or Get the color of the control when it receives focus</summary>
+</member><member name="P:CUTextbox.VCM_ColorPerderFoco">
+	<summary>Set or Get the color of the control when it lost focus</summary>
+</member><member name="P:CUTextbox.VCM_CustomInputTypeString">
+	<summary>Set or Get custom control's Custom Input Type string format</summary>
+</member><member name="P:CUTextbox.VCM_CustomOmmitString">
+	<summary>Set or Get custom control's Custom Input Type string format</summary>
+</member><member name="P:CUTextbox.AutoFormat">
+	<summary>Set or Get control Auto Format Style</summary>
+</member><member name="P:CUTextbox.MandatoryField">
+	<summary>Set or Get controls mandatory status</summary>
+</member><member name="P:CUTextbox.MandatoryColor">
+	<summary>Set or Get the color of the control when the mandatory field is empty</summary>
+</member><member name="P:CUTextbox.VCM_NumeroPrecision">
+	<summary>Set or Get Number of decimal places</summary>
+</member><member name="P:CUTextbox.VCM_RegularExpression">
+	<summary>Set or Get Regular Expression for Custom Validation</summary>
+</member><member name="P:CUTextbox.VCM_RegularExpressionErrorMessage">
+	<summary>Set or Get Regular Expression Validation Custom Error Message</summary>
+</member><member name="P:CUTextbox.VCM_ShowMessage">
+	<summary>Set or Get automatic validation error display status</summary>
+</member><member name="P:CUTextbox.VCM_IsValidated">
+	<summary>Set or Get controls validation status</summary>
+</member><member name="P:CUTextbox.VCM_EnterFocus">
+	<summary>Set or Get controls validation status</summary>
 </member><member name="P:My.Resources.Resource_ES.ResourceManager">
 	<summary>
   Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
@@ -128,11 +133,6 @@ VCM
 	<summary>
   Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
 </summary>
-</member><member name="M:editlote.costoServicio">
-	<summary>
- Calcula el costo de los servicios
- </summary>
-	<remarks></remarks>
 </member>
 </members>
 </doc>
