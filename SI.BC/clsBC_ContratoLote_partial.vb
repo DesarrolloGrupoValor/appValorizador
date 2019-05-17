@@ -177,6 +177,14 @@ Namespace SI.BC
                 Throw ex
             End Try
         End Function
+        Public Function LeerListaToDSSaldoLosa() As DataSet
+            Try
+                oDSContratoLote = oDBContratoLoteRO.LeerListaToDSSaldoLosa(oBEContratoLote)
+                Return oDSContratoLote
+            Catch ex As Exception
+                Throw ex
+            End Try
+        End Function
 
         Public Function LeerListaToDSContable_Kardex(sTipo As String) As DataSet
             Try

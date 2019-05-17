@@ -6,93 +6,7 @@ VCM
 </name>
 </assembly>
 <members>
-<member name="M:editlote.costoServicio">
-	<summary>
- Calcula el costo de los servicios
- </summary>
-	<remarks></remarks>
-</member><member name="P:My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="P:My.Resources.Resources.adelantos">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.aprobar">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.asociar_">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.asociar_1">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.consultar">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.editar">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.eliminar">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.Folder">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.guardar">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.liquidacion">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.logo_fijaciones">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.nuevo">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.procesar">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.quitarFiltro">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.refrescar">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.reportes">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:My.Resources.Resources.salir">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="T:My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
-</member><member name="P:CUTextbox.VCM_TipoIngreso">
+<member name="P:CUTextbox.VCM_TipoIngreso">
 	<summary>Set or Gets TextBox Input Types as TIPO_CONFIGURACION</summary>
 </member><member name="P:CUTextbox.VCM_ColorRecibirFoco">
 	<summary>Set or Get the color of the control when it receives focus</summary>
@@ -214,6 +128,11 @@ VCM
 	<summary>
   Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
 </summary>
+</member><member name="M:editlote.costoServicio">
+	<summary>
+ Calcula el costo de los servicios
+ </summary>
+	<remarks></remarks>
 </member>
 </members>
 </doc>

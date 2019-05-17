@@ -37,6 +37,7 @@ Public Class Comercial_Composicion
 
                 Case "Composicion_Venta"
                     cboPeriodo2.Visible = True
+                    tsbExportarExcel.Visible = True
                     lblTitulo.Text = "Composición de Vinculadas / Ventas"
                     Me.Text = "Composición de Vinculadas / Ventas"
 

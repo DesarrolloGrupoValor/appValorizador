@@ -23,18 +23,24 @@ Partial Class frmValidarSaldoFinal
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmValidarSaldoFinal))
         Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmValidarSaldoFinal))
         Dim DataGridViewCellStyle8 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle17 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle18 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle9 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle10 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle11 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle12 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle13 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle14 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle15 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle16 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.dgvSaldoFinal = New System.Windows.Forms.DataGridView()
         Me.calidad = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.precinto = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -45,6 +51,7 @@ Partial Class frmValidarSaldoFinal
         Me.ticket = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.TsMantenimiento = New System.Windows.Forms.ToolStrip()
         Me.tsbPegar = New System.Windows.Forms.ToolStripButton()
+        Me.tsbCargar = New System.Windows.Forms.ToolStripButton()
         Me.TsbConsultar = New System.Windows.Forms.ToolStripButton()
         Me.tsbEliminar = New System.Windows.Forms.ToolStripButton()
         Me.tsbLimpiar = New System.Windows.Forms.ToolStripButton()
@@ -86,12 +93,34 @@ Partial Class frmValidarSaldoFinal
         '
         'dgvSaldoFinal
         '
-        Me.dgvSaldoFinal.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvSaldoFinal.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
         Me.dgvSaldoFinal.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgvSaldoFinal.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.calidad, Me.precinto, Me.ruma, Me.clase, Me.tmh, Me.fec_ingreso, Me.ticket})
+        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle6.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgvSaldoFinal.DefaultCellStyle = DataGridViewCellStyle6
         Me.dgvSaldoFinal.Location = New System.Drawing.Point(6, 53)
         Me.dgvSaldoFinal.Name = "dgvSaldoFinal"
+        DataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle7.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle7.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvSaldoFinal.RowHeadersDefaultCellStyle = DataGridViewCellStyle7
         Me.dgvSaldoFinal.RowHeadersWidth = 20
         Me.dgvSaldoFinal.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.dgvSaldoFinal.Size = New System.Drawing.Size(616, 390)
@@ -105,16 +134,16 @@ Partial Class frmValidarSaldoFinal
         '
         'precinto
         '
-        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        Me.precinto.DefaultCellStyle = DataGridViewCellStyle1
-        Me.precinto.HeaderText = "Preciento"
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        Me.precinto.DefaultCellStyle = DataGridViewCellStyle2
+        Me.precinto.HeaderText = "Precinto"
         Me.precinto.Name = "precinto"
         Me.precinto.Width = 60
         '
         'ruma
         '
-        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        Me.ruma.DefaultCellStyle = DataGridViewCellStyle2
+        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        Me.ruma.DefaultCellStyle = DataGridViewCellStyle3
         Me.ruma.HeaderText = "Ruma"
         Me.ruma.Name = "ruma"
         Me.ruma.Width = 80
@@ -127,17 +156,17 @@ Partial Class frmValidarSaldoFinal
         '
         'tmh
         '
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle3.Format = "N2"
-        Me.tmh.DefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle4.Format = "N2"
+        Me.tmh.DefaultCellStyle = DataGridViewCellStyle4
         Me.tmh.HeaderText = "TMH"
         Me.tmh.Name = "tmh"
         Me.tmh.Width = 60
         '
         'fec_ingreso
         '
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        Me.fec_ingreso.DefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        Me.fec_ingreso.DefaultCellStyle = DataGridViewCellStyle5
         Me.fec_ingreso.HeaderText = "F.Ingreso"
         Me.fec_ingreso.Name = "fec_ingreso"
         Me.fec_ingreso.Width = 85
@@ -152,7 +181,7 @@ Partial Class frmValidarSaldoFinal
         '
         Me.TsMantenimiento.BackColor = System.Drawing.SystemColors.Control
         Me.TsMantenimiento.ImageScalingSize = New System.Drawing.Size(32, 32)
-        Me.TsMantenimiento.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.tsbPegar, Me.TsbConsultar, Me.tsbEliminar, Me.tsbLimpiar, Me.ToolStripSeparator1, Me.TsbExportarExcel, Me.ToolStripSeparator2, Me.TsbSalir})
+        Me.TsMantenimiento.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.tsbPegar, Me.tsbCargar, Me.TsbConsultar, Me.tsbEliminar, Me.tsbLimpiar, Me.ToolStripSeparator1, Me.TsbExportarExcel, Me.ToolStripSeparator2, Me.TsbSalir})
         Me.TsMantenimiento.Location = New System.Drawing.Point(0, 0)
         Me.TsMantenimiento.Name = "TsMantenimiento"
         Me.TsMantenimiento.Size = New System.Drawing.Size(1354, 39)
@@ -167,6 +196,14 @@ Partial Class frmValidarSaldoFinal
         Me.tsbPegar.Name = "tsbPegar"
         Me.tsbPegar.Size = New System.Drawing.Size(133, 36)
         Me.tsbPegar.Text = "Pegar Saldo Final"
+        '
+        'tsbCargar
+        '
+        Me.tsbCargar.Image = Global.My.Resources.Resources.Folder
+        Me.tsbCargar.ImageTransparentColor = System.Drawing.Color.Magenta
+        Me.tsbCargar.Name = "tsbCargar"
+        Me.tsbCargar.Size = New System.Drawing.Size(111, 36)
+        Me.tsbCargar.Text = "Cargar Datos"
         '
         'TsbConsultar
         '
@@ -224,10 +261,34 @@ Partial Class frmValidarSaldoFinal
         Me.dgvValidarSaldoFinal.AllowUserToDeleteRows = False
         Me.dgvValidarSaldoFinal.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        DataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle8.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvValidarSaldoFinal.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle8
         Me.dgvValidarSaldoFinal.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgvValidarSaldoFinal.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.empresa, Me.lote_origen, Me.ruma_origen, Me.c_c_precinto, Me.tmh_sf, Me.Column1, Me.DataGridViewTextBoxColumn1, Me.dgvtxtPrecinto, Me.DataGridViewTextBoxColumn3, Me.DataGridViewTextBoxColumn4, Me.DataGridViewTextBoxColumn5, Me.DataGridViewTextBoxColumn6, Me.DataGridViewTextBoxColumn7, Me.dgvtxtObs, Me.Dif})
+        DataGridViewCellStyle17.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle17.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle17.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle17.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle17.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle17.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle17.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgvValidarSaldoFinal.DefaultCellStyle = DataGridViewCellStyle17
         Me.dgvValidarSaldoFinal.Location = New System.Drawing.Point(6, 53)
         Me.dgvValidarSaldoFinal.Name = "dgvValidarSaldoFinal"
+        DataGridViewCellStyle18.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle18.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle18.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle18.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle18.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle18.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle18.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvValidarSaldoFinal.RowHeadersDefaultCellStyle = DataGridViewCellStyle18
         Me.dgvValidarSaldoFinal.RowHeadersWidth = 20
         Me.dgvValidarSaldoFinal.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.dgvValidarSaldoFinal.Size = New System.Drawing.Size(680, 390)
@@ -257,8 +318,8 @@ Partial Class frmValidarSaldoFinal
         'c_c_precinto
         '
         Me.c_c_precinto.DataPropertyName = "C_C_PRECINTO"
-        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        Me.c_c_precinto.DefaultCellStyle = DataGridViewCellStyle5
+        DataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        Me.c_c_precinto.DefaultCellStyle = DataGridViewCellStyle9
         Me.c_c_precinto.HeaderText = "Precinto"
         Me.c_c_precinto.Name = "c_c_precinto"
         Me.c_c_precinto.Width = 65
@@ -266,17 +327,17 @@ Partial Class frmValidarSaldoFinal
         'tmh_sf
         '
         Me.tmh_sf.DataPropertyName = "TMH_SF"
-        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle6.Format = "N2"
-        Me.tmh_sf.DefaultCellStyle = DataGridViewCellStyle6
+        DataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle10.Format = "N2"
+        Me.tmh_sf.DefaultCellStyle = DataGridViewCellStyle10
         Me.tmh_sf.HeaderText = "Tmh SF"
         Me.tmh_sf.Name = "tmh_sf"
         Me.tmh_sf.Width = 80
         '
         'Column1
         '
-        DataGridViewCellStyle7.BackColor = System.Drawing.Color.Silver
-        Me.Column1.DefaultCellStyle = DataGridViewCellStyle7
+        DataGridViewCellStyle11.BackColor = System.Drawing.Color.Silver
+        Me.Column1.DefaultCellStyle = DataGridViewCellStyle11
         Me.Column1.HeaderText = ""
         Me.Column1.Name = "Column1"
         Me.Column1.Width = 15
@@ -292,8 +353,8 @@ Partial Class frmValidarSaldoFinal
         'dgvtxtPrecinto
         '
         Me.dgvtxtPrecinto.DataPropertyName = "precinto"
-        DataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        Me.dgvtxtPrecinto.DefaultCellStyle = DataGridViewCellStyle8
+        DataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        Me.dgvtxtPrecinto.DefaultCellStyle = DataGridViewCellStyle12
         Me.dgvtxtPrecinto.HeaderText = "Preciento"
         Me.dgvtxtPrecinto.Name = "dgvtxtPrecinto"
         Me.dgvtxtPrecinto.Width = 60
@@ -316,10 +377,10 @@ Partial Class frmValidarSaldoFinal
         'DataGridViewTextBoxColumn5
         '
         Me.DataGridViewTextBoxColumn5.DataPropertyName = "tmh"
-        DataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle9.Format = "N2"
-        DataGridViewCellStyle9.NullValue = Nothing
-        Me.DataGridViewTextBoxColumn5.DefaultCellStyle = DataGridViewCellStyle9
+        DataGridViewCellStyle13.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle13.Format = "N2"
+        DataGridViewCellStyle13.NullValue = Nothing
+        Me.DataGridViewTextBoxColumn5.DefaultCellStyle = DataGridViewCellStyle13
         Me.DataGridViewTextBoxColumn5.HeaderText = "Tmh"
         Me.DataGridViewTextBoxColumn5.Name = "DataGridViewTextBoxColumn5"
         Me.DataGridViewTextBoxColumn5.Width = 80
@@ -327,9 +388,9 @@ Partial Class frmValidarSaldoFinal
         'DataGridViewTextBoxColumn6
         '
         Me.DataGridViewTextBoxColumn6.DataPropertyName = "fec_ingreso"
-        DataGridViewCellStyle10.Format = "d"
-        DataGridViewCellStyle10.NullValue = Nothing
-        Me.DataGridViewTextBoxColumn6.DefaultCellStyle = DataGridViewCellStyle10
+        DataGridViewCellStyle14.Format = "d"
+        DataGridViewCellStyle14.NullValue = Nothing
+        Me.DataGridViewTextBoxColumn6.DefaultCellStyle = DataGridViewCellStyle14
         Me.DataGridViewTextBoxColumn6.HeaderText = "F.Ingreso"
         Me.DataGridViewTextBoxColumn6.Name = "DataGridViewTextBoxColumn6"
         Me.DataGridViewTextBoxColumn6.Visible = False
@@ -345,8 +406,8 @@ Partial Class frmValidarSaldoFinal
         'dgvtxtObs
         '
         Me.dgvtxtObs.DataPropertyName = "OBS"
-        DataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        Me.dgvtxtObs.DefaultCellStyle = DataGridViewCellStyle11
+        DataGridViewCellStyle15.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        Me.dgvtxtObs.DefaultCellStyle = DataGridViewCellStyle15
         Me.dgvtxtObs.HeaderText = "Observ."
         Me.dgvtxtObs.Name = "dgvtxtObs"
         Me.dgvtxtObs.Width = 50
@@ -354,9 +415,9 @@ Partial Class frmValidarSaldoFinal
         'Dif
         '
         Me.Dif.DataPropertyName = "DIF"
-        DataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle12.Format = "N2"
-        Me.Dif.DefaultCellStyle = DataGridViewCellStyle12
+        DataGridViewCellStyle16.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle16.Format = "N2"
+        Me.Dif.DefaultCellStyle = DataGridViewCellStyle16
         Me.Dif.HeaderText = "Diferencia"
         Me.Dif.Name = "Dif"
         Me.Dif.Width = 80
@@ -478,13 +539,6 @@ Partial Class frmValidarSaldoFinal
     Friend WithEvents GroupBox1 As System.Windows.Forms.GroupBox
     Friend WithEvents GroupBox2 As System.Windows.Forms.GroupBox
     Friend WithEvents sfDialog As System.Windows.Forms.SaveFileDialog
-    Friend WithEvents calidad As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents precinto As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents ruma As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clase As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents tmh As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents fec_ingreso As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents ticket As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents empresa As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents lote_origen As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents ruma_origen As System.Windows.Forms.DataGridViewTextBoxColumn
@@ -506,4 +560,12 @@ Partial Class frmValidarSaldoFinal
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Panel2 As System.Windows.Forms.Panel
     Friend WithEvents Panel1 As System.Windows.Forms.Panel
+    Friend WithEvents calidad As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents precinto As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents ruma As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents clase As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents tmh As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents fec_ingreso As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents ticket As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents tsbCargar As System.Windows.Forms.ToolStripButton
 End Class

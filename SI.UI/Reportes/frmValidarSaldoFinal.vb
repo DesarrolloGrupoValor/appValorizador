@@ -9,10 +9,15 @@ Public Class frmValidarSaldoFinal
     Private oMensajeError As mensajeError = New mensajeError
 
     Public sPeriodo As String
+    Private dataTableContrato As DataTable
+    Private dtSaldo As DataTable
+    Dim dvwRegistros As DataView
 
 
     Private Sub frmValidarSaldoFinal_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
         ConfiguraForm(Me)
+
+
         dgvSaldoFinal.Rows(0).Selected = True
         dgvValidarSaldoFinal.AutoGenerateColumns = False
 
@@ -193,8 +198,16 @@ Public Class frmValidarSaldoFinal
 
     Private Sub tsbLimpiar_Click(sender As System.Object, e As System.EventArgs) Handles tsbLimpiar.Click
         Try
-            dgvSaldoFinal.Rows.Clear()
+
+            '  dgvSaldoFinal.Rows.Clear()
             dgvValidarSaldoFinal.DataSource = Nothing
+
+            If Not dgvSaldoFinal Is Nothing Then
+                For i = 0 To dgvSaldoFinal.Rows.Count - 2
+                    dgvSaldoFinal.Rows.Remove(dgvSaldoFinal.CurrentRow)
+                Next
+            End If
+
         Catch ex As Exception
             oMensajeError.txtMensaje.Text = ex.ToString()
             oMensajeError.ShowDialog()
@@ -276,4 +289,44 @@ Public Class frmValidarSaldoFinal
         Me.Close()
     End Sub
 
+    Private Sub tsbCargar_Click(sender As System.Object, e As System.EventArgs) Handles tsbCargar.Click
+
+        Try
+
+
+            Dim oContratoRO As New clsBC_ContratoLoteRO
+            Dim tempo As New DataTable()
+            oContratoRO.oBEContratoLote.periodo_origen = cboPeriodo.SelectedValue
+            dtSaldo = oContratoRO.LeerListaToDSSaldoLosa.Tables(0)
+            dvwRegistros = New DataView(dtSaldo)
+            dgvSaldoFinal.Columns.Clear()
+            dgvSaldoFinal.DataSource = dvwRegistros
+
+
+            If dgvSaldoFinal.SelectedRows.Count = 0 Then
+                MsgBox("Debe cargar Saldos para el Periodo " & cboPeriodo.SelectedValue & " en el MLC", MsgBoxStyle.Information, "Valorizador de Minerales")
+            End If
+
+        Catch ex As Exception
+            oMensajeError.txtMensaje.Text = ex.ToString()
+            oMensajeError.ShowDialog()
+
+
+        End Try
+
+
+    End Sub
+
+    Public Sub New()
+
+        ' This call is required by the designer.
+        InitializeComponent()
+
+        ' Add any initialization after the InitializeComponent() call.
+
+    End Sub
+
+    Protected Overrides Sub Finalize()
+        MyBase.Finalize()
+    End Sub
 End Class

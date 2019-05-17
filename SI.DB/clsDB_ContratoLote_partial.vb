@@ -617,6 +617,33 @@ Namespace SI.DB
         End Function
 
 
+        Public Function LeerListaToDSSaldoLosa(ByVal pContratoLote As clsBE_ContratoLote) As DataSet
+            Dim oDSContratoLote As New DataSet
+            Dim mintItem As Integer = 0
+
+            Try
+
+                Dim cnx As New SqlConnection(CadenaConexion)
+                Dim cmd As New SqlCommand()
+                Dim da As New SqlDataAdapter()
+
+                cmd.Connection = cnx
+                cmd.CommandText = "PA_ObtenerSaldoLosa"
+                cmd.Parameters.Add("@PERIODO", pContratoLote.periodo_origen)
+                cmd.CommandType = Data.CommandType.StoredProcedure
+                cmd.CommandTimeout = 200
+
+                da.SelectCommand = cmd
+
+                da.Fill(oDSContratoLote)
+
+            Catch ex As Exception
+                Throw ex
+
+            End Try
+            Return oDSContratoLote
+
+        End Function
 
         Public Function LeerListaToDSContable_Kardex(sTipo As String, ByVal pContratoLote As clsBE_ContratoLote) As DataSet
             Dim oDSContratoLote As New DataSet
