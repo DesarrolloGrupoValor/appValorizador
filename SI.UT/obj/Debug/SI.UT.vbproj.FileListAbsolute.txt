@@ -1,0 +1,164 @@
+F:\Informations\VCM\10.09.2012\SI.UT\bin\Debug\SI.UT.dll
+F:\Informations\VCM\10.09.2012\SI.UT\bin\Debug\SI.UT.pdb
+F:\Informations\VCM\10.09.2012\SI.UT\bin\Debug\SI.UT.xml
+F:\Informations\VCM\10.09.2012\SI.UT\obj\Debug\ResolveAssemblyReference.cache
+F:\Informations\VCM\10.09.2012\SI.UT\obj\Debug\Resources.resources
+F:\Informations\VCM\10.09.2012\SI.UT\obj\Debug\GenerateResource.read.1.tlog
+F:\Informations\VCM\10.09.2012\SI.UT\obj\Debug\GenerateResource.write.1.tlog
+F:\Informations\VCM\10.09.2012\SI.UT\obj\Debug\SI.UT.dll
+F:\Informations\VCM\10.09.2012\SI.UT\obj\Debug\SI.UT.xml
+F:\Informations\VCM\10.09.2012\SI.UT\obj\Debug\SI.UT.pdb
+F:\Informations\VCM\15.11.2012\SI.UT\bin\Debug\SI.UT.dll
+F:\Informations\VCM\15.11.2012\SI.UT\bin\Debug\SI.UT.pdb
+F:\Informations\VCM\15.11.2012\SI.UT\bin\Debug\SI.UT.xml
+F:\Informations\VCM\15.11.2012\SI.UT\obj\Debug\ResolveAssemblyReference.cache
+F:\Informations\VCM\15.11.2012\SI.UT\obj\Debug\Resources.resources
+F:\Informations\VCM\15.11.2012\SI.UT\obj\Debug\GenerateResource.read.1.tlog
+F:\Informations\VCM\15.11.2012\SI.UT\obj\Debug\GenerateResource.write.1.tlog
+F:\Informations\VCM\15.11.2012\SI.UT\obj\Debug\SI.UT.dll
+F:\Informations\VCM\15.11.2012\SI.UT\obj\Debug\SI.UT.xml
+F:\Informations\VCM\15.11.2012\SI.UT\obj\Debug\SI.UT.pdb
+F:\Informations\VCM\30.11.2012\SI.UT\bin\Debug\SI.UT.dll
+F:\Informations\VCM\30.11.2012\SI.UT\bin\Debug\SI.UT.pdb
+F:\Informations\VCM\30.11.2012\SI.UT\bin\Debug\SI.UT.xml
+F:\Informations\VCM\30.11.2012\SI.UT\obj\Debug\ResolveAssemblyReference.cache
+F:\Informations\VCM\30.11.2012\SI.UT\obj\Debug\Resources.resources
+F:\Informations\VCM\30.11.2012\SI.UT\obj\Debug\GenerateResource.read.1.tlog
+F:\Informations\VCM\30.11.2012\SI.UT\obj\Debug\GenerateResource.write.1.tlog
+F:\Informations\VCM\30.11.2012\SI.UT\obj\Debug\SI.UT.dll
+F:\Informations\VCM\30.11.2012\SI.UT\obj\Debug\SI.UT.xml
+F:\Informations\VCM\30.11.2012\SI.UT\obj\Debug\SI.UT.pdb
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UT\bin\Debug\SI.UT.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UT\bin\Debug\SI.UT.pdb
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UT\bin\Debug\SI.UT.xml
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UT\obj\Debug\ResolveAssemblyReference.cache
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UT\obj\Debug\Resources.resources
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UT\obj\Debug\GenerateResource.read.1.tlog
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UT\obj\Debug\GenerateResource.write.1.tlog
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UT\obj\Debug\SI.UT.dll
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UT\obj\Debug\SI.UT.xml
+F:\Informations\VCM\2013.09.07_ESTADO_AUTO\SI.UT\obj\Debug\SI.UT.pdb
+F:\Informations\VCM\02_VCM\SI.UT\bin\Debug\SI.UT.dll
+F:\Informations\VCM\02_VCM\SI.UT\bin\Debug\SI.UT.pdb
+F:\Informations\VCM\02_VCM\SI.UT\bin\Debug\SI.UT.xml
+F:\Informations\VCM\02_VCM\SI.UT\obj\Debug\Resources.resources
+F:\Informations\VCM\02_VCM\SI.UT\obj\Debug\SI.UT.vbproj.GenerateResource.Cache
+F:\Informations\VCM\02_VCM\SI.UT\obj\Debug\SI.UT.dll
+F:\Informations\VCM\02_VCM\SI.UT\obj\Debug\SI.UT.xml
+F:\Informations\VCM\02_VCM\SI.UT\obj\Debug\SI.UT.pdb
+C:\Users\bapaza\Desktop\02_VCM\SI.UT\bin\Debug\SI.UT.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UT\bin\Debug\SI.UT.pdb
+C:\Users\bapaza\Desktop\02_VCM\SI.UT\bin\Debug\SI.UT.xml
+C:\Users\bapaza\Desktop\02_VCM\SI.UT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bapaza\Desktop\02_VCM\SI.UT\obj\Debug\Resources.resources
+C:\Users\bapaza\Desktop\02_VCM\SI.UT\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\bapaza\Desktop\02_VCM\SI.UT\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\bapaza\Desktop\02_VCM\SI.UT\obj\Debug\SI.UT.dll
+C:\Users\bapaza\Desktop\02_VCM\SI.UT\obj\Debug\SI.UT.xml
+C:\Users\bapaza\Desktop\02_VCM\SI.UT\obj\Debug\SI.UT.pdb
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UT\bin\Debug\SI.UT.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UT\bin\Debug\SI.UT.pdb
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UT\bin\Debug\SI.UT.xml
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UT\obj\Debug\Resources.resources
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UT\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UT\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UT\obj\Debug\SI.UT.dll
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UT\obj\Debug\SI.UT.xml
+C:\Users\bapaza\Desktop\02_VCM - copia 20140819\SI.UT\obj\Debug\SI.UT.pdb
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UT\bin\Debug\SI.UT.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UT\bin\Debug\SI.UT.pdb
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UT\bin\Debug\SI.UT.xml
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UT\obj\Debug\ResolveAssemblyReference.cache
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UT\obj\Debug\Resources.resources
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UT\obj\Debug\GenerateResource.read.1.tlog
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UT\obj\Debug\GenerateResource.write.1.tlog
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UT\obj\Debug\SI.UT.dll
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UT\obj\Debug\SI.UT.xml
+D:\bapaza\MisDocumentos\02_VCM - currentVersion\SI.UT\obj\Debug\SI.UT.pdb
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UT\bin\Debug\SI.UT.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UT\bin\Debug\SI.UT.pdb
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UT\bin\Debug\SI.UT.xml
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UT\obj\Debug\Resources.resources
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UT\obj\Debug\SI.UT.dll
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UT\obj\Debug\SI.UT.xml
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UT\obj\Debug\SI.UT.pdb
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UT\obj\Debug\ResolveAssemblyReference.cache
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UT\obj\Debug\GenerateResource.read.1.tlog
+D:\SISTEMAS\Valorizador\FUENTE\012015_VCM\SI.UT\obj\Debug\GenerateResource.write.1.tlog
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UT\bin\Debug\SI.UT.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UT\bin\Debug\SI.UT.pdb
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UT\bin\Debug\SI.UT.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UT\obj\Debug\Resources.resources
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UT\obj\Debug\SI.UT.dll
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UT\obj\Debug\SI.UT.xml
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UT\obj\Debug\SI.UT.pdb
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UT\bin\Debug\SI.UT.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UT\bin\Debug\SI.UT.pdb
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UT\bin\Debug\SI.UT.xml
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UT\obj\Debug\Resources.resources
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UT\obj\Debug\SI.UT.vbproj.GenerateResource.Cache
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UT\obj\Debug\SI.UT.dll
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UT\obj\Debug\SI.UT.xml
+D:\_LMiyahira\2015\FUENTES\Actual_2015.09.10\SI.UT\obj\Debug\SI.UT.pdb
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UT\obj\Debug\ResolveAssemblyReference.cache
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UT\obj\Debug\GenerateResource.read.1.tlog
+D:\SISTEMAS\Valorizador\FUENTE\02_VCM\SI.UT\obj\Debug\GenerateResource.write.1.tlog
+C:\vcm2\SI.UT\bin\Debug\SI.UT.dll
+C:\vcm2\SI.UT\bin\Debug\SI.UT.pdb
+C:\vcm2\SI.UT\bin\Debug\SI.UT.xml
+C:\vcm2\SI.UT\obj\Debug\ResolveAssemblyReference.cache
+C:\vcm2\SI.UT\obj\Debug\Resources.resources
+C:\vcm2\SI.UT\obj\Debug\GenerateResource.read.1.tlog
+C:\vcm2\SI.UT\obj\Debug\GenerateResource.write.1.tlog
+C:\vcm2\SI.UT\obj\Debug\SI.UT.dll
+C:\vcm2\SI.UT\obj\Debug\SI.UT.xml
+C:\vcm2\SI.UT\obj\Debug\SI.UT.pdb
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UT\bin\Debug\SI.UT.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UT\bin\Debug\SI.UT.pdb
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UT\bin\Debug\SI.UT.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UT\obj\Debug\Resources.resources
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UT\obj\Debug\SI.UT.vbproj.GenerateResource.Cache
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UT\obj\Debug\SI.UT.dll
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UT\obj\Debug\SI.UT.xml
+C:\DATA - LMiyahira\03_Fuentes\valorizador\SI.UT\obj\Debug\SI.UT.pdb
+E:\SISTEMAS\Valorizador\FUENTE\SI.UT\bin\Debug\SI.UT.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UT\bin\Debug\SI.UT.pdb
+E:\SISTEMAS\Valorizador\FUENTE\SI.UT\bin\Debug\SI.UT.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UT\obj\Debug\Resources.resources
+E:\SISTEMAS\Valorizador\FUENTE\SI.UT\obj\Debug\SI.UT.vbproj.GenerateResource.Cache
+E:\SISTEMAS\Valorizador\FUENTE\SI.UT\obj\Debug\SI.UT.dll
+E:\SISTEMAS\Valorizador\FUENTE\SI.UT\obj\Debug\SI.UT.xml
+E:\SISTEMAS\Valorizador\FUENTE\SI.UT\obj\Debug\SI.UT.pdb
+C:\Users\elam\Desktop\fuentes\vcm\SI.UT\bin\Debug\SI.UT.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UT\bin\Debug\SI.UT.pdb
+C:\Users\elam\Desktop\fuentes\vcm\SI.UT\bin\Debug\SI.UT.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UT\obj\Debug\Resources.resources
+C:\Users\elam\Desktop\fuentes\vcm\SI.UT\obj\Debug\SI.UT.vbproj.GenerateResource.Cache
+C:\Users\elam\Desktop\fuentes\vcm\SI.UT\obj\Debug\SI.UT.dll
+C:\Users\elam\Desktop\fuentes\vcm\SI.UT\obj\Debug\SI.UT.xml
+C:\Users\elam\Desktop\fuentes\vcm\SI.UT\obj\Debug\SI.UT.pdb
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UT\bin\Debug\SI.UT.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UT\bin\Debug\SI.UT.pdb
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UT\bin\Debug\SI.UT.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UT\obj\Debug\Resources.resources
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UT\obj\Debug\SI.UT.vbproj.GenerateResource.Cache
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UT\obj\Debug\SI.UT.dll
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UT\obj\Debug\SI.UT.xml
+D:\ENPROYEC\VALORIZADOR - NEW\SI.UT\obj\Debug\SI.UT.pdb
+D:\ENPROYEC\VALORIZADOR\SI.UT\bin\Debug\SI.UT.dll
+D:\ENPROYEC\VALORIZADOR\SI.UT\bin\Debug\SI.UT.pdb
+D:\ENPROYEC\VALORIZADOR\SI.UT\bin\Debug\SI.UT.xml
+D:\ENPROYEC\VALORIZADOR\SI.UT\obj\Debug\Resources.resources
+D:\ENPROYEC\VALORIZADOR\SI.UT\obj\Debug\SI.UT.vbproj.GenerateResource.Cache
+D:\ENPROYEC\VALORIZADOR\SI.UT\obj\Debug\SI.UT.dll
+D:\ENPROYEC\VALORIZADOR\SI.UT\obj\Debug\SI.UT.xml
+D:\ENPROYEC\VALORIZADOR\SI.UT\obj\Debug\SI.UT.pdb
+D:\GITHUB\appValorizador\SI.UT\bin\Debug\SI.UT.dll
+D:\GITHUB\appValorizador\SI.UT\bin\Debug\SI.UT.pdb
+D:\GITHUB\appValorizador\SI.UT\bin\Debug\SI.UT.xml
+D:\GITHUB\appValorizador\SI.UT\obj\Debug\Resources.resources
+D:\GITHUB\appValorizador\SI.UT\obj\Debug\SI.UT.vbproj.GenerateResource.Cache
+D:\GITHUB\appValorizador\SI.UT\obj\Debug\SI.UT.dll
+D:\GITHUB\appValorizador\SI.UT\obj\Debug\SI.UT.xml
+D:\GITHUB\appValorizador\SI.UT\obj\Debug\SI.UT.pdb
