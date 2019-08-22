@@ -125,17 +125,34 @@ Namespace SI.DB
             prmParameter(1).Value = periodo
             prmParameter(1).Direction = ParameterDirection.Input
             Try
-                Using DS
-                    DS = SqlHelper.ExecuteDataset(CadenaConexion, CommandType.StoredProcedure, "sp_RumasComprasPendienteLotizarByEmpresaPeriodo", prmParameter)
-                    If Not DS Is Nothing Then
-                        If DS.Tables.Count > 0 Then
-                            ' Posee rumas pendientes de lotizar
-                            If DS.Tables(0).Rows.Count > 0 Then
-                                validacion = True
-                            End If
-                        End If
-                    End If
-                End Using
+
+                'Using DS
+                '    DS = SqlHelper.ExecuteDataset(CadenaConexion, CommandType.StoredProcedure, "sp_RumasComprasPendienteLotizarByEmpresaPeriodo", prmParameter)
+                '    If Not DS Is Nothing Then
+                '        If DS.Tables.Count > 0 Then
+                '            ' Posee rumas pendientes de lotizar
+                '            If DS.Tables(0).Rows.Count > 0 Then
+                '                validacion = True
+                '            End If
+                '        End If
+                '    End If
+                'End Using
+
+                Dim cnx As New SqlConnection(CadenaConexion)
+                Dim cmd As New SqlCommand()
+                Dim da As New SqlDataAdapter()
+
+                cmd.Connection = cnx
+                cmd.CommandText = "sp_RumasComprasPendienteLotizarByEmpresaPeriodo"
+                cmd.Parameters.AddWithValue("@EMPRESA", EmpresaID)
+                cmd.Parameters.AddWithValue("@PERIODO", periodo)
+
+                cmd.CommandType = Data.CommandType.StoredProcedure
+                cmd.CommandTimeout = 3000
+
+                da.SelectCommand = cmd
+
+
             Catch ex As Exception
                 Throw ex
             End Try

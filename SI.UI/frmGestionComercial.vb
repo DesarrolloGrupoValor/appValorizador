@@ -100,6 +100,8 @@ Public Class frmGestionComercial
                 txtTMNS.Text = FormatNumber(oBC_GestionComercialRO.oDSGestionComercial.Tables(0).Compute("sum(TMNS)", "").ToString, 2)
 
                 calcularValorNeto()
+
+                nGestionComercial = oBC_GestionComercialRO.oDSGestionComercial.Tables(0).Rows.Count
             End If
 
         End If

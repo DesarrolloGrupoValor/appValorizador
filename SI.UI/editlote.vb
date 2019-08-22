@@ -33,6 +33,8 @@ Public Class editlote
     Public pstrCorrelativoLiquidacionServicio As String
     Public pstrAdministrador As String
     Public pblnDesdeContrato As Boolean
+    Public MesActual As String
+    Public AnioActual As String
 
     Public pEstadoLiquidacion As String
 
@@ -898,6 +900,11 @@ Public Class editlote
 
         Dim tipoLiq As String = Strings.Right(contratoloteid, 1)
 
+        ' dtPeriodo.Value.Year.ToString & Microsoft.VisualBasic.Right("0" & dtPeriodo.Value.Month.ToString, 2)
+        MesActual = Microsoft.VisualBasic.Right("0" & Now.Month.ToString, 2)
+        AnioActual = Now.Year.ToString("####")
+
+
         Try
             With oLiquidacionRO.oBELiquidacion
                 .contratoLoteId = contratoloteid
@@ -932,9 +939,12 @@ Public Class editlote
                 If oLiquidacionRO.oBELiquidacion.periodo.Length = 4 Then
                     dtPeriodo.Value = Convert.ToDateTime("01/01/" & oLiquidacionRO.oBELiquidacion.periodo)
                 Else
-                    dtPeriodo.Value = Convert.ToDateTime("01/" & oLiquidacionRO.oBELiquidacion.periodo.Substring(4, 2) + "/" & oLiquidacionRO.oBELiquidacion.periodo.Substring(0, 4))
+                    If pblnCopia Then
+                        dtPeriodo.Value = Convert.ToDateTime("01/" & MesActual + "/" & AnioActual)
+                    Else
+                        dtPeriodo.Value = Convert.ToDateTime("01/" & oLiquidacionRO.oBELiquidacion.periodo.Substring(4, 2) + "/" & oLiquidacionRO.oBELiquidacion.periodo.Substring(0, 4))
+                    End If
                 End If
-
                 '@05    D03
                 'If cboTipo.SelectedValue = "B" Then
                 '    dtPeriodo.Value = "01/01/1900"
@@ -976,10 +986,13 @@ Public Class editlote
                     If oLiquidacionRO.oBELiquidacion.periodoComercial.Length = 4 Then
                         dtpPeriodoComercial.Value = Convert.ToDateTime("01/01/" & oLiquidacionRO.oBELiquidacion.periodoComercial)
                     Else
-                        dtpPeriodoComercial.Value = Convert.ToDateTime("01/" & oLiquidacionRO.oBELiquidacion.periodoComercial.Substring(4, 2) + "/" & oLiquidacionRO.oBELiquidacion.periodoComercial.Substring(0, 4))
+                        If pblnCopia Then
+                            dtPeriodo.Value = Convert.ToDateTime("01/" & MesActual + "/" & AnioActual)
+                        Else
+                            dtpPeriodoComercial.Value = Convert.ToDateTime("01/" & oLiquidacionRO.oBELiquidacion.periodoComercial.Substring(4, 2) + "/" & oLiquidacionRO.oBELiquidacion.periodoComercial.Substring(0, 4))
+                        End If
                     End If
                 End If
-
 
                 txtValorLiquidacion.Text = FormatNumber(oLiquidacionRO.oBELiquidacion.ValorNeto, 2)
 
@@ -2184,12 +2197,16 @@ Public Class editlote
     Private Sub tsbGuardar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles tsbGuardar.Click
         Try
 
+            ' Dim periodoFinal As String
             '@05    AINI
             If cboTipo.SelectedValue = "B" Or cboTipo.SelectedValue = "S" Or cboTipo.SelectedValue = "V" Then
                 Dim periodoNuevo As String = dtPeriodo.Value.Year.ToString & Microsoft.VisualBasic.Right("0" & dtPeriodo.Value.Month.ToString, 2)
+
+                Dim p As New clsBC_PeriodoRO
                 If Not periodoNuevo = oLiquidacionRO.oBELiquidacion.periodo Then
-                    Dim p As New clsBC_PeriodoRO
-                    If p.ValidaPeriodoCerrado(cboEmpresa.SelectedValue, oLiquidacionRO.oBELiquidacion.periodo) Then
+
+                    If p.ValidaPeriodoCerrado(cboEmpresa.SelectedValue, oLiquidacionRO.oBELiquidacion.periodo) And Not pblnCopia Then
+                        'If p.ValidaPeriodoCerrado(cboEmpresa.SelectedValue, periodoFinal) Then
                         ' Periodo Actual cerrado, mostramos mensaje
                         MsgBox("No se puede editar periodo actual [" & oLiquidacionRO.oBELiquidacion.periodo & "] dado que esta cerrado.", MsgBoxStyle.Exclamation, "Valorizador de Minerales")
                         Exit Sub
@@ -2202,6 +2219,15 @@ Public Class editlote
                         End If
                         '@06    AFIN
                     End If
+
+                ElseIf pblnCopia Then
+
+                    ' Periodo actual no cerrado, verificamos condicion de periodo nuevo
+                    If p.ValidaPeriodoCerrado(cboEmpresa.SelectedValue, periodoNuevo) Then
+                        MsgBox("No se puede cambiar a este periodo [" & periodoNuevo & "] dado que esta cerrado.", MsgBoxStyle.Exclamation, "Valorizador de Minerales")
+                        Exit Sub
+                    End If
+
                 End If
             End If
             '@05    AFIN
@@ -2711,6 +2737,9 @@ Public Class editlote
                         xPen20 = xPen20 + (row.Item("Pen20") * _TMS)
                         xPen21 = xPen21 + (row.Item("Pen21") * _TMS)
                         xPen22 = xPen22 + (row.Item("Pen22") * _TMS)
+                        'CJULCA - Penalizar Cu
+                        ' xPen22 = xPen22 + (row.Item("PagCu") * _TMS)
+                        'CJULCA  - Fin Penalizar Cu
                         xPen23 = xPen23 + (row.Item("Pen23") * _TMS)
                         xPen24 = xPen24 + (row.Item("Pen24") * _TMS)
                         xPen25 = xPen25 + (row.Item("Pen25") * _TMS)
@@ -5988,5 +6017,9 @@ Public Class editlote
         End If
 
         oFactura.Close()
+    End Sub
+
+    Private Sub dgvPagables_CellContentClick(sender As System.Object, e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dgvPagables.CellContentClick
+
     End Sub
 End Class
