@@ -76,6 +76,18 @@ Namespace SI.BC
                 Return False
             End Try
         End Function
+
+
+        Public Function EliminarLiquidacion2() As Boolean
+            Try
+                If LstTB_FJ_APLICACIONDel.Count = 0 Then LstTB_FJ_APLICACIONDel = LstTB_FJ_APLICACION
+                Return oDBTB_FJ_APLICACIONTX.EliminarTB_FJ_APLICACION2(LstTB_FJ_APLICACIONDel)
+            Catch ex As Exception
+                Throw ex
+                Return False
+            End Try
+        End Function
+
     End Class
 
 

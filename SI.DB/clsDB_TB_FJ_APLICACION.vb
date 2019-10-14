@@ -150,7 +150,31 @@ Namespace SI.DB
             Return True
         End Function
 
-       
+        Public Function EliminarTB_FJ_APLICACION2(ByVal oLstTB_FJ_APLICACION As List(Of clsBE_TB_FJ_APLICACION)) As Boolean
+            For Each oTB_FJ_APLICACION As clsBE_TB_FJ_APLICACION In oLstTB_FJ_APLICACION
+                Dim prmParameter(2) As SqlParameter
+
+                prmParameter(0) = New SqlParameter("@oc", SqlDbType.VarChar, 20)
+                prmParameter(0).Value = IIf(IsNothing(oTB_FJ_APLICACION.oc), "", oTB_FJ_APLICACION.oc)
+                prmParameter(0).Direction = ParameterDirection.Input
+
+                prmParameter(1) = New SqlParameter("@id", SqlDbType.TinyInt)
+                prmParameter(1).Value = IIf(IsNothing(oTB_FJ_APLICACION.id), "", oTB_FJ_APLICACION.id)
+                prmParameter(1).Direction = ParameterDirection.Input
+
+                prmParameter(2) = New SqlParameter("@contratoloteid", SqlDbType.VarChar, 20)
+                prmParameter(2).Value = IIf(IsNothing(oTB_FJ_APLICACION.oc), "", oTB_FJ_APLICACION.oc)
+                prmParameter(2).Direction = ParameterDirection.Input
+
+                Try
+                    SqlHelper.ExecuteNonQuery(CadenaConexion, CommandType.StoredProcedure, "UP_fj_DeshacerAplicacion", prmParameter)
+                Catch ex As Exception
+                    Throw ex
+                    Return False
+                End Try
+            Next
+            Return True
+        End Function
 
     End Class
 #End Region

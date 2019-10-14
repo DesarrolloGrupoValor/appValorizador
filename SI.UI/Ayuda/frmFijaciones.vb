@@ -542,8 +542,6 @@ Public Class frmFijaciones
         End If
 
 
-
-
         ObtenerPagables()
 
         Limpiar()
@@ -927,5 +925,34 @@ Public Class frmFijaciones
 
     End Sub
 
+    Private Sub ToolStripButton1_Click(sender As System.Object, e As System.EventArgs) Handles ToolStripButton1.Click
+        Try
+            oBC_TB_FJ_APLICACIONTX = New clsBC_TB_FJ_APLICACIONTX
 
+            Dim ocAplicada As String
+            Dim ocId As Integer
+
+            ocAplicada = RTrim(LTrim((dgvFJ_APLICACION2.CurrentRow.Cells("OC").Value.ToString())))
+            ocId = RTrim(LTrim((dgvFJ_APLICACION2.CurrentRow.Cells("id").Value)))
+
+            If MsgBox("¿ Está seguro que desea DesAplicar la fijación Seleccionada ?", MsgBoxStyle.YesNo, "Valorizador Comercial de Minerales") = MsgBoxResult.Yes Then
+
+                oBE_TB_FJ_APLICACION = New clsBE_TB_FJ_APLICACION
+
+                oBE_TB_FJ_APLICACION.oc = ocAplicada
+                oBE_TB_FJ_APLICACION.id = ocId
+                oBE_TB_FJ_APLICACION.contratoloteid = pcontratoloteid
+
+                oBC_TB_FJ_APLICACIONTX.LstTB_FJ_APLICACIONDel.Add(oBE_TB_FJ_APLICACION)
+
+                oBC_TB_FJ_APLICACIONTX.EliminarLiquidacion2()
+
+                ObtenerPagables()
+
+            End If
+        Catch ex As Exception
+            oMensajeError.txtMensaje.Text = ex.ToString()
+            oMensajeError.ShowDialog()
+        End Try
+    End Sub
 End Class
