@@ -23,13 +23,6 @@ Partial Class frmFijaciones
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle8 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmFijaciones))
         Dim DataGridViewCellStyle9 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle10 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
@@ -38,6 +31,11 @@ Partial Class frmFijaciones
         Dim DataGridViewCellStyle13 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle14 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle15 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle16 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle17 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle18 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle19 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle20 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle21 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle39 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle22 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
@@ -57,11 +55,13 @@ Partial Class frmFijaciones
         Dim DataGridViewCellStyle36 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle37 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle38 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle16 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle17 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle18 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle19 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle20 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle8 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.lblReg = New System.Windows.Forms.Label()
         Me.ComboBox1 = New System.Windows.Forms.ComboBox()
         Me.ContenidoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -83,22 +83,6 @@ Partial Class frmFijaciones
         Me.SalirToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
         Me.dgvFJ_FIJACION = New System.Windows.Forms.DataGridView()
-        Me.FIJA_cbxAPLICAR = New System.Windows.Forms.DataGridViewCheckBoxColumn()
-        Me.FIJA_OC = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_ID = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_LOCALIZADOR = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_RLC = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_TIPOFIJACION = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_TIPOFIJACION_DESC = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_TIPOQP = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_AJUSTE = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_FECHA = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_CANTIDAD = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_AJUSTE_MAXIMO = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_APLICAR = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_PRECIO = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_PROTECCION = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FIJA_ESTADO = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.tsMenu = New System.Windows.Forms.ToolStrip()
         Me.tsbAgregar = New System.Windows.Forms.ToolStripButton()
         Me.tsbEliminar = New System.Windows.Forms.ToolStripButton()
@@ -142,6 +126,22 @@ Partial Class frmFijaciones
         Me.Label4 = New System.Windows.Forms.Label()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
         Me.dgvFJ_APLICACION2 = New System.Windows.Forms.DataGridView()
+        Me.DataGridViewCheckBoxColumn1 = New System.Windows.Forms.DataGridViewCheckBoxColumn()
+        Me.OC = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.id = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn3 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn4 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn5 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn6 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn7 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn8 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn9 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn10 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn11 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn12 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn13 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn14 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn15 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.gpopagable = New CUGroupBox()
         Me.dgvPagables = New System.Windows.Forms.DataGridView()
         Me.Elem = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -181,22 +181,22 @@ Partial Class frmFijaciones
         Me.ajuste_maximo = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.txtPrecio_Operacion = New CUTextbox()
         Me.txtCantidad_Operacion = New CUTextbox()
-        Me.DataGridViewCheckBoxColumn1 = New System.Windows.Forms.DataGridViewCheckBoxColumn()
-        Me.OC = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.id = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn3 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn4 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn5 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn6 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn7 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn8 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn9 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn10 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn11 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn12 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn13 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn14 = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.DataGridViewTextBoxColumn15 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_cbxAPLICAR = New System.Windows.Forms.DataGridViewCheckBoxColumn()
+        Me.FIJA_OC = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_ID = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_LOCALIZADOR = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_RLC = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_TIPOFIJACION = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_TIPOFIJACION_DESC = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_TIPOQP = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_AJUSTE = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_FECHA = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_CANTIDAD = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_AJUSTE_MAXIMO = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_APLICAR = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_PRECIO = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_PROTECCION = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.FIJA_ESTADO = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.GroupBox2.SuspendLayout()
         CType(Me.dgvFJ_FIJACION, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.tsMenu.SuspendLayout()
@@ -357,157 +357,6 @@ Partial Class frmFijaciones
         Me.dgvFJ_FIJACION.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect
         Me.dgvFJ_FIJACION.Size = New System.Drawing.Size(950, 123)
         Me.dgvFJ_FIJACION.TabIndex = 5
-        '
-        'FIJA_cbxAPLICAR
-        '
-        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle2.Format = "N4"
-        DataGridViewCellStyle2.NullValue = "False"
-        Me.FIJA_cbxAPLICAR.DefaultCellStyle = DataGridViewCellStyle2
-        Me.FIJA_cbxAPLICAR.FalseValue = "0"
-        Me.FIJA_cbxAPLICAR.HeaderText = ""
-        Me.FIJA_cbxAPLICAR.Name = "FIJA_cbxAPLICAR"
-        Me.FIJA_cbxAPLICAR.TrueValue = "1"
-        Me.FIJA_cbxAPLICAR.Width = 20
-        '
-        'FIJA_OC
-        '
-        Me.FIJA_OC.DataPropertyName = "OC"
-        Me.FIJA_OC.HeaderText = "OC"
-        Me.FIJA_OC.Name = "FIJA_OC"
-        Me.FIJA_OC.ReadOnly = True
-        Me.FIJA_OC.Width = 75
-        '
-        'FIJA_ID
-        '
-        Me.FIJA_ID.DataPropertyName = "id"
-        Me.FIJA_ID.HeaderText = "Id"
-        Me.FIJA_ID.Name = "FIJA_ID"
-        Me.FIJA_ID.Visible = False
-        Me.FIJA_ID.Width = 30
-        '
-        'FIJA_LOCALIZADOR
-        '
-        Me.FIJA_LOCALIZADOR.DataPropertyName = "LOCALIZADOR"
-        Me.FIJA_LOCALIZADOR.HeaderText = "Localizador Base"
-        Me.FIJA_LOCALIZADOR.Name = "FIJA_LOCALIZADOR"
-        Me.FIJA_LOCALIZADOR.Width = 80
-        '
-        'FIJA_RLC
-        '
-        Me.FIJA_RLC.DataPropertyName = "RLC"
-        Me.FIJA_RLC.HeaderText = "Ruma/Lote/Contrato"
-        Me.FIJA_RLC.Name = "FIJA_RLC"
-        Me.FIJA_RLC.ReadOnly = True
-        Me.FIJA_RLC.Width = 120
-        '
-        'FIJA_TIPOFIJACION
-        '
-        Me.FIJA_TIPOFIJACION.DataPropertyName = "TIPOFIJACION"
-        Me.FIJA_TIPOFIJACION.HeaderText = "TIPOFIJACION"
-        Me.FIJA_TIPOFIJACION.Name = "FIJA_TIPOFIJACION"
-        Me.FIJA_TIPOFIJACION.Visible = False
-        Me.FIJA_TIPOFIJACION.Width = 30
-        '
-        'FIJA_TIPOFIJACION_DESC
-        '
-        Me.FIJA_TIPOFIJACION_DESC.DataPropertyName = "TIPOFIJACION_DESC"
-        Me.FIJA_TIPOFIJACION_DESC.HeaderText = "Tipo Fijación"
-        Me.FIJA_TIPOFIJACION_DESC.Name = "FIJA_TIPOFIJACION_DESC"
-        Me.FIJA_TIPOFIJACION_DESC.Visible = False
-        Me.FIJA_TIPOFIJACION_DESC.Width = 120
-        '
-        'FIJA_TIPOQP
-        '
-        Me.FIJA_TIPOQP.DataPropertyName = "TIPOQP"
-        Me.FIJA_TIPOQP.HeaderText = "Tipo QP"
-        Me.FIJA_TIPOQP.Name = "FIJA_TIPOQP"
-        Me.FIJA_TIPOQP.ReadOnly = True
-        Me.FIJA_TIPOQP.Width = 60
-        '
-        'FIJA_AJUSTE
-        '
-        Me.FIJA_AJUSTE.DataPropertyName = "AJUSTE"
-        Me.FIJA_AJUSTE.HeaderText = "Ajuste"
-        Me.FIJA_AJUSTE.Name = "FIJA_AJUSTE"
-        Me.FIJA_AJUSTE.ReadOnly = True
-        Me.FIJA_AJUSTE.Width = 40
-        '
-        'FIJA_FECHA
-        '
-        Me.FIJA_FECHA.DataPropertyName = "FECHA"
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle3.Format = "d"
-        DataGridViewCellStyle3.NullValue = Nothing
-        Me.FIJA_FECHA.DefaultCellStyle = DataGridViewCellStyle3
-        Me.FIJA_FECHA.HeaderText = "Fecha"
-        Me.FIJA_FECHA.Name = "FIJA_FECHA"
-        Me.FIJA_FECHA.ReadOnly = True
-        Me.FIJA_FECHA.Width = 75
-        '
-        'FIJA_CANTIDAD
-        '
-        Me.FIJA_CANTIDAD.DataPropertyName = "CANTIDAD"
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle4.Format = "N4"
-        DataGridViewCellStyle4.NullValue = Nothing
-        Me.FIJA_CANTIDAD.DefaultCellStyle = DataGridViewCellStyle4
-        Me.FIJA_CANTIDAD.HeaderText = "Cantidad"
-        Me.FIJA_CANTIDAD.Name = "FIJA_CANTIDAD"
-        Me.FIJA_CANTIDAD.ReadOnly = True
-        Me.FIJA_CANTIDAD.Width = 70
-        '
-        'FIJA_AJUSTE_MAXIMO
-        '
-        Me.FIJA_AJUSTE_MAXIMO.DataPropertyName = "AJUSTE_MAXIMO"
-        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle5.Format = "N3"
-        DataGridViewCellStyle5.NullValue = Nothing
-        Me.FIJA_AJUSTE_MAXIMO.DefaultCellStyle = DataGridViewCellStyle5
-        Me.FIJA_AJUSTE_MAXIMO.HeaderText = "Ajuste Máximo"
-        Me.FIJA_AJUSTE_MAXIMO.Name = "FIJA_AJUSTE_MAXIMO"
-        Me.FIJA_AJUSTE_MAXIMO.Width = 75
-        '
-        'FIJA_APLICAR
-        '
-        Me.FIJA_APLICAR.DataPropertyName = "APLICAR"
-        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle6.Format = "N4"
-        DataGridViewCellStyle6.NullValue = Nothing
-        Me.FIJA_APLICAR.DefaultCellStyle = DataGridViewCellStyle6
-        Me.FIJA_APLICAR.HeaderText = "Aplicar"
-        Me.FIJA_APLICAR.Name = "FIJA_APLICAR"
-        Me.FIJA_APLICAR.Width = 70
-        '
-        'FIJA_PRECIO
-        '
-        Me.FIJA_PRECIO.DataPropertyName = "PRECIO"
-        DataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle7.Format = "N2"
-        DataGridViewCellStyle7.NullValue = Nothing
-        Me.FIJA_PRECIO.DefaultCellStyle = DataGridViewCellStyle7
-        Me.FIJA_PRECIO.HeaderText = "Precio"
-        Me.FIJA_PRECIO.Name = "FIJA_PRECIO"
-        Me.FIJA_PRECIO.ReadOnly = True
-        Me.FIJA_PRECIO.Width = 70
-        '
-        'FIJA_PROTECCION
-        '
-        Me.FIJA_PROTECCION.DataPropertyName = "PROTECCION"
-        DataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle8.Format = "N2"
-        Me.FIJA_PROTECCION.DefaultCellStyle = DataGridViewCellStyle8
-        Me.FIJA_PROTECCION.HeaderText = "Protec."
-        Me.FIJA_PROTECCION.Name = "FIJA_PROTECCION"
-        Me.FIJA_PROTECCION.ReadOnly = True
-        Me.FIJA_PROTECCION.Width = 50
-        '
-        'FIJA_ESTADO
-        '
-        Me.FIJA_ESTADO.DataPropertyName = "estado"
-        Me.FIJA_ESTADO.HeaderText = "ESTADO"
-        Me.FIJA_ESTADO.Name = "FIJA_ESTADO"
-        Me.FIJA_ESTADO.Visible = False
         '
         'tsMenu
         '
@@ -935,6 +784,147 @@ Partial Class frmFijaciones
         Me.dgvFJ_APLICACION2.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect
         Me.dgvFJ_APLICACION2.Size = New System.Drawing.Size(952, 119)
         Me.dgvFJ_APLICACION2.TabIndex = 7
+        '
+        'DataGridViewCheckBoxColumn1
+        '
+        Me.DataGridViewCheckBoxColumn1.HeaderText = ""
+        Me.DataGridViewCheckBoxColumn1.Name = "DataGridViewCheckBoxColumn1"
+        Me.DataGridViewCheckBoxColumn1.Visible = False
+        Me.DataGridViewCheckBoxColumn1.Width = 20
+        '
+        'OC
+        '
+        Me.OC.DataPropertyName = "OC"
+        Me.OC.HeaderText = "OC"
+        Me.OC.Name = "OC"
+        Me.OC.ReadOnly = True
+        Me.OC.Width = 80
+        '
+        'id
+        '
+        Me.id.DataPropertyName = "id"
+        Me.id.HeaderText = "id"
+        Me.id.Name = "id"
+        Me.id.Visible = False
+        Me.id.Width = 30
+        '
+        'DataGridViewTextBoxColumn3
+        '
+        Me.DataGridViewTextBoxColumn3.DataPropertyName = "LOCALIZADOR"
+        Me.DataGridViewTextBoxColumn3.HeaderText = "Localizador Base"
+        Me.DataGridViewTextBoxColumn3.Name = "DataGridViewTextBoxColumn3"
+        Me.DataGridViewTextBoxColumn3.Width = 80
+        '
+        'DataGridViewTextBoxColumn4
+        '
+        Me.DataGridViewTextBoxColumn4.DataPropertyName = "RLC"
+        Me.DataGridViewTextBoxColumn4.HeaderText = "Ruma/Lote/Contrato"
+        Me.DataGridViewTextBoxColumn4.Name = "DataGridViewTextBoxColumn4"
+        Me.DataGridViewTextBoxColumn4.ReadOnly = True
+        Me.DataGridViewTextBoxColumn4.Width = 120
+        '
+        'DataGridViewTextBoxColumn5
+        '
+        Me.DataGridViewTextBoxColumn5.DataPropertyName = "TIPOFIJACION"
+        Me.DataGridViewTextBoxColumn5.HeaderText = "TIPOFIJACION"
+        Me.DataGridViewTextBoxColumn5.Name = "DataGridViewTextBoxColumn5"
+        Me.DataGridViewTextBoxColumn5.Visible = False
+        Me.DataGridViewTextBoxColumn5.Width = 30
+        '
+        'DataGridViewTextBoxColumn6
+        '
+        Me.DataGridViewTextBoxColumn6.DataPropertyName = "TIPOFIJACION_DESC"
+        Me.DataGridViewTextBoxColumn6.HeaderText = "Tipo Fijación"
+        Me.DataGridViewTextBoxColumn6.Name = "DataGridViewTextBoxColumn6"
+        Me.DataGridViewTextBoxColumn6.Width = 120
+        '
+        'DataGridViewTextBoxColumn7
+        '
+        Me.DataGridViewTextBoxColumn7.DataPropertyName = "TIPOQP"
+        Me.DataGridViewTextBoxColumn7.HeaderText = "Tipo QP"
+        Me.DataGridViewTextBoxColumn7.Name = "DataGridViewTextBoxColumn7"
+        Me.DataGridViewTextBoxColumn7.ReadOnly = True
+        Me.DataGridViewTextBoxColumn7.Width = 60
+        '
+        'DataGridViewTextBoxColumn8
+        '
+        Me.DataGridViewTextBoxColumn8.DataPropertyName = "AJUSTE"
+        Me.DataGridViewTextBoxColumn8.HeaderText = "Ajuste"
+        Me.DataGridViewTextBoxColumn8.Name = "DataGridViewTextBoxColumn8"
+        Me.DataGridViewTextBoxColumn8.ReadOnly = True
+        Me.DataGridViewTextBoxColumn8.Width = 40
+        '
+        'DataGridViewTextBoxColumn9
+        '
+        Me.DataGridViewTextBoxColumn9.DataPropertyName = "FECHA"
+        DataGridViewCellStyle16.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle16.Format = "d"
+        DataGridViewCellStyle16.NullValue = Nothing
+        Me.DataGridViewTextBoxColumn9.DefaultCellStyle = DataGridViewCellStyle16
+        Me.DataGridViewTextBoxColumn9.HeaderText = "Fecha"
+        Me.DataGridViewTextBoxColumn9.Name = "DataGridViewTextBoxColumn9"
+        Me.DataGridViewTextBoxColumn9.ReadOnly = True
+        Me.DataGridViewTextBoxColumn9.Width = 75
+        '
+        'DataGridViewTextBoxColumn10
+        '
+        Me.DataGridViewTextBoxColumn10.DataPropertyName = "CANTIDAD"
+        DataGridViewCellStyle17.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle17.Format = "N4"
+        DataGridViewCellStyle17.NullValue = Nothing
+        Me.DataGridViewTextBoxColumn10.DefaultCellStyle = DataGridViewCellStyle17
+        Me.DataGridViewTextBoxColumn10.HeaderText = "Cantidad"
+        Me.DataGridViewTextBoxColumn10.Name = "DataGridViewTextBoxColumn10"
+        Me.DataGridViewTextBoxColumn10.ReadOnly = True
+        Me.DataGridViewTextBoxColumn10.Width = 70
+        '
+        'DataGridViewTextBoxColumn11
+        '
+        Me.DataGridViewTextBoxColumn11.DataPropertyName = "APLICAR_AJUSTE_MAXIMO"
+        DataGridViewCellStyle18.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle18.Format = "N3"
+        DataGridViewCellStyle18.NullValue = Nothing
+        Me.DataGridViewTextBoxColumn11.DefaultCellStyle = DataGridViewCellStyle18
+        Me.DataGridViewTextBoxColumn11.HeaderText = "Ajuste"
+        Me.DataGridViewTextBoxColumn11.Name = "DataGridViewTextBoxColumn11"
+        Me.DataGridViewTextBoxColumn11.Width = 70
+        '
+        'DataGridViewTextBoxColumn12
+        '
+        Me.DataGridViewTextBoxColumn12.DataPropertyName = "PRECIO"
+        DataGridViewCellStyle19.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle19.Format = "N2"
+        DataGridViewCellStyle19.NullValue = Nothing
+        Me.DataGridViewTextBoxColumn12.DefaultCellStyle = DataGridViewCellStyle19
+        Me.DataGridViewTextBoxColumn12.HeaderText = "Precio"
+        Me.DataGridViewTextBoxColumn12.Name = "DataGridViewTextBoxColumn12"
+        Me.DataGridViewTextBoxColumn12.ReadOnly = True
+        Me.DataGridViewTextBoxColumn12.Width = 70
+        '
+        'DataGridViewTextBoxColumn13
+        '
+        Me.DataGridViewTextBoxColumn13.DataPropertyName = "PROTECCION"
+        DataGridViewCellStyle20.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle20.Format = "N2"
+        Me.DataGridViewTextBoxColumn13.DefaultCellStyle = DataGridViewCellStyle20
+        Me.DataGridViewTextBoxColumn13.HeaderText = "Protec."
+        Me.DataGridViewTextBoxColumn13.Name = "DataGridViewTextBoxColumn13"
+        Me.DataGridViewTextBoxColumn13.ReadOnly = True
+        Me.DataGridViewTextBoxColumn13.Width = 50
+        '
+        'DataGridViewTextBoxColumn14
+        '
+        Me.DataGridViewTextBoxColumn14.DataPropertyName = "ESTADO_DESC"
+        Me.DataGridViewTextBoxColumn14.HeaderText = "Estado"
+        Me.DataGridViewTextBoxColumn14.Name = "DataGridViewTextBoxColumn14"
+        Me.DataGridViewTextBoxColumn14.Width = 70
+        '
+        'DataGridViewTextBoxColumn15
+        '
+        Me.DataGridViewTextBoxColumn15.DataPropertyName = "ESTADO"
+        Me.DataGridViewTextBoxColumn15.HeaderText = "ESTADO"
+        Me.DataGridViewTextBoxColumn15.Name = "DataGridViewTextBoxColumn15"
+        Me.DataGridViewTextBoxColumn15.Visible = False
         '
         'gpopagable
         '
@@ -1378,146 +1368,156 @@ Partial Class frmFijaciones
         Me.txtCantidad_Operacion.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.ConNegativo
         Me.txtCantidad_Operacion.Visible = False
         '
-        'DataGridViewCheckBoxColumn1
+        'FIJA_cbxAPLICAR
         '
-        Me.DataGridViewCheckBoxColumn1.HeaderText = ""
-        Me.DataGridViewCheckBoxColumn1.Name = "DataGridViewCheckBoxColumn1"
-        Me.DataGridViewCheckBoxColumn1.Visible = False
-        Me.DataGridViewCheckBoxColumn1.Width = 20
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle2.Format = "N4"
+        DataGridViewCellStyle2.NullValue = "False"
+        Me.FIJA_cbxAPLICAR.DefaultCellStyle = DataGridViewCellStyle2
+        Me.FIJA_cbxAPLICAR.FalseValue = "0"
+        Me.FIJA_cbxAPLICAR.HeaderText = ""
+        Me.FIJA_cbxAPLICAR.Name = "FIJA_cbxAPLICAR"
+        Me.FIJA_cbxAPLICAR.TrueValue = "1"
+        Me.FIJA_cbxAPLICAR.Width = 20
         '
-        'OC
+        'FIJA_OC
         '
-        Me.OC.DataPropertyName = "OC"
-        Me.OC.HeaderText = "OC"
-        Me.OC.Name = "OC"
-        Me.OC.ReadOnly = True
-        Me.OC.Width = 80
+        Me.FIJA_OC.DataPropertyName = "OC"
+        Me.FIJA_OC.HeaderText = "OC"
+        Me.FIJA_OC.Name = "FIJA_OC"
+        Me.FIJA_OC.ReadOnly = True
+        Me.FIJA_OC.Width = 75
         '
-        'id
+        'FIJA_ID
         '
-        Me.id.DataPropertyName = "id"
-        Me.id.HeaderText = "id"
-        Me.id.Name = "id"
-        Me.id.Visible = False
-        Me.id.Width = 30
+        Me.FIJA_ID.DataPropertyName = "id"
+        Me.FIJA_ID.HeaderText = "Id"
+        Me.FIJA_ID.Name = "FIJA_ID"
+        Me.FIJA_ID.Visible = False
+        Me.FIJA_ID.Width = 30
         '
-        'DataGridViewTextBoxColumn3
+        'FIJA_LOCALIZADOR
         '
-        Me.DataGridViewTextBoxColumn3.DataPropertyName = "LOCALIZADOR"
-        Me.DataGridViewTextBoxColumn3.HeaderText = "Localizador Base"
-        Me.DataGridViewTextBoxColumn3.Name = "DataGridViewTextBoxColumn3"
-        Me.DataGridViewTextBoxColumn3.Width = 80
+        Me.FIJA_LOCALIZADOR.DataPropertyName = "LOCALIZADOR"
+        Me.FIJA_LOCALIZADOR.HeaderText = "Localizador Base"
+        Me.FIJA_LOCALIZADOR.Name = "FIJA_LOCALIZADOR"
+        Me.FIJA_LOCALIZADOR.Width = 80
         '
-        'DataGridViewTextBoxColumn4
+        'FIJA_RLC
         '
-        Me.DataGridViewTextBoxColumn4.DataPropertyName = "RLC"
-        Me.DataGridViewTextBoxColumn4.HeaderText = "Ruma/Lote/Contrato"
-        Me.DataGridViewTextBoxColumn4.Name = "DataGridViewTextBoxColumn4"
-        Me.DataGridViewTextBoxColumn4.ReadOnly = True
-        Me.DataGridViewTextBoxColumn4.Width = 120
+        Me.FIJA_RLC.DataPropertyName = "RLC"
+        Me.FIJA_RLC.HeaderText = "Ruma/Lote/Contrato"
+        Me.FIJA_RLC.Name = "FIJA_RLC"
+        Me.FIJA_RLC.ReadOnly = True
+        Me.FIJA_RLC.Width = 120
         '
-        'DataGridViewTextBoxColumn5
+        'FIJA_TIPOFIJACION
         '
-        Me.DataGridViewTextBoxColumn5.DataPropertyName = "TIPOFIJACION"
-        Me.DataGridViewTextBoxColumn5.HeaderText = "TIPOFIJACION"
-        Me.DataGridViewTextBoxColumn5.Name = "DataGridViewTextBoxColumn5"
-        Me.DataGridViewTextBoxColumn5.Visible = False
-        Me.DataGridViewTextBoxColumn5.Width = 30
+        Me.FIJA_TIPOFIJACION.DataPropertyName = "TIPOFIJACION"
+        Me.FIJA_TIPOFIJACION.HeaderText = "TIPOFIJACION"
+        Me.FIJA_TIPOFIJACION.Name = "FIJA_TIPOFIJACION"
+        Me.FIJA_TIPOFIJACION.Visible = False
+        Me.FIJA_TIPOFIJACION.Width = 30
         '
-        'DataGridViewTextBoxColumn6
+        'FIJA_TIPOFIJACION_DESC
         '
-        Me.DataGridViewTextBoxColumn6.DataPropertyName = "TIPOFIJACION_DESC"
-        Me.DataGridViewTextBoxColumn6.HeaderText = "Tipo Fijación"
-        Me.DataGridViewTextBoxColumn6.Name = "DataGridViewTextBoxColumn6"
-        Me.DataGridViewTextBoxColumn6.Width = 120
+        Me.FIJA_TIPOFIJACION_DESC.DataPropertyName = "TIPOFIJACION_DESC"
+        Me.FIJA_TIPOFIJACION_DESC.HeaderText = "Tipo Fijación"
+        Me.FIJA_TIPOFIJACION_DESC.Name = "FIJA_TIPOFIJACION_DESC"
+        Me.FIJA_TIPOFIJACION_DESC.Visible = False
+        Me.FIJA_TIPOFIJACION_DESC.Width = 120
         '
-        'DataGridViewTextBoxColumn7
+        'FIJA_TIPOQP
         '
-        Me.DataGridViewTextBoxColumn7.DataPropertyName = "TIPOQP"
-        Me.DataGridViewTextBoxColumn7.HeaderText = "Tipo QP"
-        Me.DataGridViewTextBoxColumn7.Name = "DataGridViewTextBoxColumn7"
-        Me.DataGridViewTextBoxColumn7.ReadOnly = True
-        Me.DataGridViewTextBoxColumn7.Width = 60
+        Me.FIJA_TIPOQP.DataPropertyName = "TIPOQP"
+        Me.FIJA_TIPOQP.HeaderText = "Tipo QP"
+        Me.FIJA_TIPOQP.Name = "FIJA_TIPOQP"
+        Me.FIJA_TIPOQP.ReadOnly = True
+        Me.FIJA_TIPOQP.Width = 60
         '
-        'DataGridViewTextBoxColumn8
+        'FIJA_AJUSTE
         '
-        Me.DataGridViewTextBoxColumn8.DataPropertyName = "AJUSTE"
-        Me.DataGridViewTextBoxColumn8.HeaderText = "Ajuste"
-        Me.DataGridViewTextBoxColumn8.Name = "DataGridViewTextBoxColumn8"
-        Me.DataGridViewTextBoxColumn8.ReadOnly = True
-        Me.DataGridViewTextBoxColumn8.Width = 40
+        Me.FIJA_AJUSTE.DataPropertyName = "AJUSTE"
+        Me.FIJA_AJUSTE.HeaderText = "Ajuste"
+        Me.FIJA_AJUSTE.Name = "FIJA_AJUSTE"
+        Me.FIJA_AJUSTE.ReadOnly = True
+        Me.FIJA_AJUSTE.Width = 40
         '
-        'DataGridViewTextBoxColumn9
+        'FIJA_FECHA
         '
-        Me.DataGridViewTextBoxColumn9.DataPropertyName = "FECHA"
-        DataGridViewCellStyle16.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle16.Format = "d"
-        DataGridViewCellStyle16.NullValue = Nothing
-        Me.DataGridViewTextBoxColumn9.DefaultCellStyle = DataGridViewCellStyle16
-        Me.DataGridViewTextBoxColumn9.HeaderText = "Fecha"
-        Me.DataGridViewTextBoxColumn9.Name = "DataGridViewTextBoxColumn9"
-        Me.DataGridViewTextBoxColumn9.ReadOnly = True
-        Me.DataGridViewTextBoxColumn9.Width = 75
+        Me.FIJA_FECHA.DataPropertyName = "FECHA"
+        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle3.Format = "d"
+        DataGridViewCellStyle3.NullValue = Nothing
+        Me.FIJA_FECHA.DefaultCellStyle = DataGridViewCellStyle3
+        Me.FIJA_FECHA.HeaderText = "Fecha"
+        Me.FIJA_FECHA.Name = "FIJA_FECHA"
+        Me.FIJA_FECHA.ReadOnly = True
+        Me.FIJA_FECHA.Width = 75
         '
-        'DataGridViewTextBoxColumn10
+        'FIJA_CANTIDAD
         '
-        Me.DataGridViewTextBoxColumn10.DataPropertyName = "CANTIDAD"
-        DataGridViewCellStyle17.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle17.Format = "N4"
-        DataGridViewCellStyle17.NullValue = Nothing
-        Me.DataGridViewTextBoxColumn10.DefaultCellStyle = DataGridViewCellStyle17
-        Me.DataGridViewTextBoxColumn10.HeaderText = "Cantidad"
-        Me.DataGridViewTextBoxColumn10.Name = "DataGridViewTextBoxColumn10"
-        Me.DataGridViewTextBoxColumn10.ReadOnly = True
-        Me.DataGridViewTextBoxColumn10.Width = 70
+        Me.FIJA_CANTIDAD.DataPropertyName = "CANTIDAD"
+        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle4.Format = "N4"
+        DataGridViewCellStyle4.NullValue = Nothing
+        Me.FIJA_CANTIDAD.DefaultCellStyle = DataGridViewCellStyle4
+        Me.FIJA_CANTIDAD.HeaderText = "Cantidad"
+        Me.FIJA_CANTIDAD.Name = "FIJA_CANTIDAD"
+        Me.FIJA_CANTIDAD.ReadOnly = True
+        Me.FIJA_CANTIDAD.Width = 70
         '
-        'DataGridViewTextBoxColumn11
+        'FIJA_AJUSTE_MAXIMO
         '
-        Me.DataGridViewTextBoxColumn11.DataPropertyName = "APLICAR_AJUSTE_MAXIMO"
-        DataGridViewCellStyle18.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle18.Format = "N3"
-        DataGridViewCellStyle18.NullValue = Nothing
-        Me.DataGridViewTextBoxColumn11.DefaultCellStyle = DataGridViewCellStyle18
-        Me.DataGridViewTextBoxColumn11.HeaderText = "Ajuste"
-        Me.DataGridViewTextBoxColumn11.Name = "DataGridViewTextBoxColumn11"
-        Me.DataGridViewTextBoxColumn11.Width = 70
+        Me.FIJA_AJUSTE_MAXIMO.DataPropertyName = "AJUSTE_MAXIMO"
+        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle5.Format = "N3"
+        DataGridViewCellStyle5.NullValue = Nothing
+        Me.FIJA_AJUSTE_MAXIMO.DefaultCellStyle = DataGridViewCellStyle5
+        Me.FIJA_AJUSTE_MAXIMO.HeaderText = "Ajuste Máximo"
+        Me.FIJA_AJUSTE_MAXIMO.Name = "FIJA_AJUSTE_MAXIMO"
+        Me.FIJA_AJUSTE_MAXIMO.Width = 75
         '
-        'DataGridViewTextBoxColumn12
+        'FIJA_APLICAR
         '
-        Me.DataGridViewTextBoxColumn12.DataPropertyName = "PRECIO"
-        DataGridViewCellStyle19.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle19.Format = "N2"
-        DataGridViewCellStyle19.NullValue = Nothing
-        Me.DataGridViewTextBoxColumn12.DefaultCellStyle = DataGridViewCellStyle19
-        Me.DataGridViewTextBoxColumn12.HeaderText = "Precio"
-        Me.DataGridViewTextBoxColumn12.Name = "DataGridViewTextBoxColumn12"
-        Me.DataGridViewTextBoxColumn12.ReadOnly = True
-        Me.DataGridViewTextBoxColumn12.Width = 70
+        Me.FIJA_APLICAR.DataPropertyName = "APLICAR"
+        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle6.Format = "N4"
+        DataGridViewCellStyle6.NullValue = Nothing
+        Me.FIJA_APLICAR.DefaultCellStyle = DataGridViewCellStyle6
+        Me.FIJA_APLICAR.HeaderText = "Aplicar"
+        Me.FIJA_APLICAR.Name = "FIJA_APLICAR"
+        Me.FIJA_APLICAR.Width = 70
         '
-        'DataGridViewTextBoxColumn13
+        'FIJA_PRECIO
         '
-        Me.DataGridViewTextBoxColumn13.DataPropertyName = "PROTECCION"
-        DataGridViewCellStyle20.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        DataGridViewCellStyle20.Format = "N2"
-        Me.DataGridViewTextBoxColumn13.DefaultCellStyle = DataGridViewCellStyle20
-        Me.DataGridViewTextBoxColumn13.HeaderText = "Protec."
-        Me.DataGridViewTextBoxColumn13.Name = "DataGridViewTextBoxColumn13"
-        Me.DataGridViewTextBoxColumn13.ReadOnly = True
-        Me.DataGridViewTextBoxColumn13.Width = 50
+        Me.FIJA_PRECIO.DataPropertyName = "PRECIO"
+        DataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle7.Format = "N2"
+        DataGridViewCellStyle7.NullValue = Nothing
+        Me.FIJA_PRECIO.DefaultCellStyle = DataGridViewCellStyle7
+        Me.FIJA_PRECIO.HeaderText = "Precio"
+        Me.FIJA_PRECIO.Name = "FIJA_PRECIO"
+        Me.FIJA_PRECIO.ReadOnly = True
+        Me.FIJA_PRECIO.Width = 70
         '
-        'DataGridViewTextBoxColumn14
+        'FIJA_PROTECCION
         '
-        Me.DataGridViewTextBoxColumn14.DataPropertyName = "ESTADO_DESC"
-        Me.DataGridViewTextBoxColumn14.HeaderText = "Estado"
-        Me.DataGridViewTextBoxColumn14.Name = "DataGridViewTextBoxColumn14"
-        Me.DataGridViewTextBoxColumn14.Width = 70
+        Me.FIJA_PROTECCION.DataPropertyName = "PROTECCION"
+        DataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle8.Format = "N2"
+        Me.FIJA_PROTECCION.DefaultCellStyle = DataGridViewCellStyle8
+        Me.FIJA_PROTECCION.HeaderText = "Protec."
+        Me.FIJA_PROTECCION.Name = "FIJA_PROTECCION"
+        Me.FIJA_PROTECCION.ReadOnly = True
+        Me.FIJA_PROTECCION.Width = 50
         '
-        'DataGridViewTextBoxColumn15
+        'FIJA_ESTADO
         '
-        Me.DataGridViewTextBoxColumn15.DataPropertyName = "ESTADO"
-        Me.DataGridViewTextBoxColumn15.HeaderText = "ESTADO"
-        Me.DataGridViewTextBoxColumn15.Name = "DataGridViewTextBoxColumn15"
-        Me.DataGridViewTextBoxColumn15.Visible = False
+        Me.FIJA_ESTADO.DataPropertyName = "estado"
+        Me.FIJA_ESTADO.HeaderText = "ESTADO"
+        Me.FIJA_ESTADO.Name = "FIJA_ESTADO"
+        Me.FIJA_ESTADO.Visible = False
         '
         'frmFijaciones
         '
@@ -1656,22 +1656,6 @@ Partial Class frmFijaciones
     Friend WithEvents APLI_PROTECCION As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents APLI_ESTADO_DESC As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents APLI_ESTADO As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_cbxAPLICAR As System.Windows.Forms.DataGridViewCheckBoxColumn
-    Friend WithEvents FIJA_OC As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_ID As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_LOCALIZADOR As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_RLC As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_TIPOFIJACION As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_TIPOFIJACION_DESC As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_TIPOQP As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_AJUSTE As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_FECHA As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_CANTIDAD As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_AJUSTE_MAXIMO As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_APLICAR As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_PRECIO As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_PROTECCION As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FIJA_ESTADO As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents ToolStripButton1 As System.Windows.Forms.ToolStripButton
     Friend WithEvents DataGridViewCheckBoxColumn1 As System.Windows.Forms.DataGridViewCheckBoxColumn
     Friend WithEvents OC As System.Windows.Forms.DataGridViewTextBoxColumn
@@ -1689,5 +1673,21 @@ Partial Class frmFijaciones
     Friend WithEvents DataGridViewTextBoxColumn13 As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents DataGridViewTextBoxColumn14 As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents DataGridViewTextBoxColumn15 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_cbxAPLICAR As System.Windows.Forms.DataGridViewCheckBoxColumn
+    Friend WithEvents FIJA_OC As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_ID As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_LOCALIZADOR As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_RLC As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_TIPOFIJACION As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_TIPOFIJACION_DESC As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_TIPOQP As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_AJUSTE As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_FECHA As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_CANTIDAD As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_AJUSTE_MAXIMO As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_APLICAR As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_PRECIO As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_PROTECCION As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents FIJA_ESTADO As System.Windows.Forms.DataGridViewTextBoxColumn
     'Friend WithEvents C1FlexDataTree1 As C1FlexDataTree
 End Class
