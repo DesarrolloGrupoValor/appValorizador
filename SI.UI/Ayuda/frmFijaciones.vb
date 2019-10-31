@@ -522,7 +522,9 @@ Public Class frmFijaciones
                         oBE_TB_FJ_APLICACION.id = row.cells("FIJA_ID").value
 
                         oBC_TB_FJ_APLICACIONTX.LstTB_FJ_APLICACIONIns.Add(oBE_TB_FJ_APLICACION)
-                        '   End If
+
+                        MessageBox.Show("c", "hola")
+
 
                     End If
 

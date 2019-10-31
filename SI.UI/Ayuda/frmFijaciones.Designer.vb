@@ -183,6 +183,7 @@ Partial Class frmFijaciones
         Me.txtCantidad_Operacion = New CUTextbox()
         Me.FIJA_cbxAPLICAR = New System.Windows.Forms.DataGridViewCheckBoxColumn()
         Me.FIJA_OC = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.CALIDAD_RAZONSOCIAL = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.FIJA_ID = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.FIJA_LOCALIZADOR = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.FIJA_RLC = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -350,7 +351,7 @@ Partial Class frmFijaciones
         DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
         Me.dgvFJ_FIJACION.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
         Me.dgvFJ_FIJACION.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dgvFJ_FIJACION.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.FIJA_cbxAPLICAR, Me.FIJA_OC, Me.FIJA_ID, Me.FIJA_LOCALIZADOR, Me.FIJA_RLC, Me.FIJA_TIPOFIJACION, Me.FIJA_TIPOFIJACION_DESC, Me.FIJA_TIPOQP, Me.FIJA_AJUSTE, Me.FIJA_FECHA, Me.FIJA_CANTIDAD, Me.FIJA_AJUSTE_MAXIMO, Me.FIJA_APLICAR, Me.FIJA_PRECIO, Me.FIJA_PROTECCION, Me.FIJA_ESTADO})
+        Me.dgvFJ_FIJACION.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.FIJA_cbxAPLICAR, Me.FIJA_OC, Me.CALIDAD_RAZONSOCIAL, Me.FIJA_ID, Me.FIJA_LOCALIZADOR, Me.FIJA_RLC, Me.FIJA_TIPOFIJACION, Me.FIJA_TIPOFIJACION_DESC, Me.FIJA_TIPOQP, Me.FIJA_AJUSTE, Me.FIJA_FECHA, Me.FIJA_CANTIDAD, Me.FIJA_AJUSTE_MAXIMO, Me.FIJA_APLICAR, Me.FIJA_PRECIO, Me.FIJA_PROTECCION, Me.FIJA_ESTADO})
         Me.dgvFJ_FIJACION.Location = New System.Drawing.Point(6, 19)
         Me.dgvFJ_FIJACION.Name = "dgvFJ_FIJACION"
         Me.dgvFJ_FIJACION.RowHeadersWidth = 5
@@ -1388,6 +1389,14 @@ Partial Class frmFijaciones
         Me.FIJA_OC.ReadOnly = True
         Me.FIJA_OC.Width = 75
         '
+        'CALIDAD_RAZONSOCIAL
+        '
+        Me.CALIDAD_RAZONSOCIAL.DataPropertyName = "CALIDAD_RAZONSOCIAL"
+        Me.CALIDAD_RAZONSOCIAL.HeaderText = "Calidad"
+        Me.CALIDAD_RAZONSOCIAL.Name = "CALIDAD_RAZONSOCIAL"
+        Me.CALIDAD_RAZONSOCIAL.ReadOnly = True
+        Me.CALIDAD_RAZONSOCIAL.Width = 200
+        '
         'FIJA_ID
         '
         Me.FIJA_ID.DataPropertyName = "id"
@@ -1401,6 +1410,7 @@ Partial Class frmFijaciones
         Me.FIJA_LOCALIZADOR.DataPropertyName = "LOCALIZADOR"
         Me.FIJA_LOCALIZADOR.HeaderText = "Localizador Base"
         Me.FIJA_LOCALIZADOR.Name = "FIJA_LOCALIZADOR"
+        Me.FIJA_LOCALIZADOR.Visible = False
         Me.FIJA_LOCALIZADOR.Width = 80
         '
         'FIJA_RLC
@@ -1675,6 +1685,7 @@ Partial Class frmFijaciones
     Friend WithEvents DataGridViewTextBoxColumn15 As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents FIJA_cbxAPLICAR As System.Windows.Forms.DataGridViewCheckBoxColumn
     Friend WithEvents FIJA_OC As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents CALIDAD_RAZONSOCIAL As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents FIJA_ID As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents FIJA_LOCALIZADOR As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents FIJA_RLC As System.Windows.Forms.DataGridViewTextBoxColumn
