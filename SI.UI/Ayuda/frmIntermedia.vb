@@ -476,6 +476,15 @@ Public Class frmIntermedia
         'Obtenemos rumas seleccionadas
         For i = 0 To fxgrdTM.Rows.Count - 1
             If fxgrdTM.Rows(i).Selected And fxgrdTM.Rows(i).Visible Then
+
+                If (fxgrdTM.Rows(i).Item("CU%").Equals(DBNull.Value)) Then
+                    fxgrdTM.Rows(i).Item("CU%") = 0
+                End If
+
+                If (fxgrdTM.Rows(i).Item("H2O").Equals(DBNull.Value)) Then
+                    fxgrdTM.Rows(i).Item("H2O") = 0
+                End If
+
                 If Not CDec(fxgrdTM.Rows(i).Item("CU%")) > 0 Or Not CDec(fxgrdTM.Rows(i).Item("H2O")) > 0 Then
                     message += Chr(10) & " - " & fxgrdTM.Rows(i).Item("Ruma Actual").ToString
                 End If

@@ -36,3 +36,5 @@ C:\Users\elam\Desktop\fuentes\vcm\SI.BC\obj\Release\SI.BC.vbproj.GenerateResourc
 C:\Users\elam\Desktop\fuentes\vcm\SI.BC\obj\Release\SI.BC.dll
 C:\Users\elam\Desktop\fuentes\vcm\SI.BC\obj\Release\SI.BC.xml
 C:\Users\elam\Desktop\fuentes\vcm\SI.BC\obj\Release\SI.BC.pdb
+D:\GITHUB\appValorizador\SI.BC\obj\Release\Resources.resources
+D:\GITHUB\appValorizador\SI.BC\obj\Release\SI.BC.vbproj.GenerateResource.Cache

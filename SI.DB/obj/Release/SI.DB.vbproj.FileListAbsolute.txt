@@ -30,3 +30,5 @@ C:\Users\elam\Desktop\fuentes\vcm\SI.DB\obj\Release\SI.DB.vbproj.GenerateResourc
 C:\Users\elam\Desktop\fuentes\vcm\SI.DB\obj\Release\SI.DB.dll
 C:\Users\elam\Desktop\fuentes\vcm\SI.DB\obj\Release\SI.DB.xml
 C:\Users\elam\Desktop\fuentes\vcm\SI.DB\obj\Release\SI.DB.pdb
+D:\GITHUB\appValorizador\SI.DB\obj\Release\Resources.resources
+D:\GITHUB\appValorizador\SI.DB\obj\Release\SI.DB.vbproj.GenerateResource.Cache
