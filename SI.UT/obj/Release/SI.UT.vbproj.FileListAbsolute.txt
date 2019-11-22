@@ -14,11 +14,5 @@ C:\Users\elam\Desktop\fuentes\vcm\SI.UT\obj\Release\SI.UT.vbproj.GenerateResourc
 C:\Users\elam\Desktop\fuentes\vcm\SI.UT\obj\Release\SI.UT.dll
 C:\Users\elam\Desktop\fuentes\vcm\SI.UT\obj\Release\SI.UT.xml
 C:\Users\elam\Desktop\fuentes\vcm\SI.UT\obj\Release\SI.UT.pdb
-D:\GITHUB\appValorizador\SI.UT\bin\Release\SI.UT.dll
-D:\GITHUB\appValorizador\SI.UT\bin\Release\SI.UT.pdb
-D:\GITHUB\appValorizador\SI.UT\bin\Release\SI.UT.xml
 D:\GITHUB\appValorizador\SI.UT\obj\Release\Resources.resources
 D:\GITHUB\appValorizador\SI.UT\obj\Release\SI.UT.vbproj.GenerateResource.Cache
-D:\GITHUB\appValorizador\SI.UT\obj\Release\SI.UT.dll
-D:\GITHUB\appValorizador\SI.UT\obj\Release\SI.UT.xml
-D:\GITHUB\appValorizador\SI.UT\obj\Release\SI.UT.pdb

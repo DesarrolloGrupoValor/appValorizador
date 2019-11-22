@@ -858,6 +858,15 @@ Public Class frmFijaciones
             ocAplicada = RTrim(LTrim((dgvFJ_APLICACION2.CurrentRow.Cells("OC").Value.ToString())))
             ocId = RTrim(LTrim((dgvFJ_APLICACION2.CurrentRow.Cells("id").Value)))
 
+            If ocAplicada = vbEmpty Then
+                ocAplicada = ""
+            End If
+
+            If (ocAplicada = "") Then
+                MsgBox("Debe Seleccionar una Fijación ya Aplicada", MsgBoxStyle.Exclamation, "Validación")
+                Return
+            End If
+
             If MsgBox("¿ Está seguro que desea DesAplicar la fijación Seleccionada ?", MsgBoxStyle.YesNo, "Valorizador Comercial de Minerales") = MsgBoxResult.Yes Then
 
                 oBE_TB_FJ_APLICACION = New clsBE_TB_FJ_APLICACION
