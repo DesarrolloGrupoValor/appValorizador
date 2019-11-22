@@ -855,6 +855,11 @@ Public Class frmFijaciones
             Dim ocAplicada As String
             Dim ocId As Integer
 
+            If dgvFJ_APLICACION2.RowCount = 0 Then
+                MsgBox("No Existen Registros x DesAplicar", MsgBoxStyle.Exclamation, "Validación")
+                Return
+            End If
+
             ocAplicada = RTrim(LTrim((dgvFJ_APLICACION2.CurrentRow.Cells("OC").Value.ToString())))
             ocId = RTrim(LTrim((dgvFJ_APLICACION2.CurrentRow.Cells("id").Value)))
 
