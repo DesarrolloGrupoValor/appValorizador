@@ -523,8 +523,7 @@ Public Class frmFijaciones
 
                         oBC_TB_FJ_APLICACIONTX.LstTB_FJ_APLICACIONIns.Add(oBE_TB_FJ_APLICACION)
 
-                        MessageBox.Show("c", "hola")
-
+                        ''MessageBox.Show("c", "hola")
 
                     End If
 
