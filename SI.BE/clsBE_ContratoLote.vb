@@ -180,6 +180,8 @@ Namespace SI.BE
         Public Property asientocontable() As Decimal
         Public Property periodo_origen() As String
         Public Property periodo_destino() As String
+        Public Property estado_con() As String
+        Public Property mensaje_con() As String
 
 #End Region
     End Class

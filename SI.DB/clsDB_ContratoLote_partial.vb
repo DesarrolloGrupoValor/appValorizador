@@ -963,7 +963,8 @@ Namespace SI.DB
                                     oContratoLote.tmMensualMinimo = .Item("tmMensualMinimo").ToString
                                     oContratoLote.tmMensualMaximo = .Item("tmMensualMaximo").ToString
                                     oContratoLote.adenda = .Item("adenda").ToString
-
+                                    oContratoLote.estado_con = .Item("estado_con").ToString
+                                    oContratoLote.mensaje_con = .Item("mensaje_con").ToString
 
 
                                     oContratoLote.VigenciaFin = .Item("VigenciaFin").ToString

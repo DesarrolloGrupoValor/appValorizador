@@ -2130,18 +2130,28 @@ Public Class editlote
             End Select
             '=============================================================================================================================
 
+            Select Case sTipoValidacion
+                Case "ASO", "LIQ"
 
-            'VIGENCIA CONTRATO
-            Dim oBC_ContratoLoteRO As New clsBC_ContratoLoteRO
-            oBC_ContratoLoteRO.oBEContratoLote = New clsBE_ContratoLote
-            oBC_ContratoLoteRO.oBEContratoLote.codigoMovimiento = cboTipo.SelectedValue
-            oBC_ContratoLoteRO.oBEContratoLote.contrato = txtNumero.Text.TrimEnd
-            oBC_ContratoLoteRO.oBEContratoLote.codigoTabla = "CON"
-            oBC_ContratoLoteRO.oBEContratoLote.lote = ""
-            oBC_ContratoLoteRO.VerificarNumeroLote()
-            If oBC_ContratoLoteRO.oBEContratoLote.VigenciaFin < Date.Now Then
-                MsgBox("El contrato esta vencido, debe regularizar la fecha de vigencia", MsgBoxStyle.Exclamation, "Valorizador de Minerales")
-            End If
+                    'VIGENCIA CONTRATO
+                    Dim oBC_ContratoLoteRO As New clsBC_ContratoLoteRO
+                    oBC_ContratoLoteRO.oBEContratoLote = New clsBE_ContratoLote
+                    oBC_ContratoLoteRO.oBEContratoLote.codigoMovimiento = cboTipo.SelectedValue
+                    oBC_ContratoLoteRO.oBEContratoLote.contrato = txtNumero.Text.TrimEnd
+                    oBC_ContratoLoteRO.oBEContratoLote.codigoTabla = "CON"
+                    oBC_ContratoLoteRO.oBEContratoLote.lote = ""
+                    oBC_ContratoLoteRO.VerificarNumeroLote()
+
+                    If oBC_ContratoLoteRO.oBEContratoLote.VigenciaFin < Date.Now Then
+                        MsgBox("El contrato esta vencido, debe regularizar la fecha de vigencia", MsgBoxStyle.Exclamation, "Valorizador de Minerales")
+                    End If
+
+
+                    If oBC_ContratoLoteRO.oBEContratoLote.estado_con <> "1" And sTipoValidacion = "LIQ" Then
+                        'MsgBox(oBC_ContratoLoteRO.oBEContratoLote.mensaje_con, MsgBoxStyle.Exclamation, "Valorizador de Minerales")
+                        strmensaje = strmensaje & oBC_ContratoLoteRO.oBEContratoLote.mensaje_con
+                    End If
+            End Select
 
         Catch ex As Exception
             oMensajeError.txtMensaje.Text = ex.ToString()
@@ -2634,7 +2644,7 @@ Public Class editlote
                     tsbGuardar_Click(Nothing, Nothing)
 
                 End If
-                End If
+            End If
         Catch ex As Exception
             oMensajeError.txtMensaje.Text = ex.ToString()
             oMensajeError.ShowDialog()
@@ -2962,10 +2972,10 @@ Public Class editlote
                             row.Item("precio") = IIf(row.Item("codigoelemento") = "AG" And IIf(IsDBNull(row.Item("indpre")), 0, row.Item("indpre")) = 0, oTablaDetRO.oBETablaDet.campo4.ToString, row.Item("precio"))
                             row.Item("precio") = IIf(row.Item("codigoelemento") = "AU" And IIf(IsDBNull(row.Item("indpre")), 0, row.Item("indpre")) = 0, oTablaDetRO.oBETablaDet.campo4.ToString, row.Item("precio"))
 
-                           
-                        End If
 
                         End If
+
+                    End If
                 Next
             End If
 
@@ -4527,7 +4537,7 @@ Public Class editlote
                 Dim dblProtCont As Double = SI.UT.clsUT_Funcion.DbValueToNullable(Of Double)(srow.Cells.Item("protCont").Value).GetValueOrDefault
                 Dim dblContPagable As Double
                 Dim dblTMSN As Double = txtTMSN.Text
-   
+
 
                 If cboTipo.Text = "B" Then
                     dblTMSN = txtCalculoTmsn.Text
@@ -4975,7 +4985,7 @@ Public Class editlote
 
                 If Not (dgvPagables.Item("ProtCont", e.RowIndex).Value >= 0.8 And dgvPagables.Item("ProtCont", e.RowIndex).Value <= 1) Then
                     ' dgvPagables.CurrentRow.Cells("ProtCont").Value = "1"
-                 Else
+                Else
                     CalculoPagables()
                     ResumenGeneral()
                 End If
@@ -5020,10 +5030,23 @@ Public Class editlote
             '    Exit Sub
             'End If
 
-          '  If ((Double.Parse(txtAdelanto.Text) + Double.Parse(txtDescuentos.Text)) > Double.Parse(txtTotal.Text)) And lblestadoliq.Text = "N/A" Then
+            '  If ((Double.Parse(txtAdelanto.Text) + Double.Parse(txtDescuentos.Text)) > Double.Parse(txtTotal.Text)) And lblestadoliq.Text = "N/A" Then
             '     MsgBox("No puede generar liquidaciones, porque el monto del adelanto y/o descuento aplicado es mayor al monto de la liquidación", MsgBoxStyle.Critical, "Valorizador Comercial de Minerales")
             '      Exit Sub
             '  End If
+
+            If cboTipo.SelectedValue = "P" Then
+                If Not ValidarLote("LIQ") Then
+                    Return
+                End If
+
+                'Valida los documentos obligatorios
+                Dim sMensajeValidacion As String = ValidarAdjuntarObligatorios()
+                If sMensajeValidacion <> "" Then
+                    MsgBox("Para proceder con la validación Contable debe adjuntar los siguientes documentos: " & Chr(10) & sMensajeValidacion, MsgBoxStyle.Critical, "Valorizador Comercial de Minerales")
+                End If
+
+            End If
 
             If pDireccion = False Then
                 MsgBox("No puede generar la liquidación, porque el proveedor no tiene registrada la dirección valida." + Chr(10) + "Ingresarla en el módulo de Maestro o solicitarlo a Contabilidad.", MsgBoxStyle.OkOnly, "Valorizador de Minerales")
@@ -5064,6 +5087,51 @@ Public Class editlote
             oMensajeError.ShowDialog()
         End Try
     End Sub
+    Private Function ValidarAdjuntarObligatorios()
+
+        Dim oBC_LiquidacionRO As New clsBC_LiquidacionRO
+        Dim ntickets As Integer, nguias As Integer, nguiast As Integer, nnota As Integer, nEnsaye As Integer
+
+
+        Dim sMensaje As String = ""
+        Dim bDocumentoAdjunto As Boolean = False
+
+
+        If cboCategoria.Text = "0000000005" Then Return ""
+
+        ntickets = oBC_LiquidacionRO.ObtenerCantidadAdjuntos(pstrCorrelativo, pstrCorrelativoLiquidacion, "0000000003")
+        nguias = oBC_LiquidacionRO.ObtenerCantidadAdjuntos(pstrCorrelativo, pstrCorrelativoLiquidacion, "0000000004")
+        nguiast = oBC_LiquidacionRO.ObtenerCantidadAdjuntos(pstrCorrelativo, pstrCorrelativoLiquidacion, "0000000037")
+        nnota = oBC_LiquidacionRO.ObtenerCantidadAdjuntos(pstrCorrelativo, pstrCorrelativoLiquidacion, "0000000009")
+        nEnsaye = oBC_LiquidacionRO.ObtenerCantidadAdjuntos(pstrCorrelativo, pstrCorrelativoLiquidacion, "0000000010")
+
+            If ntickets = 0 Then
+                bDocumentoAdjunto = False
+                sMensaje += "* " & "Debe completar la cantidad de Tickets" & Chr(10)
+            End If
+
+            If nguias = 0 Then
+                bDocumentoAdjunto = False
+                sMensaje += "* " & "Debe completar la cantidad de Guias" & Chr(10)
+            End If
+
+            If nguiast = 0 Then
+                bDocumentoAdjunto = False
+                sMensaje += "* " & "Debe completar la cantidad de Guias Transporte" & Chr(10)
+            End If
+            If nnota = 0 Then
+                bDocumentoAdjunto = False
+                sMensaje += "* " & "Debe adjuntar Nota de Romaneo" & Chr(10)
+            End If
+            If nEnsaye = 0 Then
+                bDocumentoAdjunto = False
+                sMensaje += "* " & "Debe adjuntar Reporte Ensaye" & Chr(10)
+            End If
+
+        Return sMensaje
+
+    End Function
+
 
     Private Sub txtMaquila_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtMaquila.TextChanged
         ResumenGeneral()
@@ -5958,7 +6026,7 @@ Public Class editlote
     End Sub
     '@01    AFIN
 
- 
+
 
 
 

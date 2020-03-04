@@ -273,6 +273,14 @@ Namespace SI.BC
                 Throw ex
             End Try
         End Function
+
+        Public Function ObtenerCantidadAdjuntos(ByVal sContratoloteId As String, sLiquidacionId As String, sTipoDocumento As String) As Integer
+            Try
+                Return oDBLiquidacionRO.ObtenerCantidadAdjuntos(sContratoloteId, sLiquidacionId, sTipoDocumento)
+            Catch ex As Exception
+                Throw ex
+            End Try
+        End Function
         
 
     End Class

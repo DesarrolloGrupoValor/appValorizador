@@ -22,3 +22,11 @@ D:\GITHUB\appValorizador\SI.UT\obj\Release\SI.UT.vbproj.GenerateResource.Cache
 D:\GITHUB\appValorizador\SI.UT\obj\Release\SI.UT.dll
 D:\GITHUB\appValorizador\SI.UT\obj\Release\SI.UT.xml
 D:\GITHUB\appValorizador\SI.UT\obj\Release\SI.UT.pdb
+E:\SISTEMAS\GITHUB\appValorizador\SI.UT\bin\Release\SI.UT.dll
+E:\SISTEMAS\GITHUB\appValorizador\SI.UT\bin\Release\SI.UT.pdb
+E:\SISTEMAS\GITHUB\appValorizador\SI.UT\bin\Release\SI.UT.xml
+E:\SISTEMAS\GITHUB\appValorizador\SI.UT\obj\Release\Resources.resources
+E:\SISTEMAS\GITHUB\appValorizador\SI.UT\obj\Release\SI.UT.vbproj.GenerateResource.Cache
+E:\SISTEMAS\GITHUB\appValorizador\SI.UT\obj\Release\SI.UT.dll
+E:\SISTEMAS\GITHUB\appValorizador\SI.UT\obj\Release\SI.UT.xml
+E:\SISTEMAS\GITHUB\appValorizador\SI.UT\obj\Release\SI.UT.pdb

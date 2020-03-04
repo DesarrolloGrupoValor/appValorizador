@@ -386,7 +386,25 @@ Namespace SI.DB
 
         End Function
 
+        Public Function ObtenerCantidadAdjuntos(ByVal sContratoloteId As String, sLiquidacionId As String, sTipoDocumento As String) As Integer
 
+            Try
+                Dim prmParameter(2) As SqlParameter
+                prmParameter(0) = New SqlParameter("@contratoLoteId", SqlDbType.VarChar, 20)
+                prmParameter(0).Value = IIf(IsNothing(sContratoloteId), "", sContratoloteId)
+                prmParameter(1) = New SqlParameter("@liquidacionId", SqlDbType.VarChar, 20)
+                prmParameter(1).Value = IIf(IsNothing(sLiquidacionId), "", sLiquidacionId)
+                prmParameter(2) = New SqlParameter("@tipoDocumento", SqlDbType.VarChar, 20)
+                prmParameter(2).Value = IIf(IsNothing(sTipoDocumento), "", sTipoDocumento)
+
+
+                Return SqlHelper.ExecuteScalar(CadenaConexion, CommandType.StoredProcedure, "PA_ADJUNTOSLOTE_CONT", prmParameter)
+            Catch ex As Exception
+                Throw ex
+            End Try
+            Return 0
+
+        End Function
         
 
     End Class

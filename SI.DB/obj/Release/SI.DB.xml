@@ -76,116 +76,144 @@ SI.DB
  Proposito: Obtiene los valores de la tabla ContratoLote
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaDetTX.InsertarTablaDet(System.Collections.Generic.List{SI.BE.clsBE_TablaDet})">
+</member><member name="M:SI.DB.clsDB_LogisticaMovimientoTX.InsertarLogisticaMovimiento(System.Collections.Generic.List{SI.BE.clsBE_LogisticaMovimiento})">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Fecha Creacion: 25/02/2011 10:15:55
  Proposito: Metodo de Insercci?n de Datos
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaDetTX.ModificarTablaDet(System.Collections.Generic.List{SI.BE.clsBE_TablaDet})">
+</member><member name="M:SI.DB.clsDB_LogisticaMovimientoTX.ModificarLogisticaMovimiento(System.Collections.Generic.List{SI.BE.clsBE_LogisticaMovimiento})">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Fecha Creacion: 25/02/2011 10:15:55
  Proposito: Metodo de Modificacion de datos
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaDetTX.EliminarTablaDet(System.Collections.Generic.List{SI.BE.clsBE_TablaDet})">
+</member><member name="M:SI.DB.clsDB_LogisticaMovimientoTX.EliminarLogisticaMovimiento(System.Collections.Generic.List{SI.BE.clsBE_LogisticaMovimiento})">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Fecha Creacion: 25/02/2011 10:15:55
  Proposito: Metodo de Elimacion
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaDetTX.GuardarTablaDet(System.Data.DataSet)">
+</member><member name="M:SI.DB.clsDB_LogisticaMovimientoTX.GuardarLogisticaMovimiento(System.Data.DataSet)">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Fecha Creacion: 25/02/2011 10:15:55
  Proposito: Metodo de Guardar Dataset
  Fecha Modificacion:
  </summary>
-</member><member name="T:SI.DB.clsDB_TablaDetTX">
+</member><member name="T:SI.DB.clsDB_LogisticaMovimientoTX">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 08:27:56 a.m.
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla TablaDet
+ Fecha Creacion: 25/02/2011 10:15:55
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla LogisticaMovimiento
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaDetRO.LeerTablaDet(SI.BE.clsBE_TablaDet)">
+</member><member name="M:SI.DB.clsDB_LogisticaMovimientoRO.LeerLogisticaMovimiento(SI.BE.clsBE_LogisticaMovimiento)">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Fecha Creacion: 25/02/2011 10:15:55
  Proposito: Lee los datos de un registro
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaDetRO.LeerListaTablaDet">
+</member><member name="M:SI.DB.clsDB_LogisticaMovimientoRO.LeerListaLogisticaMovimiento">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Fecha Creacion: 25/02/2011 10:15:55
  Proposito: Obtiene la lista de registros
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaDetRO.LeerListaToDSTablaDet(SI.BE.clsBE_TablaDet)">
+</member><member name="M:SI.DB.clsDB_LogisticaMovimientoRO.LeerListaToDSLogisticaMovimiento(SI.BE.clsBE_LogisticaMovimiento)">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Fecha Creacion: 25/02/2011 10:15:55
  Proposito: Obtiene la lista de registros y lo almacena en un DS
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaDetRO.DefinirTablaTablaDet">
+</member><member name="M:SI.DB.clsDB_LogisticaMovimientoRO.LeerListaToDSLogisticaAsociado(SI.BE.clsBE_LogisticaMovimiento)">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Fecha Creacion: 25/02/2011 10:15:55
  Proposito: Obtiene la lista de registros y lo almacena en un DS
  Fecha Modificacion:
  </summary>
-</member><member name="T:SI.DB.clsDB_TablaDetRO">
+</member><member name="M:SI.DB.clsDB_LogisticaMovimientoRO.DefinirTablaLogisticaMovimiento">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 08:27:56 a.m.
- Proposito: Obtiene los valores de la tabla TablaDet
+ Fecha Creacion: 25/02/2011 10:15:55
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPagableTX.InsertarPagable(System.Collections.Generic.List{SI.BE.clsBE_ValorizadorPagable})">
+</member><member name="T:SI.DB.clsDB_LogisticaMovimientoRO">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 07/12/2010 14:46:15
+ Fecha Creacion: 25/02/2011 10:15:55
+ Proposito: Obtiene los valores de la tabla LogisticaMovimiento
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LogisticaMovimientoTX.ActualizaEstadoLogisticaMovimiento(System.Collections.Generic.List{SI.BE.clsBE_LogisticaMovimiento},SI.BE.clsBE_AuditoriaD)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 25/02/2011 10:15:55
  Proposito: Metodo de Insercci?n de Datos
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPagableRO.LeerPagableCorrelativo(SI.BE.clsBE_ValorizadorPagable)">
+</member><member name="M:SI.DB.clsDB_TB_DESCUENTOS_LIQRO.LeerPagableCorrelativo(SI.BE.clsBE_TB_DESCUENTOS_LIQ)">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 07/12/2010 14:46:15
  Proposito: Lee los datos de un registro
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPagableRO.LeerListaToDSPagable(SI.BE.clsBE_ValorizadorPagable)">
+</member><member name="M:SI.DB.clsDB_TB_DESCUENTOS_LIQRO.LeerListaToDSTB_DESCUENTOS_LIQ(SI.BE.clsBE_TB_DESCUENTOS_LIQ)">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 17:00:41
  Proposito: Obtiene la lista de registros y lo almacena en un DS
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPagableRO.DefineTablaValorizadorPagable">
+</member><member name="M:SI.DB.clsDB_TB_DESCUENTOS_LIQRO.DefineTablaTB_DESCUENTOS_LIQ">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 11/03/2011 17:53:28
  Proposito: Obtiene la lista de registros y lo almacena en un DS
  Fecha Modificacion:
  </summary>
-</member><member name="T:SI.DB.clsDB_t_financiando_seleccionTX">
+</member><member name="T:SI.DB.clsDB_ANEXOS_BANCOTX">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la FINANCIANDO_PRELIQ FINANCIANDO_PRELIQ
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la ANEXOS_BANCO ANEXOS_BANCO
  Fecha Modificacion:
  </summary>
-</member><member name="T:SI.DB.clsDB_t_financiando_seleccionRO">
+</member><member name="M:SI.DB.clsDB_ANEXOS_BANCORO.LeerListaToDSANEXOS_BANCO(SI.BE.clsBE_ANEXOS_BANCO)">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la FINANCIANDO_PRELIQ FINANCIANDO_PRELIQ
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_ANEXOS_BANCORO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la ANEXOS_BANCO ANEXOS_BANCO
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionEstadoTX.InsertarLiquidacionEstado(SI.BE.clsBE_LiquidacionEstado)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:01
+ Proposito: Metodo de Insercci?n de Datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_LiquidacionEstadoTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:01
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
  Fecha Modificacion:
  </summary>
 </member><member name="M:SI.DB.clsDB_ReporteCompraVentaRO.LeerListaToDSReporteLista(SI.BE.clsBE_ContratoLote)">
@@ -241,494 +269,6 @@ SI.DB
  Escrito por: Martin Huaman
  Fecha Creacion: 13/11/2010 14:58:04
  Proposito: Obtiene la lista de costos y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSExtraccionBd(SI.BE.clsBE_ContratoLote)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 13/11/2010 14:58:04
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSReporteLista(SI.BE.clsBE_ContratoLote)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 13/11/2010 14:58:04
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSContabilidad(SI.BE.clsBE_ContratoLote)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 13/11/2010 14:58:04
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSContrato(SI.BE.clsBE_ContratoLote)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 13/11/2010 14:58:04
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ContratoLoteRO.VerificarNumeroLote(SI.BE.clsBE_ContratoLote)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:39:42
- Proposito: Lee los datos de un registro
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ContratoLoteRO.VerificarNumeroContrato(SI.BE.clsBE_ContratoLote)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:39:42
- Proposito: Lee los datos de un registro
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSExtraccionVCM">
-	<summary>
- Escrito por: Lissete MIyahira
- Fecha Creacion: 08/01/2013 14:58:04
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSExtraccionVCM_Venta">
-	<summary>
- Extrae todas los registros de ventas en forma de lote
- </summary>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSContratoLoteCosto(SI.BE.clsBE_ContratoLote)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 13/11/2010 14:58:04
- Proposito: Obtiene la lista de costos y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_TB_TABLAS_GENRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la FINANCIANDO_PRELIQ FINANCIANDO_PRELIQ
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_ANEXOS_BANCOTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la ANEXOS_BANCO ANEXOS_BANCO
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ANEXOS_BANCORO.LeerListaToDSANEXOS_BANCO(SI.BE.clsBE_ANEXOS_BANCO)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_ANEXOS_BANCORO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la ANEXOS_BANCO ANEXOS_BANCO
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_TB_RECLASIFICATX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la TB_RECLASIFICA TB_RECLASIFICA
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_TB_RECLASIFICARO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la TB_RECLASIFICA TB_RECLASIFICA
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.InsertarLiquidacionServicio(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionServicio})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Metodo de Insercci?n de Datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.ModificarLiquidacionServicio(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionServicio})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Metodo de Modificacion de datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.EliminarLiquidacionServicio(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionServicio})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Metodo de Elimacion
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.GuardarLiquidacionServicio(System.Data.DataSet)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Metodo de Guardar Dataset
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LiquidacionServicioTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla LiquidacionServicio
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionServicioRO.LeerLiquidacionServicio(SI.BE.clsBE_LiquidacionServicio)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Lee los datos de un registro
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionServicioRO.LeerListaLiquidacionServicio">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Obtiene la lista de registros
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionServicioRO.LeerListaToDSLiquidacionServicio(SI.BE.clsBE_LiquidacionServicio)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionServicioRO.DefinirTablaLiquidacionServicio">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LiquidacionServicioRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Obtiene los valores de la tabla LiquidacionServicio
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_FINANCIANDO_CLITX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la FINANCIANDO_CLI FINANCIANDO_CLI
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_FINANCIANDO_CLIRO.LeerListaToDSFINANCIANDO_CLI(SI.BE.clsBE_FINANCIANDO_CLI)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_FINANCIANDO_CLIRO.LeerListaToDSPRESTAMO_CCH(SI.BE.clsBE_FINANCIANDO_CLI)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_FINANCIANDO_CLIRO.LeerListaToDSPRESTAMO_COM(SI.BE.clsBE_FINANCIANDO_CLI)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_FINANCIANDO_CLIRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la FINANCIANDO_CLI FINANCIANDO_CLI
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTmTX.InsertarLiquidacion(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTm})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:53:25 a.m.
- Proposito: Metodo de Insercci?n de Datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTmRO.LeerListaToDSLiquidacion(SI.BE.clsBE_LiquidacionTm)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:53:25 a.m.
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTmRO.DefineTablaLiquidacionTm">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:53:25 a.m.
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ProfitLossLoteTX.ModificarProfitLoss(SI.BE.clsBE_ProfitLossLote)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:01
- Proposito: Metodo de Insercci?n de Datos
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_ProfitLossLoteTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:01
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ProfitLossLoteRO.LeerListaToDSProfitLoss(System.String)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:07:44 a.m.
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTX.InsertarLiquidacion(System.Collections.Generic.List{SI.BE.clsBE_Liquidacion})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:01
- Proposito: Metodo de Insercci?n de Datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTX.ModificarLiquidacion(System.Collections.Generic.List{SI.BE.clsBE_Liquidacion})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:01
- Proposito: Metodo de Modificacion de datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTX.EliminarLiquidacion(System.Collections.Generic.List{SI.BE.clsBE_Liquidacion})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:02
- Proposito: Metodo de Elimacion
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTX.GuardarLiquidacion(System.Data.DataSet)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:02
- Proposito: Metodo de Guardar Dataset
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LiquidacionTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:01
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionRO.LeerLiquidacion(SI.BE.clsBE_Liquidacion)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:02
- Proposito: Lee los datos de un registro
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionRO.LeerListaLiquidacion">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:02
- Proposito: Obtiene la lista de registros
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionRO.LeerListaToDSLiquidacion(SI.BE.clsBE_Liquidacion)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:02
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionRO.DefinirTablaLiquidacion">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:02
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LiquidacionRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:02
- Proposito: Obtiene los valores de la tabla Liquidacion
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LogisticaMovimientoTX.ActualizaEstadoLogisticaMovimiento(System.Collections.Generic.List{SI.BE.clsBE_LogisticaMovimiento},SI.BE.clsBE_AuditoriaD)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 25/02/2011 10:15:55
- Proposito: Metodo de Insercci?n de Datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_TB_DESCUENTOS_LIQRO.LeerPagableCorrelativo(SI.BE.clsBE_TB_DESCUENTOS_LIQ)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 07/12/2010 14:46:15
- Proposito: Lee los datos de un registro
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_TB_DESCUENTOS_LIQRO.LeerListaToDSTB_DESCUENTOS_LIQ(SI.BE.clsBE_TB_DESCUENTOS_LIQ)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 17:00:41
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_TB_DESCUENTOS_LIQRO.DefineTablaTB_DESCUENTOS_LIQ">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 11/03/2011 17:53:28
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="P:My.Resources.Resources.ResourceManager">
-	<summary>
-  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
-</summary>
-</member><member name="P:My.Resources.Resources.Culture">
-	<summary>
-  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
-  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
-</summary>
-</member><member name="T:My.Resources.Resources">
-	<summary>
-  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
-</summary>
-</member><member name="M:SI.DB.clsDB_LotesValorizadosLogRO.LeerListaToDStbLotesValorizadosLog(SI.BE.clsBE_ContratoLote)">
-	<summary>
- Escrito por: 
- Fecha Creacion: 25/02/2013
- Proposito: Obtener lotesValorizadosLog
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LiquidacionAdjuntoTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:01
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LiquidacionAdjuntoRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:02
- Proposito: Obtiene los valores de la tabla Liquidacion
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableTX.InsertarValorizadorPenalizable(System.Collections.Generic.List{SI.BE.clsBE_ValorizadorPenalizable})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 08:52:29 a.m.
- Proposito: Metodo de Insercci?n de Datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableTX.ModificarValorizadorPenalizable(System.Collections.Generic.List{SI.BE.clsBE_ValorizadorPenalizable})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 08:52:29 a.m.
- Proposito: Metodo de Modificacion de datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableTX.EliminarValorizadorPenalizable(System.Collections.Generic.List{SI.BE.clsBE_ValorizadorPenalizable})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 08:52:29 a.m.
- Proposito: Metodo de Elimacion
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableTX.GuardarValorizadorPenalizable(System.Data.DataSet)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 08:52:29 a.m.
- Proposito: Metodo de Guardar Dataset
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_ValorizadorPenalizableTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 08:52:29 a.m.
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla ValorizadorPenalizable
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableRO.LeerValorizadorPenalizable(SI.BE.clsBE_ValorizadorPenalizable)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 08:52:29 a.m.
- Proposito: Lee los datos de un registro
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableRO.LeerListaValorizadorPenalizable">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 08:52:29 a.m.
- Proposito: Obtiene la lista de registros
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableRO.LeerListaToDSValorizadorPenalizable(SI.BE.clsBE_ValorizadorPenalizable)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 08:52:29 a.m.
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableRO.DefinirTablaValorizadorPenalizable">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 08:52:29 a.m.
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_ValorizadorPenalizableRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 08:52:29 a.m.
- Proposito: Obtiene los valores de la tabla ValorizadorPenalizable
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableTX.InsertarPenalizable(System.Collections.Generic.List{SI.BE.clsBE_ValorizadorPenalizable})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 07/12/2010 14:46:24
- Proposito: Metodo de Insercci?n de Datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableRO.LeerPenalizableCorrelativo(SI.BE.clsBE_ValorizadorPenalizable)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 07/12/2010 14:46:15
- Proposito: Lee los datos de un registro
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableRO.LeerListaToDSPenalizable(SI.BE.clsBE_ValorizadorPenalizable)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 17:00:52
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionEstadoTX.InsertarLiquidacionEstado(SI.BE.clsBE_LiquidacionEstado)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:01
- Proposito: Metodo de Insercci?n de Datos
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LiquidacionEstadoTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:01
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
  Fecha Modificacion:
  </summary>
 </member><member name="M:SI.DB.clsDB_AsientoContableTX.InsertarAsientoContable(System.Collections.Generic.List{SI.BE.clsBE_AsientoContable})">
@@ -801,221 +341,130 @@ SI.DB
  Proposito: Obtiene los valores de la tabla AsientoContable
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_PeriodoTX.InsertarPeriodo(System.Collections.Generic.List{SI.BE.clsBE_Periodo})">
+</member><member name="M:SI.DB.clsDB_LiquidacionTmTX.InsertarLiquidacionTm(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTm})">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:34
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
  Proposito: Metodo de Insercci?n de Datos
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_PeriodoTX.ModificarPeriodo(System.Collections.Generic.List{SI.BE.clsBE_Periodo})">
+</member><member name="M:SI.DB.clsDB_LiquidacionTmTX.ModificarLiquidacionTm(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTm})">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:34
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
  Proposito: Metodo de Modificacion de datos
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_PeriodoTX.EliminarPeriodo(System.Collections.Generic.List{SI.BE.clsBE_Periodo})">
+</member><member name="M:SI.DB.clsDB_LiquidacionTmTX.EliminarLiquidacionTm(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTm})">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:34
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
  Proposito: Metodo de Elimacion
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_PeriodoTX.GuardarPeriodo(System.Data.DataSet)">
+</member><member name="M:SI.DB.clsDB_LiquidacionTmTX.GuardarLiquidacionTm(System.Data.DataSet)">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:34
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
  Proposito: Metodo de Guardar Dataset
  Fecha Modificacion:
  </summary>
-</member><member name="T:SI.DB.clsDB_PeriodoTX">
+</member><member name="T:SI.DB.clsDB_LiquidacionTmTX">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:34
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Periodo
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla LiquidacionTm
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_PeriodoRO.LeerPeriodo(SI.BE.clsBE_Periodo)">
+</member><member name="M:SI.DB.clsDB_LiquidacionTmRO.LeerLiquidacionTm(SI.BE.clsBE_LiquidacionTm)">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:34
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
  Proposito: Lee los datos de un registro
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_PeriodoRO.LeerListaPeriodo">
+</member><member name="M:SI.DB.clsDB_LiquidacionTmRO.LeerListaLiquidacionTm">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:34
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
  Proposito: Obtiene la lista de registros
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_PeriodoRO.LeerListaToDSPeriodo(SI.BE.clsBE_Periodo)">
+</member><member name="M:SI.DB.clsDB_LiquidacionTmRO.LeerListaToDSLiquidacionTm(SI.BE.clsBE_LiquidacionTm)">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:34
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
  Proposito: Obtiene la lista de registros y lo almacena en un DS
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_PeriodoRO.DefinirTablaPeriodo">
+</member><member name="M:SI.DB.clsDB_LiquidacionTmRO.DefinirTablaLiquidacionTm">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:35
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
  Proposito: Obtiene la lista de registros y lo almacena en un DS
  Fecha Modificacion:
  </summary>
-</member><member name="T:SI.DB.clsDB_PeriodoRO">
+</member><member name="T:SI.DB.clsDB_LiquidacionTmRO">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:34
- Proposito: Obtiene los valores de la tabla Periodo
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
+ Proposito: Obtiene los valores de la tabla LiquidacionTm
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaTX.InsertarTabla(System.Collections.Generic.List{SI.BE.clsBE_Tabla})">
+</member><member name="M:SI.DB.clsDB_LiquidacionTmTX.InsertarLiquidacion(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTm})">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:45
+ Fecha Creacion: 24/04/2011 10:53:25 a.m.
  Proposito: Metodo de Insercci?n de Datos
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaTX.ModificarTabla(System.Collections.Generic.List{SI.BE.clsBE_Tabla})">
+</member><member name="M:SI.DB.clsDB_LiquidacionTmRO.LeerListaToDSLiquidacion(SI.BE.clsBE_LiquidacionTm)">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Metodo de Modificacion de datos
+ Fecha Creacion: 24/04/2011 10:53:25 a.m.
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaTX.EliminarTabla(System.Collections.Generic.List{SI.BE.clsBE_Tabla})">
+</member><member name="M:SI.DB.clsDB_LiquidacionTmRO.DefineTablaLiquidacionTm">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Metodo de Elimacion
+ Fecha Creacion: 24/04/2011 10:53:25 a.m.
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaTX.GuardarTabla(System.Data.DataSet)">
+</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableTX.InsertarPenalizable(System.Collections.Generic.List{SI.BE.clsBE_ValorizadorPenalizable})">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Metodo de Guardar Dataset
+ Fecha Creacion: 07/12/2010 14:46:24
+ Proposito: Metodo de Insercci?n de Datos
  Fecha Modificacion:
  </summary>
-</member><member name="T:SI.DB.clsDB_TablaTX">
+</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableRO.LeerPenalizableCorrelativo(SI.BE.clsBE_ValorizadorPenalizable)">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Tabla
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_TablaRO.LeerTabla(SI.BE.clsBE_Tabla)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
+ Fecha Creacion: 07/12/2010 14:46:15
  Proposito: Lee los datos de un registro
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaRO.LeerListaTabla">
+</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableRO.LeerListaToDSPenalizable(SI.BE.clsBE_ValorizadorPenalizable)">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene la lista de registros
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_TablaRO.LeerListaToDSTabla(SI.BE.clsBE_Tabla)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
+ Fecha Creacion: 17/02/2011 17:00:52
  Proposito: Obtiene la lista de registros y lo almacena en un DS
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TablaRO.DefinirTablaTabla">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_TablaRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la tabla Tabla
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_PUB_PERSONASTX">
+</member><member name="T:SI.DB.clsDB_TB_CIERRE_DOCTX">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la PUB_PERSONAS PUB_PERSONAS
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la TB_CIERRE_DOC TB_CIERRE_DOC
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_PUB_PERSONASRO.LeerListaPUB_PERSONAS(System.String,System.String)">
+</member><member name="T:SI.DB.clsDB_TB_CIERRE_DOCRO">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene la lista de registros
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_PUB_PERSONASRO.LeerListaToDSPUB_PERSONAS(SI.BE.clsBE_PUB_PERSONAS)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_PUB_PERSONASRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la PUB_PERSONAS PUB_PERSONAS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionDsctoRO.DefineTablaLiquidacionDscto">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:42:15
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionDsctoTX.InsertarDscto(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionDscto})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:42:13
- Proposito: Metodo de Insercci?n de Datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionDsctoTX.ModificarDscto(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionDscto})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:42:13
- Proposito: Metodo de Modificacion de datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionDsctoTX.EliminarDscto(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionDscto})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:42:14
- Proposito: Metodo de Elimacion
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_TB_DIG_INDICETX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la FINANCIANDO_PRELIQ FINANCIANDO_PRELIQ
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_TB_DIG_INDICERO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la FINANCIANDO_PRELIQ FINANCIANDO_PRELIQ
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LotesValorizadosLogTMRO.LeerListaToDStbLotesValorizadosTMLog(System.String,System.String,System.Int32)">
-	<summary>
- Escrito por: 
- Fecha Creacion: 25/02/2013
- Proposito: Obtener lotesValorizadosLog
+ Proposito: Obtiene los valores de la TB_CIERRE_DOC TB_CIERRE_DOC
  Fecha Modificacion:
  </summary>
 </member><member name="M:SI.DB.clsDB_LiquidacionDsctoTX.InsertarLiquidacionDscto(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionDscto})">
@@ -1095,6 +544,327 @@ SI.DB
  Proposito: Obtiene los valores de la tabla LiquidacionDscto
  Fecha Modificacion:
  </summary>
+</member><member name="T:SI.DB.clsDB_TB_BENEFICIARIO_CCHICATX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:45
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la TB_BENEFICIARIO_CCHICA TB_BENEFICIARIO_CCHICA
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TB_BENEFICIARIO_CCHICARO.LeerListaToDSTB_BENEFICIARIO_CCHICA(SI.BE.clsBE_TB_BENEFICIARIO_CCHICA)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_TB_BENEFICIARIO_CCHICARO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la TB_BENEFICIARIO_CCHICA TB_BENEFICIARIO_CCHICA
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TB_FJ_APLICACIONTX.InsertarTB_FJ_APLICACION(System.Collections.Generic.List{SI.BE.clsBE_TB_FJ_APLICACION})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
+ Proposito: Metodo de Insercci?n de Datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TB_FJ_APLICACIONTX.ModificarTB_FJ_APLICACION(System.Collections.Generic.List{SI.BE.clsBE_TB_FJ_APLICACION})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
+ Proposito: Metodo de Modificacion de datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TB_FJ_APLICACIONTX.EliminarTB_FJ_APLICACION(System.Collections.Generic.List{SI.BE.clsBE_TB_FJ_APLICACION})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
+ Proposito: Metodo de Elimacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_TB_FJ_APLICACIONTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla TB_FJ_APLICACION
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TB_FJ_APLICACIONRO.LeerListaToDSTB_FJ_APLICACION(SI.BE.clsBE_TB_FJ_APLICACION)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TB_FJ_APLICACIONRO.DefineTablaFJ_APLICACION">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 10:53:25 a.m.
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_TB_FJ_APLICACIONRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 10:54:50 a.m.
+ Proposito: Obtiene los valores de la tabla TB_FJ_APLICACION
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionTX.InsertarLiquidacion(System.Collections.Generic.List{SI.BE.clsBE_Liquidacion})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:01
+ Proposito: Metodo de Insercci?n de Datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionTX.ModificarLiquidacion(System.Collections.Generic.List{SI.BE.clsBE_Liquidacion})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:01
+ Proposito: Metodo de Modificacion de datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionTX.EliminarLiquidacion(System.Collections.Generic.List{SI.BE.clsBE_Liquidacion})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:02
+ Proposito: Metodo de Elimacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionTX.GuardarLiquidacion(System.Data.DataSet)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:02
+ Proposito: Metodo de Guardar Dataset
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_LiquidacionTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:01
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionRO.LeerLiquidacion(SI.BE.clsBE_Liquidacion)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:02
+ Proposito: Lee los datos de un registro
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionRO.LeerListaLiquidacion">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:02
+ Proposito: Obtiene la lista de registros
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionRO.LeerListaToDSLiquidacion(SI.BE.clsBE_Liquidacion)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:02
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionRO.DefinirTablaLiquidacion">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:02
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_LiquidacionRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:02
+ Proposito: Obtiene los valores de la tabla Liquidacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_COM_DEPOSITOSTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:45
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la COM_DEPOSITOS COM_DEPOSITOS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_COM_DEPOSITOSRO.LeerListaCOM_DEPOSITOS">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene la lista de registros
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_COM_DEPOSITOSRO.LeerListaToDSCOM_DEPOSITOS(SI.BE.clsBE_COM_DEPOSITOS)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_COM_DEPOSITOSRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la COM_DEPOSITOS COM_DEPOSITOS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LotesValorizadosLogTMRO.LeerListaToDStbLotesValorizadosTMLog(System.String,System.String,System.Int32)">
+	<summary>
+ Escrito por: 
+ Fecha Creacion: 25/02/2013
+ Proposito: Obtener lotesValorizadosLog
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_Precio_DiarioTX.InsertarPrecio_Diario(SI.BE.clsBE_Precio_Diario)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:01
+ Proposito: Metodo de Insercci?n de Datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_Precio_DiarioTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:01
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_Precio_DiarioRO.LeerListaPrecio_Diario_Sel(SI.BE.clsBE_Precio_Diario)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:07:44 a.m.
+ Proposito: Obtiene la lista de registros
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_Precio_DiarioRO.LeerListaToDSPrecio_Diario_SelAll(System.String)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:07:44 a.m.
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="P:My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:SI.DB.clsDB_LiquidacionAdjuntoTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:01
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_LiquidacionAdjuntoRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:02
+ Proposito: Obtiene los valores de la tabla Liquidacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.InsertarServicio(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionServicio})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:57:59
+ Proposito: Metodo de Insercci?n de Datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.ModificarServicio(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionServicio})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:57:59
+ Proposito: Metodo de Modificacion de datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.EliminarServicio(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionServicio})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:00
+ Proposito: Metodo de Elimacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ValorizadorPagableTX.InsertarPagable(System.Collections.Generic.List{SI.BE.clsBE_ValorizadorPagable})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 07/12/2010 14:46:15
+ Proposito: Metodo de Insercci?n de Datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ValorizadorPagableRO.LeerPagableCorrelativo(SI.BE.clsBE_ValorizadorPagable)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 07/12/2010 14:46:15
+ Proposito: Lee los datos de un registro
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ValorizadorPagableRO.LeerListaToDSPagable(SI.BE.clsBE_ValorizadorPagable)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 17:00:41
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ValorizadorPagableRO.DefineTablaValorizadorPagable">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 11/03/2011 17:53:28
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_TB_RECLASIFICATX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:45
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la TB_RECLASIFICA TB_RECLASIFICA
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_TB_RECLASIFICARO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la TB_RECLASIFICA TB_RECLASIFICA
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_GestionComercialTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:45
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la PUB_PERSONAS PUB_PERSONAS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_GestionComercialRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la PUB_PERSONAS PUB_PERSONAS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_COM_LOTE_MUESTRASLABTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:45
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la PUB_PERSONAS PUB_PERSONAS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_COM_LOTE_MUESTRASLABRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la PUB_PERSONAS PUB_PERSONAS
+ Fecha Modificacion:
+ </summary>
 </member><member name="M:SI.DB.clsDB_ConfiguracionContableTX.InsertarConfiguracionContable(System.Collections.Generic.List{SI.BE.clsBE_ConfiguracionContable})">
 	<summary>
  Escrito por: Martin Huaman
@@ -1163,6 +933,190 @@ SI.DB
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 16:38:23
  Proposito: Obtiene los valores de la tabla ConfiguracionContable
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:clsDB_Functions.fn_encriptar(System.String,System.String)">
+	<summary>
+ fn_encriptarConexion
+ Encripta o desEncripta una cadena, es utilizado para la conexion a la BD
+ </summary>
+	<param name="bEncriptar"></param>
+	<param name="sCadena"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.InsertarLiquidacionServicio(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionServicio})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Metodo de Insercci?n de Datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.ModificarLiquidacionServicio(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionServicio})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Metodo de Modificacion de datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.EliminarLiquidacionServicio(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionServicio})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Metodo de Elimacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.GuardarLiquidacionServicio(System.Data.DataSet)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Metodo de Guardar Dataset
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_LiquidacionServicioTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla LiquidacionServicio
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionServicioRO.LeerLiquidacionServicio(SI.BE.clsBE_LiquidacionServicio)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Lee los datos de un registro
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionServicioRO.LeerListaLiquidacionServicio">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Obtiene la lista de registros
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionServicioRO.LeerListaToDSLiquidacionServicio(SI.BE.clsBE_LiquidacionServicio)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionServicioRO.DefinirTablaLiquidacionServicio">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_LiquidacionServicioRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Obtiene los valores de la tabla LiquidacionServicio
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_PUB_PERSONASTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:45
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la PUB_PERSONAS PUB_PERSONAS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_PUB_PERSONASRO.LeerListaPUB_PERSONAS(System.String,System.String)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene la lista de registros
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_PUB_PERSONASRO.LeerListaToDSPUB_PERSONAS(SI.BE.clsBE_PUB_PERSONAS)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_PUB_PERSONASRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la PUB_PERSONAS PUB_PERSONAS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_TB_TABLAS_GENRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la FINANCIANDO_PRELIQ FINANCIANDO_PRELIQ
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_PeriodoTX.InsertarPeriodo(System.Collections.Generic.List{SI.BE.clsBE_Periodo})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:34
+ Proposito: Metodo de Insercci?n de Datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_PeriodoTX.ModificarPeriodo(System.Collections.Generic.List{SI.BE.clsBE_Periodo})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:34
+ Proposito: Metodo de Modificacion de datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_PeriodoTX.EliminarPeriodo(System.Collections.Generic.List{SI.BE.clsBE_Periodo})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:34
+ Proposito: Metodo de Elimacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_PeriodoTX.GuardarPeriodo(System.Data.DataSet)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:34
+ Proposito: Metodo de Guardar Dataset
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_PeriodoTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:34
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Periodo
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_PeriodoRO.LeerPeriodo(SI.BE.clsBE_Periodo)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:34
+ Proposito: Lee los datos de un registro
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_PeriodoRO.LeerListaPeriodo">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:34
+ Proposito: Obtiene la lista de registros
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_PeriodoRO.LeerListaToDSPeriodo(SI.BE.clsBE_Periodo)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:34
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_PeriodoRO.DefinirTablaPeriodo">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:35
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_PeriodoRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:34
+ Proposito: Obtiene los valores de la tabla Periodo
  Fecha Modificacion:
  </summary>
 </member><member name="M:SI.DB.clsDB_ContabilidadTX.InsertarContabilidad(System.Collections.Generic.List{SI.BE.clsBE_Contabilidad})">
@@ -1235,53 +1189,234 @@ SI.DB
  Proposito: Obtiene los valores de la tabla Contabilidad
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TB_FJ_APLICACIONTX.InsertarTB_FJ_APLICACION(System.Collections.Generic.List{SI.BE.clsBE_TB_FJ_APLICACION})">
+</member><member name="M:SI.DB.clsDB_LiquidacionTotalTX.InsertarLiquidacionTotal(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTotal})">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
  Proposito: Metodo de Insercci?n de Datos
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TB_FJ_APLICACIONTX.ModificarTB_FJ_APLICACION(System.Collections.Generic.List{SI.BE.clsBE_TB_FJ_APLICACION})">
+</member><member name="M:SI.DB.clsDB_LiquidacionTotalTX.ModificarLiquidacionTotal(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTotal})">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
  Proposito: Metodo de Modificacion de datos
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TB_FJ_APLICACIONTX.EliminarTB_FJ_APLICACION(System.Collections.Generic.List{SI.BE.clsBE_TB_FJ_APLICACION})">
+</member><member name="M:SI.DB.clsDB_LiquidacionTotalTX.EliminarLiquidacionTotal(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTotal})">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
  Proposito: Metodo de Elimacion
  Fecha Modificacion:
  </summary>
-</member><member name="T:SI.DB.clsDB_TB_FJ_APLICACIONTX">
+</member><member name="M:SI.DB.clsDB_LiquidacionTotalTX.GuardarLiquidacionTotal(System.Data.DataSet)">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla TB_FJ_APLICACION
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Metodo de Guardar Dataset
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TB_FJ_APLICACIONRO.LeerListaToDSTB_FJ_APLICACION(SI.BE.clsBE_TB_FJ_APLICACION)">
+</member><member name="T:SI.DB.clsDB_LiquidacionTotalTX">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla LiquidacionTotal
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionTotalRO.LeerLiquidacionTotal(SI.BE.clsBE_LiquidacionTotal)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Lee los datos de un registro
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionTotalRO.LeerListaLiquidacionTotal">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Obtiene la lista de registros
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionTotalRO.LeerListaToDSLiquidacionTotal(SI.BE.clsBE_LiquidacionTotal)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
  Proposito: Obtiene la lista de registros y lo almacena en un DS
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TB_FJ_APLICACIONRO.DefineTablaFJ_APLICACION">
+</member><member name="M:SI.DB.clsDB_LiquidacionTotalRO.DefinirTablaLiquidacionTotal">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:53:25 a.m.
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
  Proposito: Obtiene la lista de registros y lo almacena en un DS
  Fecha Modificacion:
  </summary>
-</member><member name="T:SI.DB.clsDB_TB_FJ_APLICACIONRO">
+</member><member name="T:SI.DB.clsDB_LiquidacionTotalRO">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
- Proposito: Obtiene los valores de la tabla TB_FJ_APLICACION
+ Fecha Creacion: 21/04/2011 09:58:47 a.m.
+ Proposito: Obtiene los valores de la tabla LiquidacionTotal
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ProfitLossLoteTX.ModificarProfitLoss(SI.BE.clsBE_ProfitLossLote)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:01
+ Proposito: Metodo de Insercci?n de Datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_ProfitLossLoteTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:01
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ProfitLossLoteRO.LeerListaToDSProfitLoss(System.String)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 09:07:44 a.m.
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LotesValorizadosLogRO.LeerListaToDStbLotesValorizadosLog(SI.BE.clsBE_ContratoLote)">
+	<summary>
+ Escrito por: 
+ Fecha Creacion: 25/02/2013
+ Proposito: Obtener lotesValorizadosLog
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSExtraccionBd(SI.BE.clsBE_ContratoLote)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 13/11/2010 14:58:04
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSReporteLista(SI.BE.clsBE_ContratoLote)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 13/11/2010 14:58:04
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSContabilidad(SI.BE.clsBE_ContratoLote)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 13/11/2010 14:58:04
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSContrato(SI.BE.clsBE_ContratoLote)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 13/11/2010 14:58:04
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ContratoLoteRO.VerificarNumeroLote(SI.BE.clsBE_ContratoLote)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:39:42
+ Proposito: Lee los datos de un registro
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ContratoLoteRO.VerificarNumeroContrato(SI.BE.clsBE_ContratoLote)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:39:42
+ Proposito: Lee los datos de un registro
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSExtraccionVCM">
+	<summary>
+ Escrito por: Lissete MIyahira
+ Fecha Creacion: 08/01/2013 14:58:04
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSExtraccionVCM_Venta">
+	<summary>
+ Extrae todas los registros de ventas en forma de lote
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SI.DB.clsDB_ContratoLoteRO.LeerListaToDSContratoLoteCosto(SI.BE.clsBE_ContratoLote)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 13/11/2010 14:58:04
+ Proposito: Obtiene la lista de costos y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaDetTX.InsertarTablaDet(System.Collections.Generic.List{SI.BE.clsBE_TablaDet})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Proposito: Metodo de Insercci?n de Datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaDetTX.ModificarTablaDet(System.Collections.Generic.List{SI.BE.clsBE_TablaDet})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Proposito: Metodo de Modificacion de datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaDetTX.EliminarTablaDet(System.Collections.Generic.List{SI.BE.clsBE_TablaDet})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Proposito: Metodo de Elimacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaDetTX.GuardarTablaDet(System.Data.DataSet)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Proposito: Metodo de Guardar Dataset
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_TablaDetTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla TablaDet
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaDetRO.LeerTablaDet(SI.BE.clsBE_TablaDet)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Proposito: Lee los datos de un registro
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaDetRO.LeerListaTablaDet">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Proposito: Obtiene la lista de registros
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaDetRO.LeerListaToDSTablaDet(SI.BE.clsBE_TablaDet)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaDetRO.DefinirTablaTablaDet">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_TablaDetRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 21/04/2011 08:27:56 a.m.
+ Proposito: Obtiene los valores de la tabla TablaDet
  Fecha Modificacion:
  </summary>
 </member><member name="T:SI.DB.clsDB_FINANCIANDO_PRELIQTX">
@@ -1298,32 +1433,39 @@ SI.DB
  Proposito: Obtiene los valores de la FINANCIANDO_PRELIQ FINANCIANDO_PRELIQ
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.InsertarServicio(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionServicio})">
+</member><member name="M:SI.DB.clsDB_LiquidacionDsctoRO.DefineTablaLiquidacionDscto">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:57:59
+ Fecha Creacion: 17/02/2011 16:42:15
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionDsctoTX.InsertarDscto(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionDscto})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:42:13
  Proposito: Metodo de Insercci?n de Datos
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.ModificarServicio(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionServicio})">
+</member><member name="M:SI.DB.clsDB_LiquidacionDsctoTX.ModificarDscto(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionDscto})">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:57:59
+ Fecha Creacion: 17/02/2011 16:42:13
  Proposito: Metodo de Modificacion de datos
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionServicioTX.EliminarServicio(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionServicio})">
+</member><member name="M:SI.DB.clsDB_LiquidacionDsctoTX.EliminarDscto(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionDscto})">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:00
+ Fecha Creacion: 17/02/2011 16:42:14
  Proposito: Metodo de Elimacion
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionRO.DefineTablaLiquidacion">
+</member><member name="T:SI.DB.clsDB_PUB_REPRESENTANTERO">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:02
- Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la FINANCIANDO_PRELIQ FINANCIANDO_PRELIQ
  Fecha Modificacion:
  </summary>
 </member><member name="T:SI.DB.clsDB_Rol_UsuarioTX">
@@ -1338,111 +1480,6 @@ SI.DB
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 16:40:02
  Proposito: Obtiene los valores de la tabla Liquidacion
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_TB_BENEFICIARIO_CCHICATX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la TB_BENEFICIARIO_CCHICA TB_BENEFICIARIO_CCHICA
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_TB_BENEFICIARIO_CCHICARO.LeerListaToDSTB_BENEFICIARIO_CCHICA(SI.BE.clsBE_TB_BENEFICIARIO_CCHICA)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_TB_BENEFICIARIO_CCHICARO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la TB_BENEFICIARIO_CCHICA TB_BENEFICIARIO_CCHICA
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LiquidacionEstadoDetalleTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:01
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LiquidacionEstadoDetalleRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:01
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTmTX.InsertarLiquidacionTm(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTm})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
- Proposito: Metodo de Insercci?n de Datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTmTX.ModificarLiquidacionTm(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTm})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
- Proposito: Metodo de Modificacion de datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTmTX.EliminarLiquidacionTm(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTm})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
- Proposito: Metodo de Elimacion
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTmTX.GuardarLiquidacionTm(System.Data.DataSet)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
- Proposito: Metodo de Guardar Dataset
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LiquidacionTmTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla LiquidacionTm
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTmRO.LeerLiquidacionTm(SI.BE.clsBE_LiquidacionTm)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
- Proposito: Lee los datos de un registro
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTmRO.LeerListaLiquidacionTm">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
- Proposito: Obtiene la lista de registros
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTmRO.LeerListaToDSLiquidacionTm(SI.BE.clsBE_LiquidacionTm)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTmRO.DefinirTablaLiquidacionTm">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LiquidacionTmRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 24/04/2011 10:54:50 a.m.
- Proposito: Obtiene los valores de la tabla LiquidacionTm
  Fecha Modificacion:
  </summary>
 </member><member name="M:SI.DB.clsDB_ValorizadorPagableTX.InsertarValorizadorPagable(System.Collections.Generic.List{SI.BE.clsBE_ValorizadorPagable})">
@@ -1522,25 +1559,25 @@ SI.DB
  Proposito: Obtiene los valores de la tabla ValorizadorPagable
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_AuditoriaCTX.InsertarAuditoriaC(System.Collections.Generic.List{SI.BE.clsBE_AuditoriaC})">
+</member><member name="T:SI.DB.clsDB_TB_SERIE_DOCTX">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Metodo de Insercci?n de Datos
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la ANEXOS_BANCO ANEXOS_BANCO
  Fecha Modificacion:
  </summary>
-</member><member name="T:SI.DB.clsDB_AuditoriaCTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Tabla
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_AuditoriaRO">
+</member><member name="M:SI.DB.clsDB_TB_SERIE_DOCRO.LeerListaToDSTB_SERIE_DOC(clsBE_TB_SERIE_DOC)">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la tabla Tabla
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_TB_SERIE_DOCRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la SERIE DE DOCUMENTO FACTURA ELECTRONINCA
  Fecha Modificacion:
  </summary>
 </member><member name="T:SI.DB.clsDB_TB_LOCALIDADTX">
@@ -1564,102 +1601,193 @@ SI.DB
  Proposito: Obtiene los valores de la TB_LOCALIDAD TB_LOCALIDAD
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_LogisticaMovimientoTX.InsertarLogisticaMovimiento(System.Collections.Generic.List{SI.BE.clsBE_LogisticaMovimiento})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 25/02/2011 10:15:55
- Proposito: Metodo de Insercci?n de Datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LogisticaMovimientoTX.ModificarLogisticaMovimiento(System.Collections.Generic.List{SI.BE.clsBE_LogisticaMovimiento})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 25/02/2011 10:15:55
- Proposito: Metodo de Modificacion de datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LogisticaMovimientoTX.EliminarLogisticaMovimiento(System.Collections.Generic.List{SI.BE.clsBE_LogisticaMovimiento})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 25/02/2011 10:15:55
- Proposito: Metodo de Elimacion
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LogisticaMovimientoTX.GuardarLogisticaMovimiento(System.Data.DataSet)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 25/02/2011 10:15:55
- Proposito: Metodo de Guardar Dataset
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LogisticaMovimientoTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 25/02/2011 10:15:55
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla LogisticaMovimiento
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LogisticaMovimientoRO.LeerLogisticaMovimiento(SI.BE.clsBE_LogisticaMovimiento)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 25/02/2011 10:15:55
- Proposito: Lee los datos de un registro
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LogisticaMovimientoRO.LeerListaLogisticaMovimiento">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 25/02/2011 10:15:55
- Proposito: Obtiene la lista de registros
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LogisticaMovimientoRO.LeerListaToDSLogisticaMovimiento(SI.BE.clsBE_LogisticaMovimiento)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 25/02/2011 10:15:55
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LogisticaMovimientoRO.LeerListaToDSLogisticaAsociado(SI.BE.clsBE_LogisticaMovimiento)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 25/02/2011 10:15:55
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LogisticaMovimientoRO.DefinirTablaLogisticaMovimiento">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 25/02/2011 10:15:55
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LogisticaMovimientoRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 25/02/2011 10:15:55
- Proposito: Obtiene los valores de la tabla LogisticaMovimiento
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_TB_SERIE_DOCTX">
+</member><member name="T:SI.DB.clsDB_TB_PROVIPREVTX">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la ANEXOS_BANCO ANEXOS_BANCO
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la FINANCIANDO_CLI FINANCIANDO_CLI
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_TB_SERIE_DOCRO.LeerListaToDSTB_SERIE_DOC(clsBE_TB_SERIE_DOC)">
+</member><member name="T:SI.DB.clsDB_TB_PROVIPREVRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la FINANCIANDO_CLI FINANCIANDO_CLI
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_AuditoriaCTX.InsertarAuditoriaC(System.Collections.Generic.List{SI.BE.clsBE_AuditoriaC})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:45
+ Proposito: Metodo de Insercci?n de Datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_AuditoriaCTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:45
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Tabla
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_AuditoriaRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la tabla Tabla
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaTX.InsertarTabla(System.Collections.Generic.List{SI.BE.clsBE_Tabla})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:45
+ Proposito: Metodo de Insercci?n de Datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaTX.ModificarTabla(System.Collections.Generic.List{SI.BE.clsBE_Tabla})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:45
+ Proposito: Metodo de Modificacion de datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaTX.EliminarTabla(System.Collections.Generic.List{SI.BE.clsBE_Tabla})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Metodo de Elimacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaTX.GuardarTabla(System.Data.DataSet)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Metodo de Guardar Dataset
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_TablaTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:45
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Tabla
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaRO.LeerTabla(SI.BE.clsBE_Tabla)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Lee los datos de un registro
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaRO.LeerListaTabla">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene la lista de registros
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_TablaRO.LeerListaToDSTabla(SI.BE.clsBE_Tabla)">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 16:58:46
  Proposito: Obtiene la lista de registros y lo almacena en un DS
  Fecha Modificacion:
  </summary>
-</member><member name="T:SI.DB.clsDB_TB_SERIE_DOCRO">
+</member><member name="M:SI.DB.clsDB_TablaRO.DefinirTablaTabla">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la SERIE DE DOCUMENTO FACTURA ELECTRONINCA
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_TablaRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la tabla Tabla
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_TB_DIG_INDICETX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:45
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la FINANCIANDO_PRELIQ FINANCIANDO_PRELIQ
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_TB_DIG_INDICERO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la FINANCIANDO_PRELIQ FINANCIANDO_PRELIQ
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableTX.InsertarValorizadorPenalizable(System.Collections.Generic.List{SI.BE.clsBE_ValorizadorPenalizable})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:52:29 a.m.
+ Proposito: Metodo de Insercci?n de Datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableTX.ModificarValorizadorPenalizable(System.Collections.Generic.List{SI.BE.clsBE_ValorizadorPenalizable})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:52:29 a.m.
+ Proposito: Metodo de Modificacion de datos
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableTX.EliminarValorizadorPenalizable(System.Collections.Generic.List{SI.BE.clsBE_ValorizadorPenalizable})">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:52:29 a.m.
+ Proposito: Metodo de Elimacion
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableTX.GuardarValorizadorPenalizable(System.Data.DataSet)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:52:29 a.m.
+ Proposito: Metodo de Guardar Dataset
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_ValorizadorPenalizableTX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:52:29 a.m.
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla ValorizadorPenalizable
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableRO.LeerValorizadorPenalizable(SI.BE.clsBE_ValorizadorPenalizable)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:52:29 a.m.
+ Proposito: Lee los datos de un registro
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableRO.LeerListaValorizadorPenalizable">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:52:29 a.m.
+ Proposito: Obtiene la lista de registros
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableRO.LeerListaToDSValorizadorPenalizable(SI.BE.clsBE_ValorizadorPenalizable)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:52:29 a.m.
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_ValorizadorPenalizableRO.DefinirTablaValorizadorPenalizable">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:52:29 a.m.
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_ValorizadorPenalizableRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 24/04/2011 08:52:29 a.m.
+ Proposito: Obtiene los valores de la tabla ValorizadorPenalizable
  Fecha Modificacion:
  </summary>
 </member><member name="M:SI.DB.clsDB_AuditoriaDTX.InsertarAuditoriaD(System.Collections.Generic.List{SI.BE.clsBE_AuditoriaD})">
@@ -1683,46 +1811,18 @@ SI.DB
  Proposito: Obtiene los valores de la tabla Tabla
  Fecha Modificacion:
  </summary>
-</member><member name="T:SI.DB.clsDB_TB_CIERRE_DOCTX">
+</member><member name="T:SI.DB.clsDB_LiquidacionEstadoDetalleTX">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la TB_CIERRE_DOC TB_CIERRE_DOC
+ Fecha Creacion: 17/02/2011 16:40:01
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
  Fecha Modificacion:
  </summary>
-</member><member name="T:SI.DB.clsDB_TB_CIERRE_DOCRO">
+</member><member name="T:SI.DB.clsDB_LiquidacionEstadoDetalleRO">
 	<summary>
  Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la TB_CIERRE_DOC TB_CIERRE_DOC
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_GestionComercialTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la PUB_PERSONAS PUB_PERSONAS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_GestionComercialRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la PUB_PERSONAS PUB_PERSONAS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_TB_PROVIPREVTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la FINANCIANDO_CLI FINANCIANDO_CLI
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_TB_PROVIPREVRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la FINANCIANDO_CLI FINANCIANDO_CLI
+ Fecha Creacion: 17/02/2011 16:40:01
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
  Fecha Modificacion:
  </summary>
 </member><member name="M:SI.DB.clsDB_GeneralRO.Obtener_Parametros(SI.BE.clsBE_General)">
@@ -1774,6 +1874,48 @@ SI.DB
  Proposito: Obtiene los valores de la tabla General
  Fecha Modificacion:
  </summary>
+</member><member name="M:SI.DB.clsDB_LiquidacionRO.DefineTablaLiquidacion">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:40:02
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_FINANCIANDO_CLITX">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:45
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la FINANCIANDO_CLI FINANCIANDO_CLI
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_FINANCIANDO_CLIRO.LeerListaToDSFINANCIANDO_CLI(SI.BE.clsBE_FINANCIANDO_CLI)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_FINANCIANDO_CLIRO.LeerListaToDSPRESTAMO_CCH(SI.BE.clsBE_FINANCIANDO_CLI)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="M:SI.DB.clsDB_FINANCIANDO_CLIRO.LeerListaToDSPRESTAMO_COM(SI.BE.clsBE_FINANCIANDO_CLI)">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene la lista de registros y lo almacena en un DS
+ Fecha Modificacion:
+ </summary>
+</member><member name="T:SI.DB.clsDB_FINANCIANDO_CLIRO">
+	<summary>
+ Escrito por: Martin Huaman
+ Fecha Creacion: 17/02/2011 16:58:46
+ Proposito: Obtiene los valores de la FINANCIANDO_CLI FINANCIANDO_CLI
+ Fecha Modificacion:
+ </summary>
 </member><member name="M:SI.DB.clsDB_SaldoFinalTX.InsertarSaldoFinal(System.Collections.Generic.List{SI.BE.clsBE_SaldoFinal})">
 	<summary>
  Escrito por: Lissete Miyahira
@@ -1802,156 +1944,14 @@ SI.DB
  Proposito: Obtiene los valores de la tabla Tabla
  Fecha Modificacion:
  </summary>
-</member><member name="M:clsDB_Functions.fn_encriptar(System.String,System.String)">
-	<summary>
- fn_encriptarConexion
- Encripta o desEncripta una cadena, es utilizado para la conexion a la BD
- </summary>
-	<param name="bEncriptar"></param>
-	<param name="sCadena"></param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="T:SI.DB.clsDB_COM_DEPOSITOSTX">
+</member><member name="T:SI.DB.clsDB_t_financiando_seleccionTX">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la COM_DEPOSITOS COM_DEPOSITOS
+ Proposito: Ejecuta las transacciones directas a la Base de Datos para la FINANCIANDO_PRELIQ FINANCIANDO_PRELIQ
  Fecha Modificacion:
  </summary>
-</member><member name="M:SI.DB.clsDB_COM_DEPOSITOSRO.LeerListaCOM_DEPOSITOS">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene la lista de registros
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_COM_DEPOSITOSRO.LeerListaToDSCOM_DEPOSITOS(SI.BE.clsBE_COM_DEPOSITOS)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_COM_DEPOSITOSRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la COM_DEPOSITOS COM_DEPOSITOS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_COM_LOTE_MUESTRASLABTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:45
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la PUB_PERSONAS PUB_PERSONAS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_COM_LOTE_MUESTRASLABRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:58:46
- Proposito: Obtiene los valores de la PUB_PERSONAS PUB_PERSONAS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_Precio_DiarioTX.InsertarPrecio_Diario(SI.BE.clsBE_Precio_Diario)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:01
- Proposito: Metodo de Insercci?n de Datos
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_Precio_DiarioTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 17/02/2011 16:40:01
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla Liquidacion
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_Precio_DiarioRO.LeerListaPrecio_Diario_Sel(SI.BE.clsBE_Precio_Diario)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:07:44 a.m.
- Proposito: Obtiene la lista de registros
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_Precio_DiarioRO.LeerListaToDSPrecio_Diario_SelAll(System.String)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:07:44 a.m.
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTotalTX.InsertarLiquidacionTotal(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTotal})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Metodo de Insercci?n de Datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTotalTX.ModificarLiquidacionTotal(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTotal})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Metodo de Modificacion de datos
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTotalTX.EliminarLiquidacionTotal(System.Collections.Generic.List{SI.BE.clsBE_LiquidacionTotal})">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Metodo de Elimacion
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTotalTX.GuardarLiquidacionTotal(System.Data.DataSet)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Metodo de Guardar Dataset
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LiquidacionTotalTX">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Ejecuta las transacciones directas a la Base de Datos para la tabla LiquidacionTotal
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTotalRO.LeerLiquidacionTotal(SI.BE.clsBE_LiquidacionTotal)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Lee los datos de un registro
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTotalRO.LeerListaLiquidacionTotal">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Obtiene la lista de registros
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTotalRO.LeerListaToDSLiquidacionTotal(SI.BE.clsBE_LiquidacionTotal)">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="M:SI.DB.clsDB_LiquidacionTotalRO.DefinirTablaLiquidacionTotal">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Obtiene la lista de registros y lo almacena en un DS
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_LiquidacionTotalRO">
-	<summary>
- Escrito por: Martin Huaman
- Fecha Creacion: 21/04/2011 09:58:47 a.m.
- Proposito: Obtiene los valores de la tabla LiquidacionTotal
- Fecha Modificacion:
- </summary>
-</member><member name="T:SI.DB.clsDB_PUB_REPRESENTANTERO">
+</member><member name="T:SI.DB.clsDB_t_financiando_seleccionRO">
 	<summary>
  Escrito por: Martin Huaman
  Fecha Creacion: 17/02/2011 16:58:46

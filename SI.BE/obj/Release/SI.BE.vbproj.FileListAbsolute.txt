@@ -22,3 +22,11 @@ D:\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.vbproj.GenerateResource.Cache
 D:\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.dll
 D:\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.xml
 D:\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.pdb
+E:\SISTEMAS\GITHUB\appValorizador\SI.BE\bin\Release\SI.BE.dll
+E:\SISTEMAS\GITHUB\appValorizador\SI.BE\bin\Release\SI.BE.pdb
+E:\SISTEMAS\GITHUB\appValorizador\SI.BE\bin\Release\SI.BE.xml
+E:\SISTEMAS\GITHUB\appValorizador\SI.BE\obj\Release\Resources.resources
+E:\SISTEMAS\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.vbproj.GenerateResource.Cache
+E:\SISTEMAS\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.dll
+E:\SISTEMAS\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.xml
+E:\SISTEMAS\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.pdb

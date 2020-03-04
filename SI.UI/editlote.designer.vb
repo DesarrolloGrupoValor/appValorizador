@@ -901,89 +901,89 @@ Partial Class editlote
         Me.cboEmpresa = New System.Windows.Forms.ComboBox()
         Me.lblempresa = New System.Windows.Forms.Label()
         Me.cboCalidad = New System.Windows.Forms.ComboBox()
-        Me.tsMenu.SuspendLayout
-        Me.TabPage2.SuspendLayout
-        CType(Me.dgvLiquidacionTMTotal,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.dgvLiquidacionTM,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.tsRumas.SuspendLayout
-        Me.TabPage1.SuspendLayout
-        Me.CuGroupBox11.SuspendLayout
-        Me.CuGroupBox7.SuspendLayout
-        Me.CuGroupBox6.SuspendLayout
-        Me.CuGroupBox4.SuspendLayout
-        Me.gpoescalador.SuspendLayout
-        Me.gpoparticipacion.SuspendLayout
-        CType(Me.nupdPorcentaje,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.gpoterminos.SuspendLayout
-        CType(Me.nupdMerma,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.CuGroupBox1.SuspendLayout
-        Me.gpopagable.SuspendLayout
-        Me.tsTerminosPagables.SuspendLayout
-        CType(Me.dgvPagables,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.gpopenalizable.SuspendLayout
-        Me.tsTerminosPenalizables.SuspendLayout
-        CType(Me.dgvPenalizable,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.CuGroupBox8.SuspendLayout
-        Me.tbcTerminos.SuspendLayout
-        Me.TabPage3.SuspendLayout
-        Me.GroupBox11.SuspendLayout
-        CType(Me.dgvPrestamosCchica,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox3.SuspendLayout
-        CType(Me.dgvAjustes,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox2.SuspendLayout
-        CType(Me.dgvDstoProvisionales,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.tsAjuste.SuspendLayout
-        Me.TabPage6.SuspendLayout
-        Me.tsServicios.SuspendLayout
-        CType(Me.dgvServicios,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.TabPage5.SuspendLayout
-        Me.CuGroupBox14.SuspendLayout
-        Me.CuGroupBox12.SuspendLayout
-        Me.gbxEstadoContable.SuspendLayout
-        Me.GroupBox12.SuspendLayout
-        Me.tsContabilidad.SuspendLayout
-        Me.tsEstadoContabilidad.SuspendLayout
-        Me.CuGroupBox3.SuspendLayout
-        Me.CuGroupBox2.SuspendLayout
-        Me.gpofacturacion.SuspendLayout
-        CType(Me.nupdPorcPago,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox1.SuspendLayout
-        Me.TabPage4.SuspendLayout
-        Me.GroupBox7.SuspendLayout
-        CType(Me.dgvFacturasAnuladas,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.dgvLiquidacion2,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.C1TrueDBDropdown1,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.tsLiquidacion.SuspendLayout
-        CType(Me.dgvLiquidacion,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.dgvAdelantosFacturas,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.TabPage7.SuspendLayout
-        CType(Me.dgvComposicionM,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.tpVinculadas.SuspendLayout
-        Me.GroupBox5.SuspendLayout
-        CType(Me.dgvVinculadasLote,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox4.SuspendLayout
-        CType(Me.dgvVinculadasContrato,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.tpCosto.SuspendLayout
-        Me.GroupBox6.SuspendLayout
-        CType(Me.dgvContratoLoteCosto,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.tpProfitAndLoss.SuspendLayout
-        Me.GroupBox10.SuspendLayout
-        CType(Me.dgvProfitLossLote,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox9.SuspendLayout
-        Me.GroupBox8.SuspendLayout
-        CType(Me.dgvProfitLossLoteCalculado,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.tpTraslado.SuspendLayout
-        Me.tsTraslado.SuspendLayout
-        CType(Me.dgvLiquidacionTMTraslado,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.msMenu.SuspendLayout
-        Me.CuGroupBox13.SuspendLayout
-        Me.CuGroupBox10.SuspendLayout
-        Me.CuGroupBox9.SuspendLayout
-        Me.CuGroupBox5.SuspendLayout
-        Me.gpocontrato.SuspendLayout
-        Me.gpomercaderia.SuspendLayout
-        Me.gpocompania.SuspendLayout
-        Me.SuspendLayout
+        Me.tsMenu.SuspendLayout()
+        Me.TabPage2.SuspendLayout()
+        CType(Me.dgvLiquidacionTMTotal, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.dgvLiquidacionTM, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.tsRumas.SuspendLayout()
+        Me.TabPage1.SuspendLayout()
+        Me.CuGroupBox11.SuspendLayout()
+        Me.CuGroupBox7.SuspendLayout()
+        Me.CuGroupBox6.SuspendLayout()
+        Me.CuGroupBox4.SuspendLayout()
+        Me.gpoescalador.SuspendLayout()
+        Me.gpoparticipacion.SuspendLayout()
+        CType(Me.nupdPorcentaje, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.gpoterminos.SuspendLayout()
+        CType(Me.nupdMerma, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.CuGroupBox1.SuspendLayout()
+        Me.gpopagable.SuspendLayout()
+        Me.tsTerminosPagables.SuspendLayout()
+        CType(Me.dgvPagables, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.gpopenalizable.SuspendLayout()
+        Me.tsTerminosPenalizables.SuspendLayout()
+        CType(Me.dgvPenalizable, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.CuGroupBox8.SuspendLayout()
+        Me.tbcTerminos.SuspendLayout()
+        Me.TabPage3.SuspendLayout()
+        Me.GroupBox11.SuspendLayout()
+        CType(Me.dgvPrestamosCchica, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GroupBox3.SuspendLayout()
+        CType(Me.dgvAjustes, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GroupBox2.SuspendLayout()
+        CType(Me.dgvDstoProvisionales, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.tsAjuste.SuspendLayout()
+        Me.TabPage6.SuspendLayout()
+        Me.tsServicios.SuspendLayout()
+        CType(Me.dgvServicios, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.TabPage5.SuspendLayout()
+        Me.CuGroupBox14.SuspendLayout()
+        Me.CuGroupBox12.SuspendLayout()
+        Me.gbxEstadoContable.SuspendLayout()
+        Me.GroupBox12.SuspendLayout()
+        Me.tsContabilidad.SuspendLayout()
+        Me.tsEstadoContabilidad.SuspendLayout()
+        Me.CuGroupBox3.SuspendLayout()
+        Me.CuGroupBox2.SuspendLayout()
+        Me.gpofacturacion.SuspendLayout()
+        CType(Me.nupdPorcPago, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GroupBox1.SuspendLayout()
+        Me.TabPage4.SuspendLayout()
+        Me.GroupBox7.SuspendLayout()
+        CType(Me.dgvFacturasAnuladas, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.dgvLiquidacion2, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.C1TrueDBDropdown1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.tsLiquidacion.SuspendLayout()
+        CType(Me.dgvLiquidacion, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.dgvAdelantosFacturas, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.TabPage7.SuspendLayout()
+        CType(Me.dgvComposicionM, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.tpVinculadas.SuspendLayout()
+        Me.GroupBox5.SuspendLayout()
+        CType(Me.dgvVinculadasLote, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GroupBox4.SuspendLayout()
+        CType(Me.dgvVinculadasContrato, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.tpCosto.SuspendLayout()
+        Me.GroupBox6.SuspendLayout()
+        CType(Me.dgvContratoLoteCosto, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.tpProfitAndLoss.SuspendLayout()
+        Me.GroupBox10.SuspendLayout()
+        CType(Me.dgvProfitLossLote, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GroupBox9.SuspendLayout()
+        Me.GroupBox8.SuspendLayout()
+        CType(Me.dgvProfitLossLoteCalculado, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.tpTraslado.SuspendLayout()
+        Me.tsTraslado.SuspendLayout()
+        CType(Me.dgvLiquidacionTMTraslado, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.msMenu.SuspendLayout()
+        Me.CuGroupBox13.SuspendLayout()
+        Me.CuGroupBox10.SuspendLayout()
+        Me.CuGroupBox9.SuspendLayout()
+        Me.CuGroupBox5.SuspendLayout()
+        Me.gpocontrato.SuspendLayout()
+        Me.gpomercaderia.SuspendLayout()
+        Me.gpocompania.SuspendLayout()
+        Me.SuspendLayout()
         '
         'tsMenu
         '
@@ -998,7 +998,7 @@ Partial Class editlote
         'tsbGuardar
         '
         Me.tsbGuardar.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
-        Me.tsbGuardar.Image = CType(resources.GetObject("tsbGuardar.Image"),System.Drawing.Image)
+        Me.tsbGuardar.Image = CType(resources.GetObject("tsbGuardar.Image"), System.Drawing.Image)
         Me.tsbGuardar.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbGuardar.Name = "tsbGuardar"
         Me.tsbGuardar.Size = New System.Drawing.Size(36, 36)
@@ -1012,13 +1012,13 @@ Partial Class editlote
         'tsbResumen
         '
         Me.tsbResumen.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
-        Me.tsbResumen.Image = CType(resources.GetObject("tsbResumen.Image"),System.Drawing.Image)
+        Me.tsbResumen.Image = CType(resources.GetObject("tsbResumen.Image"), System.Drawing.Image)
         Me.tsbResumen.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbResumen.Name = "tsbResumen"
         Me.tsbResumen.Size = New System.Drawing.Size(36, 36)
         Me.tsbResumen.Text = "ToolStripButton1"
         Me.tsbResumen.ToolTipText = "Calcular"
-        Me.tsbResumen.Visible = false
+        Me.tsbResumen.Visible = False
         '
         'ToolStripSeparator14
         '
@@ -1033,7 +1033,7 @@ Partial Class editlote
         Me.tsbLiquidacion.Name = "tsbLiquidacion"
         Me.tsbLiquidacion.Size = New System.Drawing.Size(36, 36)
         Me.tsbLiquidacion.Text = "Generar Liquidacion"
-        Me.tsbLiquidacion.Visible = false
+        Me.tsbLiquidacion.Visible = False
         '
         'tsbAbriCarpeta
         '
@@ -1043,7 +1043,7 @@ Partial Class editlote
         Me.tsbAbriCarpeta.Name = "tsbAbriCarpeta"
         Me.tsbAbriCarpeta.Size = New System.Drawing.Size(36, 36)
         Me.tsbAbriCarpeta.Text = "ToolStripButton1"
-        Me.tsbAbriCarpeta.Visible = false
+        Me.tsbAbriCarpeta.Visible = False
         '
         'tsbRefrescar
         '
@@ -1062,7 +1062,7 @@ Partial Class editlote
         'tsbSalir
         '
         Me.tsbSalir.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image
-        Me.tsbSalir.Image = CType(resources.GetObject("tsbSalir.Image"),System.Drawing.Image)
+        Me.tsbSalir.Image = CType(resources.GetObject("tsbSalir.Image"), System.Drawing.Image)
         Me.tsbSalir.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbSalir.Name = "tsbSalir"
         Me.tsbSalir.Size = New System.Drawing.Size(36, 36)
@@ -1089,15 +1089,15 @@ Partial Class editlote
         '
         'dgvLiquidacionTMTotal
         '
-        Me.dgvLiquidacionTMTotal.AllowUserToAddRows = false
-        Me.dgvLiquidacionTMTotal.AllowUserToDeleteRows = false
-        Me.dgvLiquidacionTMTotal.AllowUserToResizeColumns = false
-        Me.dgvLiquidacionTMTotal.AllowUserToResizeRows = false
-        Me.dgvLiquidacionTMTotal.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvLiquidacionTMTotal.AllowUserToAddRows = False
+        Me.dgvLiquidacionTMTotal.AllowUserToDeleteRows = False
+        Me.dgvLiquidacionTMTotal.AllowUserToResizeColumns = False
+        Me.dgvLiquidacionTMTotal.AllowUserToResizeRows = False
+        Me.dgvLiquidacionTMTotal.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -1107,7 +1107,7 @@ Partial Class editlote
         Me.dgvLiquidacionTMTotal.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn1, Me.DataGridViewTextBoxColumn34, Me.DataGridViewTextBoxColumn35, Me.DataGridViewTextBoxColumn36, Me.DataGridViewTextBoxColumn37, Me.DataGridViewTextBoxColumn38, Me.DataGridViewTextBoxColumn39, Me.dgtxtCU, Me.DataGridViewTextBoxColumn44, Me.DataGridViewTextBoxColumn45, Me.DataGridViewTextBoxColumn46, Me.dgtxtAGoz, Me.DataGridViewTextBoxColumn48, Me.dgtxtAUoz, Me.dgtxtAS, Me.dgtxtSB, Me.dgtxtBI, Me.dgtxtZN, Me.dgtxtPB, Me.dgtxtSIO2, Me.dgtxtHG, Me.DataGridViewTextBoxColumn57, Me.DataGridViewTextBoxColumn58, Me.DataGridViewTextBoxColumn59, Me.PenClTot, Me.PenCdTot, Me.PenFTot, Me.PenSTot, Me.PenFeTot, Me.PenAl203Tot, Me.PenCoTot, Me.PenMoTot, Me.PenPTot, Me.Pen20Tot, Me.Pen21Tot, Me.Pen22Tot, Me.Pen23Tot, Me.Pen24Tot, Me.Pen25Tot, Me.Pen26Tot, Me.Pen27Tot, Me.Pen28Tot, Me.Pen29Tot, Me.Pen30Tot, Me.DataGridViewTextBoxColumn60, Me.DataGridViewTextBoxColumn61, Me.Vacio2})
         DataGridViewCellStyle44.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle44.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle44.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle44.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle44.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle44.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle44.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -1117,7 +1117,7 @@ Partial Class editlote
         Me.dgvLiquidacionTMTotal.Name = "dgvLiquidacionTMTotal"
         DataGridViewCellStyle45.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle45.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle45.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle45.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle45.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle45.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle45.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -1179,7 +1179,7 @@ Partial Class editlote
         Me.DataGridViewTextBoxColumn37.DefaultCellStyle = DataGridViewCellStyle5
         Me.DataGridViewTextBoxColumn37.HeaderText = "Merma"
         Me.DataGridViewTextBoxColumn37.Name = "DataGridViewTextBoxColumn37"
-        Me.DataGridViewTextBoxColumn37.Visible = false
+        Me.DataGridViewTextBoxColumn37.Visible = False
         '
         'DataGridViewTextBoxColumn38
         '
@@ -1191,13 +1191,12 @@ Partial Class editlote
         Me.DataGridViewTextBoxColumn38.DefaultCellStyle = DataGridViewCellStyle6
         Me.DataGridViewTextBoxColumn38.HeaderText = "TMSN"
         Me.DataGridViewTextBoxColumn38.Name = "DataGridViewTextBoxColumn38"
-        Me.DataGridViewTextBoxColumn38.Visible = false
+        Me.DataGridViewTextBoxColumn38.Visible = False
         '
         'DataGridViewTextBoxColumn39
         '
         Me.DataGridViewTextBoxColumn39.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None
         Me.DataGridViewTextBoxColumn39.DataPropertyName = "codigoLote"
-        Me.DataGridViewTextBoxColumn39.HeaderText = ""
         Me.DataGridViewTextBoxColumn39.Name = "DataGridViewTextBoxColumn39"
         Me.DataGridViewTextBoxColumn39.Width = 550
         '
@@ -1221,7 +1220,7 @@ Partial Class editlote
         Me.DataGridViewTextBoxColumn44.DefaultCellStyle = DataGridViewCellStyle8
         Me.DataGridViewTextBoxColumn44.HeaderText = "PagZn"
         Me.DataGridViewTextBoxColumn44.Name = "DataGridViewTextBoxColumn44"
-        Me.DataGridViewTextBoxColumn44.Visible = false
+        Me.DataGridViewTextBoxColumn44.Visible = False
         '
         'DataGridViewTextBoxColumn45
         '
@@ -1232,7 +1231,7 @@ Partial Class editlote
         Me.DataGridViewTextBoxColumn45.DefaultCellStyle = DataGridViewCellStyle9
         Me.DataGridViewTextBoxColumn45.HeaderText = "PagPb"
         Me.DataGridViewTextBoxColumn45.Name = "DataGridViewTextBoxColumn45"
-        Me.DataGridViewTextBoxColumn45.Visible = false
+        Me.DataGridViewTextBoxColumn45.Visible = False
         '
         'DataGridViewTextBoxColumn46
         '
@@ -1243,7 +1242,7 @@ Partial Class editlote
         Me.DataGridViewTextBoxColumn46.DefaultCellStyle = DataGridViewCellStyle10
         Me.DataGridViewTextBoxColumn46.HeaderText = "Ag"
         Me.DataGridViewTextBoxColumn46.Name = "DataGridViewTextBoxColumn46"
-        Me.DataGridViewTextBoxColumn46.Visible = false
+        Me.DataGridViewTextBoxColumn46.Visible = False
         '
         'dgtxtAGoz
         '
@@ -1264,7 +1263,7 @@ Partial Class editlote
         Me.DataGridViewTextBoxColumn48.DefaultCellStyle = DataGridViewCellStyle12
         Me.DataGridViewTextBoxColumn48.HeaderText = "Au"
         Me.DataGridViewTextBoxColumn48.Name = "DataGridViewTextBoxColumn48"
-        Me.DataGridViewTextBoxColumn48.Visible = false
+        Me.DataGridViewTextBoxColumn48.Visible = False
         '
         'dgtxtAUoz
         '
@@ -1505,7 +1504,7 @@ Partial Class editlote
         Me.Pen21Tot.DefaultCellStyle = DataGridViewCellStyle34
         Me.Pen21Tot.HeaderText = "Pen21"
         Me.Pen21Tot.Name = "Pen21Tot"
-        Me.Pen21Tot.Visible = false
+        Me.Pen21Tot.Visible = False
         '
         'Pen22Tot
         '
@@ -1516,7 +1515,7 @@ Partial Class editlote
         Me.Pen22Tot.DefaultCellStyle = DataGridViewCellStyle35
         Me.Pen22Tot.HeaderText = "Pen22"
         Me.Pen22Tot.Name = "Pen22Tot"
-        Me.Pen22Tot.Visible = false
+        Me.Pen22Tot.Visible = False
         '
         'Pen23Tot
         '
@@ -1527,7 +1526,7 @@ Partial Class editlote
         Me.Pen23Tot.DefaultCellStyle = DataGridViewCellStyle36
         Me.Pen23Tot.HeaderText = "Pen23"
         Me.Pen23Tot.Name = "Pen23Tot"
-        Me.Pen23Tot.Visible = false
+        Me.Pen23Tot.Visible = False
         '
         'Pen24Tot
         '
@@ -1538,7 +1537,7 @@ Partial Class editlote
         Me.Pen24Tot.DefaultCellStyle = DataGridViewCellStyle37
         Me.Pen24Tot.HeaderText = "Pen24"
         Me.Pen24Tot.Name = "Pen24Tot"
-        Me.Pen24Tot.Visible = false
+        Me.Pen24Tot.Visible = False
         '
         'Pen25Tot
         '
@@ -1549,7 +1548,7 @@ Partial Class editlote
         Me.Pen25Tot.DefaultCellStyle = DataGridViewCellStyle38
         Me.Pen25Tot.HeaderText = "Pen25"
         Me.Pen25Tot.Name = "Pen25Tot"
-        Me.Pen25Tot.Visible = false
+        Me.Pen25Tot.Visible = False
         '
         'Pen26Tot
         '
@@ -1560,7 +1559,7 @@ Partial Class editlote
         Me.Pen26Tot.DefaultCellStyle = DataGridViewCellStyle39
         Me.Pen26Tot.HeaderText = "Pen26"
         Me.Pen26Tot.Name = "Pen26Tot"
-        Me.Pen26Tot.Visible = false
+        Me.Pen26Tot.Visible = False
         '
         'Pen27Tot
         '
@@ -1571,7 +1570,7 @@ Partial Class editlote
         Me.Pen27Tot.DefaultCellStyle = DataGridViewCellStyle40
         Me.Pen27Tot.HeaderText = "Pen27"
         Me.Pen27Tot.Name = "Pen27Tot"
-        Me.Pen27Tot.Visible = false
+        Me.Pen27Tot.Visible = False
         '
         'Pen28Tot
         '
@@ -1582,7 +1581,7 @@ Partial Class editlote
         Me.Pen28Tot.DefaultCellStyle = DataGridViewCellStyle41
         Me.Pen28Tot.HeaderText = "Pen28"
         Me.Pen28Tot.Name = "Pen28Tot"
-        Me.Pen28Tot.Visible = false
+        Me.Pen28Tot.Visible = False
         '
         'Pen29Tot
         '
@@ -1593,7 +1592,7 @@ Partial Class editlote
         Me.Pen29Tot.DefaultCellStyle = DataGridViewCellStyle42
         Me.Pen29Tot.HeaderText = "Pen29"
         Me.Pen29Tot.Name = "Pen29Tot"
-        Me.Pen29Tot.Visible = false
+        Me.Pen29Tot.Visible = False
         '
         'Pen30Tot
         '
@@ -1604,39 +1603,38 @@ Partial Class editlote
         Me.Pen30Tot.DefaultCellStyle = DataGridViewCellStyle43
         Me.Pen30Tot.HeaderText = "Pen30"
         Me.Pen30Tot.Name = "Pen30Tot"
-        Me.Pen30Tot.Visible = false
+        Me.Pen30Tot.Visible = False
         '
         'DataGridViewTextBoxColumn60
         '
         Me.DataGridViewTextBoxColumn60.DataPropertyName = "liquidaciontmid"
         Me.DataGridViewTextBoxColumn60.HeaderText = "liquidaciontmid"
         Me.DataGridViewTextBoxColumn60.Name = "DataGridViewTextBoxColumn60"
-        Me.DataGridViewTextBoxColumn60.Visible = false
+        Me.DataGridViewTextBoxColumn60.Visible = False
         '
         'DataGridViewTextBoxColumn61
         '
         Me.DataGridViewTextBoxColumn61.DataPropertyName = "id"
         Me.DataGridViewTextBoxColumn61.HeaderText = "id"
         Me.DataGridViewTextBoxColumn61.Name = "DataGridViewTextBoxColumn61"
-        Me.DataGridViewTextBoxColumn61.Visible = false
+        Me.DataGridViewTextBoxColumn61.Visible = False
         '
         'Vacio2
         '
-        Me.Vacio2.HeaderText = ""
         Me.Vacio2.Name = "Vacio2"
         Me.Vacio2.Width = 400
         '
         'dgvLiquidacionTM
         '
-        Me.dgvLiquidacionTM.AllowUserToAddRows = false
-        Me.dgvLiquidacionTM.AllowUserToDeleteRows = false
-        Me.dgvLiquidacionTM.AllowUserToResizeColumns = false
-        Me.dgvLiquidacionTM.AllowUserToResizeRows = false
-        Me.dgvLiquidacionTM.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvLiquidacionTM.AllowUserToAddRows = False
+        Me.dgvLiquidacionTM.AllowUserToDeleteRows = False
+        Me.dgvLiquidacionTM.AllowUserToResizeColumns = False
+        Me.dgvLiquidacionTM.AllowUserToResizeRows = False
+        Me.dgvLiquidacionTM.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         DataGridViewCellStyle46.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle46.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle46.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle46.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle46.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle46.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle46.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -1646,7 +1644,7 @@ Partial Class editlote
         Me.dgvLiquidacionTM.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.NroRuma, Me.Calidad, Me.TMH, Me.H2O, Me.TMS, Me.Merma, Me.TMSN, Me.Codigo, Me.Ingreso, Me.Guia, Me.Ticket, Me.PagCu, Me.PagZn, Me.PagPb, Me.PagAg, Me.PagAgOz, Me.PagAu, Me.PagAuOz, Me.PenAs, Me.PenSb, Me.PenBi, Me.PenZn, Me.PenPb, Me.PenSiO2, Me.PenHg, Me.Pen1, Me.Pen2, Me.Pen3, Me.PenCl, Me.PenCd, Me.PenF, Me.PenS, Me.PenFe, Me.PenAl203, Me.PenCo, Me.PenMo, Me.PenP, Me.Pen20, Me.Pen21, Me.Pen22, Me.Pen23, Me.Pen24, Me.Pen25, Me.Pen26, Me.Pen27, Me.Pen28, Me.Pen29, Me.Pen30, Me.liquidaciontmid, Me.id, Me.RumaAcum, Me.LOTE_ORIGEN, Me.COD_LOTE, Me.LOTE_DESTINO, Me.Lote})
         DataGridViewCellStyle89.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle89.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle89.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle89.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle89.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle89.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle89.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -1656,7 +1654,7 @@ Partial Class editlote
         Me.dgvLiquidacionTM.Name = "dgvLiquidacionTM"
         DataGridViewCellStyle90.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle90.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle90.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle90.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle90.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle90.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle90.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -1726,7 +1724,7 @@ Partial Class editlote
         Me.Merma.DefaultCellStyle = DataGridViewCellStyle50
         Me.Merma.HeaderText = "Merma"
         Me.Merma.Name = "Merma"
-        Me.Merma.Visible = false
+        Me.Merma.Visible = False
         '
         'TMSN
         '
@@ -1738,7 +1736,7 @@ Partial Class editlote
         Me.TMSN.DefaultCellStyle = DataGridViewCellStyle51
         Me.TMSN.HeaderText = "TMSN"
         Me.TMSN.Name = "TMSN"
-        Me.TMSN.Visible = false
+        Me.TMSN.Visible = False
         '
         'Codigo
         '
@@ -1790,7 +1788,7 @@ Partial Class editlote
         Me.PagZn.DefaultCellStyle = DataGridViewCellStyle53
         Me.PagZn.HeaderText = "PagZn"
         Me.PagZn.Name = "PagZn"
-        Me.PagZn.Visible = false
+        Me.PagZn.Visible = False
         '
         'PagPb
         '
@@ -1801,7 +1799,7 @@ Partial Class editlote
         Me.PagPb.DefaultCellStyle = DataGridViewCellStyle54
         Me.PagPb.HeaderText = "PagPb"
         Me.PagPb.Name = "PagPb"
-        Me.PagPb.Visible = false
+        Me.PagPb.Visible = False
         '
         'PagAg
         '
@@ -2074,7 +2072,7 @@ Partial Class editlote
         Me.Pen21.DefaultCellStyle = DataGridViewCellStyle79
         Me.Pen21.HeaderText = "Pen21"
         Me.Pen21.Name = "Pen21"
-        Me.Pen21.Visible = false
+        Me.Pen21.Visible = False
         '
         'Pen22
         '
@@ -2085,7 +2083,7 @@ Partial Class editlote
         Me.Pen22.DefaultCellStyle = DataGridViewCellStyle80
         Me.Pen22.HeaderText = "Pen22"
         Me.Pen22.Name = "Pen22"
-        Me.Pen22.Visible = false
+        Me.Pen22.Visible = False
         '
         'Pen23
         '
@@ -2096,7 +2094,7 @@ Partial Class editlote
         Me.Pen23.DefaultCellStyle = DataGridViewCellStyle81
         Me.Pen23.HeaderText = "Pen23"
         Me.Pen23.Name = "Pen23"
-        Me.Pen23.Visible = false
+        Me.Pen23.Visible = False
         '
         'Pen24
         '
@@ -2107,7 +2105,7 @@ Partial Class editlote
         Me.Pen24.DefaultCellStyle = DataGridViewCellStyle82
         Me.Pen24.HeaderText = "Pen24"
         Me.Pen24.Name = "Pen24"
-        Me.Pen24.Visible = false
+        Me.Pen24.Visible = False
         '
         'Pen25
         '
@@ -2118,7 +2116,7 @@ Partial Class editlote
         Me.Pen25.DefaultCellStyle = DataGridViewCellStyle83
         Me.Pen25.HeaderText = "Pen25"
         Me.Pen25.Name = "Pen25"
-        Me.Pen25.Visible = false
+        Me.Pen25.Visible = False
         '
         'Pen26
         '
@@ -2129,7 +2127,7 @@ Partial Class editlote
         Me.Pen26.DefaultCellStyle = DataGridViewCellStyle84
         Me.Pen26.HeaderText = "Pen26"
         Me.Pen26.Name = "Pen26"
-        Me.Pen26.Visible = false
+        Me.Pen26.Visible = False
         '
         'Pen27
         '
@@ -2140,7 +2138,7 @@ Partial Class editlote
         Me.Pen27.DefaultCellStyle = DataGridViewCellStyle85
         Me.Pen27.HeaderText = "Pen27"
         Me.Pen27.Name = "Pen27"
-        Me.Pen27.Visible = false
+        Me.Pen27.Visible = False
         '
         'Pen28
         '
@@ -2151,7 +2149,7 @@ Partial Class editlote
         Me.Pen28.DefaultCellStyle = DataGridViewCellStyle86
         Me.Pen28.HeaderText = "Pen28"
         Me.Pen28.Name = "Pen28"
-        Me.Pen28.Visible = false
+        Me.Pen28.Visible = False
         '
         'Pen29
         '
@@ -2162,7 +2160,7 @@ Partial Class editlote
         Me.Pen29.DefaultCellStyle = DataGridViewCellStyle87
         Me.Pen29.HeaderText = "Pen29"
         Me.Pen29.Name = "Pen29"
-        Me.Pen29.Visible = false
+        Me.Pen29.Visible = False
         '
         'Pen30
         '
@@ -2173,21 +2171,21 @@ Partial Class editlote
         Me.Pen30.DefaultCellStyle = DataGridViewCellStyle88
         Me.Pen30.HeaderText = "Pen30"
         Me.Pen30.Name = "Pen30"
-        Me.Pen30.Visible = false
+        Me.Pen30.Visible = False
         '
         'liquidaciontmid
         '
         Me.liquidaciontmid.DataPropertyName = "liquidaciontmid"
         Me.liquidaciontmid.HeaderText = "liquidaciontmid"
         Me.liquidaciontmid.Name = "liquidaciontmid"
-        Me.liquidaciontmid.Visible = false
+        Me.liquidaciontmid.Visible = False
         '
         'id
         '
         Me.id.DataPropertyName = "id"
         Me.id.HeaderText = "id"
         Me.id.Name = "id"
-        Me.id.Visible = false
+        Me.id.Visible = False
         '
         'RumaAcum
         '
@@ -2228,11 +2226,11 @@ Partial Class editlote
         Me.tsRumas.Size = New System.Drawing.Size(1348, 31)
         Me.tsRumas.TabIndex = 23
         Me.tsRumas.Text = "ToolStrip6"
-        Me.tsRumas.Visible = false
+        Me.tsRumas.Visible = False
         '
         'tsbAsociarTM
         '
-        Me.tsbAsociarTM.Image = CType(resources.GetObject("tsbAsociarTM.Image"),System.Drawing.Image)
+        Me.tsbAsociarTM.Image = CType(resources.GetObject("tsbAsociarTM.Image"), System.Drawing.Image)
         Me.tsbAsociarTM.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbAsociarTM.Name = "tsbAsociarTM"
         Me.tsbAsociarTM.Size = New System.Drawing.Size(74, 28)
@@ -2245,7 +2243,7 @@ Partial Class editlote
         '
         'tsbDesasociar
         '
-        Me.tsbDesasociar.Image = CType(resources.GetObject("tsbDesasociar.Image"),System.Drawing.Image)
+        Me.tsbDesasociar.Image = CType(resources.GetObject("tsbDesasociar.Image"), System.Drawing.Image)
         Me.tsbDesasociar.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbDesasociar.Name = "tsbDesasociar"
         Me.tsbDesasociar.Size = New System.Drawing.Size(91, 28)
@@ -2268,7 +2266,7 @@ Partial Class editlote
         Me.tsAsociarRumaFicticia.Name = "tsAsociarRumaFicticia"
         Me.tsAsociarRumaFicticia.Size = New System.Drawing.Size(148, 28)
         Me.tsAsociarRumaFicticia.Text = "Asociar Ruma Ficticia"
-        Me.tsAsociarRumaFicticia.Visible = false
+        Me.tsAsociarRumaFicticia.Visible = False
         '
         'tsEditarRumaFicticia
         '
@@ -2280,23 +2278,23 @@ Partial Class editlote
         '
         'Label23
         '
-        Me.Label23.AutoSize = true
+        Me.Label23.AutoSize = True
         Me.Label23.Location = New System.Drawing.Point(11, 448)
         Me.Label23.Name = "Label23"
         Me.Label23.Size = New System.Drawing.Size(42, 13)
         Me.Label23.TabIndex = 0
         Me.Label23.Text = "Totales"
-        Me.Label23.Visible = false
+        Me.Label23.Visible = False
         '
         'ctxtTotalTMSN
         '
         Me.ctxtTotalTMSN.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.ctxtTotalTMSN.Location = New System.Drawing.Point(335, 441)
         Me.ctxtTotalTMSN.MandatoryColor = System.Drawing.Color.Empty
-        Me.ctxtTotalTMSN.MandatoryField = false
+        Me.ctxtTotalTMSN.MandatoryField = False
         Me.ctxtTotalTMSN.MaxLength = 10
         Me.ctxtTotalTMSN.Name = "ctxtTotalTMSN"
-        Me.ctxtTotalTMSN.ReadOnly = true
+        Me.ctxtTotalTMSN.ReadOnly = True
         Me.ctxtTotalTMSN.Size = New System.Drawing.Size(54, 20)
         Me.ctxtTotalTMSN.TabIndex = 26
         Me.ctxtTotalTMSN.Text = "0"
@@ -2305,26 +2303,26 @@ Partial Class editlote
         Me.ctxtTotalTMSN.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.ctxtTotalTMSN.VCM_CustomInputTypeString = Nothing
         Me.ctxtTotalTMSN.VCM_CustomOmmitString = Nothing
-        Me.ctxtTotalTMSN.VCM_EnterFocus = true
-        Me.ctxtTotalTMSN.VCM_IsValidated = false
+        Me.ctxtTotalTMSN.VCM_EnterFocus = True
+        Me.ctxtTotalTMSN.VCM_IsValidated = False
         Me.ctxtTotalTMSN.VCM_MensajeFoco = Nothing
-        Me.ctxtTotalTMSN.VCM_MuestraMensajeFoco = false
+        Me.ctxtTotalTMSN.VCM_MuestraMensajeFoco = False
         Me.ctxtTotalTMSN.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.ctxtTotalTMSN.VCM_RegularExpression = Nothing
         Me.ctxtTotalTMSN.VCM_RegularExpressionErrorMessage = Nothing
-        Me.ctxtTotalTMSN.VCM_ShowMessage = true
+        Me.ctxtTotalTMSN.VCM_ShowMessage = True
         Me.ctxtTotalTMSN.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
-        Me.ctxtTotalTMSN.Visible = false
+        Me.ctxtTotalTMSN.Visible = False
         '
         'ctxtTotalMerma
         '
         Me.ctxtTotalMerma.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.ctxtTotalMerma.Location = New System.Drawing.Point(275, 441)
         Me.ctxtTotalMerma.MandatoryColor = System.Drawing.Color.Empty
-        Me.ctxtTotalMerma.MandatoryField = false
+        Me.ctxtTotalMerma.MandatoryField = False
         Me.ctxtTotalMerma.MaxLength = 10
         Me.ctxtTotalMerma.Name = "ctxtTotalMerma"
-        Me.ctxtTotalMerma.ReadOnly = true
+        Me.ctxtTotalMerma.ReadOnly = True
         Me.ctxtTotalMerma.Size = New System.Drawing.Size(54, 20)
         Me.ctxtTotalMerma.TabIndex = 26
         Me.ctxtTotalMerma.Text = "0"
@@ -2333,26 +2331,26 @@ Partial Class editlote
         Me.ctxtTotalMerma.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.ctxtTotalMerma.VCM_CustomInputTypeString = Nothing
         Me.ctxtTotalMerma.VCM_CustomOmmitString = Nothing
-        Me.ctxtTotalMerma.VCM_EnterFocus = true
-        Me.ctxtTotalMerma.VCM_IsValidated = false
+        Me.ctxtTotalMerma.VCM_EnterFocus = True
+        Me.ctxtTotalMerma.VCM_IsValidated = False
         Me.ctxtTotalMerma.VCM_MensajeFoco = Nothing
-        Me.ctxtTotalMerma.VCM_MuestraMensajeFoco = false
+        Me.ctxtTotalMerma.VCM_MuestraMensajeFoco = False
         Me.ctxtTotalMerma.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.ctxtTotalMerma.VCM_RegularExpression = Nothing
         Me.ctxtTotalMerma.VCM_RegularExpressionErrorMessage = Nothing
-        Me.ctxtTotalMerma.VCM_ShowMessage = true
+        Me.ctxtTotalMerma.VCM_ShowMessage = True
         Me.ctxtTotalMerma.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
-        Me.ctxtTotalMerma.Visible = false
+        Me.ctxtTotalMerma.Visible = False
         '
         'ctxtTotalTMS
         '
         Me.ctxtTotalTMS.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.ctxtTotalTMS.Location = New System.Drawing.Point(215, 441)
         Me.ctxtTotalTMS.MandatoryColor = System.Drawing.Color.Empty
-        Me.ctxtTotalTMS.MandatoryField = false
+        Me.ctxtTotalTMS.MandatoryField = False
         Me.ctxtTotalTMS.MaxLength = 10
         Me.ctxtTotalTMS.Name = "ctxtTotalTMS"
-        Me.ctxtTotalTMS.ReadOnly = true
+        Me.ctxtTotalTMS.ReadOnly = True
         Me.ctxtTotalTMS.Size = New System.Drawing.Size(54, 20)
         Me.ctxtTotalTMS.TabIndex = 26
         Me.ctxtTotalTMS.Text = "0"
@@ -2361,26 +2359,26 @@ Partial Class editlote
         Me.ctxtTotalTMS.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.ctxtTotalTMS.VCM_CustomInputTypeString = Nothing
         Me.ctxtTotalTMS.VCM_CustomOmmitString = Nothing
-        Me.ctxtTotalTMS.VCM_EnterFocus = true
-        Me.ctxtTotalTMS.VCM_IsValidated = false
+        Me.ctxtTotalTMS.VCM_EnterFocus = True
+        Me.ctxtTotalTMS.VCM_IsValidated = False
         Me.ctxtTotalTMS.VCM_MensajeFoco = Nothing
-        Me.ctxtTotalTMS.VCM_MuestraMensajeFoco = false
+        Me.ctxtTotalTMS.VCM_MuestraMensajeFoco = False
         Me.ctxtTotalTMS.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.ctxtTotalTMS.VCM_RegularExpression = Nothing
         Me.ctxtTotalTMS.VCM_RegularExpressionErrorMessage = Nothing
-        Me.ctxtTotalTMS.VCM_ShowMessage = true
+        Me.ctxtTotalTMS.VCM_ShowMessage = True
         Me.ctxtTotalTMS.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
-        Me.ctxtTotalTMS.Visible = false
+        Me.ctxtTotalTMS.Visible = False
         '
         'ctxtTotalH2O
         '
         Me.ctxtTotalH2O.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.ctxtTotalH2O.Location = New System.Drawing.Point(155, 441)
         Me.ctxtTotalH2O.MandatoryColor = System.Drawing.Color.Empty
-        Me.ctxtTotalH2O.MandatoryField = false
+        Me.ctxtTotalH2O.MandatoryField = False
         Me.ctxtTotalH2O.MaxLength = 10
         Me.ctxtTotalH2O.Name = "ctxtTotalH2O"
-        Me.ctxtTotalH2O.ReadOnly = true
+        Me.ctxtTotalH2O.ReadOnly = True
         Me.ctxtTotalH2O.Size = New System.Drawing.Size(54, 20)
         Me.ctxtTotalH2O.TabIndex = 26
         Me.ctxtTotalH2O.Text = "0"
@@ -2389,26 +2387,26 @@ Partial Class editlote
         Me.ctxtTotalH2O.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.ctxtTotalH2O.VCM_CustomInputTypeString = Nothing
         Me.ctxtTotalH2O.VCM_CustomOmmitString = Nothing
-        Me.ctxtTotalH2O.VCM_EnterFocus = true
-        Me.ctxtTotalH2O.VCM_IsValidated = false
+        Me.ctxtTotalH2O.VCM_EnterFocus = True
+        Me.ctxtTotalH2O.VCM_IsValidated = False
         Me.ctxtTotalH2O.VCM_MensajeFoco = Nothing
-        Me.ctxtTotalH2O.VCM_MuestraMensajeFoco = false
+        Me.ctxtTotalH2O.VCM_MuestraMensajeFoco = False
         Me.ctxtTotalH2O.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.ctxtTotalH2O.VCM_RegularExpression = Nothing
         Me.ctxtTotalH2O.VCM_RegularExpressionErrorMessage = Nothing
-        Me.ctxtTotalH2O.VCM_ShowMessage = true
+        Me.ctxtTotalH2O.VCM_ShowMessage = True
         Me.ctxtTotalH2O.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
-        Me.ctxtTotalH2O.Visible = false
+        Me.ctxtTotalH2O.Visible = False
         '
         'ctxtTotalTMH
         '
         Me.ctxtTotalTMH.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.ctxtTotalTMH.Location = New System.Drawing.Point(95, 441)
         Me.ctxtTotalTMH.MandatoryColor = System.Drawing.Color.Empty
-        Me.ctxtTotalTMH.MandatoryField = false
+        Me.ctxtTotalTMH.MandatoryField = False
         Me.ctxtTotalTMH.MaxLength = 10
         Me.ctxtTotalTMH.Name = "ctxtTotalTMH"
-        Me.ctxtTotalTMH.ReadOnly = true
+        Me.ctxtTotalTMH.ReadOnly = True
         Me.ctxtTotalTMH.Size = New System.Drawing.Size(54, 20)
         Me.ctxtTotalTMH.TabIndex = 26
         Me.ctxtTotalTMH.Text = "0"
@@ -2417,16 +2415,16 @@ Partial Class editlote
         Me.ctxtTotalTMH.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.ctxtTotalTMH.VCM_CustomInputTypeString = Nothing
         Me.ctxtTotalTMH.VCM_CustomOmmitString = Nothing
-        Me.ctxtTotalTMH.VCM_EnterFocus = true
-        Me.ctxtTotalTMH.VCM_IsValidated = false
+        Me.ctxtTotalTMH.VCM_EnterFocus = True
+        Me.ctxtTotalTMH.VCM_IsValidated = False
         Me.ctxtTotalTMH.VCM_MensajeFoco = Nothing
-        Me.ctxtTotalTMH.VCM_MuestraMensajeFoco = false
+        Me.ctxtTotalTMH.VCM_MuestraMensajeFoco = False
         Me.ctxtTotalTMH.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.ctxtTotalTMH.VCM_RegularExpression = Nothing
         Me.ctxtTotalTMH.VCM_RegularExpressionErrorMessage = Nothing
-        Me.ctxtTotalTMH.VCM_ShowMessage = true
+        Me.ctxtTotalTMH.VCM_ShowMessage = True
         Me.ctxtTotalTMH.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
-        Me.ctxtTotalTMH.Visible = false
+        Me.ctxtTotalTMH.Visible = False
         '
         'TabPage1
         '
@@ -2465,7 +2463,7 @@ Partial Class editlote
         Me.CuGroupBox11.Name = "CuGroupBox11"
         Me.CuGroupBox11.Size = New System.Drawing.Size(166, 76)
         Me.CuGroupBox11.TabIndex = 24
-        Me.CuGroupBox11.TabStop = false
+        Me.CuGroupBox11.TabStop = False
         Me.CuGroupBox11.Text = "Escalador RC"
         '
         'ContMenos
@@ -2473,7 +2471,7 @@ Partial Class editlote
         Me.ContMenos.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.ContMenos.Location = New System.Drawing.Point(134, 18)
         Me.ContMenos.MandatoryColor = System.Drawing.Color.Empty
-        Me.ContMenos.MandatoryField = false
+        Me.ContMenos.MandatoryField = False
         Me.ContMenos.Name = "ContMenos"
         Me.ContMenos.Size = New System.Drawing.Size(26, 20)
         Me.ContMenos.TabIndex = 7
@@ -2483,14 +2481,14 @@ Partial Class editlote
         Me.ContMenos.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.ContMenos.VCM_CustomInputTypeString = Nothing
         Me.ContMenos.VCM_CustomOmmitString = Nothing
-        Me.ContMenos.VCM_EnterFocus = true
-        Me.ContMenos.VCM_IsValidated = false
+        Me.ContMenos.VCM_EnterFocus = True
+        Me.ContMenos.VCM_IsValidated = False
         Me.ContMenos.VCM_MensajeFoco = Nothing
-        Me.ContMenos.VCM_MuestraMensajeFoco = false
+        Me.ContMenos.VCM_MuestraMensajeFoco = False
         Me.ContMenos.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.ContMenos.VCM_RegularExpression = Nothing
         Me.ContMenos.VCM_RegularExpressionErrorMessage = Nothing
-        Me.ContMenos.VCM_ShowMessage = true
+        Me.ContMenos.VCM_ShowMessage = True
         Me.ContMenos.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.Normal
         '
         'ContMas
@@ -2498,7 +2496,7 @@ Partial Class editlote
         Me.ContMas.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.ContMas.Location = New System.Drawing.Point(103, 18)
         Me.ContMas.MandatoryColor = System.Drawing.Color.Empty
-        Me.ContMas.MandatoryField = false
+        Me.ContMas.MandatoryField = False
         Me.ContMas.Name = "ContMas"
         Me.ContMas.Size = New System.Drawing.Size(28, 20)
         Me.ContMas.TabIndex = 6
@@ -2508,14 +2506,14 @@ Partial Class editlote
         Me.ContMas.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.ContMas.VCM_CustomInputTypeString = Nothing
         Me.ContMas.VCM_CustomOmmitString = Nothing
-        Me.ContMas.VCM_EnterFocus = true
-        Me.ContMas.VCM_IsValidated = false
+        Me.ContMas.VCM_EnterFocus = True
+        Me.ContMas.VCM_IsValidated = False
         Me.ContMas.VCM_MensajeFoco = Nothing
-        Me.ContMas.VCM_MuestraMensajeFoco = false
+        Me.ContMas.VCM_MuestraMensajeFoco = False
         Me.ContMas.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.ContMas.VCM_RegularExpression = Nothing
         Me.ContMas.VCM_RegularExpressionErrorMessage = Nothing
-        Me.ContMas.VCM_ShowMessage = true
+        Me.ContMas.VCM_ShowMessage = True
         Me.ContMas.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.Normal
         '
         'RcBasecon
@@ -2523,7 +2521,7 @@ Partial Class editlote
         Me.RcBasecon.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.RcBasecon.Location = New System.Drawing.Point(63, 18)
         Me.RcBasecon.MandatoryColor = System.Drawing.Color.Empty
-        Me.RcBasecon.MandatoryField = false
+        Me.RcBasecon.MandatoryField = False
         Me.RcBasecon.Name = "RcBasecon"
         Me.RcBasecon.Size = New System.Drawing.Size(27, 20)
         Me.RcBasecon.TabIndex = 5
@@ -2533,19 +2531,19 @@ Partial Class editlote
         Me.RcBasecon.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.RcBasecon.VCM_CustomInputTypeString = Nothing
         Me.RcBasecon.VCM_CustomOmmitString = Nothing
-        Me.RcBasecon.VCM_EnterFocus = true
-        Me.RcBasecon.VCM_IsValidated = false
+        Me.RcBasecon.VCM_EnterFocus = True
+        Me.RcBasecon.VCM_IsValidated = False
         Me.RcBasecon.VCM_MensajeFoco = Nothing
-        Me.RcBasecon.VCM_MuestraMensajeFoco = false
+        Me.RcBasecon.VCM_MuestraMensajeFoco = False
         Me.RcBasecon.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.RcBasecon.VCM_RegularExpression = Nothing
         Me.RcBasecon.VCM_RegularExpressionErrorMessage = Nothing
-        Me.RcBasecon.VCM_ShowMessage = true
+        Me.RcBasecon.VCM_ShowMessage = True
         Me.RcBasecon.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.Normal
         '
         'Label70
         '
-        Me.Label70.AutoSize = true
+        Me.Label70.AutoSize = True
         Me.Label70.Location = New System.Drawing.Point(-1, 22)
         Me.Label70.Name = "Label70"
         Me.Label70.Size = New System.Drawing.Size(62, 13)
@@ -2554,7 +2552,7 @@ Partial Class editlote
         '
         'Label58
         '
-        Me.Label58.AutoSize = true
+        Me.Label58.AutoSize = True
         Me.Label58.Location = New System.Drawing.Point(-1, 48)
         Me.Label58.Name = "Label58"
         Me.Label58.Size = New System.Drawing.Size(57, 13)
@@ -2566,7 +2564,7 @@ Partial Class editlote
         Me.Rcmenos.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.Rcmenos.Location = New System.Drawing.Point(134, 45)
         Me.Rcmenos.MandatoryColor = System.Drawing.Color.Empty
-        Me.Rcmenos.MandatoryField = false
+        Me.Rcmenos.MandatoryField = False
         Me.Rcmenos.Name = "Rcmenos"
         Me.Rcmenos.Size = New System.Drawing.Size(26, 20)
         Me.Rcmenos.TabIndex = 2
@@ -2576,14 +2574,14 @@ Partial Class editlote
         Me.Rcmenos.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.Rcmenos.VCM_CustomInputTypeString = Nothing
         Me.Rcmenos.VCM_CustomOmmitString = Nothing
-        Me.Rcmenos.VCM_EnterFocus = true
-        Me.Rcmenos.VCM_IsValidated = false
+        Me.Rcmenos.VCM_EnterFocus = True
+        Me.Rcmenos.VCM_IsValidated = False
         Me.Rcmenos.VCM_MensajeFoco = Nothing
-        Me.Rcmenos.VCM_MuestraMensajeFoco = false
+        Me.Rcmenos.VCM_MuestraMensajeFoco = False
         Me.Rcmenos.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.Rcmenos.VCM_RegularExpression = Nothing
         Me.Rcmenos.VCM_RegularExpressionErrorMessage = Nothing
-        Me.Rcmenos.VCM_ShowMessage = true
+        Me.Rcmenos.VCM_ShowMessage = True
         Me.Rcmenos.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.Normal
         '
         'Rcmas
@@ -2591,7 +2589,7 @@ Partial Class editlote
         Me.Rcmas.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.Rcmas.Location = New System.Drawing.Point(103, 45)
         Me.Rcmas.MandatoryColor = System.Drawing.Color.Empty
-        Me.Rcmas.MandatoryField = false
+        Me.Rcmas.MandatoryField = False
         Me.Rcmas.Name = "Rcmas"
         Me.Rcmas.Size = New System.Drawing.Size(28, 20)
         Me.Rcmas.TabIndex = 1
@@ -2601,14 +2599,14 @@ Partial Class editlote
         Me.Rcmas.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.Rcmas.VCM_CustomInputTypeString = Nothing
         Me.Rcmas.VCM_CustomOmmitString = Nothing
-        Me.Rcmas.VCM_EnterFocus = true
-        Me.Rcmas.VCM_IsValidated = false
+        Me.Rcmas.VCM_EnterFocus = True
+        Me.Rcmas.VCM_IsValidated = False
         Me.Rcmas.VCM_MensajeFoco = Nothing
-        Me.Rcmas.VCM_MuestraMensajeFoco = false
+        Me.Rcmas.VCM_MuestraMensajeFoco = False
         Me.Rcmas.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.Rcmas.VCM_RegularExpression = Nothing
         Me.Rcmas.VCM_RegularExpressionErrorMessage = Nothing
-        Me.Rcmas.VCM_ShowMessage = true
+        Me.Rcmas.VCM_ShowMessage = True
         Me.Rcmas.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.Normal
         '
         'BaseRc
@@ -2616,7 +2614,7 @@ Partial Class editlote
         Me.BaseRc.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.BaseRc.Location = New System.Drawing.Point(63, 45)
         Me.BaseRc.MandatoryColor = System.Drawing.Color.Empty
-        Me.BaseRc.MandatoryField = false
+        Me.BaseRc.MandatoryField = False
         Me.BaseRc.Name = "BaseRc"
         Me.BaseRc.Size = New System.Drawing.Size(27, 20)
         Me.BaseRc.TabIndex = 0
@@ -2626,14 +2624,14 @@ Partial Class editlote
         Me.BaseRc.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.BaseRc.VCM_CustomInputTypeString = Nothing
         Me.BaseRc.VCM_CustomOmmitString = Nothing
-        Me.BaseRc.VCM_EnterFocus = true
-        Me.BaseRc.VCM_IsValidated = false
+        Me.BaseRc.VCM_EnterFocus = True
+        Me.BaseRc.VCM_IsValidated = False
         Me.BaseRc.VCM_MensajeFoco = Nothing
-        Me.BaseRc.VCM_MuestraMensajeFoco = false
+        Me.BaseRc.VCM_MuestraMensajeFoco = False
         Me.BaseRc.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.BaseRc.VCM_RegularExpression = Nothing
         Me.BaseRc.VCM_RegularExpressionErrorMessage = Nothing
-        Me.BaseRc.VCM_ShowMessage = true
+        Me.BaseRc.VCM_ShowMessage = True
         Me.BaseRc.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.Normal
         '
         'CuGroupBox7
@@ -2649,7 +2647,7 @@ Partial Class editlote
         Me.CuGroupBox7.Name = "CuGroupBox7"
         Me.CuGroupBox7.Size = New System.Drawing.Size(195, 76)
         Me.CuGroupBox7.TabIndex = 23
-        Me.CuGroupBox7.TabStop = false
+        Me.CuGroupBox7.TabStop = False
         Me.CuGroupBox7.Text = "CuGroupBox7"
         '
         'txtMaquila
@@ -2657,7 +2655,7 @@ Partial Class editlote
         Me.txtMaquila.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtMaquila.Location = New System.Drawing.Point(144, 11)
         Me.txtMaquila.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtMaquila.MandatoryField = false
+        Me.txtMaquila.MandatoryField = False
         Me.txtMaquila.MaxLength = 10
         Me.txtMaquila.Name = "txtMaquila"
         Me.txtMaquila.Size = New System.Drawing.Size(47, 20)
@@ -2668,20 +2666,20 @@ Partial Class editlote
         Me.txtMaquila.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtMaquila.VCM_CustomInputTypeString = Nothing
         Me.txtMaquila.VCM_CustomOmmitString = Nothing
-        Me.txtMaquila.VCM_EnterFocus = true
-        Me.txtMaquila.VCM_IsValidated = false
+        Me.txtMaquila.VCM_EnterFocus = True
+        Me.txtMaquila.VCM_IsValidated = False
         Me.txtMaquila.VCM_MensajeFoco = Nothing
-        Me.txtMaquila.VCM_MuestraMensajeFoco = false
+        Me.txtMaquila.VCM_MuestraMensajeFoco = False
         Me.txtMaquila.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtMaquila.VCM_RegularExpression = Nothing
         Me.txtMaquila.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtMaquila.VCM_ShowMessage = true
+        Me.txtMaquila.VCM_ShowMessage = True
         Me.txtMaquila.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'cboDeposito
         '
         Me.cboDeposito.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.cboDeposito.FormattingEnabled = true
+        Me.cboDeposito.FormattingEnabled = True
         Me.cboDeposito.Location = New System.Drawing.Point(51, 34)
         Me.cboDeposito.Name = "cboDeposito"
         Me.cboDeposito.Size = New System.Drawing.Size(141, 21)
@@ -2690,7 +2688,7 @@ Partial Class editlote
         'cboIncoterm
         '
         Me.cboIncoterm.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.cboIncoterm.FormattingEnabled = true
+        Me.cboIncoterm.FormattingEnabled = True
         Me.cboIncoterm.Location = New System.Drawing.Point(51, 10)
         Me.cboIncoterm.Name = "cboIncoterm"
         Me.cboIncoterm.Size = New System.Drawing.Size(72, 21)
@@ -2698,7 +2696,7 @@ Partial Class editlote
         '
         'lblmaquila
         '
-        Me.lblmaquila.AutoSize = true
+        Me.lblmaquila.AutoSize = True
         Me.lblmaquila.Location = New System.Drawing.Point(126, 13)
         Me.lblmaquila.Name = "lblmaquila"
         Me.lblmaquila.Size = New System.Drawing.Size(21, 13)
@@ -2707,7 +2705,7 @@ Partial Class editlote
         '
         'lblDeposito
         '
-        Me.lblDeposito.AutoSize = true
+        Me.lblDeposito.AutoSize = True
         Me.lblDeposito.Location = New System.Drawing.Point(1, 36)
         Me.lblDeposito.Name = "lblDeposito"
         Me.lblDeposito.Size = New System.Drawing.Size(49, 13)
@@ -2716,7 +2714,7 @@ Partial Class editlote
         '
         'Label22
         '
-        Me.Label22.AutoSize = true
+        Me.Label22.AutoSize = True
         Me.Label22.Location = New System.Drawing.Point(1, 11)
         Me.Label22.Name = "Label22"
         Me.Label22.Size = New System.Drawing.Size(48, 13)
@@ -2766,28 +2764,28 @@ Partial Class editlote
         Me.CuGroupBox6.Name = "CuGroupBox6"
         Me.CuGroupBox6.Size = New System.Drawing.Size(440, 226)
         Me.CuGroupBox6.TabIndex = 22
-        Me.CuGroupBox6.TabStop = false
+        Me.CuGroupBox6.TabStop = False
         Me.CuGroupBox6.Text = "CuGroupBox6"
         '
         'Label29
         '
-        Me.Label29.AutoSize = true
+        Me.Label29.AutoSize = True
         Me.Label29.Location = New System.Drawing.Point(185, 139)
         Me.Label29.Name = "Label29"
         Me.Label29.Size = New System.Drawing.Size(76, 13)
         Me.Label29.TabIndex = 15
         Me.Label29.Text = "Precio Unitario"
-        Me.Label29.Visible = false
+        Me.Label29.Visible = False
         '
         'txtCalculoPrecioUnitario
         '
         Me.txtCalculoPrecioUnitario.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtCalculoPrecioUnitario.Location = New System.Drawing.Point(262, 132)
         Me.txtCalculoPrecioUnitario.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtCalculoPrecioUnitario.MandatoryField = false
+        Me.txtCalculoPrecioUnitario.MandatoryField = False
         Me.txtCalculoPrecioUnitario.MaxLength = 10
         Me.txtCalculoPrecioUnitario.Name = "txtCalculoPrecioUnitario"
-        Me.txtCalculoPrecioUnitario.ReadOnly = true
+        Me.txtCalculoPrecioUnitario.ReadOnly = True
         Me.txtCalculoPrecioUnitario.Size = New System.Drawing.Size(105, 20)
         Me.txtCalculoPrecioUnitario.TabIndex = 13
         Me.txtCalculoPrecioUnitario.Text = "0"
@@ -2796,16 +2794,16 @@ Partial Class editlote
         Me.txtCalculoPrecioUnitario.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtCalculoPrecioUnitario.VCM_CustomInputTypeString = Nothing
         Me.txtCalculoPrecioUnitario.VCM_CustomOmmitString = Nothing
-        Me.txtCalculoPrecioUnitario.VCM_EnterFocus = true
-        Me.txtCalculoPrecioUnitario.VCM_IsValidated = false
+        Me.txtCalculoPrecioUnitario.VCM_EnterFocus = True
+        Me.txtCalculoPrecioUnitario.VCM_IsValidated = False
         Me.txtCalculoPrecioUnitario.VCM_MensajeFoco = Nothing
-        Me.txtCalculoPrecioUnitario.VCM_MuestraMensajeFoco = false
+        Me.txtCalculoPrecioUnitario.VCM_MuestraMensajeFoco = False
         Me.txtCalculoPrecioUnitario.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtCalculoPrecioUnitario.VCM_RegularExpression = Nothing
         Me.txtCalculoPrecioUnitario.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtCalculoPrecioUnitario.VCM_ShowMessage = true
+        Me.txtCalculoPrecioUnitario.VCM_ShowMessage = True
         Me.txtCalculoPrecioUnitario.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
-        Me.txtCalculoPrecioUnitario.Visible = false
+        Me.txtCalculoPrecioUnitario.Visible = False
         '
         'txtProvisional
         '
@@ -2813,9 +2811,9 @@ Partial Class editlote
         Me.txtProvisional.BackColor = System.Drawing.SystemColors.Control
         Me.txtProvisional.Location = New System.Drawing.Point(293, 132)
         Me.txtProvisional.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtProvisional.MandatoryField = false
+        Me.txtProvisional.MandatoryField = False
         Me.txtProvisional.Name = "txtProvisional"
-        Me.txtProvisional.ReadOnly = true
+        Me.txtProvisional.ReadOnly = True
         Me.txtProvisional.Size = New System.Drawing.Size(74, 20)
         Me.txtProvisional.TabIndex = 25
         Me.txtProvisional.Text = "0"
@@ -2824,19 +2822,19 @@ Partial Class editlote
         Me.txtProvisional.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtProvisional.VCM_CustomInputTypeString = Nothing
         Me.txtProvisional.VCM_CustomOmmitString = Nothing
-        Me.txtProvisional.VCM_EnterFocus = true
-        Me.txtProvisional.VCM_IsValidated = false
+        Me.txtProvisional.VCM_EnterFocus = True
+        Me.txtProvisional.VCM_IsValidated = False
         Me.txtProvisional.VCM_MensajeFoco = Nothing
-        Me.txtProvisional.VCM_MuestraMensajeFoco = false
+        Me.txtProvisional.VCM_MuestraMensajeFoco = False
         Me.txtProvisional.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtProvisional.VCM_RegularExpression = Nothing
         Me.txtProvisional.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtProvisional.VCM_ShowMessage = true
+        Me.txtProvisional.VCM_ShowMessage = True
         Me.txtProvisional.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.Normal
         '
         'provisional
         '
-        Me.provisional.AutoSize = true
+        Me.provisional.AutoSize = True
         Me.provisional.Location = New System.Drawing.Point(222, 139)
         Me.provisional.Name = "provisional"
         Me.provisional.Size = New System.Drawing.Size(163, 13)
@@ -2849,9 +2847,9 @@ Partial Class editlote
         Me.txtDetraccion.BackColor = System.Drawing.SystemColors.Control
         Me.txtDetraccion.Location = New System.Drawing.Point(293, 108)
         Me.txtDetraccion.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtDetraccion.MandatoryField = false
+        Me.txtDetraccion.MandatoryField = False
         Me.txtDetraccion.Name = "txtDetraccion"
-        Me.txtDetraccion.ReadOnly = true
+        Me.txtDetraccion.ReadOnly = True
         Me.txtDetraccion.Size = New System.Drawing.Size(74, 20)
         Me.txtDetraccion.TabIndex = 23
         Me.txtDetraccion.Text = "0"
@@ -2860,19 +2858,19 @@ Partial Class editlote
         Me.txtDetraccion.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtDetraccion.VCM_CustomInputTypeString = Nothing
         Me.txtDetraccion.VCM_CustomOmmitString = Nothing
-        Me.txtDetraccion.VCM_EnterFocus = true
-        Me.txtDetraccion.VCM_IsValidated = false
+        Me.txtDetraccion.VCM_EnterFocus = True
+        Me.txtDetraccion.VCM_IsValidated = False
         Me.txtDetraccion.VCM_MensajeFoco = Nothing
-        Me.txtDetraccion.VCM_MuestraMensajeFoco = false
+        Me.txtDetraccion.VCM_MuestraMensajeFoco = False
         Me.txtDetraccion.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtDetraccion.VCM_RegularExpression = Nothing
         Me.txtDetraccion.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtDetraccion.VCM_ShowMessage = true
+        Me.txtDetraccion.VCM_ShowMessage = True
         Me.txtDetraccion.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.Normal
         '
         'Detraccion
         '
-        Me.Detraccion.AutoSize = true
+        Me.Detraccion.AutoSize = True
         Me.Detraccion.Location = New System.Drawing.Point(222, 115)
         Me.Detraccion.Name = "Detraccion"
         Me.Detraccion.Size = New System.Drawing.Size(164, 13)
@@ -2881,43 +2879,43 @@ Partial Class editlote
         '
         'Label54
         '
-        Me.Label54.AutoSize = true
+        Me.Label54.AutoSize = True
         Me.Label54.Location = New System.Drawing.Point(219, 65)
         Me.Label54.Name = "Label54"
         Me.Label54.Size = New System.Drawing.Size(38, 13)
         Me.Label54.TabIndex = 21
         Me.Label54.Text = "TMSN"
-        Me.Label54.Visible = false
+        Me.Label54.Visible = False
         '
         'Label53
         '
-        Me.Label53.AutoSize = true
+        Me.Label53.AutoSize = True
         Me.Label53.Location = New System.Drawing.Point(226, 37)
         Me.Label53.Name = "Label53"
         Me.Label53.Size = New System.Drawing.Size(30, 13)
         Me.Label53.TabIndex = 20
         Me.Label53.Text = "TMS"
-        Me.Label53.Visible = false
+        Me.Label53.Visible = False
         '
         'Label52
         '
-        Me.Label52.AutoSize = true
+        Me.Label52.AutoSize = True
         Me.Label52.Location = New System.Drawing.Point(226, 12)
         Me.Label52.Name = "Label52"
         Me.Label52.Size = New System.Drawing.Size(31, 13)
         Me.Label52.TabIndex = 19
         Me.Label52.Text = "TMH"
-        Me.Label52.Visible = false
+        Me.Label52.Visible = False
         '
         'txtCalculoTmsn
         '
         Me.txtCalculoTmsn.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtCalculoTmsn.Location = New System.Drawing.Point(261, 60)
         Me.txtCalculoTmsn.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtCalculoTmsn.MandatoryField = false
+        Me.txtCalculoTmsn.MandatoryField = False
         Me.txtCalculoTmsn.MaxLength = 10
         Me.txtCalculoTmsn.Name = "txtCalculoTmsn"
-        Me.txtCalculoTmsn.ReadOnly = true
+        Me.txtCalculoTmsn.ReadOnly = True
         Me.txtCalculoTmsn.Size = New System.Drawing.Size(105, 20)
         Me.txtCalculoTmsn.TabIndex = 10
         Me.txtCalculoTmsn.Text = "0"
@@ -2926,26 +2924,26 @@ Partial Class editlote
         Me.txtCalculoTmsn.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtCalculoTmsn.VCM_CustomInputTypeString = Nothing
         Me.txtCalculoTmsn.VCM_CustomOmmitString = Nothing
-        Me.txtCalculoTmsn.VCM_EnterFocus = true
-        Me.txtCalculoTmsn.VCM_IsValidated = false
+        Me.txtCalculoTmsn.VCM_EnterFocus = True
+        Me.txtCalculoTmsn.VCM_IsValidated = False
         Me.txtCalculoTmsn.VCM_MensajeFoco = Nothing
-        Me.txtCalculoTmsn.VCM_MuestraMensajeFoco = false
+        Me.txtCalculoTmsn.VCM_MuestraMensajeFoco = False
         Me.txtCalculoTmsn.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtCalculoTmsn.VCM_RegularExpression = Nothing
         Me.txtCalculoTmsn.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtCalculoTmsn.VCM_ShowMessage = true
+        Me.txtCalculoTmsn.VCM_ShowMessage = True
         Me.txtCalculoTmsn.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
-        Me.txtCalculoTmsn.Visible = false
+        Me.txtCalculoTmsn.Visible = False
         '
         'txtCalculoTms
         '
         Me.txtCalculoTms.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtCalculoTms.Location = New System.Drawing.Point(261, 34)
         Me.txtCalculoTms.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtCalculoTms.MandatoryField = false
+        Me.txtCalculoTms.MandatoryField = False
         Me.txtCalculoTms.MaxLength = 10
         Me.txtCalculoTms.Name = "txtCalculoTms"
-        Me.txtCalculoTms.ReadOnly = true
+        Me.txtCalculoTms.ReadOnly = True
         Me.txtCalculoTms.Size = New System.Drawing.Size(105, 20)
         Me.txtCalculoTms.TabIndex = 9
         Me.txtCalculoTms.Text = "0"
@@ -2954,26 +2952,26 @@ Partial Class editlote
         Me.txtCalculoTms.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtCalculoTms.VCM_CustomInputTypeString = Nothing
         Me.txtCalculoTms.VCM_CustomOmmitString = Nothing
-        Me.txtCalculoTms.VCM_EnterFocus = true
-        Me.txtCalculoTms.VCM_IsValidated = false
+        Me.txtCalculoTms.VCM_EnterFocus = True
+        Me.txtCalculoTms.VCM_IsValidated = False
         Me.txtCalculoTms.VCM_MensajeFoco = Nothing
-        Me.txtCalculoTms.VCM_MuestraMensajeFoco = false
+        Me.txtCalculoTms.VCM_MuestraMensajeFoco = False
         Me.txtCalculoTms.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtCalculoTms.VCM_RegularExpression = Nothing
         Me.txtCalculoTms.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtCalculoTms.VCM_ShowMessage = true
+        Me.txtCalculoTms.VCM_ShowMessage = True
         Me.txtCalculoTms.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
-        Me.txtCalculoTms.Visible = false
+        Me.txtCalculoTms.Visible = False
         '
         'txtCalculoTmh
         '
         Me.txtCalculoTmh.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtCalculoTmh.Location = New System.Drawing.Point(261, 9)
         Me.txtCalculoTmh.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtCalculoTmh.MandatoryField = false
+        Me.txtCalculoTmh.MandatoryField = False
         Me.txtCalculoTmh.MaxLength = 10
         Me.txtCalculoTmh.Name = "txtCalculoTmh"
-        Me.txtCalculoTmh.ReadOnly = true
+        Me.txtCalculoTmh.ReadOnly = True
         Me.txtCalculoTmh.Size = New System.Drawing.Size(105, 20)
         Me.txtCalculoTmh.TabIndex = 8
         Me.txtCalculoTmh.Text = "0"
@@ -2982,36 +2980,36 @@ Partial Class editlote
         Me.txtCalculoTmh.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtCalculoTmh.VCM_CustomInputTypeString = Nothing
         Me.txtCalculoTmh.VCM_CustomOmmitString = Nothing
-        Me.txtCalculoTmh.VCM_EnterFocus = true
-        Me.txtCalculoTmh.VCM_IsValidated = false
+        Me.txtCalculoTmh.VCM_EnterFocus = True
+        Me.txtCalculoTmh.VCM_IsValidated = False
         Me.txtCalculoTmh.VCM_MensajeFoco = Nothing
-        Me.txtCalculoTmh.VCM_MuestraMensajeFoco = false
+        Me.txtCalculoTmh.VCM_MuestraMensajeFoco = False
         Me.txtCalculoTmh.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtCalculoTmh.VCM_RegularExpression = Nothing
         Me.txtCalculoTmh.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtCalculoTmh.VCM_ShowMessage = true
+        Me.txtCalculoTmh.VCM_ShowMessage = True
         Me.txtCalculoTmh.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
-        Me.txtCalculoTmh.Visible = false
+        Me.txtCalculoTmh.Visible = False
         '
         'Label6
         '
-        Me.Label6.AutoSize = true
+        Me.Label6.AutoSize = True
         Me.Label6.Location = New System.Drawing.Point(185, 164)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(68, 13)
         Me.Label6.TabIndex = 13
         Me.Label6.Text = "Valor Mezcla"
-        Me.Label6.Visible = false
+        Me.Label6.Visible = False
         '
         'txtValorMezcla
         '
         Me.txtValorMezcla.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtValorMezcla.Location = New System.Drawing.Point(261, 157)
         Me.txtValorMezcla.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtValorMezcla.MandatoryField = false
+        Me.txtValorMezcla.MandatoryField = False
         Me.txtValorMezcla.MaxLength = 10
         Me.txtValorMezcla.Name = "txtValorMezcla"
-        Me.txtValorMezcla.ReadOnly = true
+        Me.txtValorMezcla.ReadOnly = True
         Me.txtValorMezcla.Size = New System.Drawing.Size(105, 20)
         Me.txtValorMezcla.TabIndex = 14
         Me.txtValorMezcla.Text = "0"
@@ -3020,20 +3018,20 @@ Partial Class editlote
         Me.txtValorMezcla.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtValorMezcla.VCM_CustomInputTypeString = Nothing
         Me.txtValorMezcla.VCM_CustomOmmitString = Nothing
-        Me.txtValorMezcla.VCM_EnterFocus = true
-        Me.txtValorMezcla.VCM_IsValidated = false
+        Me.txtValorMezcla.VCM_EnterFocus = True
+        Me.txtValorMezcla.VCM_IsValidated = False
         Me.txtValorMezcla.VCM_MensajeFoco = Nothing
-        Me.txtValorMezcla.VCM_MuestraMensajeFoco = false
+        Me.txtValorMezcla.VCM_MuestraMensajeFoco = False
         Me.txtValorMezcla.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtValorMezcla.VCM_RegularExpression = Nothing
         Me.txtValorMezcla.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtValorMezcla.VCM_ShowMessage = true
+        Me.txtValorMezcla.VCM_ShowMessage = True
         Me.txtValorMezcla.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
-        Me.txtValorMezcla.Visible = false
+        Me.txtValorMezcla.Visible = False
         '
         'Label51
         '
-        Me.Label51.AutoSize = true
+        Me.Label51.AutoSize = True
         Me.Label51.Location = New System.Drawing.Point(28, 113)
         Me.Label51.Name = "Label51"
         Me.Label51.Size = New System.Drawing.Size(58, 13)
@@ -3044,10 +3042,10 @@ Partial Class editlote
         '
         Me.txtPorImpuesto.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtPorImpuesto.BackColor = System.Drawing.SystemColors.Window
-        Me.txtPorImpuesto.Enabled = false
+        Me.txtPorImpuesto.Enabled = False
         Me.txtPorImpuesto.Location = New System.Drawing.Point(91, 110)
         Me.txtPorImpuesto.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtPorImpuesto.MandatoryField = false
+        Me.txtPorImpuesto.MandatoryField = False
         Me.txtPorImpuesto.MaxLength = 10
         Me.txtPorImpuesto.Name = "txtPorImpuesto"
         Me.txtPorImpuesto.Size = New System.Drawing.Size(74, 20)
@@ -3058,14 +3056,14 @@ Partial Class editlote
         Me.txtPorImpuesto.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtPorImpuesto.VCM_CustomInputTypeString = Nothing
         Me.txtPorImpuesto.VCM_CustomOmmitString = Nothing
-        Me.txtPorImpuesto.VCM_EnterFocus = true
-        Me.txtPorImpuesto.VCM_IsValidated = false
+        Me.txtPorImpuesto.VCM_EnterFocus = True
+        Me.txtPorImpuesto.VCM_IsValidated = False
         Me.txtPorImpuesto.VCM_MensajeFoco = Nothing
-        Me.txtPorImpuesto.VCM_MuestraMensajeFoco = false
+        Me.txtPorImpuesto.VCM_MuestraMensajeFoco = False
         Me.txtPorImpuesto.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtPorImpuesto.VCM_RegularExpression = Nothing
         Me.txtPorImpuesto.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtPorImpuesto.VCM_ShowMessage = true
+        Me.txtPorImpuesto.VCM_ShowMessage = True
         Me.txtPorImpuesto.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtNetoAPagar
@@ -3073,10 +3071,10 @@ Partial Class editlote
         Me.txtNetoAPagar.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtNetoAPagar.Location = New System.Drawing.Point(292, 182)
         Me.txtNetoAPagar.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtNetoAPagar.MandatoryField = false
+        Me.txtNetoAPagar.MandatoryField = False
         Me.txtNetoAPagar.MaxLength = 10
         Me.txtNetoAPagar.Name = "txtNetoAPagar"
-        Me.txtNetoAPagar.ReadOnly = true
+        Me.txtNetoAPagar.ReadOnly = True
         Me.txtNetoAPagar.Size = New System.Drawing.Size(74, 20)
         Me.txtNetoAPagar.TabIndex = 9
         Me.txtNetoAPagar.Text = "0"
@@ -3085,14 +3083,14 @@ Partial Class editlote
         Me.txtNetoAPagar.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtNetoAPagar.VCM_CustomInputTypeString = Nothing
         Me.txtNetoAPagar.VCM_CustomOmmitString = Nothing
-        Me.txtNetoAPagar.VCM_EnterFocus = true
-        Me.txtNetoAPagar.VCM_IsValidated = true
+        Me.txtNetoAPagar.VCM_EnterFocus = True
+        Me.txtNetoAPagar.VCM_IsValidated = True
         Me.txtNetoAPagar.VCM_MensajeFoco = Nothing
-        Me.txtNetoAPagar.VCM_MuestraMensajeFoco = false
+        Me.txtNetoAPagar.VCM_MuestraMensajeFoco = False
         Me.txtNetoAPagar.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtNetoAPagar.VCM_RegularExpression = Nothing
         Me.txtNetoAPagar.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtNetoAPagar.VCM_ShowMessage = true
+        Me.txtNetoAPagar.VCM_ShowMessage = True
         Me.txtNetoAPagar.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtDescuentos
@@ -3100,10 +3098,10 @@ Partial Class editlote
         Me.txtDescuentos.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtDescuentos.Location = New System.Drawing.Point(292, 157)
         Me.txtDescuentos.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtDescuentos.MandatoryField = false
+        Me.txtDescuentos.MandatoryField = False
         Me.txtDescuentos.MaxLength = 10
         Me.txtDescuentos.Name = "txtDescuentos"
-        Me.txtDescuentos.ReadOnly = true
+        Me.txtDescuentos.ReadOnly = True
         Me.txtDescuentos.Size = New System.Drawing.Size(74, 20)
         Me.txtDescuentos.TabIndex = 12
         Me.txtDescuentos.Text = "0"
@@ -3112,14 +3110,14 @@ Partial Class editlote
         Me.txtDescuentos.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtDescuentos.VCM_CustomInputTypeString = Nothing
         Me.txtDescuentos.VCM_CustomOmmitString = Nothing
-        Me.txtDescuentos.VCM_EnterFocus = true
-        Me.txtDescuentos.VCM_IsValidated = false
+        Me.txtDescuentos.VCM_EnterFocus = True
+        Me.txtDescuentos.VCM_IsValidated = False
         Me.txtDescuentos.VCM_MensajeFoco = Nothing
-        Me.txtDescuentos.VCM_MuestraMensajeFoco = false
+        Me.txtDescuentos.VCM_MuestraMensajeFoco = False
         Me.txtDescuentos.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtDescuentos.VCM_RegularExpression = Nothing
         Me.txtDescuentos.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtDescuentos.VCM_ShowMessage = true
+        Me.txtDescuentos.VCM_ShowMessage = True
         Me.txtDescuentos.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtAdelanto
@@ -3127,10 +3125,10 @@ Partial Class editlote
         Me.txtAdelanto.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtAdelanto.Location = New System.Drawing.Point(292, 84)
         Me.txtAdelanto.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtAdelanto.MandatoryField = false
+        Me.txtAdelanto.MandatoryField = False
         Me.txtAdelanto.MaxLength = 10
         Me.txtAdelanto.Name = "txtAdelanto"
-        Me.txtAdelanto.ReadOnly = true
+        Me.txtAdelanto.ReadOnly = True
         Me.txtAdelanto.Size = New System.Drawing.Size(74, 20)
         Me.txtAdelanto.TabIndex = 11
         Me.txtAdelanto.Text = "0"
@@ -3139,14 +3137,14 @@ Partial Class editlote
         Me.txtAdelanto.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtAdelanto.VCM_CustomInputTypeString = Nothing
         Me.txtAdelanto.VCM_CustomOmmitString = Nothing
-        Me.txtAdelanto.VCM_EnterFocus = true
-        Me.txtAdelanto.VCM_IsValidated = false
+        Me.txtAdelanto.VCM_EnterFocus = True
+        Me.txtAdelanto.VCM_IsValidated = False
         Me.txtAdelanto.VCM_MensajeFoco = Nothing
-        Me.txtAdelanto.VCM_MuestraMensajeFoco = false
+        Me.txtAdelanto.VCM_MuestraMensajeFoco = False
         Me.txtAdelanto.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtAdelanto.VCM_RegularExpression = Nothing
         Me.txtAdelanto.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtAdelanto.VCM_ShowMessage = true
+        Me.txtAdelanto.VCM_ShowMessage = True
         Me.txtAdelanto.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtTotal
@@ -3154,10 +3152,10 @@ Partial Class editlote
         Me.txtTotal.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtTotal.Location = New System.Drawing.Point(292, 60)
         Me.txtTotal.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtTotal.MandatoryField = false
+        Me.txtTotal.MandatoryField = False
         Me.txtTotal.MaxLength = 10
         Me.txtTotal.Name = "txtTotal"
-        Me.txtTotal.ReadOnly = true
+        Me.txtTotal.ReadOnly = True
         Me.txtTotal.Size = New System.Drawing.Size(74, 20)
         Me.txtTotal.TabIndex = 6
         Me.txtTotal.Text = "0"
@@ -3166,14 +3164,14 @@ Partial Class editlote
         Me.txtTotal.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtTotal.VCM_CustomInputTypeString = Nothing
         Me.txtTotal.VCM_CustomOmmitString = Nothing
-        Me.txtTotal.VCM_EnterFocus = true
-        Me.txtTotal.VCM_IsValidated = false
+        Me.txtTotal.VCM_EnterFocus = True
+        Me.txtTotal.VCM_IsValidated = False
         Me.txtTotal.VCM_MensajeFoco = Nothing
-        Me.txtTotal.VCM_MuestraMensajeFoco = false
+        Me.txtTotal.VCM_MuestraMensajeFoco = False
         Me.txtTotal.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtTotal.VCM_RegularExpression = Nothing
         Me.txtTotal.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtTotal.VCM_ShowMessage = true
+        Me.txtTotal.VCM_ShowMessage = True
         Me.txtTotal.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtImpuesto
@@ -3181,10 +3179,10 @@ Partial Class editlote
         Me.txtImpuesto.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtImpuesto.Location = New System.Drawing.Point(292, 34)
         Me.txtImpuesto.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtImpuesto.MandatoryField = false
+        Me.txtImpuesto.MandatoryField = False
         Me.txtImpuesto.MaxLength = 10
         Me.txtImpuesto.Name = "txtImpuesto"
-        Me.txtImpuesto.ReadOnly = true
+        Me.txtImpuesto.ReadOnly = True
         Me.txtImpuesto.Size = New System.Drawing.Size(74, 20)
         Me.txtImpuesto.TabIndex = 5
         Me.txtImpuesto.Text = "0"
@@ -3193,14 +3191,14 @@ Partial Class editlote
         Me.txtImpuesto.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtImpuesto.VCM_CustomInputTypeString = Nothing
         Me.txtImpuesto.VCM_CustomOmmitString = Nothing
-        Me.txtImpuesto.VCM_EnterFocus = true
-        Me.txtImpuesto.VCM_IsValidated = false
+        Me.txtImpuesto.VCM_EnterFocus = True
+        Me.txtImpuesto.VCM_IsValidated = False
         Me.txtImpuesto.VCM_MensajeFoco = Nothing
-        Me.txtImpuesto.VCM_MuestraMensajeFoco = false
+        Me.txtImpuesto.VCM_MuestraMensajeFoco = False
         Me.txtImpuesto.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtImpuesto.VCM_RegularExpression = Nothing
         Me.txtImpuesto.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtImpuesto.VCM_ShowMessage = true
+        Me.txtImpuesto.VCM_ShowMessage = True
         Me.txtImpuesto.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtValor
@@ -3208,10 +3206,10 @@ Partial Class editlote
         Me.txtValor.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtValor.Location = New System.Drawing.Point(293, 9)
         Me.txtValor.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtValor.MandatoryField = false
+        Me.txtValor.MandatoryField = False
         Me.txtValor.MaxLength = 10
         Me.txtValor.Name = "txtValor"
-        Me.txtValor.ReadOnly = true
+        Me.txtValor.ReadOnly = True
         Me.txtValor.Size = New System.Drawing.Size(74, 20)
         Me.txtValor.TabIndex = 4
         Me.txtValor.Text = "0"
@@ -3220,19 +3218,19 @@ Partial Class editlote
         Me.txtValor.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtValor.VCM_CustomInputTypeString = Nothing
         Me.txtValor.VCM_CustomOmmitString = Nothing
-        Me.txtValor.VCM_EnterFocus = true
-        Me.txtValor.VCM_IsValidated = false
+        Me.txtValor.VCM_EnterFocus = True
+        Me.txtValor.VCM_IsValidated = False
         Me.txtValor.VCM_MensajeFoco = Nothing
-        Me.txtValor.VCM_MuestraMensajeFoco = false
+        Me.txtValor.VCM_MuestraMensajeFoco = False
         Me.txtValor.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtValor.VCM_RegularExpression = Nothing
         Me.txtValor.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtValor.VCM_ShowMessage = true
+        Me.txtValor.VCM_ShowMessage = True
         Me.txtValor.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'Label18
         '
-        Me.Label18.AutoSize = true
+        Me.Label18.AutoSize = True
         Me.Label18.Location = New System.Drawing.Point(219, 188)
         Me.Label18.Name = "Label18"
         Me.Label18.Size = New System.Drawing.Size(71, 13)
@@ -3244,10 +3242,10 @@ Partial Class editlote
         Me.txtTotalTMSN.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtTotalTMSN.Location = New System.Drawing.Point(92, 33)
         Me.txtTotalTMSN.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtTotalTMSN.MandatoryField = false
+        Me.txtTotalTMSN.MandatoryField = False
         Me.txtTotalTMSN.MaxLength = 10
         Me.txtTotalTMSN.Name = "txtTotalTMSN"
-        Me.txtTotalTMSN.ReadOnly = true
+        Me.txtTotalTMSN.ReadOnly = True
         Me.txtTotalTMSN.Size = New System.Drawing.Size(74, 20)
         Me.txtTotalTMSN.TabIndex = 1
         Me.txtTotalTMSN.Text = "0"
@@ -3256,14 +3254,14 @@ Partial Class editlote
         Me.txtTotalTMSN.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtTotalTMSN.VCM_CustomInputTypeString = Nothing
         Me.txtTotalTMSN.VCM_CustomOmmitString = Nothing
-        Me.txtTotalTMSN.VCM_EnterFocus = true
-        Me.txtTotalTMSN.VCM_IsValidated = false
+        Me.txtTotalTMSN.VCM_EnterFocus = True
+        Me.txtTotalTMSN.VCM_IsValidated = False
         Me.txtTotalTMSN.VCM_MensajeFoco = Nothing
-        Me.txtTotalTMSN.VCM_MuestraMensajeFoco = false
+        Me.txtTotalTMSN.VCM_MuestraMensajeFoco = False
         Me.txtTotalTMSN.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtTotalTMSN.VCM_RegularExpression = Nothing
         Me.txtTotalTMSN.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtTotalTMSN.VCM_ShowMessage = true
+        Me.txtTotalTMSN.VCM_ShowMessage = True
         Me.txtTotalTMSN.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'ctxtTotalServicios
@@ -3271,10 +3269,10 @@ Partial Class editlote
         Me.ctxtTotalServicios.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.ctxtTotalServicios.Location = New System.Drawing.Point(92, 7)
         Me.ctxtTotalServicios.MandatoryColor = System.Drawing.Color.Empty
-        Me.ctxtTotalServicios.MandatoryField = false
+        Me.ctxtTotalServicios.MandatoryField = False
         Me.ctxtTotalServicios.MaxLength = 10
         Me.ctxtTotalServicios.Name = "ctxtTotalServicios"
-        Me.ctxtTotalServicios.ReadOnly = true
+        Me.ctxtTotalServicios.ReadOnly = True
         Me.ctxtTotalServicios.Size = New System.Drawing.Size(74, 20)
         Me.ctxtTotalServicios.TabIndex = 0
         Me.ctxtTotalServicios.Text = "0"
@@ -3283,14 +3281,14 @@ Partial Class editlote
         Me.ctxtTotalServicios.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.ctxtTotalServicios.VCM_CustomInputTypeString = Nothing
         Me.ctxtTotalServicios.VCM_CustomOmmitString = Nothing
-        Me.ctxtTotalServicios.VCM_EnterFocus = true
-        Me.ctxtTotalServicios.VCM_IsValidated = false
+        Me.ctxtTotalServicios.VCM_EnterFocus = True
+        Me.ctxtTotalServicios.VCM_IsValidated = False
         Me.ctxtTotalServicios.VCM_MensajeFoco = Nothing
-        Me.ctxtTotalServicios.VCM_MuestraMensajeFoco = false
+        Me.ctxtTotalServicios.VCM_MuestraMensajeFoco = False
         Me.ctxtTotalServicios.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.ctxtTotalServicios.VCM_RegularExpression = Nothing
         Me.ctxtTotalServicios.VCM_RegularExpressionErrorMessage = Nothing
-        Me.ctxtTotalServicios.VCM_ShowMessage = true
+        Me.ctxtTotalServicios.VCM_ShowMessage = True
         Me.ctxtTotalServicios.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtPUnitario
@@ -3298,10 +3296,10 @@ Partial Class editlote
         Me.txtPUnitario.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtPUnitario.Location = New System.Drawing.Point(92, 85)
         Me.txtPUnitario.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtPUnitario.MandatoryField = false
+        Me.txtPUnitario.MandatoryField = False
         Me.txtPUnitario.MaxLength = 10
         Me.txtPUnitario.Name = "txtPUnitario"
-        Me.txtPUnitario.ReadOnly = true
+        Me.txtPUnitario.ReadOnly = True
         Me.txtPUnitario.Size = New System.Drawing.Size(74, 20)
         Me.txtPUnitario.TabIndex = 3
         Me.txtPUnitario.Text = "0"
@@ -3310,14 +3308,14 @@ Partial Class editlote
         Me.txtPUnitario.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtPUnitario.VCM_CustomInputTypeString = Nothing
         Me.txtPUnitario.VCM_CustomOmmitString = Nothing
-        Me.txtPUnitario.VCM_EnterFocus = true
-        Me.txtPUnitario.VCM_IsValidated = false
+        Me.txtPUnitario.VCM_EnterFocus = True
+        Me.txtPUnitario.VCM_IsValidated = False
         Me.txtPUnitario.VCM_MensajeFoco = Nothing
-        Me.txtPUnitario.VCM_MuestraMensajeFoco = false
+        Me.txtPUnitario.VCM_MuestraMensajeFoco = False
         Me.txtPUnitario.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtPUnitario.VCM_RegularExpression = Nothing
         Me.txtPUnitario.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtPUnitario.VCM_ShowMessage = true
+        Me.txtPUnitario.VCM_ShowMessage = True
         Me.txtPUnitario.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtAjuste
@@ -3325,7 +3323,7 @@ Partial Class editlote
         Me.txtAjuste.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtAjuste.Location = New System.Drawing.Point(92, 59)
         Me.txtAjuste.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtAjuste.MandatoryField = false
+        Me.txtAjuste.MandatoryField = False
         Me.txtAjuste.MaxLength = 10
         Me.txtAjuste.Name = "txtAjuste"
         Me.txtAjuste.Size = New System.Drawing.Size(74, 20)
@@ -3336,19 +3334,19 @@ Partial Class editlote
         Me.txtAjuste.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtAjuste.VCM_CustomInputTypeString = Nothing
         Me.txtAjuste.VCM_CustomOmmitString = Nothing
-        Me.txtAjuste.VCM_EnterFocus = true
-        Me.txtAjuste.VCM_IsValidated = false
+        Me.txtAjuste.VCM_EnterFocus = True
+        Me.txtAjuste.VCM_IsValidated = False
         Me.txtAjuste.VCM_MensajeFoco = Nothing
-        Me.txtAjuste.VCM_MuestraMensajeFoco = false
+        Me.txtAjuste.VCM_MuestraMensajeFoco = False
         Me.txtAjuste.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtAjuste.VCM_RegularExpression = Nothing
         Me.txtAjuste.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtAjuste.VCM_ShowMessage = true
+        Me.txtAjuste.VCM_ShowMessage = True
         Me.txtAjuste.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.ConNegativo
         '
         'Label33
         '
-        Me.Label33.AutoSize = true
+        Me.Label33.AutoSize = True
         Me.Label33.Location = New System.Drawing.Point(222, 87)
         Me.Label33.Name = "Label33"
         Me.Label33.Size = New System.Drawing.Size(163, 13)
@@ -3357,7 +3355,7 @@ Partial Class editlote
         '
         'Label17
         '
-        Me.Label17.AutoSize = true
+        Me.Label17.AutoSize = True
         Me.Label17.Location = New System.Drawing.Point(222, 164)
         Me.Label17.Name = "Label17"
         Me.Label17.Size = New System.Drawing.Size(164, 13)
@@ -3366,7 +3364,7 @@ Partial Class editlote
         '
         'Label16
         '
-        Me.Label16.AutoSize = true
+        Me.Label16.AutoSize = True
         Me.Label16.Location = New System.Drawing.Point(228, 67)
         Me.Label16.Name = "Label16"
         Me.Label16.Size = New System.Drawing.Size(31, 13)
@@ -3375,7 +3373,7 @@ Partial Class editlote
         '
         'Label8
         '
-        Me.Label8.AutoSize = true
+        Me.Label8.AutoSize = True
         Me.Label8.Location = New System.Drawing.Point(228, 39)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(25, 13)
@@ -3384,7 +3382,7 @@ Partial Class editlote
         '
         'Label26
         '
-        Me.Label26.AutoSize = true
+        Me.Label26.AutoSize = True
         Me.Label26.Location = New System.Drawing.Point(20, 37)
         Me.Label26.Name = "Label26"
         Me.Label26.Size = New System.Drawing.Size(66, 13)
@@ -3393,7 +3391,7 @@ Partial Class editlote
         '
         'Label25
         '
-        Me.Label25.AutoSize = true
+        Me.Label25.AutoSize = True
         Me.Label25.Location = New System.Drawing.Point(36, 10)
         Me.Label25.Name = "Label25"
         Me.Label25.Size = New System.Drawing.Size(50, 13)
@@ -3402,7 +3400,7 @@ Partial Class editlote
         '
         'Label3
         '
-        Me.Label3.AutoSize = true
+        Me.Label3.AutoSize = True
         Me.Label3.Location = New System.Drawing.Point(229, 13)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(62, 13)
@@ -3411,7 +3409,7 @@ Partial Class editlote
         '
         'Label19
         '
-        Me.Label19.AutoSize = true
+        Me.Label19.AutoSize = True
         Me.Label19.Location = New System.Drawing.Point(33, 86)
         Me.Label19.Name = "Label19"
         Me.Label19.Size = New System.Drawing.Size(53, 13)
@@ -3420,7 +3418,7 @@ Partial Class editlote
         '
         'Label9
         '
-        Me.Label9.AutoSize = true
+        Me.Label9.AutoSize = True
         Me.Label9.Location = New System.Drawing.Point(50, 61)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(36, 13)
@@ -3443,12 +3441,12 @@ Partial Class editlote
         Me.CuGroupBox4.Name = "CuGroupBox4"
         Me.CuGroupBox4.Size = New System.Drawing.Size(296, 227)
         Me.CuGroupBox4.TabIndex = 21
-        Me.CuGroupBox4.TabStop = false
+        Me.CuGroupBox4.TabStop = False
         Me.CuGroupBox4.Text = "CuGroupBox4"
         '
         'Label64
         '
-        Me.Label64.AutoSize = true
+        Me.Label64.AutoSize = True
         Me.Label64.Location = New System.Drawing.Point(54, 150)
         Me.Label64.Name = "Label64"
         Me.Label64.Size = New System.Drawing.Size(88, 13)
@@ -3460,10 +3458,10 @@ Partial Class editlote
         Me.txtValorLiquidacion.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtValorLiquidacion.Location = New System.Drawing.Point(148, 146)
         Me.txtValorLiquidacion.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtValorLiquidacion.MandatoryField = false
+        Me.txtValorLiquidacion.MandatoryField = False
         Me.txtValorLiquidacion.MaxLength = 10
         Me.txtValorLiquidacion.Name = "txtValorLiquidacion"
-        Me.txtValorLiquidacion.ReadOnly = true
+        Me.txtValorLiquidacion.ReadOnly = True
         Me.txtValorLiquidacion.Size = New System.Drawing.Size(74, 20)
         Me.txtValorLiquidacion.TabIndex = 9
         Me.txtValorLiquidacion.Text = "0"
@@ -3472,19 +3470,19 @@ Partial Class editlote
         Me.txtValorLiquidacion.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtValorLiquidacion.VCM_CustomInputTypeString = Nothing
         Me.txtValorLiquidacion.VCM_CustomOmmitString = Nothing
-        Me.txtValorLiquidacion.VCM_EnterFocus = true
-        Me.txtValorLiquidacion.VCM_IsValidated = false
+        Me.txtValorLiquidacion.VCM_EnterFocus = True
+        Me.txtValorLiquidacion.VCM_IsValidated = False
         Me.txtValorLiquidacion.VCM_MensajeFoco = Nothing
-        Me.txtValorLiquidacion.VCM_MuestraMensajeFoco = false
+        Me.txtValorLiquidacion.VCM_MuestraMensajeFoco = False
         Me.txtValorLiquidacion.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtValorLiquidacion.VCM_RegularExpression = Nothing
         Me.txtValorLiquidacion.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtValorLiquidacion.VCM_ShowMessage = true
+        Me.txtValorLiquidacion.VCM_ShowMessage = True
         Me.txtValorLiquidacion.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'Label48
         '
-        Me.Label48.AutoSize = true
+        Me.Label48.AutoSize = True
         Me.Label48.Location = New System.Drawing.Point(67, 104)
         Me.Label48.Name = "Label48"
         Me.Label48.Size = New System.Drawing.Size(31, 13)
@@ -3493,7 +3491,7 @@ Partial Class editlote
         '
         'Label44
         '
-        Me.Label44.AutoSize = true
+        Me.Label44.AutoSize = True
         Me.Label44.Location = New System.Drawing.Point(67, 39)
         Me.Label44.Name = "Label44"
         Me.Label44.Size = New System.Drawing.Size(57, 13)
@@ -3502,7 +3500,7 @@ Partial Class editlote
         '
         'Label47
         '
-        Me.Label47.AutoSize = true
+        Me.Label47.AutoSize = True
         Me.Label47.Location = New System.Drawing.Point(67, 72)
         Me.Label47.Name = "Label47"
         Me.Label47.Size = New System.Drawing.Size(61, 13)
@@ -3514,10 +3512,10 @@ Partial Class editlote
         Me.txtSrvTMSN.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtSrvTMSN.Location = New System.Drawing.Point(148, 36)
         Me.txtSrvTMSN.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtSrvTMSN.MandatoryField = false
+        Me.txtSrvTMSN.MandatoryField = False
         Me.txtSrvTMSN.MaxLength = 10
         Me.txtSrvTMSN.Name = "txtSrvTMSN"
-        Me.txtSrvTMSN.ReadOnly = true
+        Me.txtSrvTMSN.ReadOnly = True
         Me.txtSrvTMSN.Size = New System.Drawing.Size(74, 20)
         Me.txtSrvTMSN.TabIndex = 1
         Me.txtSrvTMSN.Text = "0"
@@ -3526,14 +3524,14 @@ Partial Class editlote
         Me.txtSrvTMSN.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtSrvTMSN.VCM_CustomInputTypeString = Nothing
         Me.txtSrvTMSN.VCM_CustomOmmitString = Nothing
-        Me.txtSrvTMSN.VCM_EnterFocus = true
-        Me.txtSrvTMSN.VCM_IsValidated = false
+        Me.txtSrvTMSN.VCM_EnterFocus = True
+        Me.txtSrvTMSN.VCM_IsValidated = False
         Me.txtSrvTMSN.VCM_MensajeFoco = Nothing
-        Me.txtSrvTMSN.VCM_MuestraMensajeFoco = false
+        Me.txtSrvTMSN.VCM_MuestraMensajeFoco = False
         Me.txtSrvTMSN.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtSrvTMSN.VCM_RegularExpression = Nothing
         Me.txtSrvTMSN.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtSrvTMSN.VCM_ShowMessage = true
+        Me.txtSrvTMSN.VCM_ShowMessage = True
         Me.txtSrvTMSN.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtSrvImporte
@@ -3541,10 +3539,10 @@ Partial Class editlote
         Me.txtSrvImporte.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtSrvImporte.Location = New System.Drawing.Point(148, 69)
         Me.txtSrvImporte.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtSrvImporte.MandatoryField = false
+        Me.txtSrvImporte.MandatoryField = False
         Me.txtSrvImporte.MaxLength = 10
         Me.txtSrvImporte.Name = "txtSrvImporte"
-        Me.txtSrvImporte.ReadOnly = true
+        Me.txtSrvImporte.ReadOnly = True
         Me.txtSrvImporte.Size = New System.Drawing.Size(74, 20)
         Me.txtSrvImporte.TabIndex = 1
         Me.txtSrvImporte.Text = "0"
@@ -3553,19 +3551,19 @@ Partial Class editlote
         Me.txtSrvImporte.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtSrvImporte.VCM_CustomInputTypeString = Nothing
         Me.txtSrvImporte.VCM_CustomOmmitString = Nothing
-        Me.txtSrvImporte.VCM_EnterFocus = true
-        Me.txtSrvImporte.VCM_IsValidated = false
+        Me.txtSrvImporte.VCM_EnterFocus = True
+        Me.txtSrvImporte.VCM_IsValidated = False
         Me.txtSrvImporte.VCM_MensajeFoco = Nothing
-        Me.txtSrvImporte.VCM_MuestraMensajeFoco = false
+        Me.txtSrvImporte.VCM_MuestraMensajeFoco = False
         Me.txtSrvImporte.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtSrvImporte.VCM_RegularExpression = Nothing
         Me.txtSrvImporte.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtSrvImporte.VCM_ShowMessage = true
+        Me.txtSrvImporte.VCM_ShowMessage = True
         Me.txtSrvImporte.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'Label21
         '
-        Me.Label21.AutoSize = true
+        Me.Label21.AutoSize = True
         Me.Label21.Location = New System.Drawing.Point(30, 18)
         Me.Label21.Name = "Label21"
         Me.Label21.Size = New System.Drawing.Size(113, 13)
@@ -3577,10 +3575,10 @@ Partial Class editlote
         Me.txtTotalServicios.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtTotalServicios.Location = New System.Drawing.Point(148, 101)
         Me.txtTotalServicios.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtTotalServicios.MandatoryField = false
+        Me.txtTotalServicios.MandatoryField = False
         Me.txtTotalServicios.MaxLength = 10
         Me.txtTotalServicios.Name = "txtTotalServicios"
-        Me.txtTotalServicios.ReadOnly = true
+        Me.txtTotalServicios.ReadOnly = True
         Me.txtTotalServicios.Size = New System.Drawing.Size(74, 20)
         Me.txtTotalServicios.TabIndex = 1
         Me.txtTotalServicios.Text = "0"
@@ -3589,14 +3587,14 @@ Partial Class editlote
         Me.txtTotalServicios.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtTotalServicios.VCM_CustomInputTypeString = Nothing
         Me.txtTotalServicios.VCM_CustomOmmitString = Nothing
-        Me.txtTotalServicios.VCM_EnterFocus = true
-        Me.txtTotalServicios.VCM_IsValidated = false
+        Me.txtTotalServicios.VCM_EnterFocus = True
+        Me.txtTotalServicios.VCM_IsValidated = False
         Me.txtTotalServicios.VCM_MensajeFoco = Nothing
-        Me.txtTotalServicios.VCM_MuestraMensajeFoco = false
+        Me.txtTotalServicios.VCM_MuestraMensajeFoco = False
         Me.txtTotalServicios.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtTotalServicios.VCM_RegularExpression = Nothing
         Me.txtTotalServicios.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtTotalServicios.VCM_ShowMessage = true
+        Me.txtTotalServicios.VCM_ShowMessage = True
         Me.txtTotalServicios.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'gpoescalador
@@ -3615,7 +3613,7 @@ Partial Class editlote
         Me.gpoescalador.Name = "gpoescalador"
         Me.gpoescalador.Size = New System.Drawing.Size(224, 76)
         Me.gpoescalador.TabIndex = 19
-        Me.gpoescalador.TabStop = false
+        Me.gpoescalador.TabStop = False
         Me.gpoescalador.Text = "Escalador +1 -1"
         '
         'txtbasemenos2
@@ -3623,7 +3621,7 @@ Partial Class editlote
         Me.txtbasemenos2.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtbasemenos2.Location = New System.Drawing.Point(180, 36)
         Me.txtbasemenos2.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtbasemenos2.MandatoryField = false
+        Me.txtbasemenos2.MandatoryField = False
         Me.txtbasemenos2.MaxLength = 10
         Me.txtbasemenos2.Name = "txtbasemenos2"
         Me.txtbasemenos2.Size = New System.Drawing.Size(35, 20)
@@ -3634,23 +3632,23 @@ Partial Class editlote
         Me.txtbasemenos2.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtbasemenos2.VCM_CustomInputTypeString = Nothing
         Me.txtbasemenos2.VCM_CustomOmmitString = Nothing
-        Me.txtbasemenos2.VCM_EnterFocus = true
-        Me.txtbasemenos2.VCM_IsValidated = false
+        Me.txtbasemenos2.VCM_EnterFocus = True
+        Me.txtbasemenos2.VCM_IsValidated = False
         Me.txtbasemenos2.VCM_MensajeFoco = Nothing
-        Me.txtbasemenos2.VCM_MuestraMensajeFoco = false
+        Me.txtbasemenos2.VCM_MuestraMensajeFoco = False
         Me.txtbasemenos2.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtbasemenos2.VCM_RegularExpression = Nothing
         Me.txtbasemenos2.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtbasemenos2.VCM_ShowMessage = true
+        Me.txtbasemenos2.VCM_ShowMessage = True
         Me.txtbasemenos2.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
-        Me.txtbasemenos2.Visible = false
+        Me.txtbasemenos2.Visible = False
         '
         'txtbasemas2
         '
         Me.txtbasemas2.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtbasemas2.Location = New System.Drawing.Point(137, 36)
         Me.txtbasemas2.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtbasemas2.MandatoryField = false
+        Me.txtbasemas2.MandatoryField = False
         Me.txtbasemas2.MaxLength = 10
         Me.txtbasemas2.Name = "txtbasemas2"
         Me.txtbasemas2.Size = New System.Drawing.Size(37, 20)
@@ -3661,14 +3659,14 @@ Partial Class editlote
         Me.txtbasemas2.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtbasemas2.VCM_CustomInputTypeString = Nothing
         Me.txtbasemas2.VCM_CustomOmmitString = Nothing
-        Me.txtbasemas2.VCM_EnterFocus = true
-        Me.txtbasemas2.VCM_IsValidated = false
+        Me.txtbasemas2.VCM_EnterFocus = True
+        Me.txtbasemas2.VCM_IsValidated = False
         Me.txtbasemas2.VCM_MensajeFoco = Nothing
-        Me.txtbasemas2.VCM_MuestraMensajeFoco = false
+        Me.txtbasemas2.VCM_MuestraMensajeFoco = False
         Me.txtbasemas2.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtbasemas2.VCM_RegularExpression = Nothing
         Me.txtbasemas2.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtbasemas2.VCM_ShowMessage = true
+        Me.txtbasemas2.VCM_ShowMessage = True
         Me.txtbasemas2.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtbasemenos1
@@ -3676,7 +3674,7 @@ Partial Class editlote
         Me.txtbasemenos1.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtbasemenos1.Location = New System.Drawing.Point(180, 11)
         Me.txtbasemenos1.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtbasemenos1.MandatoryField = false
+        Me.txtbasemenos1.MandatoryField = False
         Me.txtbasemenos1.MaxLength = 10
         Me.txtbasemenos1.Name = "txtbasemenos1"
         Me.txtbasemenos1.Size = New System.Drawing.Size(35, 20)
@@ -3687,19 +3685,19 @@ Partial Class editlote
         Me.txtbasemenos1.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtbasemenos1.VCM_CustomInputTypeString = Nothing
         Me.txtbasemenos1.VCM_CustomOmmitString = Nothing
-        Me.txtbasemenos1.VCM_EnterFocus = true
-        Me.txtbasemenos1.VCM_IsValidated = false
+        Me.txtbasemenos1.VCM_EnterFocus = True
+        Me.txtbasemenos1.VCM_IsValidated = False
         Me.txtbasemenos1.VCM_MensajeFoco = Nothing
-        Me.txtbasemenos1.VCM_MuestraMensajeFoco = false
+        Me.txtbasemenos1.VCM_MuestraMensajeFoco = False
         Me.txtbasemenos1.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtbasemenos1.VCM_RegularExpression = Nothing
         Me.txtbasemenos1.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtbasemenos1.VCM_ShowMessage = true
+        Me.txtbasemenos1.VCM_ShowMessage = True
         Me.txtbasemenos1.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'Label10
         '
-        Me.Label10.AutoSize = true
+        Me.Label10.AutoSize = True
         Me.Label10.Location = New System.Drawing.Point(3, 39)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(84, 13)
@@ -3708,7 +3706,7 @@ Partial Class editlote
         '
         'Label11
         '
-        Me.Label11.AutoSize = true
+        Me.Label11.AutoSize = True
         Me.Label11.Location = New System.Drawing.Point(2, 17)
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(84, 13)
@@ -3720,7 +3718,7 @@ Partial Class editlote
         Me.txtbase2.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtbase2.Location = New System.Drawing.Point(90, 34)
         Me.txtbase2.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtbase2.MandatoryField = false
+        Me.txtbase2.MandatoryField = False
         Me.txtbase2.MaxLength = 10
         Me.txtbase2.Name = "txtbase2"
         Me.txtbase2.Size = New System.Drawing.Size(41, 20)
@@ -3731,14 +3729,14 @@ Partial Class editlote
         Me.txtbase2.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtbase2.VCM_CustomInputTypeString = Nothing
         Me.txtbase2.VCM_CustomOmmitString = Nothing
-        Me.txtbase2.VCM_EnterFocus = true
-        Me.txtbase2.VCM_IsValidated = false
+        Me.txtbase2.VCM_EnterFocus = True
+        Me.txtbase2.VCM_IsValidated = False
         Me.txtbase2.VCM_MensajeFoco = Nothing
-        Me.txtbase2.VCM_MuestraMensajeFoco = false
+        Me.txtbase2.VCM_MuestraMensajeFoco = False
         Me.txtbase2.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtbase2.VCM_RegularExpression = Nothing
         Me.txtbase2.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtbase2.VCM_ShowMessage = true
+        Me.txtbase2.VCM_ShowMessage = True
         Me.txtbase2.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtbasemas1
@@ -3746,7 +3744,7 @@ Partial Class editlote
         Me.txtbasemas1.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtbasemas1.Location = New System.Drawing.Point(137, 11)
         Me.txtbasemas1.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtbasemas1.MandatoryField = false
+        Me.txtbasemas1.MandatoryField = False
         Me.txtbasemas1.MaxLength = 10
         Me.txtbasemas1.Name = "txtbasemas1"
         Me.txtbasemas1.Size = New System.Drawing.Size(37, 20)
@@ -3757,14 +3755,14 @@ Partial Class editlote
         Me.txtbasemas1.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtbasemas1.VCM_CustomInputTypeString = Nothing
         Me.txtbasemas1.VCM_CustomOmmitString = Nothing
-        Me.txtbasemas1.VCM_EnterFocus = true
-        Me.txtbasemas1.VCM_IsValidated = false
+        Me.txtbasemas1.VCM_EnterFocus = True
+        Me.txtbasemas1.VCM_IsValidated = False
         Me.txtbasemas1.VCM_MensajeFoco = Nothing
-        Me.txtbasemas1.VCM_MuestraMensajeFoco = false
+        Me.txtbasemas1.VCM_MuestraMensajeFoco = False
         Me.txtbasemas1.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtbasemas1.VCM_RegularExpression = Nothing
         Me.txtbasemas1.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtbasemas1.VCM_ShowMessage = true
+        Me.txtbasemas1.VCM_ShowMessage = True
         Me.txtbasemas1.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtbase1
@@ -3772,7 +3770,7 @@ Partial Class editlote
         Me.txtbase1.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtbase1.Location = New System.Drawing.Point(90, 12)
         Me.txtbase1.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtbase1.MandatoryField = false
+        Me.txtbase1.MandatoryField = False
         Me.txtbase1.MaxLength = 10
         Me.txtbase1.Name = "txtbase1"
         Me.txtbase1.Size = New System.Drawing.Size(41, 20)
@@ -3783,14 +3781,14 @@ Partial Class editlote
         Me.txtbase1.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtbase1.VCM_CustomInputTypeString = Nothing
         Me.txtbase1.VCM_CustomOmmitString = Nothing
-        Me.txtbase1.VCM_EnterFocus = true
-        Me.txtbase1.VCM_IsValidated = false
+        Me.txtbase1.VCM_EnterFocus = True
+        Me.txtbase1.VCM_IsValidated = False
         Me.txtbase1.VCM_MensajeFoco = Nothing
-        Me.txtbase1.VCM_MuestraMensajeFoco = false
+        Me.txtbase1.VCM_MuestraMensajeFoco = False
         Me.txtbase1.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtbase1.VCM_RegularExpression = Nothing
         Me.txtbase1.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtbase1.VCM_ShowMessage = true
+        Me.txtbase1.VCM_ShowMessage = True
         Me.txtbase1.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'gpoparticipacion
@@ -3805,7 +3803,7 @@ Partial Class editlote
         Me.gpoparticipacion.Name = "gpoparticipacion"
         Me.gpoparticipacion.Size = New System.Drawing.Size(158, 76)
         Me.gpoparticipacion.TabIndex = 20
-        Me.gpoparticipacion.TabStop = false
+        Me.gpoparticipacion.TabStop = False
         Me.gpoparticipacion.Text = "Participacion de Precio"
         '
         'nupdPorcentaje
@@ -3822,7 +3820,7 @@ Partial Class editlote
         Me.txtbasepart.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtbasepart.Location = New System.Drawing.Point(87, 17)
         Me.txtbasepart.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtbasepart.MandatoryField = false
+        Me.txtbasepart.MandatoryField = False
         Me.txtbasepart.MaxLength = 10
         Me.txtbasepart.Name = "txtbasepart"
         Me.txtbasepart.Size = New System.Drawing.Size(63, 20)
@@ -3833,19 +3831,19 @@ Partial Class editlote
         Me.txtbasepart.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtbasepart.VCM_CustomInputTypeString = Nothing
         Me.txtbasepart.VCM_CustomOmmitString = Nothing
-        Me.txtbasepart.VCM_EnterFocus = true
-        Me.txtbasepart.VCM_IsValidated = false
+        Me.txtbasepart.VCM_EnterFocus = True
+        Me.txtbasepart.VCM_IsValidated = False
         Me.txtbasepart.VCM_MensajeFoco = Nothing
-        Me.txtbasepart.VCM_MuestraMensajeFoco = false
+        Me.txtbasepart.VCM_MuestraMensajeFoco = False
         Me.txtbasepart.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtbasepart.VCM_RegularExpression = Nothing
         Me.txtbasepart.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtbasepart.VCM_ShowMessage = true
+        Me.txtbasepart.VCM_ShowMessage = True
         Me.txtbasepart.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'Label12
         '
-        Me.Label12.AutoSize = true
+        Me.Label12.AutoSize = True
         Me.Label12.Location = New System.Drawing.Point(6, 44)
         Me.Label12.Name = "Label12"
         Me.Label12.Size = New System.Drawing.Size(15, 13)
@@ -3854,7 +3852,7 @@ Partial Class editlote
         '
         'Label31
         '
-        Me.Label31.AutoSize = true
+        Me.Label31.AutoSize = True
         Me.Label31.Location = New System.Drawing.Point(6, 21)
         Me.Label31.Name = "Label31"
         Me.Label31.Size = New System.Drawing.Size(84, 13)
@@ -3880,23 +3878,23 @@ Partial Class editlote
         Me.gpoterminos.Name = "gpoterminos"
         Me.gpoterminos.Size = New System.Drawing.Size(301, 76)
         Me.gpoterminos.TabIndex = 0
-        Me.gpoterminos.TabStop = false
+        Me.gpoterminos.TabStop = False
         Me.gpoterminos.Text = "Pesos"
         '
         'cbxHumedad
         '
-        Me.cbxHumedad.AutoSize = true
+        Me.cbxHumedad.AutoSize = True
         Me.cbxHumedad.CheckAlign = System.Drawing.ContentAlignment.MiddleRight
         Me.cbxHumedad.Location = New System.Drawing.Point(56, 57)
         Me.cbxHumedad.Name = "cbxHumedad"
         Me.cbxHumedad.Size = New System.Drawing.Size(65, 17)
         Me.cbxHumedad.TabIndex = 12
         Me.cbxHumedad.Text = "H2O Fin"
-        Me.cbxHumedad.UseVisualStyleBackColor = true
+        Me.cbxHumedad.UseVisualStyleBackColor = True
         '
         'Label30
         '
-        Me.Label30.AutoSize = true
+        Me.Label30.AutoSize = True
         Me.Label30.Location = New System.Drawing.Point(64, 17)
         Me.Label30.Name = "Label30"
         Me.Label30.Size = New System.Drawing.Size(27, 13)
@@ -3905,7 +3903,7 @@ Partial Class editlote
         '
         'Label32
         '
-        Me.Label32.AutoSize = true
+        Me.Label32.AutoSize = True
         Me.Label32.Location = New System.Drawing.Point(174, 17)
         Me.Label32.Name = "Label32"
         Me.Label32.Size = New System.Drawing.Size(39, 13)
@@ -3914,7 +3912,7 @@ Partial Class editlote
         '
         'Label34
         '
-        Me.Label34.AutoSize = true
+        Me.Label34.AutoSize = True
         Me.Label34.Location = New System.Drawing.Point(114, 17)
         Me.Label34.Name = "Label34"
         Me.Label34.Size = New System.Drawing.Size(30, 13)
@@ -3923,7 +3921,7 @@ Partial Class editlote
         '
         'Label35
         '
-        Me.Label35.AutoSize = true
+        Me.Label35.AutoSize = True
         Me.Label35.Location = New System.Drawing.Point(16, 17)
         Me.Label35.Name = "Label35"
         Me.Label35.Size = New System.Drawing.Size(31, 13)
@@ -3939,11 +3937,11 @@ Partial Class editlote
         Me.nupdMerma.Size = New System.Drawing.Size(61, 20)
         Me.nupdMerma.TabIndex = 3
         Me.nupdMerma.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.nupdMerma.ThousandsSeparator = true
+        Me.nupdMerma.ThousandsSeparator = True
         '
         'Label7
         '
-        Me.Label7.AutoSize = true
+        Me.Label7.AutoSize = True
         Me.Label7.Location = New System.Drawing.Point(237, 17)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(38, 13)
@@ -3955,7 +3953,7 @@ Partial Class editlote
         Me.txtTMSN.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtTMSN.Location = New System.Drawing.Point(240, 35)
         Me.txtTMSN.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtTMSN.MandatoryField = false
+        Me.txtTMSN.MandatoryField = False
         Me.txtTMSN.MaxLength = 10
         Me.txtTMSN.Name = "txtTMSN"
         Me.txtTMSN.Size = New System.Drawing.Size(54, 20)
@@ -3966,14 +3964,14 @@ Partial Class editlote
         Me.txtTMSN.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtTMSN.VCM_CustomInputTypeString = Nothing
         Me.txtTMSN.VCM_CustomOmmitString = Nothing
-        Me.txtTMSN.VCM_EnterFocus = true
-        Me.txtTMSN.VCM_IsValidated = false
+        Me.txtTMSN.VCM_EnterFocus = True
+        Me.txtTMSN.VCM_IsValidated = False
         Me.txtTMSN.VCM_MensajeFoco = Nothing
-        Me.txtTMSN.VCM_MuestraMensajeFoco = false
+        Me.txtTMSN.VCM_MuestraMensajeFoco = False
         Me.txtTMSN.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtTMSN.VCM_RegularExpression = Nothing
         Me.txtTMSN.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtTMSN.VCM_ShowMessage = true
+        Me.txtTMSN.VCM_ShowMessage = True
         Me.txtTMSN.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtTMS
@@ -3981,7 +3979,7 @@ Partial Class editlote
         Me.txtTMS.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtTMS.Location = New System.Drawing.Point(117, 35)
         Me.txtTMS.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtTMS.MandatoryField = false
+        Me.txtTMS.MandatoryField = False
         Me.txtTMS.MaxLength = 10
         Me.txtTMS.Name = "txtTMS"
         Me.txtTMS.Size = New System.Drawing.Size(54, 20)
@@ -3992,14 +3990,14 @@ Partial Class editlote
         Me.txtTMS.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtTMS.VCM_CustomInputTypeString = Nothing
         Me.txtTMS.VCM_CustomOmmitString = Nothing
-        Me.txtTMS.VCM_EnterFocus = true
-        Me.txtTMS.VCM_IsValidated = false
+        Me.txtTMS.VCM_EnterFocus = True
+        Me.txtTMS.VCM_IsValidated = False
         Me.txtTMS.VCM_MensajeFoco = Nothing
-        Me.txtTMS.VCM_MuestraMensajeFoco = false
+        Me.txtTMS.VCM_MuestraMensajeFoco = False
         Me.txtTMS.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtTMS.VCM_RegularExpression = Nothing
         Me.txtTMS.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtTMS.VCM_ShowMessage = true
+        Me.txtTMS.VCM_ShowMessage = True
         Me.txtTMS.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtH20
@@ -4007,7 +4005,7 @@ Partial Class editlote
         Me.txtH20.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtH20.Location = New System.Drawing.Point(62, 35)
         Me.txtH20.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtH20.MandatoryField = false
+        Me.txtH20.MandatoryField = False
         Me.txtH20.MaxLength = 10
         Me.txtH20.Name = "txtH20"
         Me.txtH20.Size = New System.Drawing.Size(54, 20)
@@ -4018,14 +4016,14 @@ Partial Class editlote
         Me.txtH20.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtH20.VCM_CustomInputTypeString = Nothing
         Me.txtH20.VCM_CustomOmmitString = Nothing
-        Me.txtH20.VCM_EnterFocus = true
-        Me.txtH20.VCM_IsValidated = false
+        Me.txtH20.VCM_EnterFocus = True
+        Me.txtH20.VCM_IsValidated = False
         Me.txtH20.VCM_MensajeFoco = Nothing
-        Me.txtH20.VCM_MuestraMensajeFoco = false
+        Me.txtH20.VCM_MuestraMensajeFoco = False
         Me.txtH20.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtH20.VCM_RegularExpression = Nothing
         Me.txtH20.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtH20.VCM_ShowMessage = true
+        Me.txtH20.VCM_ShowMessage = True
         Me.txtH20.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtTMH
@@ -4033,7 +4031,7 @@ Partial Class editlote
         Me.txtTMH.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtTMH.Location = New System.Drawing.Point(8, 35)
         Me.txtTMH.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtTMH.MandatoryField = false
+        Me.txtTMH.MandatoryField = False
         Me.txtTMH.MaxLength = 10
         Me.txtTMH.Name = "txtTMH"
         Me.txtTMH.Size = New System.Drawing.Size(54, 20)
@@ -4044,14 +4042,14 @@ Partial Class editlote
         Me.txtTMH.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtTMH.VCM_CustomInputTypeString = Nothing
         Me.txtTMH.VCM_CustomOmmitString = Nothing
-        Me.txtTMH.VCM_EnterFocus = true
-        Me.txtTMH.VCM_IsValidated = false
+        Me.txtTMH.VCM_EnterFocus = True
+        Me.txtTMH.VCM_IsValidated = False
         Me.txtTMH.VCM_MensajeFoco = Nothing
-        Me.txtTMH.VCM_MuestraMensajeFoco = false
+        Me.txtTMH.VCM_MuestraMensajeFoco = False
         Me.txtTMH.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.TresDecimales
         Me.txtTMH.VCM_RegularExpression = Nothing
         Me.txtTMH.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtTMH.VCM_ShowMessage = true
+        Me.txtTMH.VCM_ShowMessage = True
         Me.txtTMH.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'CuGroupBox1
@@ -4066,17 +4064,17 @@ Partial Class editlote
         Me.CuGroupBox1.Name = "CuGroupBox1"
         Me.CuGroupBox1.Size = New System.Drawing.Size(128, 76)
         Me.CuGroupBox1.TabIndex = 3
-        Me.CuGroupBox1.TabStop = false
+        Me.CuGroupBox1.TabStop = False
         '
         'txtPP
         '
         Me.txtPP.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtPP.Location = New System.Drawing.Point(62, 34)
         Me.txtPP.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtPP.MandatoryField = false
+        Me.txtPP.MandatoryField = False
         Me.txtPP.MaxLength = 10
         Me.txtPP.Name = "txtPP"
-        Me.txtPP.ReadOnly = true
+        Me.txtPP.ReadOnly = True
         Me.txtPP.Size = New System.Drawing.Size(59, 20)
         Me.txtPP.TabIndex = 1
         Me.txtPP.Text = "0"
@@ -4085,14 +4083,14 @@ Partial Class editlote
         Me.txtPP.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtPP.VCM_CustomInputTypeString = Nothing
         Me.txtPP.VCM_CustomOmmitString = Nothing
-        Me.txtPP.VCM_EnterFocus = true
-        Me.txtPP.VCM_IsValidated = false
+        Me.txtPP.VCM_EnterFocus = True
+        Me.txtPP.VCM_IsValidated = False
         Me.txtPP.VCM_MensajeFoco = Nothing
-        Me.txtPP.VCM_MuestraMensajeFoco = false
+        Me.txtPP.VCM_MuestraMensajeFoco = False
         Me.txtPP.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtPP.VCM_RegularExpression = Nothing
         Me.txtPP.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtPP.VCM_ShowMessage = true
+        Me.txtPP.VCM_ShowMessage = True
         Me.txtPP.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtEscalador
@@ -4100,10 +4098,10 @@ Partial Class editlote
         Me.txtEscalador.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtEscalador.Location = New System.Drawing.Point(62, 10)
         Me.txtEscalador.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtEscalador.MandatoryField = false
+        Me.txtEscalador.MandatoryField = False
         Me.txtEscalador.MaxLength = 10
         Me.txtEscalador.Name = "txtEscalador"
-        Me.txtEscalador.ReadOnly = true
+        Me.txtEscalador.ReadOnly = True
         Me.txtEscalador.Size = New System.Drawing.Size(59, 20)
         Me.txtEscalador.TabIndex = 0
         Me.txtEscalador.Text = "0"
@@ -4112,19 +4110,19 @@ Partial Class editlote
         Me.txtEscalador.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtEscalador.VCM_CustomInputTypeString = Nothing
         Me.txtEscalador.VCM_CustomOmmitString = Nothing
-        Me.txtEscalador.VCM_EnterFocus = true
-        Me.txtEscalador.VCM_IsValidated = false
+        Me.txtEscalador.VCM_EnterFocus = True
+        Me.txtEscalador.VCM_IsValidated = False
         Me.txtEscalador.VCM_MensajeFoco = Nothing
-        Me.txtEscalador.VCM_MuestraMensajeFoco = false
+        Me.txtEscalador.VCM_MuestraMensajeFoco = False
         Me.txtEscalador.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtEscalador.VCM_RegularExpression = Nothing
         Me.txtEscalador.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtEscalador.VCM_ShowMessage = true
+        Me.txtEscalador.VCM_ShowMessage = True
         Me.txtEscalador.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'Label27
         '
-        Me.Label27.AutoSize = true
+        Me.Label27.AutoSize = True
         Me.Label27.Location = New System.Drawing.Point(7, 37)
         Me.Label27.Name = "Label27"
         Me.Label27.Size = New System.Drawing.Size(21, 13)
@@ -4133,7 +4131,7 @@ Partial Class editlote
         '
         'Label28
         '
-        Me.Label28.AutoSize = true
+        Me.Label28.AutoSize = True
         Me.Label28.Location = New System.Drawing.Point(7, 14)
         Me.Label28.Name = "Label28"
         Me.Label28.Size = New System.Drawing.Size(54, 13)
@@ -4150,7 +4148,7 @@ Partial Class editlote
         Me.gpopagable.Name = "gpopagable"
         Me.gpopagable.Size = New System.Drawing.Size(1348, 176)
         Me.gpopagable.TabIndex = 4
-        Me.gpopagable.TabStop = false
+        Me.gpopagable.TabStop = False
         Me.gpopagable.Text = "Pagables"
         '
         'tsTerminosPagables
@@ -4162,11 +4160,11 @@ Partial Class editlote
         Me.tsTerminosPagables.Size = New System.Drawing.Size(1342, 31)
         Me.tsTerminosPagables.TabIndex = 5
         Me.tsTerminosPagables.Text = "ToolStrip3"
-        Me.tsTerminosPagables.Visible = false
+        Me.tsTerminosPagables.Visible = False
         '
         'tsbAgregarPag
         '
-        Me.tsbAgregarPag.Image = CType(resources.GetObject("tsbAgregarPag.Image"),System.Drawing.Image)
+        Me.tsbAgregarPag.Image = CType(resources.GetObject("tsbAgregarPag.Image"), System.Drawing.Image)
         Me.tsbAgregarPag.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbAgregarPag.Name = "tsbAgregarPag"
         Me.tsbAgregarPag.Size = New System.Drawing.Size(122, 28)
@@ -4190,7 +4188,7 @@ Partial Class editlote
         '
         'tsbEliminarPag
         '
-        Me.tsbEliminarPag.Image = CType(resources.GetObject("tsbEliminarPag.Image"),System.Drawing.Image)
+        Me.tsbEliminarPag.Image = CType(resources.GetObject("tsbEliminarPag.Image"), System.Drawing.Image)
         Me.tsbEliminarPag.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbEliminarPag.Name = "tsbEliminarPag"
         Me.tsbEliminarPag.Size = New System.Drawing.Size(123, 28)
@@ -4208,17 +4206,17 @@ Partial Class editlote
         Me.tsbFijar.Name = "tsbFijar"
         Me.tsbFijar.Size = New System.Drawing.Size(87, 28)
         Me.tsbFijar.Text = "Fijaciones"
-        Me.tsbFijar.Visible = false
+        Me.tsbFijar.Visible = False
         '
         'dgvPagables
         '
-        Me.dgvPagables.AllowUserToAddRows = false
-        Me.dgvPagables.AllowUserToDeleteRows = false
-        Me.dgvPagables.AllowUserToResizeColumns = false
-        Me.dgvPagables.AllowUserToResizeRows = false
+        Me.dgvPagables.AllowUserToAddRows = False
+        Me.dgvPagables.AllowUserToDeleteRows = False
+        Me.dgvPagables.AllowUserToResizeColumns = False
+        Me.dgvPagables.AllowUserToResizeRows = False
         DataGridViewCellStyle91.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle91.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle91.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle91.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle91.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle91.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle91.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -4228,7 +4226,7 @@ Partial Class editlote
         Me.dgvPagables.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Elem, Me.leymin, Me.leymax, Me.FinLey, Me.LeyCambUnid, Me.undleyCambUnid, Me.Ley, Me.undley, Me.factorley, Me.undfactor, Me.Pag, Me.factorpag, Me.undpag, Me.dgvTipo, Me.Ded, Me.factorded, Me.undded, Me.RC, Me.factorrc, Me.undrc, Me.Prot, Me.factorprot, Me.undprot, Me.dgvMerc, Me.dgvqpAjuste, Me.dgvQP, Me.FinPrecio, Me.Precio, Me.undprecio, Me.qpInicio, Me.qpFinal, Me.calculoPagable, Me.ProtCont, Me.Contenido, Me.undcp, Me.PU, Me.liquidacionpagable, Me.Fijacion, Me.precio_ponderado, Me.contenido_aplicado})
         DataGridViewCellStyle109.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle109.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle109.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle109.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle109.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle109.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle109.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -4238,7 +4236,7 @@ Partial Class editlote
         Me.dgvPagables.Name = "dgvPagables"
         DataGridViewCellStyle110.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle110.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle110.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle110.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle110.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle110.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle110.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -4252,7 +4250,7 @@ Partial Class editlote
         'Elem
         '
         Me.Elem.DataPropertyName = "codigoElemento"
-        Me.Elem.Frozen = true
+        Me.Elem.Frozen = True
         Me.Elem.HeaderText = "Elem"
         Me.Elem.Name = "Elem"
         Me.Elem.Width = 40
@@ -4264,7 +4262,7 @@ Partial Class editlote
         DataGridViewCellStyle92.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
         DataGridViewCellStyle92.Format = "N3"
         Me.leymin.DefaultCellStyle = DataGridViewCellStyle92
-        Me.leymin.Frozen = true
+        Me.leymin.Frozen = True
         Me.leymin.HeaderText = "Min"
         Me.leymin.Name = "leymin"
         Me.leymin.Width = 49
@@ -4276,7 +4274,7 @@ Partial Class editlote
         DataGridViewCellStyle93.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
         DataGridViewCellStyle93.Format = "N3"
         Me.leymax.DefaultCellStyle = DataGridViewCellStyle93
-        Me.leymax.Frozen = true
+        Me.leymax.Frozen = True
         Me.leymax.HeaderText = "Max"
         Me.leymax.Name = "leymax"
         Me.leymax.Width = 52
@@ -4285,7 +4283,7 @@ Partial Class editlote
         '
         Me.FinLey.DataPropertyName = "indley"
         Me.FinLey.FalseValue = "0"
-        Me.FinLey.Frozen = true
+        Me.FinLey.Frozen = True
         Me.FinLey.HeaderText = "Fin"
         Me.FinLey.Name = "FinLey"
         Me.FinLey.TrueValue = "1"
@@ -4298,7 +4296,7 @@ Partial Class editlote
         DataGridViewCellStyle94.Format = "N3"
         DataGridViewCellStyle94.NullValue = Nothing
         Me.LeyCambUnid.DefaultCellStyle = DataGridViewCellStyle94
-        Me.LeyCambUnid.Frozen = true
+        Me.LeyCambUnid.Frozen = True
         Me.LeyCambUnid.HeaderText = "Ley"
         Me.LeyCambUnid.Name = "LeyCambUnid"
         Me.LeyCambUnid.Width = 70
@@ -4306,7 +4304,7 @@ Partial Class editlote
         'undleyCambUnid
         '
         Me.undleyCambUnid.DataPropertyName = "undleyCambUnid"
-        Me.undleyCambUnid.Frozen = true
+        Me.undleyCambUnid.Frozen = True
         Me.undleyCambUnid.HeaderText = "und"
         Me.undleyCambUnid.Name = "undleyCambUnid"
         Me.undleyCambUnid.Width = 50
@@ -4321,8 +4319,8 @@ Partial Class editlote
         Me.Ley.HeaderText = "Ley"
         Me.Ley.MaxInputLength = 7
         Me.Ley.Name = "Ley"
-        Me.Ley.ReadOnly = true
-        Me.Ley.Visible = false
+        Me.Ley.ReadOnly = True
+        Me.Ley.Visible = False
         Me.Ley.Width = 80
         '
         'undley
@@ -4331,7 +4329,7 @@ Partial Class editlote
         Me.undley.DataPropertyName = "undley"
         Me.undley.HeaderText = "und"
         Me.undley.Name = "undley"
-        Me.undley.Visible = false
+        Me.undley.Visible = False
         '
         'factorley
         '
@@ -4343,7 +4341,7 @@ Partial Class editlote
         Me.factorley.DefaultCellStyle = DataGridViewCellStyle96
         Me.factorley.HeaderText = "factorley"
         Me.factorley.Name = "factorley"
-        Me.factorley.Visible = false
+        Me.factorley.Visible = False
         '
         'undfactor
         '
@@ -4351,7 +4349,7 @@ Partial Class editlote
         Me.undfactor.DataPropertyName = "undfactor"
         Me.undfactor.HeaderText = "und"
         Me.undfactor.Name = "undfactor"
-        Me.undfactor.Visible = false
+        Me.undfactor.Visible = False
         '
         'Pag
         '
@@ -4369,7 +4367,7 @@ Partial Class editlote
         Me.factorpag.DataPropertyName = "factorpag"
         Me.factorpag.HeaderText = "factorpag"
         Me.factorpag.Name = "factorpag"
-        Me.factorpag.Visible = false
+        Me.factorpag.Visible = False
         '
         'undpag
         '
@@ -4408,7 +4406,7 @@ Partial Class editlote
         Me.factorded.DefaultCellStyle = DataGridViewCellStyle99
         Me.factorded.HeaderText = "factorded"
         Me.factorded.Name = "factorded"
-        Me.factorded.Visible = false
+        Me.factorded.Visible = False
         '
         'undded
         '
@@ -4434,7 +4432,7 @@ Partial Class editlote
         Me.factorrc.DataPropertyName = "factorrc"
         Me.factorrc.HeaderText = "factorrc"
         Me.factorrc.Name = "factorrc"
-        Me.factorrc.Visible = false
+        Me.factorrc.Visible = False
         '
         'undrc
         '
@@ -4460,7 +4458,7 @@ Partial Class editlote
         Me.factorprot.DataPropertyName = "factorprot"
         Me.factorprot.HeaderText = "factorprot"
         Me.factorprot.Name = "factorprot"
-        Me.factorprot.Visible = false
+        Me.factorprot.Visible = False
         '
         'undprot
         '
@@ -4611,28 +4609,28 @@ Partial Class editlote
         Me.liquidacionpagable.DataPropertyName = "liquidacionpagable"
         Me.liquidacionpagable.HeaderText = "liquidacionpagable"
         Me.liquidacionpagable.Name = "liquidacionpagable"
-        Me.liquidacionpagable.Visible = false
+        Me.liquidacionpagable.Visible = False
         '
         'Fijacion
         '
         Me.Fijacion.DataPropertyName = "Fijacion"
         Me.Fijacion.HeaderText = "Fijacion"
         Me.Fijacion.Name = "Fijacion"
-        Me.Fijacion.Visible = false
+        Me.Fijacion.Visible = False
         '
         'precio_ponderado
         '
         Me.precio_ponderado.DataPropertyName = "precio_ponderado"
         Me.precio_ponderado.HeaderText = "precio_ponderado"
         Me.precio_ponderado.Name = "precio_ponderado"
-        Me.precio_ponderado.Visible = false
+        Me.precio_ponderado.Visible = False
         '
         'contenido_aplicado
         '
         Me.contenido_aplicado.DataPropertyName = "contenido_aplicado"
         Me.contenido_aplicado.HeaderText = "contenido_aplicado"
         Me.contenido_aplicado.Name = "contenido_aplicado"
-        Me.contenido_aplicado.Visible = false
+        Me.contenido_aplicado.Visible = False
         '
         'gpopenalizable
         '
@@ -4644,7 +4642,7 @@ Partial Class editlote
         Me.gpopenalizable.Name = "gpopenalizable"
         Me.gpopenalizable.Size = New System.Drawing.Size(589, 228)
         Me.gpopenalizable.TabIndex = 5
-        Me.gpopenalizable.TabStop = false
+        Me.gpopenalizable.TabStop = False
         Me.gpopenalizable.Text = "Penalizables"
         '
         'tsTerminosPenalizables
@@ -4656,11 +4654,11 @@ Partial Class editlote
         Me.tsTerminosPenalizables.Size = New System.Drawing.Size(583, 31)
         Me.tsTerminosPenalizables.TabIndex = 6
         Me.tsTerminosPenalizables.Text = "ToolStrip2"
-        Me.tsTerminosPenalizables.Visible = false
+        Me.tsTerminosPenalizables.Visible = False
         '
         'tsbAgregarPen
         '
-        Me.tsbAgregarPen.Image = CType(resources.GetObject("tsbAgregarPen.Image"),System.Drawing.Image)
+        Me.tsbAgregarPen.Image = CType(resources.GetObject("tsbAgregarPen.Image"), System.Drawing.Image)
         Me.tsbAgregarPen.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbAgregarPen.Name = "tsbAgregarPen"
         Me.tsbAgregarPen.Size = New System.Drawing.Size(139, 28)
@@ -4684,7 +4682,7 @@ Partial Class editlote
         '
         'tsbEliminarPen
         '
-        Me.tsbEliminarPen.Image = CType(resources.GetObject("tsbEliminarPen.Image"),System.Drawing.Image)
+        Me.tsbEliminarPen.Image = CType(resources.GetObject("tsbEliminarPen.Image"), System.Drawing.Image)
         Me.tsbEliminarPen.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbEliminarPen.Name = "tsbEliminarPen"
         Me.tsbEliminarPen.Size = New System.Drawing.Size(140, 28)
@@ -4697,16 +4695,16 @@ Partial Class editlote
         '
         'dgvPenalizable
         '
-        Me.dgvPenalizable.AllowUserToAddRows = false
-        Me.dgvPenalizable.AllowUserToDeleteRows = false
-        Me.dgvPenalizable.AllowUserToResizeColumns = false
-        Me.dgvPenalizable.AllowUserToResizeRows = false
-        Me.dgvPenalizable.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvPenalizable.AllowUserToAddRows = False
+        Me.dgvPenalizable.AllowUserToDeleteRows = False
+        Me.dgvPenalizable.AllowUserToResizeColumns = False
+        Me.dgvPenalizable.AllowUserToResizeRows = False
+        Me.dgvPenalizable.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         DataGridViewCellStyle111.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle111.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle111.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle111.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle111.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle111.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle111.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -4716,7 +4714,7 @@ Partial Class editlote
         Me.dgvPenalizable.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.ElemP, Me.indley, Me.LeyP, Me.undfactorp, Me.Min, Me.Max, Me.Unid, Me.Pen, Me.undpen, Me.PUP, Me.liquidacionPenalizableId})
         DataGridViewCellStyle118.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle118.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle118.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle118.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle118.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle118.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle118.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -4726,7 +4724,7 @@ Partial Class editlote
         Me.dgvPenalizable.Name = "dgvPenalizable"
         DataGridViewCellStyle119.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle119.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle119.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle119.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle119.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle119.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle119.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -4841,7 +4839,7 @@ Partial Class editlote
         Me.liquidacionPenalizableId.DataPropertyName = "liquidacionPenalizableId"
         Me.liquidacionPenalizableId.HeaderText = "liquidacionPenalizableId"
         Me.liquidacionPenalizableId.Name = "liquidacionPenalizableId"
-        Me.liquidacionPenalizableId.Visible = false
+        Me.liquidacionPenalizableId.Visible = False
         '
         'CuGroupBox8
         '
@@ -4857,21 +4855,21 @@ Partial Class editlote
         Me.CuGroupBox8.Name = "CuGroupBox8"
         Me.CuGroupBox8.Size = New System.Drawing.Size(159, 76)
         Me.CuGroupBox8.TabIndex = 3
-        Me.CuGroupBox8.TabStop = false
+        Me.CuGroupBox8.TabStop = False
         '
         'cbxPeriodo
         '
-        Me.cbxPeriodo.AutoSize = true
+        Me.cbxPeriodo.AutoSize = True
         Me.cbxPeriodo.Location = New System.Drawing.Point(140, 39)
         Me.cbxPeriodo.Name = "cbxPeriodo"
         Me.cbxPeriodo.Size = New System.Drawing.Size(15, 14)
         Me.cbxPeriodo.TabIndex = 6
-        Me.cbxPeriodo.UseVisualStyleBackColor = true
+        Me.cbxPeriodo.UseVisualStyleBackColor = True
         '
         'cboCategoria
         '
         Me.cboCategoria.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.cboCategoria.FormattingEnabled = true
+        Me.cboCategoria.FormattingEnabled = True
         Me.cboCategoria.Location = New System.Drawing.Point(61, 9)
         Me.cboCategoria.Name = "cboCategoria"
         Me.cboCategoria.Size = New System.Drawing.Size(94, 21)
@@ -4879,7 +4877,7 @@ Partial Class editlote
         '
         'Label63
         '
-        Me.Label63.AutoSize = true
+        Me.Label63.AutoSize = True
         Me.Label63.Location = New System.Drawing.Point(6, 13)
         Me.Label63.Name = "Label63"
         Me.Label63.Size = New System.Drawing.Size(54, 13)
@@ -4894,11 +4892,11 @@ Partial Class editlote
         Me.dtPeriodo.Name = "dtPeriodo"
         Me.dtPeriodo.Size = New System.Drawing.Size(74, 20)
         Me.dtPeriodo.TabIndex = 3
-        Me.dtPeriodo.Visible = false
+        Me.dtPeriodo.Visible = False
         '
         'lblfechaliq
         '
-        Me.lblfechaliq.AutoSize = true
+        Me.lblfechaliq.AutoSize = True
         Me.lblfechaliq.Location = New System.Drawing.Point(13, 10)
         Me.lblfechaliq.Name = "lblfechaliq"
         Me.lblfechaliq.Size = New System.Drawing.Size(0, 13)
@@ -4906,19 +4904,19 @@ Partial Class editlote
         '
         'lblperiodo
         '
-        Me.lblperiodo.AutoSize = true
+        Me.lblperiodo.AutoSize = True
         Me.lblperiodo.Location = New System.Drawing.Point(2, 39)
         Me.lblperiodo.Name = "lblperiodo"
         Me.lblperiodo.Size = New System.Drawing.Size(49, 13)
         Me.lblperiodo.TabIndex = 0
         Me.lblperiodo.Text = "Periodo :"
-        Me.lblperiodo.Visible = false
+        Me.lblperiodo.Visible = False
         '
         'tbcTerminos
         '
-        Me.tbcTerminos.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.tbcTerminos.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.tbcTerminos.Controls.Add(Me.TabPage1)
         Me.tbcTerminos.Controls.Add(Me.TabPage2)
         Me.tbcTerminos.Controls.Add(Me.TabPage3)
@@ -4930,7 +4928,7 @@ Partial Class editlote
         Me.tbcTerminos.Controls.Add(Me.tpCosto)
         Me.tbcTerminos.Controls.Add(Me.tpProfitAndLoss)
         Me.tbcTerminos.Controls.Add(Me.tpTraslado)
-        Me.tbcTerminos.HotTrack = true
+        Me.tbcTerminos.HotTrack = True
         Me.tbcTerminos.Location = New System.Drawing.Point(0, 113)
         Me.tbcTerminos.Name = "tbcTerminos"
         Me.tbcTerminos.SelectedIndex = 0
@@ -4952,27 +4950,27 @@ Partial Class editlote
         '
         'GroupBox11
         '
-        Me.GroupBox11.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.GroupBox11.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox11.Controls.Add(Me.dgvPrestamosCchica)
         Me.GroupBox11.Location = New System.Drawing.Point(7, 305)
         Me.GroupBox11.Name = "GroupBox11"
         Me.GroupBox11.Size = New System.Drawing.Size(1339, 171)
         Me.GroupBox11.TabIndex = 27
-        Me.GroupBox11.TabStop = false
+        Me.GroupBox11.TabStop = False
         Me.GroupBox11.Text = "Préstamos Caja Chica"
         '
         'dgvPrestamosCchica
         '
-        Me.dgvPrestamosCchica.AllowUserToAddRows = false
-        Me.dgvPrestamosCchica.AllowUserToDeleteRows = false
-        Me.dgvPrestamosCchica.AllowUserToResizeColumns = false
-        Me.dgvPrestamosCchica.AllowUserToResizeRows = false
-        Me.dgvPrestamosCchica.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvPrestamosCchica.AllowUserToAddRows = False
+        Me.dgvPrestamosCchica.AllowUserToDeleteRows = False
+        Me.dgvPrestamosCchica.AllowUserToResizeColumns = False
+        Me.dgvPrestamosCchica.AllowUserToResizeRows = False
+        Me.dgvPrestamosCchica.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         DataGridViewCellStyle120.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle120.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle120.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle120.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle120.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle120.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle120.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -4981,7 +4979,7 @@ Partial Class editlote
         Me.dgvPrestamosCchica.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         DataGridViewCellStyle121.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle121.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle121.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle121.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle121.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle121.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle121.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -4989,10 +4987,10 @@ Partial Class editlote
         Me.dgvPrestamosCchica.DefaultCellStyle = DataGridViewCellStyle121
         Me.dgvPrestamosCchica.Location = New System.Drawing.Point(7, 16)
         Me.dgvPrestamosCchica.Name = "dgvPrestamosCchica"
-        Me.dgvPrestamosCchica.ReadOnly = true
+        Me.dgvPrestamosCchica.ReadOnly = True
         DataGridViewCellStyle122.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle122.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle122.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle122.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle122.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle122.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle122.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -5004,27 +5002,27 @@ Partial Class editlote
         '
         'GroupBox3
         '
-        Me.GroupBox3.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left),System.Windows.Forms.AnchorStyles)
+        Me.GroupBox3.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.GroupBox3.Controls.Add(Me.dgvAjustes)
         Me.GroupBox3.Location = New System.Drawing.Point(7, 32)
         Me.GroupBox3.Name = "GroupBox3"
         Me.GroupBox3.Size = New System.Drawing.Size(509, 274)
         Me.GroupBox3.TabIndex = 26
-        Me.GroupBox3.TabStop = false
+        Me.GroupBox3.TabStop = False
         '
         'dgvAjustes
         '
-        Me.dgvAjustes.AllowUserToAddRows = false
-        Me.dgvAjustes.AllowUserToDeleteRows = false
-        Me.dgvAjustes.AllowUserToResizeColumns = false
-        Me.dgvAjustes.AllowUserToResizeRows = false
-        Me.dgvAjustes.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvAjustes.AllowUserToAddRows = False
+        Me.dgvAjustes.AllowUserToDeleteRows = False
+        Me.dgvAjustes.AllowUserToResizeColumns = False
+        Me.dgvAjustes.AllowUserToResizeRows = False
+        Me.dgvAjustes.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         DataGridViewCellStyle123.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle123.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle123.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle123.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle123.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle123.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle123.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -5034,7 +5032,7 @@ Partial Class editlote
         Me.dgvAjustes.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.NroI, Me.Nro, Me.codigoDscto, Me.observa, Me.descriDscto, Me.ImporteDscto, Me.importeTotal, Me.liquidacionDsctoId, Me.A_NRO})
         DataGridViewCellStyle126.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle126.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle126.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle126.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle126.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle126.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle126.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -5044,7 +5042,7 @@ Partial Class editlote
         Me.dgvAjustes.Name = "dgvAjustes"
         DataGridViewCellStyle127.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle127.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle127.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle127.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle127.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle127.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle127.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -5066,8 +5064,8 @@ Partial Class editlote
         Me.Nro.DataPropertyName = "Nro"
         Me.Nro.HeaderText = "Item"
         Me.Nro.Name = "Nro"
-        Me.Nro.ReadOnly = true
-        Me.Nro.Visible = false
+        Me.Nro.ReadOnly = True
+        Me.Nro.Visible = False
         Me.Nro.Width = 30
         '
         'codigoDscto
@@ -5075,14 +5073,14 @@ Partial Class editlote
         Me.codigoDscto.DataPropertyName = "codigoDscto"
         Me.codigoDscto.HeaderText = "Codigo"
         Me.codigoDscto.Name = "codigoDscto"
-        Me.codigoDscto.ReadOnly = true
+        Me.codigoDscto.ReadOnly = True
         '
         'observa
         '
         Me.observa.DataPropertyName = "observa"
         Me.observa.HeaderText = "Observación"
         Me.observa.Name = "observa"
-        Me.observa.Visible = false
+        Me.observa.Visible = False
         Me.observa.Width = 70
         '
         'descriDscto
@@ -5112,8 +5110,8 @@ Partial Class editlote
         Me.importeTotal.DefaultCellStyle = DataGridViewCellStyle125
         Me.importeTotal.HeaderText = "T. Importe"
         Me.importeTotal.Name = "importeTotal"
-        Me.importeTotal.ReadOnly = true
-        Me.importeTotal.Visible = false
+        Me.importeTotal.ReadOnly = True
+        Me.importeTotal.Visible = False
         Me.importeTotal.Width = 80
         '
         'liquidacionDsctoId
@@ -5121,40 +5119,40 @@ Partial Class editlote
         Me.liquidacionDsctoId.DataPropertyName = "liquidacionDsctoId"
         Me.liquidacionDsctoId.HeaderText = "liquidacionDsctoId"
         Me.liquidacionDsctoId.Name = "liquidacionDsctoId"
-        Me.liquidacionDsctoId.Visible = false
+        Me.liquidacionDsctoId.Visible = False
         '
         'A_NRO
         '
         Me.A_NRO.DataPropertyName = "A_NRO"
         Me.A_NRO.HeaderText = "A_NRO"
         Me.A_NRO.Name = "A_NRO"
-        Me.A_NRO.Visible = false
+        Me.A_NRO.Visible = False
         '
         'GroupBox2
         '
-        Me.GroupBox2.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.GroupBox2.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox2.Controls.Add(Me.dgvDstoProvisionales)
         Me.GroupBox2.Location = New System.Drawing.Point(522, 32)
         Me.GroupBox2.Name = "GroupBox2"
         Me.GroupBox2.Size = New System.Drawing.Size(824, 274)
         Me.GroupBox2.TabIndex = 25
-        Me.GroupBox2.TabStop = false
+        Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Liquidaciones"
         '
         'dgvDstoProvisionales
         '
-        Me.dgvDstoProvisionales.AllowUserToAddRows = false
-        Me.dgvDstoProvisionales.AllowUserToDeleteRows = false
-        Me.dgvDstoProvisionales.AllowUserToResizeColumns = false
-        Me.dgvDstoProvisionales.AllowUserToResizeRows = false
-        Me.dgvDstoProvisionales.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvDstoProvisionales.AllowUserToAddRows = False
+        Me.dgvDstoProvisionales.AllowUserToDeleteRows = False
+        Me.dgvDstoProvisionales.AllowUserToResizeColumns = False
+        Me.dgvDstoProvisionales.AllowUserToResizeRows = False
+        Me.dgvDstoProvisionales.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         DataGridViewCellStyle128.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
         DataGridViewCellStyle128.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle128.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle128.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle128.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle128.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle128.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -5164,7 +5162,7 @@ Partial Class editlote
         Me.dgvDstoProvisionales.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.concepto, Me.PConcepto, Me.PfechaRegistro, Me.PValorNeto, Me.PValorIgv, Me.PValorTotal, Me.PPorcentajePago, Me.PMontoAPagar, Me.PDsctoLiquidacion, Me.PTotalDescuento, Me.PMontoNetoAPagar, Me.Pfc})
         DataGridViewCellStyle137.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle137.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle137.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle137.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle137.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle137.Format = "N4"
         DataGridViewCellStyle137.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -5175,7 +5173,7 @@ Partial Class editlote
         Me.dgvDstoProvisionales.Name = "dgvDstoProvisionales"
         DataGridViewCellStyle138.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle138.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle138.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle138.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle138.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle138.Format = "N4"
         DataGridViewCellStyle138.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -5198,7 +5196,7 @@ Partial Class editlote
         Me.PConcepto.DataPropertyName = "Concepto"
         Me.PConcepto.HeaderText = "Concepto"
         Me.PConcepto.Name = "PConcepto"
-        Me.PConcepto.ReadOnly = true
+        Me.PConcepto.ReadOnly = True
         Me.PConcepto.Width = 70
         '
         'PfechaRegistro
@@ -5206,7 +5204,7 @@ Partial Class editlote
         Me.PfechaRegistro.DataPropertyName = "fechaRegistro"
         Me.PfechaRegistro.HeaderText = "Fecha Liq"
         Me.PfechaRegistro.Name = "PfechaRegistro"
-        Me.PfechaRegistro.ReadOnly = true
+        Me.PfechaRegistro.ReadOnly = True
         Me.PfechaRegistro.Width = 70
         '
         'PValorNeto
@@ -5218,7 +5216,7 @@ Partial Class editlote
         Me.PValorNeto.DefaultCellStyle = DataGridViewCellStyle129
         Me.PValorNeto.HeaderText = "Valor Neto"
         Me.PValorNeto.Name = "PValorNeto"
-        Me.PValorNeto.ReadOnly = true
+        Me.PValorNeto.ReadOnly = True
         Me.PValorNeto.Width = 80
         '
         'PValorIgv
@@ -5229,7 +5227,7 @@ Partial Class editlote
         Me.PValorIgv.DefaultCellStyle = DataGridViewCellStyle130
         Me.PValorIgv.HeaderText = "Valor Igv"
         Me.PValorIgv.Name = "PValorIgv"
-        Me.PValorIgv.ReadOnly = true
+        Me.PValorIgv.ReadOnly = True
         Me.PValorIgv.Width = 80
         '
         'PValorTotal
@@ -5240,7 +5238,7 @@ Partial Class editlote
         Me.PValorTotal.DefaultCellStyle = DataGridViewCellStyle131
         Me.PValorTotal.HeaderText = "Valor Total"
         Me.PValorTotal.Name = "PValorTotal"
-        Me.PValorTotal.ReadOnly = true
+        Me.PValorTotal.ReadOnly = True
         Me.PValorTotal.Width = 80
         '
         'PPorcentajePago
@@ -5250,7 +5248,7 @@ Partial Class editlote
         Me.PPorcentajePago.DefaultCellStyle = DataGridViewCellStyle132
         Me.PPorcentajePago.HeaderText = "% Pago"
         Me.PPorcentajePago.Name = "PPorcentajePago"
-        Me.PPorcentajePago.ReadOnly = true
+        Me.PPorcentajePago.ReadOnly = True
         Me.PPorcentajePago.Width = 50
         '
         'PMontoAPagar
@@ -5261,7 +5259,7 @@ Partial Class editlote
         Me.PMontoAPagar.DefaultCellStyle = DataGridViewCellStyle133
         Me.PMontoAPagar.HeaderText = "Monto a Pagar"
         Me.PMontoAPagar.Name = "PMontoAPagar"
-        Me.PMontoAPagar.ReadOnly = true
+        Me.PMontoAPagar.ReadOnly = True
         Me.PMontoAPagar.Width = 80
         '
         'PDsctoLiquidacion
@@ -5272,7 +5270,7 @@ Partial Class editlote
         Me.PDsctoLiquidacion.DefaultCellStyle = DataGridViewCellStyle134
         Me.PDsctoLiquidacion.HeaderText = "Dscto Liq."
         Me.PDsctoLiquidacion.Name = "PDsctoLiquidacion"
-        Me.PDsctoLiquidacion.ReadOnly = true
+        Me.PDsctoLiquidacion.ReadOnly = True
         Me.PDsctoLiquidacion.Width = 80
         '
         'PTotalDescuento
@@ -5284,7 +5282,7 @@ Partial Class editlote
         Me.PTotalDescuento.DefaultCellStyle = DataGridViewCellStyle135
         Me.PTotalDescuento.HeaderText = "Total Dscto"
         Me.PTotalDescuento.Name = "PTotalDescuento"
-        Me.PTotalDescuento.ReadOnly = true
+        Me.PTotalDescuento.ReadOnly = True
         Me.PTotalDescuento.Width = 80
         '
         'PMontoNetoAPagar
@@ -5296,7 +5294,7 @@ Partial Class editlote
         Me.PMontoNetoAPagar.DefaultCellStyle = DataGridViewCellStyle136
         Me.PMontoNetoAPagar.HeaderText = "Neto a Pagar"
         Me.PMontoNetoAPagar.Name = "PMontoNetoAPagar"
-        Me.PMontoNetoAPagar.ReadOnly = true
+        Me.PMontoNetoAPagar.ReadOnly = True
         Me.PMontoNetoAPagar.Width = 80
         '
         'Pfc
@@ -5304,7 +5302,7 @@ Partial Class editlote
         Me.Pfc.DataPropertyName = "fc"
         Me.Pfc.HeaderText = "Pfc"
         Me.Pfc.Name = "Pfc"
-        Me.Pfc.Visible = false
+        Me.Pfc.Visible = False
         '
         'tsAjuste
         '
@@ -5315,11 +5313,11 @@ Partial Class editlote
         Me.tsAjuste.Size = New System.Drawing.Size(1354, 31)
         Me.tsAjuste.TabIndex = 24
         Me.tsAjuste.Text = "ToolStrip7"
-        Me.tsAjuste.Visible = false
+        Me.tsAjuste.Visible = False
         '
         'tsbAjusteAgregar
         '
-        Me.tsbAjusteAgregar.Image = CType(resources.GetObject("tsbAjusteAgregar.Image"),System.Drawing.Image)
+        Me.tsbAjusteAgregar.Image = CType(resources.GetObject("tsbAjusteAgregar.Image"), System.Drawing.Image)
         Me.tsbAjusteAgregar.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbAjusteAgregar.Name = "tsbAjusteAgregar"
         Me.tsbAjusteAgregar.Size = New System.Drawing.Size(77, 28)
@@ -5338,7 +5336,7 @@ Partial Class editlote
         '
         'tsbAjusteEliminar
         '
-        Me.tsbAjusteEliminar.Image = CType(resources.GetObject("tsbAjusteEliminar.Image"),System.Drawing.Image)
+        Me.tsbAjusteEliminar.Image = CType(resources.GetObject("tsbAjusteEliminar.Image"), System.Drawing.Image)
         Me.tsbAjusteEliminar.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbAjusteEliminar.Name = "tsbAjusteEliminar"
         Me.tsbAjusteEliminar.Size = New System.Drawing.Size(78, 28)
@@ -5364,7 +5362,7 @@ Partial Class editlote
         Me.tsServicios.Size = New System.Drawing.Size(1354, 31)
         Me.tsServicios.TabIndex = 27
         Me.tsServicios.Text = "ToolStrip7"
-        Me.tsServicios.Visible = false
+        Me.tsServicios.Visible = False
         '
         'ToolStripSeparator3
         '
@@ -5373,7 +5371,7 @@ Partial Class editlote
         '
         'tsbServiciosAgregar
         '
-        Me.tsbServiciosAgregar.Image = CType(resources.GetObject("tsbServiciosAgregar.Image"),System.Drawing.Image)
+        Me.tsbServiciosAgregar.Image = CType(resources.GetObject("tsbServiciosAgregar.Image"), System.Drawing.Image)
         Me.tsbServiciosAgregar.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbServiciosAgregar.Name = "tsbServiciosAgregar"
         Me.tsbServiciosAgregar.Size = New System.Drawing.Size(77, 28)
@@ -5387,7 +5385,7 @@ Partial Class editlote
         '
         'tsbServiciosEliminar
         '
-        Me.tsbServiciosEliminar.Image = CType(resources.GetObject("tsbServiciosEliminar.Image"),System.Drawing.Image)
+        Me.tsbServiciosEliminar.Image = CType(resources.GetObject("tsbServiciosEliminar.Image"), System.Drawing.Image)
         Me.tsbServiciosEliminar.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbServiciosEliminar.Name = "tsbServiciosEliminar"
         Me.tsbServiciosEliminar.Size = New System.Drawing.Size(78, 28)
@@ -5395,13 +5393,13 @@ Partial Class editlote
         '
         'dgvServicios
         '
-        Me.dgvServicios.AllowUserToAddRows = false
-        Me.dgvServicios.AllowUserToDeleteRows = false
-        Me.dgvServicios.AllowUserToResizeColumns = false
-        Me.dgvServicios.AllowUserToResizeRows = false
+        Me.dgvServicios.AllowUserToAddRows = False
+        Me.dgvServicios.AllowUserToDeleteRows = False
+        Me.dgvServicios.AllowUserToResizeColumns = False
+        Me.dgvServicios.AllowUserToResizeRows = False
         DataGridViewCellStyle139.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle139.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle139.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle139.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle139.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle139.Format = "N4"
         DataGridViewCellStyle139.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -5412,7 +5410,7 @@ Partial Class editlote
         Me.dgvServicios.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.nro_servicio, Me.codigoServicio, Me.descriServicio, Me.importeServicio, Me.dgvCalculoServicio, Me.liquidacionServicioId, Me.indservicio})
         DataGridViewCellStyle141.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle141.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle141.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle141.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle141.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle141.Format = "N4"
         DataGridViewCellStyle141.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -5423,7 +5421,7 @@ Partial Class editlote
         Me.dgvServicios.Name = "dgvServicios"
         DataGridViewCellStyle142.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle142.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle142.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle142.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle142.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle142.Format = "N4"
         DataGridViewCellStyle142.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -5440,7 +5438,7 @@ Partial Class editlote
         Me.nro_servicio.DataPropertyName = "nro"
         Me.nro_servicio.HeaderText = "Nro"
         Me.nro_servicio.Name = "nro_servicio"
-        Me.nro_servicio.ReadOnly = true
+        Me.nro_servicio.ReadOnly = True
         Me.nro_servicio.Width = 30
         '
         'codigoServicio
@@ -5448,7 +5446,7 @@ Partial Class editlote
         Me.codigoServicio.DataPropertyName = "codigoServicio"
         Me.codigoServicio.HeaderText = "Codigo"
         Me.codigoServicio.Name = "codigoServicio"
-        Me.codigoServicio.ReadOnly = true
+        Me.codigoServicio.ReadOnly = True
         '
         'descriServicio
         '
@@ -5480,7 +5478,7 @@ Partial Class editlote
         Me.liquidacionServicioId.DataPropertyName = "liquidacionServicioId"
         Me.liquidacionServicioId.HeaderText = "liquidacionServicioId"
         Me.liquidacionServicioId.Name = "liquidacionServicioId"
-        Me.liquidacionServicioId.Visible = false
+        Me.liquidacionServicioId.Visible = False
         '
         'indservicio
         '
@@ -5520,12 +5518,12 @@ Partial Class editlote
         Me.CuGroupBox14.Name = "CuGroupBox14"
         Me.CuGroupBox14.Size = New System.Drawing.Size(423, 92)
         Me.CuGroupBox14.TabIndex = 22
-        Me.CuGroupBox14.TabStop = false
+        Me.CuGroupBox14.TabStop = False
         Me.CuGroupBox14.Text = "Información para Contabilidad"
         '
         'Label71
         '
-        Me.Label71.AutoSize = true
+        Me.Label71.AutoSize = True
         Me.Label71.Location = New System.Drawing.Point(14, 60)
         Me.Label71.Name = "Label71"
         Me.Label71.Size = New System.Drawing.Size(384, 13)
@@ -5534,13 +5532,13 @@ Partial Class editlote
         '
         'cbxPreliquidacionFija
         '
-        Me.cbxPreliquidacionFija.AutoSize = true
+        Me.cbxPreliquidacionFija.AutoSize = True
         Me.cbxPreliquidacionFija.Location = New System.Drawing.Point(17, 30)
         Me.cbxPreliquidacionFija.Name = "cbxPreliquidacionFija"
         Me.cbxPreliquidacionFija.Size = New System.Drawing.Size(207, 17)
         Me.cbxPreliquidacionFija.TabIndex = 0
         Me.cbxPreliquidacionFija.Text = "Lote sin liquidación (Preliquidación fija)"
-        Me.cbxPreliquidacionFija.UseVisualStyleBackColor = true
+        Me.cbxPreliquidacionFija.UseVisualStyleBackColor = True
         '
         'CuGroupBox12
         '
@@ -5554,7 +5552,7 @@ Partial Class editlote
         Me.CuGroupBox12.Name = "CuGroupBox12"
         Me.CuGroupBox12.Size = New System.Drawing.Size(214, 64)
         Me.CuGroupBox12.TabIndex = 21
-        Me.CuGroupBox12.TabStop = false
+        Me.CuGroupBox12.TabStop = False
         Me.CuGroupBox12.Text = "Costo Venta"
         '
         'dtpPeriodoComercial
@@ -5568,7 +5566,7 @@ Partial Class editlote
         '
         'Label65
         '
-        Me.Label65.AutoSize = true
+        Me.Label65.AutoSize = True
         Me.Label65.Location = New System.Drawing.Point(16, 46)
         Me.Label65.Name = "Label65"
         Me.Label65.Size = New System.Drawing.Size(97, 13)
@@ -5580,7 +5578,7 @@ Partial Class editlote
         Me.txtCostoVenta.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtCostoVenta.Location = New System.Drawing.Point(119, 15)
         Me.txtCostoVenta.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtCostoVenta.MandatoryField = false
+        Me.txtCostoVenta.MandatoryField = False
         Me.txtCostoVenta.MaxLength = 10
         Me.txtCostoVenta.Name = "txtCostoVenta"
         Me.txtCostoVenta.Size = New System.Drawing.Size(86, 20)
@@ -5591,19 +5589,19 @@ Partial Class editlote
         Me.txtCostoVenta.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtCostoVenta.VCM_CustomInputTypeString = Nothing
         Me.txtCostoVenta.VCM_CustomOmmitString = Nothing
-        Me.txtCostoVenta.VCM_EnterFocus = true
-        Me.txtCostoVenta.VCM_IsValidated = false
+        Me.txtCostoVenta.VCM_EnterFocus = True
+        Me.txtCostoVenta.VCM_IsValidated = False
         Me.txtCostoVenta.VCM_MensajeFoco = Nothing
-        Me.txtCostoVenta.VCM_MuestraMensajeFoco = false
+        Me.txtCostoVenta.VCM_MuestraMensajeFoco = False
         Me.txtCostoVenta.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtCostoVenta.VCM_RegularExpression = Nothing
         Me.txtCostoVenta.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtCostoVenta.VCM_ShowMessage = true
+        Me.txtCostoVenta.VCM_ShowMessage = True
         Me.txtCostoVenta.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'Label67
         '
-        Me.Label67.AutoSize = true
+        Me.Label67.AutoSize = True
         Me.Label67.Location = New System.Drawing.Point(16, 23)
         Me.Label67.Name = "Label67"
         Me.Label67.Size = New System.Drawing.Size(43, 13)
@@ -5619,17 +5617,17 @@ Partial Class editlote
         Me.gbxEstadoContable.Name = "gbxEstadoContable"
         Me.gbxEstadoContable.Size = New System.Drawing.Size(129, 101)
         Me.gbxEstadoContable.TabIndex = 20
-        Me.gbxEstadoContable.TabStop = false
+        Me.gbxEstadoContable.TabStop = False
         '
         'cbxLOTE_CERRADO
         '
-        Me.cbxLOTE_CERRADO.AutoSize = true
+        Me.cbxLOTE_CERRADO.AutoSize = True
         Me.cbxLOTE_CERRADO.Location = New System.Drawing.Point(45, 65)
         Me.cbxLOTE_CERRADO.Name = "cbxLOTE_CERRADO"
         Me.cbxLOTE_CERRADO.Size = New System.Drawing.Size(63, 17)
         Me.cbxLOTE_CERRADO.TabIndex = 33
         Me.cbxLOTE_CERRADO.Text = "Cerrado"
-        Me.cbxLOTE_CERRADO.UseVisualStyleBackColor = true
+        Me.cbxLOTE_CERRADO.UseVisualStyleBackColor = True
         '
         'GroupBox12
         '
@@ -5638,7 +5636,7 @@ Partial Class editlote
         Me.GroupBox12.Name = "GroupBox12"
         Me.GroupBox12.Size = New System.Drawing.Size(181, 52)
         Me.GroupBox12.TabIndex = 32
-        Me.GroupBox12.TabStop = false
+        Me.GroupBox12.TabStop = False
         Me.GroupBox12.Text = "Estado Contable Lote"
         '
         'tsContabilidad
@@ -5676,7 +5674,7 @@ Partial Class editlote
         '
         'ToolStripButton4
         '
-        Me.ToolStripButton4.Image = CType(resources.GetObject("ToolStripButton4.Image"),System.Drawing.Image)
+        Me.ToolStripButton4.Image = CType(resources.GetObject("ToolStripButton4.Image"), System.Drawing.Image)
         Me.ToolStripButton4.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.ToolStripButton4.Name = "ToolStripButton4"
         Me.ToolStripButton4.Size = New System.Drawing.Size(70, 28)
@@ -5703,7 +5701,7 @@ Partial Class editlote
         'ToolStripLabel3
         '
         Me.ToolStripLabel3.Name = "ToolStripLabel3"
-        Me.ToolStripLabel3.Size = New System.Drawing.Size(57, 15)
+        Me.ToolStripLabel3.Size = New System.Drawing.Size(58, 15)
         Me.ToolStripLabel3.Text = "FACTURA"
         '
         'ToolStripButton6
@@ -5730,7 +5728,7 @@ Partial Class editlote
         'ToolStripLabel4
         '
         Me.ToolStripLabel4.Name = "ToolStripLabel4"
-        Me.ToolStripLabel4.Size = New System.Drawing.Size(72, 15)
+        Me.ToolStripLabel4.Size = New System.Drawing.Size(73, 15)
         Me.ToolStripLabel4.Text = "ADELANTOS"
         '
         'ToolStripButton8
@@ -6527,7 +6525,7 @@ Partial Class editlote
         'tslFactura
         '
         Me.tslFactura.Name = "tslFactura"
-        Me.tslFactura.Size = New System.Drawing.Size(57, 28)
+        Me.tslFactura.Size = New System.Drawing.Size(58, 28)
         Me.tslFactura.Text = "FACTURA"
         '
         'tsbGenerarFactura
@@ -6553,14 +6551,14 @@ Partial Class editlote
         '
         'dgvLiquidacion
         '
-        Me.dgvLiquidacion.AllowSort = false
-        Me.dgvLiquidacion.Images.Add(CType(resources.GetObject("dgvLiquidacion.Images"),System.Drawing.Image))
+        Me.dgvLiquidacion.AllowSort = False
+        Me.dgvLiquidacion.Images.Add(CType(resources.GetObject("dgvLiquidacion.Images"), System.Drawing.Image))
         Me.dgvLiquidacion.Location = New System.Drawing.Point(6, 37)
         Me.dgvLiquidacion.Name = "dgvLiquidacion"
         Me.dgvLiquidacion.PreviewInfo.Location = New System.Drawing.Point(0, 0)
         Me.dgvLiquidacion.PreviewInfo.Size = New System.Drawing.Size(0, 0)
-        Me.dgvLiquidacion.PreviewInfo.ZoomFactor = 75R
-        Me.dgvLiquidacion.PrintInfo.PageSettings = CType(resources.GetObject("dgvLiquidacion.PrintInfo.PageSettings"),System.Drawing.Printing.PageSettings)
+        Me.dgvLiquidacion.PreviewInfo.ZoomFactor = 75.0R
+        Me.dgvLiquidacion.PrintInfo.PageSettings = CType(resources.GetObject("dgvLiquidacion.PrintInfo.PageSettings"), System.Drawing.Printing.PageSettings)
         Me.dgvLiquidacion.Size = New System.Drawing.Size(1334, 190)
         Me.dgvLiquidacion.TabIndex = 30
         Me.dgvLiquidacion.Text = "C1TrueDBGrid1"
@@ -6568,16 +6566,16 @@ Partial Class editlote
         '
         'dgvAdelantosFacturas
         '
-        Me.dgvAdelantosFacturas.AllowUserToAddRows = false
-        Me.dgvAdelantosFacturas.AllowUserToDeleteRows = false
-        Me.dgvAdelantosFacturas.AllowUserToResizeColumns = false
-        Me.dgvAdelantosFacturas.AllowUserToResizeRows = false
-        Me.dgvAdelantosFacturas.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvAdelantosFacturas.AllowUserToAddRows = False
+        Me.dgvAdelantosFacturas.AllowUserToDeleteRows = False
+        Me.dgvAdelantosFacturas.AllowUserToResizeColumns = False
+        Me.dgvAdelantosFacturas.AllowUserToResizeRows = False
+        Me.dgvAdelantosFacturas.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.dgvAdelantosFacturas.BackgroundColor = System.Drawing.Color.LemonChiffon
         DataGridViewCellStyle162.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle162.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle162.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle162.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle162.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle162.Format = "N4"
         DataGridViewCellStyle162.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6588,7 +6586,7 @@ Partial Class editlote
         Me.dgvAdelantosFacturas.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.AF_CodigoDscto, Me.AF_NFact, Me.AF_Fecha, Me.AF_Importe, Me.AF_liquidacionDsctoId, Me.AF_Nro})
         DataGridViewCellStyle164.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle164.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle164.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle164.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle164.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle164.Format = "N4"
         DataGridViewCellStyle164.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6599,7 +6597,7 @@ Partial Class editlote
         Me.dgvAdelantosFacturas.Name = "dgvAdelantosFacturas"
         DataGridViewCellStyle165.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle165.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle165.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle165.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle165.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle165.Format = "N4"
         DataGridViewCellStyle165.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6616,8 +6614,8 @@ Partial Class editlote
         Me.AF_CodigoDscto.DataPropertyName = "codigoDscto"
         Me.AF_CodigoDscto.HeaderText = "Codigo"
         Me.AF_CodigoDscto.Name = "AF_CodigoDscto"
-        Me.AF_CodigoDscto.ReadOnly = true
-        Me.AF_CodigoDscto.Visible = false
+        Me.AF_CodigoDscto.ReadOnly = True
+        Me.AF_CodigoDscto.Visible = False
         '
         'AF_NFact
         '
@@ -6648,18 +6646,18 @@ Partial Class editlote
         Me.AF_liquidacionDsctoId.DataPropertyName = "liquidacionDsctoId"
         Me.AF_liquidacionDsctoId.HeaderText = "liquidacionDsctoId"
         Me.AF_liquidacionDsctoId.Name = "AF_liquidacionDsctoId"
-        Me.AF_liquidacionDsctoId.Visible = false
+        Me.AF_liquidacionDsctoId.Visible = False
         '
         'AF_Nro
         '
         Me.AF_Nro.DataPropertyName = "Nro"
         Me.AF_Nro.HeaderText = "Nro"
         Me.AF_Nro.Name = "AF_Nro"
-        Me.AF_Nro.Visible = false
+        Me.AF_Nro.Visible = False
         '
         'Label37
         '
-        Me.Label37.AutoSize = true
+        Me.Label37.AutoSize = True
         Me.Label37.Location = New System.Drawing.Point(1123, 38)
         Me.Label37.Name = "Label37"
         Me.Label37.Size = New System.Drawing.Size(185, 13)
@@ -6678,17 +6676,17 @@ Partial Class editlote
         '
         'dgvComposicionM
         '
-        Me.dgvComposicionM.AllowUserToAddRows = false
-        Me.dgvComposicionM.AllowUserToDeleteRows = false
-        Me.dgvComposicionM.AllowUserToResizeColumns = false
-        Me.dgvComposicionM.AllowUserToResizeRows = false
-        Me.dgvComposicionM.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvComposicionM.AllowUserToAddRows = False
+        Me.dgvComposicionM.AllowUserToDeleteRows = False
+        Me.dgvComposicionM.AllowUserToResizeColumns = False
+        Me.dgvComposicionM.AllowUserToResizeRows = False
+        Me.dgvComposicionM.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.dgvComposicionM.BackgroundColor = System.Drawing.Color.LemonChiffon
         DataGridViewCellStyle166.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle166.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle166.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle166.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle166.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle166.Format = "N4"
         DataGridViewCellStyle166.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6698,7 +6696,7 @@ Partial Class editlote
         Me.dgvComposicionM.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         DataGridViewCellStyle167.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle167.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle167.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle167.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle167.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle167.Format = "N4"
         DataGridViewCellStyle167.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6707,10 +6705,10 @@ Partial Class editlote
         Me.dgvComposicionM.DefaultCellStyle = DataGridViewCellStyle167
         Me.dgvComposicionM.Location = New System.Drawing.Point(8, 3)
         Me.dgvComposicionM.Name = "dgvComposicionM"
-        Me.dgvComposicionM.ReadOnly = true
+        Me.dgvComposicionM.ReadOnly = True
         DataGridViewCellStyle168.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle168.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle168.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle168.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle168.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle168.Format = "N4"
         DataGridViewCellStyle168.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6735,29 +6733,29 @@ Partial Class editlote
         '
         'GroupBox5
         '
-        Me.GroupBox5.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.GroupBox5.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox5.Controls.Add(Me.dgvVinculadasLote)
         Me.GroupBox5.Location = New System.Drawing.Point(8, 134)
         Me.GroupBox5.Name = "GroupBox5"
         Me.GroupBox5.Size = New System.Drawing.Size(1338, 332)
         Me.GroupBox5.TabIndex = 34
-        Me.GroupBox5.TabStop = false
+        Me.GroupBox5.TabStop = False
         Me.GroupBox5.Text = "Lotes de Vinculadas"
         '
         'dgvVinculadasLote
         '
-        Me.dgvVinculadasLote.AllowUserToAddRows = false
-        Me.dgvVinculadasLote.AllowUserToDeleteRows = false
-        Me.dgvVinculadasLote.AllowUserToResizeRows = false
-        Me.dgvVinculadasLote.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvVinculadasLote.AllowUserToAddRows = False
+        Me.dgvVinculadasLote.AllowUserToDeleteRows = False
+        Me.dgvVinculadasLote.AllowUserToResizeRows = False
+        Me.dgvVinculadasLote.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.dgvVinculadasLote.BackgroundColor = System.Drawing.Color.LemonChiffon
         DataGridViewCellStyle169.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle169.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle169.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle169.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle169.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle169.Format = "N4"
         DataGridViewCellStyle169.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6767,7 +6765,7 @@ Partial Class editlote
         Me.dgvVinculadasLote.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         DataGridViewCellStyle170.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle170.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle170.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle170.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle170.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle170.Format = "N4"
         DataGridViewCellStyle170.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6776,10 +6774,10 @@ Partial Class editlote
         Me.dgvVinculadasLote.DefaultCellStyle = DataGridViewCellStyle170
         Me.dgvVinculadasLote.Location = New System.Drawing.Point(6, 19)
         Me.dgvVinculadasLote.Name = "dgvVinculadasLote"
-        Me.dgvVinculadasLote.ReadOnly = true
+        Me.dgvVinculadasLote.ReadOnly = True
         DataGridViewCellStyle171.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle171.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle171.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle171.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle171.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle171.Format = "N4"
         DataGridViewCellStyle171.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6793,29 +6791,29 @@ Partial Class editlote
         '
         'GroupBox4
         '
-        Me.GroupBox4.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.GroupBox4.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox4.Controls.Add(Me.dgvVinculadasContrato)
         Me.GroupBox4.Location = New System.Drawing.Point(8, 7)
         Me.GroupBox4.Name = "GroupBox4"
         Me.GroupBox4.Size = New System.Drawing.Size(1338, 126)
         Me.GroupBox4.TabIndex = 33
-        Me.GroupBox4.TabStop = false
+        Me.GroupBox4.TabStop = False
         Me.GroupBox4.Text = "Contrato de Vinculadas"
         '
         'dgvVinculadasContrato
         '
-        Me.dgvVinculadasContrato.AllowUserToAddRows = false
-        Me.dgvVinculadasContrato.AllowUserToDeleteRows = false
-        Me.dgvVinculadasContrato.AllowUserToResizeRows = false
-        Me.dgvVinculadasContrato.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvVinculadasContrato.AllowUserToAddRows = False
+        Me.dgvVinculadasContrato.AllowUserToDeleteRows = False
+        Me.dgvVinculadasContrato.AllowUserToResizeRows = False
+        Me.dgvVinculadasContrato.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.dgvVinculadasContrato.BackgroundColor = System.Drawing.Color.LemonChiffon
         DataGridViewCellStyle172.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle172.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle172.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle172.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle172.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle172.Format = "N4"
         DataGridViewCellStyle172.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6825,7 +6823,7 @@ Partial Class editlote
         Me.dgvVinculadasContrato.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         DataGridViewCellStyle173.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle173.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle173.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle173.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle173.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle173.Format = "N4"
         DataGridViewCellStyle173.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6834,10 +6832,10 @@ Partial Class editlote
         Me.dgvVinculadasContrato.DefaultCellStyle = DataGridViewCellStyle173
         Me.dgvVinculadasContrato.Location = New System.Drawing.Point(6, 19)
         Me.dgvVinculadasContrato.Name = "dgvVinculadasContrato"
-        Me.dgvVinculadasContrato.ReadOnly = true
+        Me.dgvVinculadasContrato.ReadOnly = True
         DataGridViewCellStyle174.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle174.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle174.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle174.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle174.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle174.Format = "N4"
         DataGridViewCellStyle174.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6861,29 +6859,29 @@ Partial Class editlote
         '
         'GroupBox6
         '
-        Me.GroupBox6.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.GroupBox6.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox6.Controls.Add(Me.dgvContratoLoteCosto)
         Me.GroupBox6.Location = New System.Drawing.Point(3, 14)
         Me.GroupBox6.Name = "GroupBox6"
         Me.GroupBox6.Size = New System.Drawing.Size(1338, 435)
         Me.GroupBox6.TabIndex = 34
-        Me.GroupBox6.TabStop = false
+        Me.GroupBox6.TabStop = False
         Me.GroupBox6.Text = "Costos"
         '
         'dgvContratoLoteCosto
         '
-        Me.dgvContratoLoteCosto.AllowUserToAddRows = false
-        Me.dgvContratoLoteCosto.AllowUserToDeleteRows = false
-        Me.dgvContratoLoteCosto.AllowUserToResizeRows = false
-        Me.dgvContratoLoteCosto.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvContratoLoteCosto.AllowUserToAddRows = False
+        Me.dgvContratoLoteCosto.AllowUserToDeleteRows = False
+        Me.dgvContratoLoteCosto.AllowUserToResizeRows = False
+        Me.dgvContratoLoteCosto.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.dgvContratoLoteCosto.BackgroundColor = System.Drawing.Color.LemonChiffon
         DataGridViewCellStyle175.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle175.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle175.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle175.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle175.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle175.Format = "N4"
         DataGridViewCellStyle175.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6894,7 +6892,7 @@ Partial Class editlote
         Me.dgvContratoLoteCosto.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Contar, Me.ContratoLote, Me.TipoMov, Me.RumaOrigen, Me.RumaActual, Me.RumaDestino, Me.CostoTMH, Me.CostoTMS, Me.CostoMerma, Me.CostoH2O, Me.CostoTMNS, Me.LeyCU, Me.LeyAu, Me.LeyAG, Me.LeyZn, Me.LeyPb, Me.ValorNeto})
         DataGridViewCellStyle176.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle176.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle176.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle176.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle176.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle176.Format = "N4"
         DataGridViewCellStyle176.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6903,10 +6901,10 @@ Partial Class editlote
         Me.dgvContratoLoteCosto.DefaultCellStyle = DataGridViewCellStyle176
         Me.dgvContratoLoteCosto.Location = New System.Drawing.Point(12, 21)
         Me.dgvContratoLoteCosto.Name = "dgvContratoLoteCosto"
-        Me.dgvContratoLoteCosto.ReadOnly = true
+        Me.dgvContratoLoteCosto.ReadOnly = True
         DataGridViewCellStyle177.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle177.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle177.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle177.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle177.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle177.Format = "N4"
         DataGridViewCellStyle177.SelectionBackColor = System.Drawing.SystemColors.Highlight
@@ -6923,113 +6921,113 @@ Partial Class editlote
         Me.Contar.DataPropertyName = "Contar"
         Me.Contar.HeaderText = "Contar"
         Me.Contar.Name = "Contar"
-        Me.Contar.ReadOnly = true
+        Me.Contar.ReadOnly = True
         '
         'ContratoLote
         '
         Me.ContratoLote.DataPropertyName = "ContratoLote"
         Me.ContratoLote.HeaderText = "Contrato Lote"
         Me.ContratoLote.Name = "ContratoLote"
-        Me.ContratoLote.ReadOnly = true
+        Me.ContratoLote.ReadOnly = True
         '
         'TipoMov
         '
         Me.TipoMov.DataPropertyName = "Tipo_Mov"
         Me.TipoMov.HeaderText = "Tipo Mov"
         Me.TipoMov.Name = "TipoMov"
-        Me.TipoMov.ReadOnly = true
+        Me.TipoMov.ReadOnly = True
         '
         'RumaOrigen
         '
         Me.RumaOrigen.DataPropertyName = "Lote_Origen"
         Me.RumaOrigen.HeaderText = "Ruma Origen"
         Me.RumaOrigen.Name = "RumaOrigen"
-        Me.RumaOrigen.ReadOnly = true
+        Me.RumaOrigen.ReadOnly = True
         '
         'RumaActual
         '
         Me.RumaActual.DataPropertyName = "Cod_Lote"
         Me.RumaActual.HeaderText = "Ruma Actual"
         Me.RumaActual.Name = "RumaActual"
-        Me.RumaActual.ReadOnly = true
+        Me.RumaActual.ReadOnly = True
         '
         'RumaDestino
         '
         Me.RumaDestino.DataPropertyName = "Lote_Destino"
         Me.RumaDestino.HeaderText = "Ruma Destino"
         Me.RumaDestino.Name = "RumaDestino"
-        Me.RumaDestino.ReadOnly = true
+        Me.RumaDestino.ReadOnly = True
         '
         'CostoTMH
         '
         Me.CostoTMH.DataPropertyName = "calculoTMH"
         Me.CostoTMH.HeaderText = "TMH"
         Me.CostoTMH.Name = "CostoTMH"
-        Me.CostoTMH.ReadOnly = true
+        Me.CostoTMH.ReadOnly = True
         '
         'CostoTMS
         '
         Me.CostoTMS.DataPropertyName = "calculoTMS"
         Me.CostoTMS.HeaderText = "TMS"
         Me.CostoTMS.Name = "CostoTMS"
-        Me.CostoTMS.ReadOnly = true
+        Me.CostoTMS.ReadOnly = True
         '
         'CostoMerma
         '
         Me.CostoMerma.DataPropertyName = "calculoMerma"
         Me.CostoMerma.HeaderText = "Merma"
         Me.CostoMerma.Name = "CostoMerma"
-        Me.CostoMerma.ReadOnly = true
+        Me.CostoMerma.ReadOnly = True
         '
         'CostoH2O
         '
         Me.CostoH2O.DataPropertyName = "calculoH2O"
         Me.CostoH2O.HeaderText = "H2O"
         Me.CostoH2O.Name = "CostoH2O"
-        Me.CostoH2O.ReadOnly = true
+        Me.CostoH2O.ReadOnly = True
         '
         'CostoTMNS
         '
         Me.CostoTMNS.DataPropertyName = "calculoTMSN"
         Me.CostoTMNS.HeaderText = "TMNS"
         Me.CostoTMNS.Name = "CostoTMNS"
-        Me.CostoTMNS.ReadOnly = true
+        Me.CostoTMNS.ReadOnly = True
         '
         'LeyCU
         '
         Me.LeyCU.HeaderText = "Ley Cu"
         Me.LeyCU.Name = "LeyCU"
-        Me.LeyCU.ReadOnly = true
+        Me.LeyCU.ReadOnly = True
         '
         'LeyAu
         '
         Me.LeyAu.HeaderText = "Ley AU"
         Me.LeyAu.Name = "LeyAu"
-        Me.LeyAu.ReadOnly = true
+        Me.LeyAu.ReadOnly = True
         '
         'LeyAG
         '
         Me.LeyAG.HeaderText = "Ley AG"
         Me.LeyAG.Name = "LeyAG"
-        Me.LeyAG.ReadOnly = true
+        Me.LeyAG.ReadOnly = True
         '
         'LeyZn
         '
         Me.LeyZn.HeaderText = "Ley ZN"
         Me.LeyZn.Name = "LeyZn"
-        Me.LeyZn.ReadOnly = true
+        Me.LeyZn.ReadOnly = True
         '
         'LeyPb
         '
         Me.LeyPb.HeaderText = "Ley PB"
         Me.LeyPb.Name = "LeyPb"
-        Me.LeyPb.ReadOnly = true
+        Me.LeyPb.ReadOnly = True
         '
         'ValorNeto
         '
         Me.ValorNeto.HeaderText = "Valor Neto"
         Me.ValorNeto.Name = "ValorNeto"
-        Me.ValorNeto.ReadOnly = true
+        Me.ValorNeto.ReadOnly = True
         '
         'tpProfitAndLoss
         '
@@ -7045,26 +7043,26 @@ Partial Class editlote
         '
         'GroupBox10
         '
-        Me.GroupBox10.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.GroupBox10.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox10.Controls.Add(Me.dgvProfitLossLote)
         Me.GroupBox10.Location = New System.Drawing.Point(417, 2)
         Me.GroupBox10.Name = "GroupBox10"
         Me.GroupBox10.Size = New System.Drawing.Size(929, 243)
         Me.GroupBox10.TabIndex = 2
-        Me.GroupBox10.TabStop = false
+        Me.GroupBox10.TabStop = False
         Me.GroupBox10.Text = "Términos Venta"
         '
         'dgvProfitLossLote
         '
-        Me.dgvProfitLossLote.AllowUserToAddRows = false
-        Me.dgvProfitLossLote.AllowUserToDeleteRows = false
-        Me.dgvProfitLossLote.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvProfitLossLote.AllowUserToAddRows = False
+        Me.dgvProfitLossLote.AllowUserToDeleteRows = False
+        Me.dgvProfitLossLote.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         DataGridViewCellStyle178.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle178.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle178.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle178.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle178.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle178.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle178.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -7074,7 +7072,7 @@ Partial Class editlote
         Me.dgvProfitLossLote.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.PL_Descripcion, Me.PL_TMS, Me.PL_CU_PAG, Me.PL_CU_DM, Me.PL_CU_RC, Me.PL_PB_PAG, Me.PL_PB_DM, Me.PL_PB_RC, Me.PL_ZN_PAG, Me.PL_ZN_DM, Me.PL_ZN_RC, Me.PL_AG_PAG, Me.PL_AG_DM, Me.PL_AG_RC, Me.PL_AU_PAG, Me.PL_AU_DM, Me.PL_AU_RC, Me.PL_TC})
         DataGridViewCellStyle196.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle196.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle196.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle196.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle196.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle196.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle196.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -7082,10 +7080,10 @@ Partial Class editlote
         Me.dgvProfitLossLote.DefaultCellStyle = DataGridViewCellStyle196
         Me.dgvProfitLossLote.Location = New System.Drawing.Point(7, 19)
         Me.dgvProfitLossLote.Name = "dgvProfitLossLote"
-        Me.dgvProfitLossLote.ReadOnly = true
+        Me.dgvProfitLossLote.ReadOnly = True
         DataGridViewCellStyle197.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle197.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle197.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle197.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle197.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle197.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle197.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -7100,7 +7098,7 @@ Partial Class editlote
         Me.PL_Descripcion.DataPropertyName = "Descripcion"
         Me.PL_Descripcion.HeaderText = "Descripcion"
         Me.PL_Descripcion.Name = "PL_Descripcion"
-        Me.PL_Descripcion.ReadOnly = true
+        Me.PL_Descripcion.ReadOnly = True
         '
         'PL_TMS
         '
@@ -7111,7 +7109,7 @@ Partial Class editlote
         Me.PL_TMS.DefaultCellStyle = DataGridViewCellStyle179
         Me.PL_TMS.HeaderText = "TMS"
         Me.PL_TMS.Name = "PL_TMS"
-        Me.PL_TMS.ReadOnly = true
+        Me.PL_TMS.ReadOnly = True
         Me.PL_TMS.Width = 65
         '
         'PL_CU_PAG
@@ -7123,7 +7121,7 @@ Partial Class editlote
         Me.PL_CU_PAG.DefaultCellStyle = DataGridViewCellStyle180
         Me.PL_CU_PAG.HeaderText = "Cu Pag"
         Me.PL_CU_PAG.Name = "PL_CU_PAG"
-        Me.PL_CU_PAG.ReadOnly = true
+        Me.PL_CU_PAG.ReadOnly = True
         Me.PL_CU_PAG.Width = 65
         '
         'PL_CU_DM
@@ -7135,7 +7133,7 @@ Partial Class editlote
         Me.PL_CU_DM.DefaultCellStyle = DataGridViewCellStyle181
         Me.PL_CU_DM.HeaderText = "Cu Dm"
         Me.PL_CU_DM.Name = "PL_CU_DM"
-        Me.PL_CU_DM.ReadOnly = true
+        Me.PL_CU_DM.ReadOnly = True
         Me.PL_CU_DM.Width = 65
         '
         'PL_CU_RC
@@ -7147,7 +7145,7 @@ Partial Class editlote
         Me.PL_CU_RC.DefaultCellStyle = DataGridViewCellStyle182
         Me.PL_CU_RC.HeaderText = "Cu Rc"
         Me.PL_CU_RC.Name = "PL_CU_RC"
-        Me.PL_CU_RC.ReadOnly = true
+        Me.PL_CU_RC.ReadOnly = True
         Me.PL_CU_RC.Width = 65
         '
         'PL_PB_PAG
@@ -7159,7 +7157,7 @@ Partial Class editlote
         Me.PL_PB_PAG.DefaultCellStyle = DataGridViewCellStyle183
         Me.PL_PB_PAG.HeaderText = "Pb Pag"
         Me.PL_PB_PAG.Name = "PL_PB_PAG"
-        Me.PL_PB_PAG.ReadOnly = true
+        Me.PL_PB_PAG.ReadOnly = True
         Me.PL_PB_PAG.Width = 65
         '
         'PL_PB_DM
@@ -7171,7 +7169,7 @@ Partial Class editlote
         Me.PL_PB_DM.DefaultCellStyle = DataGridViewCellStyle184
         Me.PL_PB_DM.HeaderText = "Pb Dm"
         Me.PL_PB_DM.Name = "PL_PB_DM"
-        Me.PL_PB_DM.ReadOnly = true
+        Me.PL_PB_DM.ReadOnly = True
         Me.PL_PB_DM.Width = 65
         '
         'PL_PB_RC
@@ -7183,7 +7181,7 @@ Partial Class editlote
         Me.PL_PB_RC.DefaultCellStyle = DataGridViewCellStyle185
         Me.PL_PB_RC.HeaderText = "Pb Rc"
         Me.PL_PB_RC.Name = "PL_PB_RC"
-        Me.PL_PB_RC.ReadOnly = true
+        Me.PL_PB_RC.ReadOnly = True
         Me.PL_PB_RC.Width = 65
         '
         'PL_ZN_PAG
@@ -7195,7 +7193,7 @@ Partial Class editlote
         Me.PL_ZN_PAG.DefaultCellStyle = DataGridViewCellStyle186
         Me.PL_ZN_PAG.HeaderText = "Zn Pag"
         Me.PL_ZN_PAG.Name = "PL_ZN_PAG"
-        Me.PL_ZN_PAG.ReadOnly = true
+        Me.PL_ZN_PAG.ReadOnly = True
         Me.PL_ZN_PAG.Width = 65
         '
         'PL_ZN_DM
@@ -7207,7 +7205,7 @@ Partial Class editlote
         Me.PL_ZN_DM.DefaultCellStyle = DataGridViewCellStyle187
         Me.PL_ZN_DM.HeaderText = "Zn Dm"
         Me.PL_ZN_DM.Name = "PL_ZN_DM"
-        Me.PL_ZN_DM.ReadOnly = true
+        Me.PL_ZN_DM.ReadOnly = True
         Me.PL_ZN_DM.Width = 65
         '
         'PL_ZN_RC
@@ -7219,7 +7217,7 @@ Partial Class editlote
         Me.PL_ZN_RC.DefaultCellStyle = DataGridViewCellStyle188
         Me.PL_ZN_RC.HeaderText = "Zn Rc"
         Me.PL_ZN_RC.Name = "PL_ZN_RC"
-        Me.PL_ZN_RC.ReadOnly = true
+        Me.PL_ZN_RC.ReadOnly = True
         Me.PL_ZN_RC.Width = 65
         '
         'PL_AG_PAG
@@ -7231,7 +7229,7 @@ Partial Class editlote
         Me.PL_AG_PAG.DefaultCellStyle = DataGridViewCellStyle189
         Me.PL_AG_PAG.HeaderText = "Ag Pag"
         Me.PL_AG_PAG.Name = "PL_AG_PAG"
-        Me.PL_AG_PAG.ReadOnly = true
+        Me.PL_AG_PAG.ReadOnly = True
         Me.PL_AG_PAG.Width = 65
         '
         'PL_AG_DM
@@ -7243,7 +7241,7 @@ Partial Class editlote
         Me.PL_AG_DM.DefaultCellStyle = DataGridViewCellStyle190
         Me.PL_AG_DM.HeaderText = "Ag Dm"
         Me.PL_AG_DM.Name = "PL_AG_DM"
-        Me.PL_AG_DM.ReadOnly = true
+        Me.PL_AG_DM.ReadOnly = True
         Me.PL_AG_DM.Width = 65
         '
         'PL_AG_RC
@@ -7255,7 +7253,7 @@ Partial Class editlote
         Me.PL_AG_RC.DefaultCellStyle = DataGridViewCellStyle191
         Me.PL_AG_RC.HeaderText = "Ag Rc"
         Me.PL_AG_RC.Name = "PL_AG_RC"
-        Me.PL_AG_RC.ReadOnly = true
+        Me.PL_AG_RC.ReadOnly = True
         Me.PL_AG_RC.Width = 65
         '
         'PL_AU_PAG
@@ -7267,7 +7265,7 @@ Partial Class editlote
         Me.PL_AU_PAG.DefaultCellStyle = DataGridViewCellStyle192
         Me.PL_AU_PAG.HeaderText = "Au Pag"
         Me.PL_AU_PAG.Name = "PL_AU_PAG"
-        Me.PL_AU_PAG.ReadOnly = true
+        Me.PL_AU_PAG.ReadOnly = True
         Me.PL_AU_PAG.Width = 65
         '
         'PL_AU_DM
@@ -7279,7 +7277,7 @@ Partial Class editlote
         Me.PL_AU_DM.DefaultCellStyle = DataGridViewCellStyle193
         Me.PL_AU_DM.HeaderText = "Au Dm"
         Me.PL_AU_DM.Name = "PL_AU_DM"
-        Me.PL_AU_DM.ReadOnly = true
+        Me.PL_AU_DM.ReadOnly = True
         Me.PL_AU_DM.Width = 65
         '
         'PL_AU_RC
@@ -7291,7 +7289,7 @@ Partial Class editlote
         Me.PL_AU_RC.DefaultCellStyle = DataGridViewCellStyle194
         Me.PL_AU_RC.HeaderText = "Au Rc"
         Me.PL_AU_RC.Name = "PL_AU_RC"
-        Me.PL_AU_RC.ReadOnly = true
+        Me.PL_AU_RC.ReadOnly = True
         Me.PL_AU_RC.Width = 65
         '
         'PL_TC
@@ -7303,7 +7301,7 @@ Partial Class editlote
         Me.PL_TC.DefaultCellStyle = DataGridViewCellStyle195
         Me.PL_TC.HeaderText = "TC"
         Me.PL_TC.Name = "PL_TC"
-        Me.PL_TC.ReadOnly = true
+        Me.PL_TC.ReadOnly = True
         Me.PL_TC.Width = 45
         '
         'GroupBox9
@@ -7327,12 +7325,12 @@ Partial Class editlote
         Me.GroupBox9.Name = "GroupBox9"
         Me.GroupBox9.Size = New System.Drawing.Size(211, 216)
         Me.GroupBox9.TabIndex = 1
-        Me.GroupBox9.TabStop = false
+        Me.GroupBox9.TabStop = False
         Me.GroupBox9.Text = "Servicios"
         '
         'Label68
         '
-        Me.Label68.AutoSize = true
+        Me.Label68.AutoSize = True
         Me.Label68.Location = New System.Drawing.Point(89, 170)
         Me.Label68.Name = "Label68"
         Me.Label68.Size = New System.Drawing.Size(115, 13)
@@ -7341,7 +7339,7 @@ Partial Class editlote
         '
         'Label66
         '
-        Me.Label66.AutoSize = true
+        Me.Label66.AutoSize = True
         Me.Label66.Location = New System.Drawing.Point(16, 190)
         Me.Label66.Name = "Label66"
         Me.Label66.Size = New System.Drawing.Size(31, 13)
@@ -7353,7 +7351,7 @@ Partial Class editlote
         Me.txtPL_total.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtPL_total.Location = New System.Drawing.Point(92, 190)
         Me.txtPL_total.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtPL_total.MandatoryField = false
+        Me.txtPL_total.MandatoryField = False
         Me.txtPL_total.Name = "txtPL_total"
         Me.txtPL_total.Size = New System.Drawing.Size(100, 20)
         Me.txtPL_total.TabIndex = 10
@@ -7363,14 +7361,14 @@ Partial Class editlote
         Me.txtPL_total.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtPL_total.VCM_CustomInputTypeString = Nothing
         Me.txtPL_total.VCM_CustomOmmitString = Nothing
-        Me.txtPL_total.VCM_EnterFocus = true
-        Me.txtPL_total.VCM_IsValidated = false
+        Me.txtPL_total.VCM_EnterFocus = True
+        Me.txtPL_total.VCM_IsValidated = False
         Me.txtPL_total.VCM_MensajeFoco = Nothing
-        Me.txtPL_total.VCM_MuestraMensajeFoco = false
+        Me.txtPL_total.VCM_MuestraMensajeFoco = False
         Me.txtPL_total.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtPL_total.VCM_RegularExpression = Nothing
         Me.txtPL_total.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtPL_total.VCM_ShowMessage = true
+        Me.txtPL_total.VCM_ShowMessage = True
         Me.txtPL_total.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.Normal
         '
         'txtPL_Otros
@@ -7378,7 +7376,7 @@ Partial Class editlote
         Me.txtPL_Otros.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtPL_Otros.Location = New System.Drawing.Point(92, 151)
         Me.txtPL_Otros.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtPL_Otros.MandatoryField = false
+        Me.txtPL_Otros.MandatoryField = False
         Me.txtPL_Otros.MaxLength = 10
         Me.txtPL_Otros.Name = "txtPL_Otros"
         Me.txtPL_Otros.Size = New System.Drawing.Size(100, 20)
@@ -7389,14 +7387,14 @@ Partial Class editlote
         Me.txtPL_Otros.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtPL_Otros.VCM_CustomInputTypeString = Nothing
         Me.txtPL_Otros.VCM_CustomOmmitString = Nothing
-        Me.txtPL_Otros.VCM_EnterFocus = true
-        Me.txtPL_Otros.VCM_IsValidated = false
+        Me.txtPL_Otros.VCM_EnterFocus = True
+        Me.txtPL_Otros.VCM_IsValidated = False
         Me.txtPL_Otros.VCM_MensajeFoco = Nothing
-        Me.txtPL_Otros.VCM_MuestraMensajeFoco = false
+        Me.txtPL_Otros.VCM_MuestraMensajeFoco = False
         Me.txtPL_Otros.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtPL_Otros.VCM_RegularExpression = Nothing
         Me.txtPL_Otros.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtPL_Otros.VCM_ShowMessage = true
+        Me.txtPL_Otros.VCM_ShowMessage = True
         Me.txtPL_Otros.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtPL_Supervision
@@ -7404,7 +7402,7 @@ Partial Class editlote
         Me.txtPL_Supervision.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtPL_Supervision.Location = New System.Drawing.Point(92, 73)
         Me.txtPL_Supervision.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtPL_Supervision.MandatoryField = false
+        Me.txtPL_Supervision.MandatoryField = False
         Me.txtPL_Supervision.MaxLength = 10
         Me.txtPL_Supervision.Name = "txtPL_Supervision"
         Me.txtPL_Supervision.Size = New System.Drawing.Size(100, 20)
@@ -7415,14 +7413,14 @@ Partial Class editlote
         Me.txtPL_Supervision.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtPL_Supervision.VCM_CustomInputTypeString = Nothing
         Me.txtPL_Supervision.VCM_CustomOmmitString = Nothing
-        Me.txtPL_Supervision.VCM_EnterFocus = true
-        Me.txtPL_Supervision.VCM_IsValidated = false
+        Me.txtPL_Supervision.VCM_EnterFocus = True
+        Me.txtPL_Supervision.VCM_IsValidated = False
         Me.txtPL_Supervision.VCM_MensajeFoco = Nothing
-        Me.txtPL_Supervision.VCM_MuestraMensajeFoco = false
+        Me.txtPL_Supervision.VCM_MuestraMensajeFoco = False
         Me.txtPL_Supervision.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtPL_Supervision.VCM_RegularExpression = Nothing
         Me.txtPL_Supervision.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtPL_Supervision.VCM_ShowMessage = true
+        Me.txtPL_Supervision.VCM_ShowMessage = True
         Me.txtPL_Supervision.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtPL_Seguridad
@@ -7430,7 +7428,7 @@ Partial Class editlote
         Me.txtPL_Seguridad.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtPL_Seguridad.Location = New System.Drawing.Point(92, 99)
         Me.txtPL_Seguridad.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtPL_Seguridad.MandatoryField = false
+        Me.txtPL_Seguridad.MandatoryField = False
         Me.txtPL_Seguridad.MaxLength = 10
         Me.txtPL_Seguridad.Name = "txtPL_Seguridad"
         Me.txtPL_Seguridad.Size = New System.Drawing.Size(100, 20)
@@ -7441,14 +7439,14 @@ Partial Class editlote
         Me.txtPL_Seguridad.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtPL_Seguridad.VCM_CustomInputTypeString = Nothing
         Me.txtPL_Seguridad.VCM_CustomOmmitString = Nothing
-        Me.txtPL_Seguridad.VCM_EnterFocus = true
-        Me.txtPL_Seguridad.VCM_IsValidated = false
+        Me.txtPL_Seguridad.VCM_EnterFocus = True
+        Me.txtPL_Seguridad.VCM_IsValidated = False
         Me.txtPL_Seguridad.VCM_MensajeFoco = Nothing
-        Me.txtPL_Seguridad.VCM_MuestraMensajeFoco = false
+        Me.txtPL_Seguridad.VCM_MuestraMensajeFoco = False
         Me.txtPL_Seguridad.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtPL_Seguridad.VCM_RegularExpression = Nothing
         Me.txtPL_Seguridad.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtPL_Seguridad.VCM_ShowMessage = true
+        Me.txtPL_Seguridad.VCM_ShowMessage = True
         Me.txtPL_Seguridad.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtPL_Ensayes
@@ -7456,7 +7454,7 @@ Partial Class editlote
         Me.txtPL_Ensayes.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtPL_Ensayes.Location = New System.Drawing.Point(92, 125)
         Me.txtPL_Ensayes.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtPL_Ensayes.MandatoryField = false
+        Me.txtPL_Ensayes.MandatoryField = False
         Me.txtPL_Ensayes.MaxLength = 10
         Me.txtPL_Ensayes.Name = "txtPL_Ensayes"
         Me.txtPL_Ensayes.Size = New System.Drawing.Size(100, 20)
@@ -7467,14 +7465,14 @@ Partial Class editlote
         Me.txtPL_Ensayes.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtPL_Ensayes.VCM_CustomInputTypeString = Nothing
         Me.txtPL_Ensayes.VCM_CustomOmmitString = Nothing
-        Me.txtPL_Ensayes.VCM_EnterFocus = true
-        Me.txtPL_Ensayes.VCM_IsValidated = false
+        Me.txtPL_Ensayes.VCM_EnterFocus = True
+        Me.txtPL_Ensayes.VCM_IsValidated = False
         Me.txtPL_Ensayes.VCM_MensajeFoco = Nothing
-        Me.txtPL_Ensayes.VCM_MuestraMensajeFoco = false
+        Me.txtPL_Ensayes.VCM_MuestraMensajeFoco = False
         Me.txtPL_Ensayes.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtPL_Ensayes.VCM_RegularExpression = Nothing
         Me.txtPL_Ensayes.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtPL_Ensayes.VCM_ShowMessage = true
+        Me.txtPL_Ensayes.VCM_ShowMessage = True
         Me.txtPL_Ensayes.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtPL_Estibas
@@ -7482,7 +7480,7 @@ Partial Class editlote
         Me.txtPL_Estibas.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtPL_Estibas.Location = New System.Drawing.Point(92, 47)
         Me.txtPL_Estibas.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtPL_Estibas.MandatoryField = false
+        Me.txtPL_Estibas.MandatoryField = False
         Me.txtPL_Estibas.MaxLength = 10
         Me.txtPL_Estibas.Name = "txtPL_Estibas"
         Me.txtPL_Estibas.Size = New System.Drawing.Size(100, 20)
@@ -7493,14 +7491,14 @@ Partial Class editlote
         Me.txtPL_Estibas.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtPL_Estibas.VCM_CustomInputTypeString = Nothing
         Me.txtPL_Estibas.VCM_CustomOmmitString = Nothing
-        Me.txtPL_Estibas.VCM_EnterFocus = true
-        Me.txtPL_Estibas.VCM_IsValidated = false
+        Me.txtPL_Estibas.VCM_EnterFocus = True
+        Me.txtPL_Estibas.VCM_IsValidated = False
         Me.txtPL_Estibas.VCM_MensajeFoco = Nothing
-        Me.txtPL_Estibas.VCM_MuestraMensajeFoco = false
+        Me.txtPL_Estibas.VCM_MuestraMensajeFoco = False
         Me.txtPL_Estibas.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtPL_Estibas.VCM_RegularExpression = Nothing
         Me.txtPL_Estibas.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtPL_Estibas.VCM_ShowMessage = true
+        Me.txtPL_Estibas.VCM_ShowMessage = True
         Me.txtPL_Estibas.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'txtPL_Flete
@@ -7508,7 +7506,7 @@ Partial Class editlote
         Me.txtPL_Flete.AutoFormat = CUTextbox.AUTOFORMATO_CONFIGURACION.None
         Me.txtPL_Flete.Location = New System.Drawing.Point(92, 21)
         Me.txtPL_Flete.MandatoryColor = System.Drawing.Color.Empty
-        Me.txtPL_Flete.MandatoryField = false
+        Me.txtPL_Flete.MandatoryField = False
         Me.txtPL_Flete.MaxLength = 10
         Me.txtPL_Flete.Name = "txtPL_Flete"
         Me.txtPL_Flete.Size = New System.Drawing.Size(100, 20)
@@ -7519,19 +7517,19 @@ Partial Class editlote
         Me.txtPL_Flete.VCM_ColorRecibirFoco = System.Drawing.Color.Empty
         Me.txtPL_Flete.VCM_CustomInputTypeString = Nothing
         Me.txtPL_Flete.VCM_CustomOmmitString = Nothing
-        Me.txtPL_Flete.VCM_EnterFocus = true
-        Me.txtPL_Flete.VCM_IsValidated = false
+        Me.txtPL_Flete.VCM_EnterFocus = True
+        Me.txtPL_Flete.VCM_IsValidated = False
         Me.txtPL_Flete.VCM_MensajeFoco = Nothing
-        Me.txtPL_Flete.VCM_MuestraMensajeFoco = false
+        Me.txtPL_Flete.VCM_MuestraMensajeFoco = False
         Me.txtPL_Flete.VCM_NumeroPrecision = CUTextbox.PRECISION_CONFIGURACION.CuatroDecimales
         Me.txtPL_Flete.VCM_RegularExpression = Nothing
         Me.txtPL_Flete.VCM_RegularExpressionErrorMessage = Nothing
-        Me.txtPL_Flete.VCM_ShowMessage = true
+        Me.txtPL_Flete.VCM_ShowMessage = True
         Me.txtPL_Flete.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         '
         'Label62
         '
-        Me.Label62.AutoSize = true
+        Me.Label62.AutoSize = True
         Me.Label62.Location = New System.Drawing.Point(16, 151)
         Me.Label62.Name = "Label62"
         Me.Label62.Size = New System.Drawing.Size(32, 13)
@@ -7540,7 +7538,7 @@ Partial Class editlote
         '
         'Label59
         '
-        Me.Label59.AutoSize = true
+        Me.Label59.AutoSize = True
         Me.Label59.Location = New System.Drawing.Point(16, 73)
         Me.Label59.Name = "Label59"
         Me.Label59.Size = New System.Drawing.Size(62, 13)
@@ -7549,7 +7547,7 @@ Partial Class editlote
         '
         'Label61
         '
-        Me.Label61.AutoSize = true
+        Me.Label61.AutoSize = True
         Me.Label61.Location = New System.Drawing.Point(16, 125)
         Me.Label61.Name = "Label61"
         Me.Label61.Size = New System.Drawing.Size(47, 13)
@@ -7558,7 +7556,7 @@ Partial Class editlote
         '
         'Label56
         '
-        Me.Label56.AutoSize = true
+        Me.Label56.AutoSize = True
         Me.Label56.Location = New System.Drawing.Point(16, 47)
         Me.Label56.Name = "Label56"
         Me.Label56.Size = New System.Drawing.Size(41, 13)
@@ -7567,7 +7565,7 @@ Partial Class editlote
         '
         'Label60
         '
-        Me.Label60.AutoSize = true
+        Me.Label60.AutoSize = True
         Me.Label60.Location = New System.Drawing.Point(16, 99)
         Me.Label60.Name = "Label60"
         Me.Label60.Size = New System.Drawing.Size(55, 13)
@@ -7576,7 +7574,7 @@ Partial Class editlote
         '
         'Label43
         '
-        Me.Label43.AutoSize = true
+        Me.Label43.AutoSize = True
         Me.Label43.Location = New System.Drawing.Point(16, 21)
         Me.Label43.Name = "Label43"
         Me.Label43.Size = New System.Drawing.Size(30, 13)
@@ -7585,26 +7583,26 @@ Partial Class editlote
         '
         'GroupBox8
         '
-        Me.GroupBox8.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left),System.Windows.Forms.AnchorStyles)
+        Me.GroupBox8.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.GroupBox8.Controls.Add(Me.dgvProfitLossLoteCalculado)
         Me.GroupBox8.Location = New System.Drawing.Point(8, 2)
         Me.GroupBox8.Name = "GroupBox8"
         Me.GroupBox8.Size = New System.Drawing.Size(403, 464)
         Me.GroupBox8.TabIndex = 0
-        Me.GroupBox8.TabStop = false
+        Me.GroupBox8.TabStop = False
         Me.GroupBox8.Text = "Análisis Comparativo"
         '
         'dgvProfitLossLoteCalculado
         '
-        Me.dgvProfitLossLoteCalculado.AllowUserToAddRows = false
-        Me.dgvProfitLossLoteCalculado.AllowUserToDeleteRows = false
-        Me.dgvProfitLossLoteCalculado.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom)  _
-            Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvProfitLossLoteCalculado.AllowUserToAddRows = False
+        Me.dgvProfitLossLoteCalculado.AllowUserToDeleteRows = False
+        Me.dgvProfitLossLoteCalculado.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         DataGridViewCellStyle198.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle198.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle198.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle198.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle198.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle198.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle198.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -7614,7 +7612,7 @@ Partial Class editlote
         Me.dgvProfitLossLoteCalculado.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.PL_CODIGO, Me.PL_TERMINOS, Me.PL_COMPRA, Me.PL_VENTA, Me.PL_DIFERENCIA})
         DataGridViewCellStyle202.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle202.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle202.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle202.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle202.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle202.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle202.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -7622,10 +7620,10 @@ Partial Class editlote
         Me.dgvProfitLossLoteCalculado.DefaultCellStyle = DataGridViewCellStyle202
         Me.dgvProfitLossLoteCalculado.Location = New System.Drawing.Point(6, 19)
         Me.dgvProfitLossLoteCalculado.Name = "dgvProfitLossLoteCalculado"
-        Me.dgvProfitLossLoteCalculado.ReadOnly = true
+        Me.dgvProfitLossLoteCalculado.ReadOnly = True
         DataGridViewCellStyle203.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle203.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle203.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle203.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle203.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle203.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle203.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -7640,15 +7638,15 @@ Partial Class editlote
         Me.PL_CODIGO.DataPropertyName = "CODIGO"
         Me.PL_CODIGO.HeaderText = "Codigo"
         Me.PL_CODIGO.Name = "PL_CODIGO"
-        Me.PL_CODIGO.ReadOnly = true
-        Me.PL_CODIGO.Visible = false
+        Me.PL_CODIGO.ReadOnly = True
+        Me.PL_CODIGO.Visible = False
         '
         'PL_TERMINOS
         '
         Me.PL_TERMINOS.DataPropertyName = "TERMINOS"
         Me.PL_TERMINOS.HeaderText = "Terminos"
         Me.PL_TERMINOS.Name = "PL_TERMINOS"
-        Me.PL_TERMINOS.ReadOnly = true
+        Me.PL_TERMINOS.ReadOnly = True
         '
         'PL_COMPRA
         '
@@ -7659,7 +7657,7 @@ Partial Class editlote
         Me.PL_COMPRA.DefaultCellStyle = DataGridViewCellStyle199
         Me.PL_COMPRA.HeaderText = "Compra"
         Me.PL_COMPRA.Name = "PL_COMPRA"
-        Me.PL_COMPRA.ReadOnly = true
+        Me.PL_COMPRA.ReadOnly = True
         Me.PL_COMPRA.Width = 90
         '
         'PL_VENTA
@@ -7671,7 +7669,7 @@ Partial Class editlote
         Me.PL_VENTA.DefaultCellStyle = DataGridViewCellStyle200
         Me.PL_VENTA.HeaderText = "Venta"
         Me.PL_VENTA.Name = "PL_VENTA"
-        Me.PL_VENTA.ReadOnly = true
+        Me.PL_VENTA.ReadOnly = True
         Me.PL_VENTA.Width = 90
         '
         'PL_DIFERENCIA
@@ -7683,7 +7681,7 @@ Partial Class editlote
         Me.PL_DIFERENCIA.DefaultCellStyle = DataGridViewCellStyle201
         Me.PL_DIFERENCIA.HeaderText = "Diferencia"
         Me.PL_DIFERENCIA.Name = "PL_DIFERENCIA"
-        Me.PL_DIFERENCIA.ReadOnly = true
+        Me.PL_DIFERENCIA.ReadOnly = True
         Me.PL_DIFERENCIA.Width = 80
         '
         'tpTraslado
@@ -7695,7 +7693,7 @@ Partial Class editlote
         Me.tpTraslado.Size = New System.Drawing.Size(1354, 500)
         Me.tpTraslado.TabIndex = 10
         Me.tpTraslado.Text = "Destinos Traslado"
-        Me.tpTraslado.UseVisualStyleBackColor = true
+        Me.tpTraslado.UseVisualStyleBackColor = True
         '
         'tsTraslado
         '
@@ -7709,7 +7707,7 @@ Partial Class editlote
         '
         'tsbAsociarTraslado
         '
-        Me.tsbAsociarTraslado.Image = CType(resources.GetObject("tsbAsociarTraslado.Image"),System.Drawing.Image)
+        Me.tsbAsociarTraslado.Image = CType(resources.GetObject("tsbAsociarTraslado.Image"), System.Drawing.Image)
         Me.tsbAsociarTraslado.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbAsociarTraslado.Name = "tsbAsociarTraslado"
         Me.tsbAsociarTraslado.Size = New System.Drawing.Size(74, 28)
@@ -7722,7 +7720,7 @@ Partial Class editlote
         '
         'tsbDesasociarTraslado
         '
-        Me.tsbDesasociarTraslado.Image = CType(resources.GetObject("tsbDesasociarTraslado.Image"),System.Drawing.Image)
+        Me.tsbDesasociarTraslado.Image = CType(resources.GetObject("tsbDesasociarTraslado.Image"), System.Drawing.Image)
         Me.tsbDesasociarTraslado.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbDesasociarTraslado.Name = "tsbDesasociarTraslado"
         Me.tsbDesasociarTraslado.Size = New System.Drawing.Size(91, 28)
@@ -7735,15 +7733,15 @@ Partial Class editlote
         '
         'dgvLiquidacionTMTraslado
         '
-        Me.dgvLiquidacionTMTraslado.AllowUserToAddRows = false
-        Me.dgvLiquidacionTMTraslado.AllowUserToDeleteRows = false
-        Me.dgvLiquidacionTMTraslado.AllowUserToResizeColumns = false
-        Me.dgvLiquidacionTMTraslado.AllowUserToResizeRows = false
-        Me.dgvLiquidacionTMTraslado.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left)  _
-            Or System.Windows.Forms.AnchorStyles.Right),System.Windows.Forms.AnchorStyles)
+        Me.dgvLiquidacionTMTraslado.AllowUserToAddRows = False
+        Me.dgvLiquidacionTMTraslado.AllowUserToDeleteRows = False
+        Me.dgvLiquidacionTMTraslado.AllowUserToResizeColumns = False
+        Me.dgvLiquidacionTMTraslado.AllowUserToResizeRows = False
+        Me.dgvLiquidacionTMTraslado.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         DataGridViewCellStyle204.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle204.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle204.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle204.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle204.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle204.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle204.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -7753,7 +7751,7 @@ Partial Class editlote
         Me.dgvLiquidacionTMTraslado.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn2, Me.DataGridViewTextBoxColumn3, Me.DataGridViewTextBoxColumn4, Me.DataGridViewTextBoxColumn9, Me.DataGridViewTextBoxColumn10, Me.DataGridViewTextBoxColumn11, Me.DataGridViewTextBoxColumn12, Me.DataGridViewTextBoxColumn13, Me.DataGridViewTextBoxColumn14, Me.DataGridViewTextBoxColumn15, Me.DataGridViewTextBoxColumn16, Me.DataGridViewTextBoxColumn17, Me.DataGridViewTextBoxColumn18, Me.DataGridViewTextBoxColumn19, Me.DataGridViewTextBoxColumn20, Me.DataGridViewTextBoxColumn21, Me.DataGridViewTextBoxColumn22, Me.DataGridViewTextBoxColumn23, Me.DataGridViewTextBoxColumn24, Me.DataGridViewTextBoxColumn25, Me.DataGridViewTextBoxColumn26, Me.DataGridViewTextBoxColumn27, Me.DataGridViewTextBoxColumn28, Me.DataGridViewTextBoxColumn29, Me.DataGridViewTextBoxColumn30, Me.DataGridViewTextBoxColumn31, Me.DataGridViewTextBoxColumn32, Me.DataGridViewTextBoxColumn33, Me.DataGridViewTextBoxColumn40, Me.DataGridViewTextBoxColumn41, Me.DataGridViewTextBoxColumn42, Me.DataGridViewTextBoxColumn43, Me.DataGridViewTextBoxColumn47, Me.DataGridViewTextBoxColumn49, Me.DataGridViewTextBoxColumn50, Me.DataGridViewTextBoxColumn51, Me.DataGridViewTextBoxColumn52, Me.DataGridViewTextBoxColumn53, Me.DataGridViewTextBoxColumn54, Me.DataGridViewTextBoxColumn55, Me.DataGridViewTextBoxColumn56, Me.DataGridViewTextBoxColumn62, Me.DataGridViewTextBoxColumn63, Me.DataGridViewTextBoxColumn64, Me.DataGridViewTextBoxColumn65, Me.DataGridViewTextBoxColumn66, Me.DataGridViewTextBoxColumn67, Me.DataGridViewTextBoxColumn68, Me.DataGridViewTextBoxColumn69, Me.DataGridViewTextBoxColumn70, Me.DataGridViewTextBoxColumn71, Me.DataGridViewTextBoxColumn72, Me.DataGridViewTextBoxColumn73, Me.DataGridViewTextBoxColumn74, Me.DataGridViewTextBoxColumn75})
         DataGridViewCellStyle229.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle229.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle229.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle229.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle229.ForeColor = System.Drawing.SystemColors.ControlText
         DataGridViewCellStyle229.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle229.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -7763,7 +7761,7 @@ Partial Class editlote
         Me.dgvLiquidacionTMTraslado.Name = "dgvLiquidacionTMTraslado"
         DataGridViewCellStyle230.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle230.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle230.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        DataGridViewCellStyle230.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle230.ForeColor = System.Drawing.SystemColors.WindowText
         DataGridViewCellStyle230.SelectionBackColor = System.Drawing.SystemColors.Highlight
         DataGridViewCellStyle230.SelectionForeColor = System.Drawing.SystemColors.HighlightText
@@ -7833,7 +7831,7 @@ Partial Class editlote
         Me.DataGridViewTextBoxColumn11.DefaultCellStyle = DataGridViewCellStyle208
         Me.DataGridViewTextBoxColumn11.HeaderText = "Merma"
         Me.DataGridViewTextBoxColumn11.Name = "DataGridViewTextBoxColumn11"
-        Me.DataGridViewTextBoxColumn11.Visible = false
+        Me.DataGridViewTextBoxColumn11.Visible = False
         '
         'DataGridViewTextBoxColumn12
         '
@@ -7845,7 +7843,7 @@ Partial Class editlote
         Me.DataGridViewTextBoxColumn12.DefaultCellStyle = DataGridViewCellStyle209
         Me.DataGridViewTextBoxColumn12.HeaderText = "TMSN"
         Me.DataGridViewTextBoxColumn12.Name = "DataGridViewTextBoxColumn12"
-        Me.DataGridViewTextBoxColumn12.Visible = false
+        Me.DataGridViewTextBoxColumn12.Visible = False
         '
         'DataGridViewTextBoxColumn13
         '
@@ -7897,7 +7895,7 @@ Partial Class editlote
         Me.DataGridViewTextBoxColumn18.DefaultCellStyle = DataGridViewCellStyle211
         Me.DataGridViewTextBoxColumn18.HeaderText = "PagZn"
         Me.DataGridViewTextBoxColumn18.Name = "DataGridViewTextBoxColumn18"
-        Me.DataGridViewTextBoxColumn18.Visible = false
+        Me.DataGridViewTextBoxColumn18.Visible = False
         '
         'DataGridViewTextBoxColumn19
         '
@@ -7908,7 +7906,7 @@ Partial Class editlote
         Me.DataGridViewTextBoxColumn19.DefaultCellStyle = DataGridViewCellStyle212
         Me.DataGridViewTextBoxColumn19.HeaderText = "PagPb"
         Me.DataGridViewTextBoxColumn19.Name = "DataGridViewTextBoxColumn19"
-        Me.DataGridViewTextBoxColumn19.Visible = false
+        Me.DataGridViewTextBoxColumn19.Visible = False
         '
         'DataGridViewTextBoxColumn20
         '

@@ -336,7 +336,7 @@ Partial Class aplicarAdelanto
         'GroupBox2
         '
         Me.GroupBox2.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.GroupBox2.Controls.Add(Me.fxgFinanciando_preliq)
         Me.GroupBox2.Location = New System.Drawing.Point(3, 3)
         Me.GroupBox2.Name = "GroupBox2"
@@ -350,10 +350,10 @@ Partial Class aplicarAdelanto
         Me.fxgFinanciando_preliq.AllowEditing = False
         Me.fxgFinanciando_preliq.AllowFiltering = True
         Me.fxgFinanciando_preliq.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.fxgFinanciando_preliq.ColumnInfo = resources.GetString("fxgFinanciando_preliq.ColumnInfo")
-        Me.fxgFinanciando_preliq.Location = New System.Drawing.Point(6, 19)
+        Me.fxgFinanciando_preliq.Location = New System.Drawing.Point(6, 17)
         Me.fxgFinanciando_preliq.Name = "fxgFinanciando_preliq"
         Me.fxgFinanciando_preliq.Rows.Count = 2
         Me.fxgFinanciando_preliq.Rows.DefaultSize = 19
@@ -367,7 +367,7 @@ Partial Class aplicarAdelanto
         Me.tsMenu.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.tsbFiltrar, Me.ToolStripSeparator10, Me.tsbAplicar, Me.tsbRechazar, Me.ToolStripSeparator14, Me.tsbSalir, Me.tsbLimpiar})
         Me.tsMenu.Location = New System.Drawing.Point(0, 0)
         Me.tsMenu.Name = "tsMenu"
-        Me.tsMenu.Size = New System.Drawing.Size(1358, 39)
+        Me.tsMenu.Size = New System.Drawing.Size(1363, 39)
         Me.tsMenu.TabIndex = 19
         Me.tsMenu.Text = "ToolStrip1"
         '
@@ -509,8 +509,8 @@ Partial Class aplicarAdelanto
         Me.C1FlexGrid1.AllowEditing = False
         Me.C1FlexGrid1.AllowFiltering = True
         Me.C1FlexGrid1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.C1FlexGrid1.AutoGenerateColumns = False
         Me.C1FlexGrid1.ColumnInfo = resources.GetString("C1FlexGrid1.ColumnInfo")
         Me.C1FlexGrid1.Location = New System.Drawing.Point(7, 19)
@@ -767,7 +767,7 @@ Partial Class aplicarAdelanto
         '
         'txtItem
         '
-        Me.txtItem.Location = New System.Drawing.Point(1033, 12)
+        Me.txtItem.Location = New System.Drawing.Point(1024, 10)
         Me.txtItem.Name = "txtItem"
         Me.txtItem.Size = New System.Drawing.Size(86, 20)
         Me.txtItem.TabIndex = 0
@@ -776,7 +776,7 @@ Partial Class aplicarAdelanto
         'GroupBox4
         '
         Me.GroupBox4.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.GroupBox4.Controls.Add(Me.fgxDescuento)
         Me.GroupBox4.Location = New System.Drawing.Point(592, 352)
         Me.GroupBox4.Name = "GroupBox4"
@@ -789,8 +789,8 @@ Partial Class aplicarAdelanto
         '
         Me.fgxDescuento.AllowFiltering = True
         Me.fgxDescuento.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.fgxDescuento.AutoGenerateColumns = False
         Me.fgxDescuento.ColumnInfo = resources.GetString("fgxDescuento.ColumnInfo")
         Me.fgxDescuento.Location = New System.Drawing.Point(7, 18)
@@ -840,7 +840,7 @@ Partial Class aplicarAdelanto
         'txtObservacionAnterior
         '
         Me.txtObservacionAnterior.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.txtObservacionAnterior.Location = New System.Drawing.Point(152, 17)
         Me.txtObservacionAnterior.Multiline = True
         Me.txtObservacionAnterior.Name = "txtObservacionAnterior"
@@ -852,8 +852,8 @@ Partial Class aplicarAdelanto
         'txtObservaciones
         '
         Me.txtObservaciones.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtObservaciones.Location = New System.Drawing.Point(9, 19)
         Me.txtObservaciones.MaxLength = 200
         Me.txtObservaciones.Multiline = True
@@ -914,8 +914,8 @@ Partial Class aplicarAdelanto
         '
         Me.dgvLiquidacionAdjunto.AllowUserToAddRows = False
         Me.dgvLiquidacionAdjunto.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.dgvLiquidacionAdjunto.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgvLiquidacionAdjunto.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.orden, Me.liquidacionEstadoId, Me.liquidacionEstadoDetalleId, Me.liquidacionAdjuntoId, Me.tipoAdjuntarDoc, Me.archivo, Me.ruta, Me.fc, Me.uc, Me.uc_nombre, Me.estadoId, Me.estadoDescripcion})
         Me.dgvLiquidacionAdjunto.Location = New System.Drawing.Point(7, 54)
@@ -1066,7 +1066,7 @@ Partial Class aplicarAdelanto
         '
         'txtliquidacionEstadoId
         '
-        Me.txtliquidacionEstadoId.Location = New System.Drawing.Point(406, 21)
+        Me.txtliquidacionEstadoId.Location = New System.Drawing.Point(405, 21)
         Me.txtliquidacionEstadoId.Name = "txtliquidacionEstadoId"
         Me.txtliquidacionEstadoId.Size = New System.Drawing.Size(100, 20)
         Me.txtliquidacionEstadoId.TabIndex = 2
@@ -2096,7 +2096,7 @@ Partial Class aplicarAdelanto
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.LemonChiffon
-        Me.ClientSize = New System.Drawing.Size(1358, 612)
+        Me.ClientSize = New System.Drawing.Size(1363, 612)
         Me.Controls.Add(Me.txtItem)
         Me.Controls.Add(Me.txtCantidadPagados)
         Me.Controls.Add(Me.lblReg)

@@ -361,6 +361,8 @@ Public Class aplicarAdelanto
                 Exit Sub
             End If
 
+            If Not ValidarContrato("LIQ") Then Exit Sub
+
 
             'VALIDACION COMERCIAL
             For i = 1 To fgxDescuento.Rows.Count - 1
@@ -827,6 +829,46 @@ Public Class aplicarAdelanto
             oMensajeError.ShowDialog()
         End Try
     End Sub
+
+    Private Function ValidarContrato(Optional ByVal sTipoValidacion As String = "")
+
+        Dim strmensaje As String = ""
+        Try
+
+            '=============================================================================================================================
+            Dim oBC_TablaDetRO As New clsBC_TablaDetRO
+            '=============================================================================================================================
+
+            'VIGENCIA CONTRATO
+            Dim oBC_ContratoLoteRO As New clsBC_ContratoLoteRO
+            oBC_ContratoLoteRO.oBEContratoLote = New clsBE_ContratoLote
+            oBC_ContratoLoteRO.oBEContratoLote.codigoMovimiento = txtLoteVCM.Text.TrimEnd.Substring(1, 1)
+            oBC_ContratoLoteRO.oBEContratoLote.contrato = txtLoteVCM.Text.TrimEnd
+            oBC_ContratoLoteRO.oBEContratoLote.codigoTabla = "CON"
+            oBC_ContratoLoteRO.oBEContratoLote.lote = ""
+            oBC_ContratoLoteRO.VerificarNumeroLote()
+
+            If oBC_ContratoLoteRO.oBEContratoLote.VigenciaFin < Date.Now Then
+                MsgBox("El contrato esta vencido, debe regularizar la fecha de vigencia", MsgBoxStyle.Exclamation, "Valorizador de Minerales")
+            End If
+
+
+            If oBC_ContratoLoteRO.oBEContratoLote.estado_con <> "1" Then
+                'MsgBox(oBC_ContratoLoteRO.oBEContratoLote.mensaje_con, MsgBoxStyle.Exclamation, "Valorizador de Minerales")
+                strmensaje = strmensaje & oBC_ContratoLoteRO.oBEContratoLote.mensaje_con
+            End If
+
+        Catch ex As Exception
+            oMensajeError.txtMensaje.Text = ex.ToString()
+            oMensajeError.ShowDialog()
+        End Try
+
+        If strmensaje.Length > 0 Then
+            MsgBox(strmensaje, MsgBoxStyle.Critical, "Valorizador de Minerales")
+            Return False
+        End If
+        Return True
+    End Function
 
 
     Private Function vaLidaCampos() As String
@@ -1434,6 +1476,7 @@ Public Class aplicarAdelanto
 
         Dim oBC_LiquidacionRO As New clsBC_LiquidacionRO
         Dim nCantidad As Integer = oBC_LiquidacionRO.ObtenerCantidadLiquidaciones(pstrContratoLoteId)
+        Dim ntickets As Integer, nguias As Integer, nguiast As Integer, nnota As Integer, nEnsaye As Integer
 
 
         Dim sMensaje As String = ""
@@ -1459,6 +1502,37 @@ Public Class aplicarAdelanto
 
                 End If
             Next
+
+            ntickets = oBC_LiquidacionRO.ObtenerCantidadAdjuntos(pstrContratoLoteId, pstrLiquidacionId, "0000000003")
+            nguias = oBC_LiquidacionRO.ObtenerCantidadAdjuntos(pstrContratoLoteId, pstrLiquidacionId, "0000000004")
+            nguiast = oBC_LiquidacionRO.ObtenerCantidadAdjuntos(pstrContratoLoteId, pstrLiquidacionId, "0000000037")
+            nnota = oBC_LiquidacionRO.ObtenerCantidadAdjuntos(pstrContratoLoteId, pstrLiquidacionId, "0000000009")
+            nEnsaye = oBC_LiquidacionRO.ObtenerCantidadAdjuntos(pstrContratoLoteId, pstrLiquidacionId, "0000000010")
+
+            If ntickets = 0 Then
+                bDocumentoAdjunto = False
+                sMensaje += "* " & "Debe completar la cantidad de Tickets" & Chr(10)
+            End If
+        
+            If nguias = 0 Then
+                bDocumentoAdjunto = False
+                sMensaje += "* " & "Debe completar la cantidad de Guias" & Chr(10)
+            End If
+
+            If nguiast = 0 Then
+                bDocumentoAdjunto = False
+                sMensaje += "* " & "Debe completar la cantidad de Guias Transporte" & Chr(10)
+            End If
+            If nnota = 0 Then
+                bDocumentoAdjunto = False
+                sMensaje += "* " & "Debe adjuntar Nota de Romaneo" & Chr(10)
+            End If
+            If nEnsaye = 0 Then
+                bDocumentoAdjunto = False
+                sMensaje += "* " & "Debe adjuntar Reporte Ensaye" & Chr(10)
+            End If
+
+
         Else
 
             ''For i = 0 To dgvLiquidacionAdjunto.RowCount - 1
@@ -1472,7 +1546,7 @@ Public Class aplicarAdelanto
         End If
 
         Return sMensaje
-      
+
     End Function
 
 

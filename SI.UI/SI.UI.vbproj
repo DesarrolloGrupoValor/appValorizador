@@ -617,15 +617,21 @@
     <Compile Include="RibbonForm1.Designer.vb">
       <DependentUpon>RibbonForm1.vb</DependentUpon>
     </Compile>
-    <Compile Include="RibbonForm1.vb" />
+    <Compile Include="RibbonForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="RibbonForm2.Designer.vb">
       <DependentUpon>RibbonForm2.vb</DependentUpon>
     </Compile>
-    <Compile Include="RibbonForm2.vb" />
+    <Compile Include="RibbonForm2.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="RibbonForm3.Designer.vb">
       <DependentUpon>RibbonForm3.vb</DependentUpon>
     </Compile>
-    <Compile Include="RibbonForm3.vb" />
+    <Compile Include="RibbonForm3.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Transaction1.vb" />
     <Compile Include="Transaction2.vb" />
     <Compile Include="usuarios.Designer.vb">
