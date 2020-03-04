@@ -14,14 +14,6 @@ C:\Users\elam\Desktop\fuentes\vcm\SI.BE\obj\Release\SI.BE.vbproj.GenerateResourc
 C:\Users\elam\Desktop\fuentes\vcm\SI.BE\obj\Release\SI.BE.dll
 C:\Users\elam\Desktop\fuentes\vcm\SI.BE\obj\Release\SI.BE.xml
 C:\Users\elam\Desktop\fuentes\vcm\SI.BE\obj\Release\SI.BE.pdb
-D:\GITHUB\appValorizador\SI.BE\bin\Release\SI.BE.dll
-D:\GITHUB\appValorizador\SI.BE\bin\Release\SI.BE.pdb
-D:\GITHUB\appValorizador\SI.BE\bin\Release\SI.BE.xml
-D:\GITHUB\appValorizador\SI.BE\obj\Release\Resources.resources
-D:\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.vbproj.GenerateResource.Cache
-D:\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.dll
-D:\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.xml
-D:\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.pdb
 E:\SISTEMAS\GITHUB\appValorizador\SI.BE\bin\Release\SI.BE.dll
 E:\SISTEMAS\GITHUB\appValorizador\SI.BE\bin\Release\SI.BE.pdb
 E:\SISTEMAS\GITHUB\appValorizador\SI.BE\bin\Release\SI.BE.xml
@@ -30,3 +22,11 @@ E:\SISTEMAS\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.vbproj.GenerateResourc
 E:\SISTEMAS\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.dll
 E:\SISTEMAS\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.xml
 E:\SISTEMAS\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.pdb
+D:\GITHUB\appValorizador\SI.BE\bin\Release\SI.BE.dll
+D:\GITHUB\appValorizador\SI.BE\bin\Release\SI.BE.pdb
+D:\GITHUB\appValorizador\SI.BE\bin\Release\SI.BE.xml
+D:\GITHUB\appValorizador\SI.BE\obj\Release\Resources.resources
+D:\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.vbproj.GenerateResource.Cache
+D:\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.dll
+D:\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.xml
+D:\GITHUB\appValorizador\SI.BE\obj\Release\SI.BE.pdb

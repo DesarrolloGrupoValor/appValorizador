@@ -863,7 +863,8 @@ Public Class frmFijaciones
             ocAplicada = RTrim(LTrim((dgvFJ_APLICACION2.CurrentRow.Cells("OC").Value.ToString())))
             ocId = RTrim(LTrim((dgvFJ_APLICACION2.CurrentRow.Cells("id").Value)))
 
-            If ocAplicada = vbEmpty Then
+            ''If ocAplicada = vbEmpty Then
+            If (ocAplicada Is Nothing) Then
                 ocAplicada = ""
             End If
 
