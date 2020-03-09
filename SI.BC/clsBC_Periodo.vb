@@ -89,6 +89,15 @@ Namespace SI.BC
                 Return False
             End Try
         End Function
+
+        Public Function ValidarRumasFicticias(ByVal EmpresaID As String, ByVal periodo As String) As Boolean
+            Try
+                Return oDBPeriodoTX.ValidarRumasFicticias(EmpresaID, periodo)
+            Catch ex As Exception
+                Throw ex
+                Return False
+            End Try
+        End Function
         '@01    AFIN
 
 

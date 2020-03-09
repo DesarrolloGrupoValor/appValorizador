@@ -26,11 +26,8 @@ Partial Class frmRumasPendientes
         Me.ToolStripButton2 = New System.Windows.Forms.ToolStripButton()
         Me.Label15 = New System.Windows.Forms.Label()
         Me.Label14 = New System.Windows.Forms.Label()
-        Me.tsbConsulta = New System.Windows.Forms.ToolStripButton()
         Me.ToolStripSeparator1 = New System.Windows.Forms.ToolStripSeparator()
-        Me.tsbSalir = New System.Windows.Forms.ToolStripButton()
         Me.tsMenu = New System.Windows.Forms.ToolStrip()
-        Me.tsbExportarExcel = New System.Windows.Forms.ToolStripButton()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.txtCantidad = New System.Windows.Forms.TextBox()
         Me.gpoContratos = New CUGroupBox()
@@ -38,6 +35,9 @@ Partial Class frmRumasPendientes
         Me.txtcorrelativoliquidacion = New CUTextbox()
         Me.txtCorrelativo = New CUTextbox()
         Me.sfDialog = New System.Windows.Forms.SaveFileDialog()
+        Me.tsbConsulta = New System.Windows.Forms.ToolStripButton()
+        Me.tsbExportarExcel = New System.Windows.Forms.ToolStripButton()
+        Me.tsbSalir = New System.Windows.Forms.ToolStripButton()
         Me.tsMenu.SuspendLayout()
         Me.gpoContratos.SuspendLayout()
         CType(Me.fxgrdRumasPendientes, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -68,26 +68,10 @@ Partial Class frmRumasPendientes
         Me.Label14.Text = "Lote"
         Me.Label14.Visible = False
         '
-        'tsbConsulta
-        '
-        Me.tsbConsulta.Image = Global.My.Resources.Resources.consultar
-        Me.tsbConsulta.ImageTransparentColor = System.Drawing.Color.Magenta
-        Me.tsbConsulta.Name = "tsbConsulta"
-        Me.tsbConsulta.Size = New System.Drawing.Size(94, 36)
-        Me.tsbConsulta.Text = "Consultar"
-        '
         'ToolStripSeparator1
         '
         Me.ToolStripSeparator1.Name = "ToolStripSeparator1"
         Me.ToolStripSeparator1.Size = New System.Drawing.Size(6, 39)
-        '
-        'tsbSalir
-        '
-        Me.tsbSalir.Image = CType(resources.GetObject("tsbSalir.Image"), System.Drawing.Image)
-        Me.tsbSalir.ImageTransparentColor = System.Drawing.Color.Magenta
-        Me.tsbSalir.Name = "tsbSalir"
-        Me.tsbSalir.Size = New System.Drawing.Size(65, 36)
-        Me.tsbSalir.Text = "Salir"
         '
         'tsMenu
         '
@@ -98,14 +82,6 @@ Partial Class frmRumasPendientes
         Me.tsMenu.Size = New System.Drawing.Size(1098, 39)
         Me.tsMenu.TabIndex = 18
         Me.tsMenu.Text = "ToolStrip1"
-        '
-        'tsbExportarExcel
-        '
-        Me.tsbExportarExcel.Image = CType(resources.GetObject("tsbExportarExcel.Image"), System.Drawing.Image)
-        Me.tsbExportarExcel.ImageTransparentColor = System.Drawing.Color.Magenta
-        Me.tsbExportarExcel.Name = "tsbExportarExcel"
-        Me.tsbExportarExcel.Size = New System.Drawing.Size(124, 36)
-        Me.tsbExportarExcel.Text = "Exportar a Excel"
         '
         'Label1
         '
@@ -118,6 +94,7 @@ Partial Class frmRumasPendientes
         '
         'txtCantidad
         '
+        Me.txtCantidad.BackColor = System.Drawing.SystemColors.Control
         Me.txtCantidad.Location = New System.Drawing.Point(140, 48)
         Me.txtCantidad.Name = "txtCantidad"
         Me.txtCantidad.ReadOnly = True
@@ -128,8 +105,8 @@ Partial Class frmRumasPendientes
         'gpoContratos
         '
         Me.gpoContratos.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.gpoContratos.BackColor = System.Drawing.Color.Transparent
         Me.gpoContratos.BorderColor = System.Drawing.Color.Black
         Me.gpoContratos.Controls.Add(Me.fxgrdRumasPendientes)
@@ -145,8 +122,8 @@ Partial Class frmRumasPendientes
         Me.fxgrdRumasPendientes.AllowEditing = False
         Me.fxgrdRumasPendientes.AllowFiltering = True
         Me.fxgrdRumasPendientes.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.fxgrdRumasPendientes.ColumnInfo = resources.GetString("fxgrdRumasPendientes.ColumnInfo")
         Me.fxgrdRumasPendientes.Location = New System.Drawing.Point(6, 19)
         Me.fxgrdRumasPendientes.Name = "fxgrdRumasPendientes"
@@ -206,6 +183,30 @@ Partial Class frmRumasPendientes
         Me.txtCorrelativo.VCM_ShowMessage = True
         Me.txtCorrelativo.VCM_TipoIngreso = CUTextbox.TIPO_CONFIGURACION.NumeroDecimal
         Me.txtCorrelativo.Visible = False
+        '
+        'tsbConsulta
+        '
+        Me.tsbConsulta.Image = Global.My.Resources.Resources.consultar
+        Me.tsbConsulta.ImageTransparentColor = System.Drawing.Color.Magenta
+        Me.tsbConsulta.Name = "tsbConsulta"
+        Me.tsbConsulta.Size = New System.Drawing.Size(94, 36)
+        Me.tsbConsulta.Text = "Consultar"
+        '
+        'tsbExportarExcel
+        '
+        Me.tsbExportarExcel.Image = CType(resources.GetObject("tsbExportarExcel.Image"), System.Drawing.Image)
+        Me.tsbExportarExcel.ImageTransparentColor = System.Drawing.Color.Magenta
+        Me.tsbExportarExcel.Name = "tsbExportarExcel"
+        Me.tsbExportarExcel.Size = New System.Drawing.Size(124, 36)
+        Me.tsbExportarExcel.Text = "Exportar a Excel"
+        '
+        'tsbSalir
+        '
+        Me.tsbSalir.Image = CType(resources.GetObject("tsbSalir.Image"), System.Drawing.Image)
+        Me.tsbSalir.ImageTransparentColor = System.Drawing.Color.Magenta
+        Me.tsbSalir.Name = "tsbSalir"
+        Me.tsbSalir.Size = New System.Drawing.Size(65, 36)
+        Me.tsbSalir.Text = "Salir"
         '
         'frmRumasPendientes
         '

@@ -151,13 +151,68 @@ Namespace SI.DB
                 cmd.CommandTimeout = 3000
 
                 da.SelectCommand = cmd
+                da.Fill(DS)
 
+                If Not DS Is Nothing Then
+                    If DS.Tables.Count > 0 Then
+                        ' Posee rumas pendientes de lotizar
+                        If DS.Tables(0).Rows.Count > 0 Then
+                            validacion = True
+                        End If
+                    End If
+                End If
 
             Catch ex As Exception
                 Throw ex
             End Try
             Return validacion
         End Function
+
+        Public Function ValidarRumasFicticias(ByVal EmpresaID As String, ByVal periodo As String) As Boolean
+            Dim validacion As Boolean = False
+            Dim DS As New DataSet
+            Dim prmParameter(1) As SqlParameter
+            prmParameter(0) = New SqlParameter("@empresa", SqlDbType.VarChar, 20)
+            prmParameter(0).Value = EmpresaID
+            prmParameter(0).Direction = ParameterDirection.Input
+            prmParameter(1) = New SqlParameter("@periodo", SqlDbType.Char, 6)
+            prmParameter(1).Value = periodo
+            prmParameter(1).Direction = ParameterDirection.Input
+            Try
+
+
+                Dim cnx As New SqlConnection(CadenaConexion)
+                Dim cmd As New SqlCommand()
+                Dim da As New SqlDataAdapter()
+
+                cmd.Connection = cnx
+                cmd.CommandText = "sp_RumasFicticiasByEmpresaPeriodo"
+                cmd.Parameters.AddWithValue("@EMPRESA", EmpresaID)
+                cmd.Parameters.AddWithValue("@PERIODO", periodo)
+
+                cmd.CommandType = Data.CommandType.StoredProcedure
+                cmd.CommandTimeout = 3000
+
+                da.SelectCommand = cmd
+
+                da.Fill(DS)
+
+
+                If Not DS Is Nothing Then
+                    If DS.Tables.Count > 0 Then
+                        ' Posee rumas pendientes de lotizar
+                        If DS.Tables(0).Rows.Count > 0 Then
+                            validacion = True
+                        End If
+                    End If
+                End If
+
+            Catch ex As Exception
+                Throw ex
+            End Try
+            Return validacion
+        End Function
+
         '@01    AFIN
 
 		'<AutoComplete()> _

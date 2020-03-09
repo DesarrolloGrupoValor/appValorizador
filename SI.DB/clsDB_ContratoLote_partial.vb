@@ -1290,6 +1290,33 @@ Namespace SI.DB
 
         End Function
 
+        Public Function LeerListaToDSRumasFicticias() As DataSet
+            Dim oDSContratoLote As New DataSet
+
+            Try
+
+
+                Dim cnx As New SqlConnection(CadenaConexion)
+                Dim cmd As New SqlCommand()
+                Dim da As New SqlDataAdapter()
+
+                cmd.Connection = cnx
+                cmd.CommandText = "PA_VENTAS_RUMAS_FICTICIAS"
+                cmd.CommandType = Data.CommandType.StoredProcedure
+                cmd.CommandTimeout = 3000
+
+                da.SelectCommand = cmd
+
+                da.Fill(oDSContratoLote)
+
+
+            Catch ex As Exception
+                Throw ex
+
+            End Try
+            Return oDSContratoLote
+
+        End Function
 
         Public Function LeerListaToDSDocumentosVenta() As DataSet
             Dim oDSContratoLote As New DataSet

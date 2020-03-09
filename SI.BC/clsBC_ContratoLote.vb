@@ -291,6 +291,15 @@ Namespace SI.BC
             End Try
         End Function
 
+        Public Function LeerListaToDSRumasFicticias() As DataSet
+            Try
+                oDSContratoLote = oDBContratoLoteRO.LeerListaToDSRumasFicticias()
+                Return oDSContratoLote
+            Catch ex As Exception
+                Throw ex
+            End Try
+        End Function
+
         Public Function LeerListaToDSDocumentosVenta() As DataSet
             Try
                 oDSContratoLote = oDBContratoLoteRO.LeerListaToDSDocumentosVenta()

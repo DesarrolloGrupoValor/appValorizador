@@ -431,3 +431,4 @@ D:\GITHUB\appValorizador\SI.UI\obj\x86\Release\VCM.exe.licenses
 D:\GITHUB\appValorizador\SI.UI\obj\x86\Release\VCM.exe
 D:\GITHUB\appValorizador\SI.UI\obj\x86\Release\VCM.xml
 D:\GITHUB\appValorizador\SI.UI\obj\x86\Release\VCM.pdb
+E:\SISTEMAS\GITHUB\appValorizador\SI.UI\obj\x86\Release\frmRumasFicticias.resources

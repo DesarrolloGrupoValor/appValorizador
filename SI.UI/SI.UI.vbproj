@@ -489,6 +489,12 @@
     <Compile Include="Reportes\Contable_Kardex.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Reportes\frmRumasFicticias.Designer.vb">
+      <DependentUpon>frmRumasFicticias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmRumasFicticias.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Reportes\ReporteReparticionUtilidad.Designer.vb">
       <DependentUpon>ReporteReparticionUtilidad.vb</DependentUpon>
     </Compile>
@@ -811,6 +817,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Contable_Kardex.resx">
       <DependentUpon>Contable_Kardex.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmRumasFicticias.resx">
+      <DependentUpon>frmRumasFicticias.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\ReporteReparticionUtilidad.resx">
       <DependentUpon>ReporteReparticionUtilidad.vb</DependentUpon>

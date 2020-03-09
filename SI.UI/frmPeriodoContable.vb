@@ -80,6 +80,15 @@
 
         Dim oBC_PeriodoRO As New SI.BC.clsBC_PeriodoTX
 
+        ' Validacion, no se puede cerrar un periodo que contenga rumas Ficticias en Lotes de Ventas
+        If chkEstadoPeriodo.Checked And
+            oBC_PeriodoRO.ValidarRumasFicticias(cboEmpresa.SelectedValue.ToString, cboPeriodo.SelectedValue.ToString) Then
+            MsgBox("No puede cerrar el periodo dado que contiene rumas ficticias en Lotes de Ventas.", MsgBoxStyle.Information, "Valorizador Comercial de Minerales")
+            chkEstadoPeriodo.Checked = False
+            Exit Sub
+        End If
+
+
         ' Validacion, no se puede cerrar un periodo que contenga rumas pendientes de lotizar
         If chkEstadoPeriodo.Checked And
             oBC_PeriodoRO.ValidarRumasPendientesLotizar(cboEmpresa.SelectedValue.ToString, cboPeriodo.SelectedValue.ToString) Then

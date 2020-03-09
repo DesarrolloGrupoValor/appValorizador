@@ -510,6 +510,11 @@ Public Class MDIParent
         ofrmRumasPendientes.MdiParent = Me
         ofrmRumasPendientes.Show()
     End Sub
+    Private Sub VentasconRumasFiciticiasItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RumasPendientesDeLotizarToolStripMenuItem.Click
+        Dim ofrmRumasPendientes As New frmRumasPendientes
+        ofrmRumasPendientes.MdiParent = Me
+        ofrmRumasPendientes.Show()
+    End Sub
 
     Private Sub tsmExecObjetsSQL_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles tsmExecObjetsSQL.Click
         Dim ofrmExecObjectsSQL As New frmExecObjectsSQL
@@ -695,5 +700,11 @@ Public Class MDIParent
         Dim frm As New Consulta_Liquidaciones
         frm.MdiParent = Me
         frm.Show()
+    End Sub
+
+    Private Sub ToolStripMenuItem1_Click_1(sender As System.Object, e As System.EventArgs) Handles ToolStripMenuItem1.Click
+        Dim ofrmRumasFicticias As New frmRumasFicticias
+        ofrmRumasFicticias.MdiParent = Me
+        ofrmRumasFicticias.Show()
     End Sub
 End Class

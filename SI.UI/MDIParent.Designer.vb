@@ -106,12 +106,15 @@ Partial Class MDIParent
         Me.ToolStripSeparator3 = New System.Windows.Forms.ToolStripSeparator()
         Me.tsmiExtDeBD = New System.Windows.Forms.ToolStripMenuItem()
         Me.tsmiKardex = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripSeparator16 = New System.Windows.Forms.ToolStripSeparator()
+        Me.LiquidacionesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.tsbControlesInternos = New System.Windows.Forms.ToolStripSplitButton()
         Me.tsmLotesValorizadosLog = New System.Windows.Forms.ToolStripMenuItem()
         Me.tsbLotesValorizadosConVariaciónToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripSeparator8 = New System.Windows.Forms.ToolStripSeparator()
         Me.tsmGestiónComercial = New System.Windows.Forms.ToolStripMenuItem()
         Me.RumasPendientesDeLotizarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.GeneraciónQPsToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.tsmPrecioDiario = New System.Windows.Forms.ToolStripMenuItem()
         Me.tsmDocumentosDeVenta = New System.Windows.Forms.ToolStripMenuItem()
@@ -119,8 +122,6 @@ Partial Class MDIParent
         Me.tsmExecObjetsSQL = New System.Windows.Forms.ToolStripMenuItem()
         Me.tsbConfiguracion = New System.Windows.Forms.ToolStripButton()
         Me.tsbSalir = New System.Windows.Forms.ToolStripButton()
-        Me.ToolStripSeparator16 = New System.Windows.Forms.ToolStripSeparator()
-        Me.LiquidacionesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip.SuspendLayout()
         Me.StatusStrip.SuspendLayout()
         Me.ToolStrip1.SuspendLayout()
@@ -459,21 +460,21 @@ Partial Class MDIParent
         '
         Me.tsmiResultado.Image = CType(resources.GetObject("tsmiResultado.Image"), System.Drawing.Image)
         Me.tsmiResultado.Name = "tsmiResultado"
-        Me.tsmiResultado.Size = New System.Drawing.Size(251, 38)
+        Me.tsmiResultado.Size = New System.Drawing.Size(235, 22)
         Me.tsmiResultado.Text = "Resumen Resultado Comercial"
         '
         'ComposicionComercialToolStripMenuItem
         '
         Me.ComposicionComercialToolStripMenuItem.Image = CType(resources.GetObject("ComposicionComercialToolStripMenuItem.Image"), System.Drawing.Image)
         Me.ComposicionComercialToolStripMenuItem.Name = "ComposicionComercialToolStripMenuItem"
-        Me.ComposicionComercialToolStripMenuItem.Size = New System.Drawing.Size(251, 38)
+        Me.ComposicionComercialToolStripMenuItem.Size = New System.Drawing.Size(235, 22)
         Me.ComposicionComercialToolStripMenuItem.Text = "Composicion Comercial"
         '
         'ComposicionContableToolStripMenuItem
         '
         Me.ComposicionContableToolStripMenuItem.Image = CType(resources.GetObject("ComposicionContableToolStripMenuItem.Image"), System.Drawing.Image)
         Me.ComposicionContableToolStripMenuItem.Name = "ComposicionContableToolStripMenuItem"
-        Me.ComposicionContableToolStripMenuItem.Size = New System.Drawing.Size(251, 38)
+        Me.ComposicionContableToolStripMenuItem.Size = New System.Drawing.Size(235, 22)
         Me.ComposicionContableToolStripMenuItem.Text = "Composicion Contable"
         Me.ComposicionContableToolStripMenuItem.Visible = False
         '
@@ -481,35 +482,35 @@ Partial Class MDIParent
         '
         Me.ComposicionMezclaToolStripMenuItem.Image = CType(resources.GetObject("ComposicionMezclaToolStripMenuItem.Image"), System.Drawing.Image)
         Me.ComposicionMezclaToolStripMenuItem.Name = "ComposicionMezclaToolStripMenuItem"
-        Me.ComposicionMezclaToolStripMenuItem.Size = New System.Drawing.Size(251, 38)
+        Me.ComposicionMezclaToolStripMenuItem.Size = New System.Drawing.Size(235, 22)
         Me.ComposicionMezclaToolStripMenuItem.Text = "Composicion Mezcla"
         '
         'IndicadoresToolStripMenuItem
         '
         Me.IndicadoresToolStripMenuItem.Image = Global.My.Resources.Resources.reportes
         Me.IndicadoresToolStripMenuItem.Name = "IndicadoresToolStripMenuItem"
-        Me.IndicadoresToolStripMenuItem.Size = New System.Drawing.Size(251, 38)
+        Me.IndicadoresToolStripMenuItem.Size = New System.Drawing.Size(235, 22)
         Me.IndicadoresToolStripMenuItem.Text = "Indicadores"
         '
         'ResumenIndicadoresToolStripMenuItem
         '
         Me.ResumenIndicadoresToolStripMenuItem.Image = Global.My.Resources.Resources.reportes
         Me.ResumenIndicadoresToolStripMenuItem.Name = "ResumenIndicadoresToolStripMenuItem"
-        Me.ResumenIndicadoresToolStripMenuItem.Size = New System.Drawing.Size(251, 38)
+        Me.ResumenIndicadoresToolStripMenuItem.Size = New System.Drawing.Size(235, 22)
         Me.ResumenIndicadoresToolStripMenuItem.Text = "Resumen Indicadores"
         '
         'CoberturasToolStripMenuItem
         '
         Me.CoberturasToolStripMenuItem.Image = Global.My.Resources.Resources.reportes
         Me.CoberturasToolStripMenuItem.Name = "CoberturasToolStripMenuItem"
-        Me.CoberturasToolStripMenuItem.Size = New System.Drawing.Size(251, 38)
+        Me.CoberturasToolStripMenuItem.Size = New System.Drawing.Size(235, 22)
         Me.CoberturasToolStripMenuItem.Text = "Coberturas"
         '
         'DesempeñoToolStripMenuItem
         '
         Me.DesempeñoToolStripMenuItem.Image = Global.My.Resources.Resources.reportes
         Me.DesempeñoToolStripMenuItem.Name = "DesempeñoToolStripMenuItem"
-        Me.DesempeñoToolStripMenuItem.Size = New System.Drawing.Size(251, 38)
+        Me.DesempeñoToolStripMenuItem.Size = New System.Drawing.Size(235, 22)
         Me.DesempeñoToolStripMenuItem.Text = "Desempeño"
         '
         'tsbReportesContables
@@ -525,94 +526,94 @@ Partial Class MDIParent
         '
         Me.CuadreTMH.Image = CType(resources.GetObject("CuadreTMH.Image"), System.Drawing.Image)
         Me.CuadreTMH.Name = "CuadreTMH"
-        Me.CuadreTMH.Size = New System.Drawing.Size(289, 38)
+        Me.CuadreTMH.Size = New System.Drawing.Size(273, 22)
         Me.CuadreTMH.Text = "Cuadre de TMH"
         '
         'movimiento
         '
         Me.movimiento.Image = CType(resources.GetObject("movimiento.Image"), System.Drawing.Image)
         Me.movimiento.Name = "movimiento"
-        Me.movimiento.Size = New System.Drawing.Size(289, 38)
+        Me.movimiento.Size = New System.Drawing.Size(273, 22)
         Me.movimiento.Text = "Movimiento del Mes"
         '
         'ToolStripSeparator15
         '
         Me.ToolStripSeparator15.Name = "ToolStripSeparator15"
-        Me.ToolStripSeparator15.Size = New System.Drawing.Size(286, 6)
+        Me.ToolStripSeparator15.Size = New System.Drawing.Size(270, 6)
         '
         'estimaciones
         '
         Me.estimaciones.Image = CType(resources.GetObject("estimaciones.Image"), System.Drawing.Image)
         Me.estimaciones.Name = "estimaciones"
-        Me.estimaciones.Size = New System.Drawing.Size(289, 38)
+        Me.estimaciones.Size = New System.Drawing.Size(273, 22)
         Me.estimaciones.Text = "Estimaciones identificados por lotes"
         '
         'vinculada
         '
         Me.vinculada.Image = CType(resources.GetObject("vinculada.Image"), System.Drawing.Image)
         Me.vinculada.Name = "vinculada"
-        Me.vinculada.Size = New System.Drawing.Size(289, 38)
+        Me.vinculada.Size = New System.Drawing.Size(273, 22)
         Me.vinculada.Text = "Resumen de ventas entre vinculadas"
         '
         'tsmKardexContable
         '
         Me.tsmKardexContable.Image = CType(resources.GetObject("tsmKardexContable.Image"), System.Drawing.Image)
         Me.tsmKardexContable.Name = "tsmKardexContable"
-        Me.tsmKardexContable.Size = New System.Drawing.Size(289, 38)
+        Me.tsmKardexContable.Size = New System.Drawing.Size(273, 22)
         Me.tsmKardexContable.Text = "Kardex contable valorizado"
         '
         'tsmHistorialVentaVinculada
         '
         Me.tsmHistorialVentaVinculada.Image = Global.My.Resources.Resources.reportes
         Me.tsmHistorialVentaVinculada.Name = "tsmHistorialVentaVinculada"
-        Me.tsmHistorialVentaVinculada.Size = New System.Drawing.Size(289, 38)
+        Me.tsmHistorialVentaVinculada.Size = New System.Drawing.Size(273, 22)
         Me.tsmHistorialVentaVinculada.Text = "Historial Venta - Vinculada"
         '
         'DetalleDeLiquidacionesPorLotesToolStripMenuItem
         '
         Me.DetalleDeLiquidacionesPorLotesToolStripMenuItem.Image = Global.My.Resources.Resources.reportes
         Me.DetalleDeLiquidacionesPorLotesToolStripMenuItem.Name = "DetalleDeLiquidacionesPorLotesToolStripMenuItem"
-        Me.DetalleDeLiquidacionesPorLotesToolStripMenuItem.Size = New System.Drawing.Size(289, 38)
+        Me.DetalleDeLiquidacionesPorLotesToolStripMenuItem.Size = New System.Drawing.Size(273, 22)
         Me.DetalleDeLiquidacionesPorLotesToolStripMenuItem.Text = "Detalle de Liquidaciones por Lotes"
         '
         'ToolStripSeparator14
         '
         Me.ToolStripSeparator14.Name = "ToolStripSeparator14"
-        Me.ToolStripSeparator14.Size = New System.Drawing.Size(286, 6)
+        Me.ToolStripSeparator14.Size = New System.Drawing.Size(270, 6)
         '
         'ResumenDeVentasToolStripMenuItem
         '
         Me.ResumenDeVentasToolStripMenuItem.Image = Global.My.Resources.Resources.reportes
         Me.ResumenDeVentasToolStripMenuItem.Name = "ResumenDeVentasToolStripMenuItem"
-        Me.ResumenDeVentasToolStripMenuItem.Size = New System.Drawing.Size(289, 38)
+        Me.ResumenDeVentasToolStripMenuItem.Size = New System.Drawing.Size(273, 22)
         Me.ResumenDeVentasToolStripMenuItem.Text = "Resumen de Ventas"
         '
         'tsmEstadisticasVenta
         '
         Me.tsmEstadisticasVenta.Image = Global.My.Resources.Resources.reportes
         Me.tsmEstadisticasVenta.Name = "tsmEstadisticasVenta"
-        Me.tsmEstadisticasVenta.Size = New System.Drawing.Size(289, 38)
+        Me.tsmEstadisticasVenta.Size = New System.Drawing.Size(273, 22)
         Me.tsmEstadisticasVenta.Text = "Estadística Ventas"
         '
         'tsmEntregasPorProveedorToolStripMenuItem
         '
         Me.tsmEntregasPorProveedorToolStripMenuItem.Image = Global.My.Resources.Resources.reportes
         Me.tsmEntregasPorProveedorToolStripMenuItem.Name = "tsmEntregasPorProveedorToolStripMenuItem"
-        Me.tsmEntregasPorProveedorToolStripMenuItem.Size = New System.Drawing.Size(289, 38)
+        Me.tsmEntregasPorProveedorToolStripMenuItem.Size = New System.Drawing.Size(273, 22)
         Me.tsmEntregasPorProveedorToolStripMenuItem.Text = "Entregas por Proveedor"
         '
         'tsmLotesComprasConAsignaciónVentasToolStripMenuItem
         '
         Me.tsmLotesComprasConAsignaciónVentasToolStripMenuItem.Image = Global.My.Resources.Resources.reportes
         Me.tsmLotesComprasConAsignaciónVentasToolStripMenuItem.Name = "tsmLotesComprasConAsignaciónVentasToolStripMenuItem"
-        Me.tsmLotesComprasConAsignaciónVentasToolStripMenuItem.Size = New System.Drawing.Size(289, 38)
+        Me.tsmLotesComprasConAsignaciónVentasToolStripMenuItem.Size = New System.Drawing.Size(273, 22)
         Me.tsmLotesComprasConAsignaciónVentasToolStripMenuItem.Text = "Lotes Compras con asignación Ventas"
         '
         'tsmRepaticionRentabilidad
         '
         Me.tsmRepaticionRentabilidad.Image = Global.My.Resources.Resources.reportes
         Me.tsmRepaticionRentabilidad.Name = "tsmRepaticionRentabilidad"
-        Me.tsmRepaticionRentabilidad.Size = New System.Drawing.Size(289, 38)
+        Me.tsmRepaticionRentabilidad.Size = New System.Drawing.Size(273, 22)
         Me.tsmRepaticionRentabilidad.Text = "Distribución Utilidad"
         '
         'tsbExtraccion
@@ -628,45 +629,57 @@ Partial Class MDIParent
         '
         Me.tsExtraccionVCMCompras.Image = Global.My.Resources.Resources.reportes
         Me.tsExtraccionVCMCompras.Name = "tsExtraccionVCMCompras"
-        Me.tsExtraccionVCMCompras.Size = New System.Drawing.Size(236, 38)
+        Me.tsExtraccionVCMCompras.Size = New System.Drawing.Size(220, 22)
         Me.tsExtraccionVCMCompras.Text = "Extracción VCM - Compra"
         '
         'tsExtraccionVCMVenta
         '
         Me.tsExtraccionVCMVenta.Image = Global.My.Resources.Resources.reportes
         Me.tsExtraccionVCMVenta.Name = "tsExtraccionVCMVenta"
-        Me.tsExtraccionVCMVenta.Size = New System.Drawing.Size(236, 38)
+        Me.tsExtraccionVCMVenta.Size = New System.Drawing.Size(220, 22)
         Me.tsExtraccionVCMVenta.Text = "Extracción VCM - Venta"
         '
         'tsExtraccionVCMDespacho
         '
         Me.tsExtraccionVCMDespacho.Image = Global.My.Resources.Resources.reportes
         Me.tsExtraccionVCMDespacho.Name = "tsExtraccionVCMDespacho"
-        Me.tsExtraccionVCMDespacho.Size = New System.Drawing.Size(236, 38)
+        Me.tsExtraccionVCMDespacho.Size = New System.Drawing.Size(220, 22)
         Me.tsExtraccionVCMDespacho.Text = "Extracción VCM - Despacho"
         '
         'ToolStripSeparator3
         '
         Me.ToolStripSeparator3.Name = "ToolStripSeparator3"
-        Me.ToolStripSeparator3.Size = New System.Drawing.Size(233, 6)
+        Me.ToolStripSeparator3.Size = New System.Drawing.Size(217, 6)
         '
         'tsmiExtDeBD
         '
         Me.tsmiExtDeBD.Image = CType(resources.GetObject("tsmiExtDeBD.Image"), System.Drawing.Image)
         Me.tsmiExtDeBD.Name = "tsmiExtDeBD"
-        Me.tsmiExtDeBD.Size = New System.Drawing.Size(236, 38)
+        Me.tsmiExtDeBD.Size = New System.Drawing.Size(220, 22)
         Me.tsmiExtDeBD.Text = "Extracción BD"
         '
         'tsmiKardex
         '
         Me.tsmiKardex.Image = CType(resources.GetObject("tsmiKardex.Image"), System.Drawing.Image)
         Me.tsmiKardex.Name = "tsmiKardex"
-        Me.tsmiKardex.Size = New System.Drawing.Size(236, 38)
+        Me.tsmiKardex.Size = New System.Drawing.Size(220, 22)
         Me.tsmiKardex.Text = "Kardex"
+        '
+        'ToolStripSeparator16
+        '
+        Me.ToolStripSeparator16.Name = "ToolStripSeparator16"
+        Me.ToolStripSeparator16.Size = New System.Drawing.Size(217, 6)
+        '
+        'LiquidacionesToolStripMenuItem
+        '
+        Me.LiquidacionesToolStripMenuItem.Image = Global.My.Resources.Resources.reportes
+        Me.LiquidacionesToolStripMenuItem.Name = "LiquidacionesToolStripMenuItem"
+        Me.LiquidacionesToolStripMenuItem.Size = New System.Drawing.Size(220, 22)
+        Me.LiquidacionesToolStripMenuItem.Text = "Liquidaciones"
         '
         'tsbControlesInternos
         '
-        Me.tsbControlesInternos.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.tsmLotesValorizadosLog, Me.tsbLotesValorizadosConVariaciónToolStripMenuItem, Me.ToolStripSeparator8, Me.tsmGestiónComercial, Me.RumasPendientesDeLotizarToolStripMenuItem, Me.GeneraciónQPsToolStripMenuItem, Me.tsmPrecioDiario, Me.tsmDocumentosDeVenta, Me.ToolStripSeparator12, Me.tsmExecObjetsSQL})
+        Me.tsbControlesInternos.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.tsmLotesValorizadosLog, Me.tsbLotesValorizadosConVariaciónToolStripMenuItem, Me.ToolStripSeparator8, Me.tsmGestiónComercial, Me.RumasPendientesDeLotizarToolStripMenuItem, Me.ToolStripMenuItem1, Me.GeneraciónQPsToolStripMenuItem, Me.tsmPrecioDiario, Me.tsmDocumentosDeVenta, Me.ToolStripSeparator12, Me.tsmExecObjetsSQL})
         Me.tsbControlesInternos.Image = Global.My.Resources.Resources.reportes
         Me.tsbControlesInternos.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.tsbControlesInternos.Name = "tsbControlesInternos"
@@ -677,7 +690,7 @@ Partial Class MDIParent
         '
         Me.tsmLotesValorizadosLog.Image = Global.My.Resources.Resources.liquidacion
         Me.tsmLotesValorizadosLog.Name = "tsmLotesValorizadosLog"
-        Me.tsmLotesValorizadosLog.Size = New System.Drawing.Size(238, 22)
+        Me.tsmLotesValorizadosLog.Size = New System.Drawing.Size(254, 38)
         Me.tsmLotesValorizadosLog.Text = "Lotes Valorizados Log"
         Me.tsmLotesValorizadosLog.Visible = False
         '
@@ -685,59 +698,66 @@ Partial Class MDIParent
         '
         Me.tsbLotesValorizadosConVariaciónToolStripMenuItem.Image = Global.My.Resources.Resources.reportes
         Me.tsbLotesValorizadosConVariaciónToolStripMenuItem.Name = "tsbLotesValorizadosConVariaciónToolStripMenuItem"
-        Me.tsbLotesValorizadosConVariaciónToolStripMenuItem.Size = New System.Drawing.Size(238, 22)
+        Me.tsbLotesValorizadosConVariaciónToolStripMenuItem.Size = New System.Drawing.Size(254, 38)
         Me.tsbLotesValorizadosConVariaciónToolStripMenuItem.Text = "Lotes Valorizados con Variación"
         '
         'ToolStripSeparator8
         '
         Me.ToolStripSeparator8.Name = "ToolStripSeparator8"
-        Me.ToolStripSeparator8.Size = New System.Drawing.Size(235, 6)
+        Me.ToolStripSeparator8.Size = New System.Drawing.Size(251, 6)
         '
         'tsmGestiónComercial
         '
         Me.tsmGestiónComercial.Image = Global.My.Resources.Resources.reportes
         Me.tsmGestiónComercial.Name = "tsmGestiónComercial"
-        Me.tsmGestiónComercial.Size = New System.Drawing.Size(238, 22)
+        Me.tsmGestiónComercial.Size = New System.Drawing.Size(254, 38)
         Me.tsmGestiónComercial.Text = "Gestión Comercial"
         '
         'RumasPendientesDeLotizarToolStripMenuItem
         '
         Me.RumasPendientesDeLotizarToolStripMenuItem.Image = Global.My.Resources.Resources.reportes
         Me.RumasPendientesDeLotizarToolStripMenuItem.Name = "RumasPendientesDeLotizarToolStripMenuItem"
-        Me.RumasPendientesDeLotizarToolStripMenuItem.Size = New System.Drawing.Size(238, 22)
+        Me.RumasPendientesDeLotizarToolStripMenuItem.Size = New System.Drawing.Size(254, 38)
         Me.RumasPendientesDeLotizarToolStripMenuItem.Text = "Rumas Pendientes de Lotizar"
+        '
+        'ToolStripMenuItem1
+        '
+        Me.ToolStripMenuItem1.Image = Global.My.Resources.Resources.reportes
+        Me.ToolStripMenuItem1.Name = "ToolStripMenuItem1"
+        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(254, 38)
+        Me.ToolStripMenuItem1.Text = "Ventas con Rumas Ficticias"
         '
         'GeneraciónQPsToolStripMenuItem
         '
         Me.GeneraciónQPsToolStripMenuItem.Image = Global.My.Resources.Resources.reportes
         Me.GeneraciónQPsToolStripMenuItem.Name = "GeneraciónQPsToolStripMenuItem"
-        Me.GeneraciónQPsToolStripMenuItem.Size = New System.Drawing.Size(238, 22)
+        Me.GeneraciónQPsToolStripMenuItem.Size = New System.Drawing.Size(254, 38)
         Me.GeneraciónQPsToolStripMenuItem.Text = "Generación QPs"
         '
         'tsmPrecioDiario
         '
         Me.tsmPrecioDiario.Image = Global.My.Resources.Resources.reportes
         Me.tsmPrecioDiario.Name = "tsmPrecioDiario"
-        Me.tsmPrecioDiario.Size = New System.Drawing.Size(238, 22)
+        Me.tsmPrecioDiario.Size = New System.Drawing.Size(254, 38)
         Me.tsmPrecioDiario.Text = "Precios Diarios"
         '
         'tsmDocumentosDeVenta
         '
         Me.tsmDocumentosDeVenta.Image = Global.My.Resources.Resources.reportes
         Me.tsmDocumentosDeVenta.Name = "tsmDocumentosDeVenta"
-        Me.tsmDocumentosDeVenta.Size = New System.Drawing.Size(238, 22)
+        Me.tsmDocumentosDeVenta.Size = New System.Drawing.Size(254, 38)
         Me.tsmDocumentosDeVenta.Text = "Documentos de Venta"
         '
         'ToolStripSeparator12
         '
         Me.ToolStripSeparator12.Name = "ToolStripSeparator12"
-        Me.ToolStripSeparator12.Size = New System.Drawing.Size(235, 6)
+        Me.ToolStripSeparator12.Size = New System.Drawing.Size(251, 6)
         '
         'tsmExecObjetsSQL
         '
         Me.tsmExecObjetsSQL.Image = Global.My.Resources.Resources.reportes
         Me.tsmExecObjetsSQL.Name = "tsmExecObjetsSQL"
-        Me.tsmExecObjetsSQL.Size = New System.Drawing.Size(238, 22)
+        Me.tsmExecObjetsSQL.Size = New System.Drawing.Size(254, 38)
         Me.tsmExecObjetsSQL.Text = "Ejecutar Objetos SQL"
         '
         'tsbConfiguracion
@@ -755,18 +775,6 @@ Partial Class MDIParent
         Me.tsbSalir.Name = "tsbSalir"
         Me.tsbSalir.Size = New System.Drawing.Size(65, 36)
         Me.tsbSalir.Text = "Salir"
-        '
-        'ToolStripSeparator16
-        '
-        Me.ToolStripSeparator16.Name = "ToolStripSeparator16"
-        Me.ToolStripSeparator16.Size = New System.Drawing.Size(233, 6)
-        '
-        'LiquidacionesToolStripMenuItem
-        '
-        Me.LiquidacionesToolStripMenuItem.Image = Global.My.Resources.Resources.reportes
-        Me.LiquidacionesToolStripMenuItem.Name = "LiquidacionesToolStripMenuItem"
-        Me.LiquidacionesToolStripMenuItem.Size = New System.Drawing.Size(236, 38)
-        Me.LiquidacionesToolStripMenuItem.Text = "Liquidaciones"
         '
         'MDIParent
         '
@@ -889,5 +897,6 @@ Partial Class MDIParent
     Friend WithEvents tsmRepaticionRentabilidad As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ToolStripSeparator16 As System.Windows.Forms.ToolStripSeparator
     Friend WithEvents LiquidacionesToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents ToolStripMenuItem1 As System.Windows.Forms.ToolStripMenuItem
 
 End Class
