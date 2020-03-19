@@ -3147,6 +3147,7 @@ Public Class editlote
                 End If
             Next
             'dPorcentajeDetraccion = (dblTotal - oContratoLoteRO.oBEContratoLote.adelanto) * (dPorcentajeDetraccion / 100)
+
             dPorcentajeDetraccion = (dblTotal - dAdelantos) * (dPorcentajeDetraccion / 100)
 
 
@@ -3154,9 +3155,9 @@ Public Class editlote
                 dPorcentajeDetraccion = oContratoLoteRO.oBEContratoLote.detraccion
             End If
 
-            If pblnCopia Then
+            If pblnCopia Or cboCategoria.SelectedValue = "0000000002" Then  ' Si es Exportacion no tiene detraccion
                 'txtNetoAPagar.Text = "0.00"
-                dPorcentajeDetraccion = 0
+                dPorcentajeDetraccion = 0.0
             End If
 
             'KMN 05/03/2013
