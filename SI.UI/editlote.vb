@@ -2211,6 +2211,7 @@ Public Class editlote
             '@05    AINI
             If cboTipo.SelectedValue = "B" Or cboTipo.SelectedValue = "S" Or cboTipo.SelectedValue = "V" Then
                 Dim periodoNuevo As String = dtPeriodo.Value.Year.ToString & Microsoft.VisualBasic.Right("0" & dtPeriodo.Value.Month.ToString, 2)
+                Dim msg As String = ""
 
                 Dim p As New clsBC_PeriodoRO
                 If Not periodoNuevo = oLiquidacionRO.oBELiquidacion.periodo Then
@@ -2239,6 +2240,16 @@ Public Class editlote
                     End If
 
                 End If
+
+                ' Valida que periodo de Blend no sea mayor a Venta
+                If p.ValidaPeriodoMezcla(txtCorrelativo.Text, cboTipo.SelectedValue, periodoNuevo) Then
+                    If cboTipo.SelectedValue = "B" Then msg = "El periodo del Blend no puede ser mayor al periodo del Lote de Venta Asociado"
+                    If cboTipo.SelectedValue = "S" Then msg = "El periodo de Venta no puede ser menor al periodo de Lote Blend Asociado"
+                    MsgBox(msg, MsgBoxStyle.Exclamation, "Valorizador de Minerales")
+                    Exit Sub
+                End If
+
+
             End If
             '@05    AFIN
 

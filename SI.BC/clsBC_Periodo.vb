@@ -220,6 +220,10 @@ Namespace SI.BC
         Public Function ValidaPeriodoCerrado(ByVal EmpresaID As String, ByVal periodo As String) As Boolean
             Return oDBPeriodoRO.ValidaPeriodoCerrado(EmpresaID, periodo)
         End Function
+
+        Public Function ValidaPeriodoMezcla(ByVal ContratoloteId As String, ByVal tipoMov As String, ByVal periodo As String) As Boolean
+            Return oDBPeriodoRO.ValidaPeriodoMezcla(ContratoloteId, tipoMov, periodo)
+        End Function
         '@01    AFIN
 
         '@02    AINI

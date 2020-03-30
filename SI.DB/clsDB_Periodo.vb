@@ -385,6 +385,29 @@ Namespace SI.DB
             End Try
             Return validacion
         End Function
+        Public Function ValidaPeriodoMezcla(ByVal ContratoloteID As String, ByVal tipoMov As String, ByVal periodo As String) As Boolean
+            Dim validacion As Boolean
+            Dim prmParameter(2) As SqlParameter
+            prmParameter(0) = New SqlParameter("@contratoloteID", SqlDbType.VarChar, 20)
+            prmParameter(0).Value = ContratoloteID
+            prmParameter(1) = New SqlParameter("@CODIGOMOV", SqlDbType.VarChar, 1)
+            prmParameter(1).Value = tipoMov
+            prmParameter(2) = New SqlParameter("@periodoNew", SqlDbType.VarChar, 6)
+            prmParameter(2).Value = periodo
+            Try
+                Using Reader As SqlDataReader = SqlHelper.ExecuteReader(CadenaConexion, CommandType.StoredProcedure, "up_ValidaPeriodoMezcla", prmParameter)
+                    If Reader.HasRows Then
+                        Reader.Read()
+                        validacion = IIf(CInt(Reader("ESTADO_PERIODO")) = 1, True, False)
+                    End If
+                End Using
+            Catch ex As Exception
+                Throw ex
+                validacion = False
+            End Try
+            Return validacion
+        End Function
+
         '@01    AFIN
 
         '@02    AINI
