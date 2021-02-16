@@ -18,7 +18,7 @@ Public Class frmRumasPendientes
     Private Sub frmRumasPendientes_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Me.WindowState = FormWindowState.Maximized
         ConfiguraForm(Me)
-        cargarGrilla()
+        ' cargarGrilla()
     End Sub
 
 
